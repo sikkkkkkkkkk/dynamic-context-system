@@ -1,0 +1,300 @@
+{
+  "updated_at": "2025-08-08T23:55:00Z",
+  "version": "1.0",
+  "modes": [
+    {
+      "mode": "sns",
+      "top_keywords": [
+        {
+          "keyword": "AI tutorial",
+          "score": 23.195
+        },
+        {
+          "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
+        }
+      ],
+      "meta_description": "SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
+      "headings": [
+        "# SNS Mode: Latest Trends",
+        "## 핵심 키워드",
+        "## 실행 전략",
+        "## FAQ"
+      ],
+      "faq": [
+        {
+          "q": "sns 모드에서 즉시 적용할 수 있는 3가지는?",
+          "a": "핵심 키워드 반영, 명확한 가치제안, 구체적인 CTA 설정입니다."
+        },
+        {
+          "q": "sns 모드에서 피해야 할 실수는?",
+          "a": "키워드 남용, 검증되지 않은 정보 인용, 과도한 형식적 요소 사용입니다."
+        }
+      ]
+    },
+    {
+      "mode": "sales",
+      "top_keywords": [
+        {
+          "keyword": "AI tutorial",
+          "score": 23.195
+        },
+        {
+          "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
+        }
+      ],
+      "meta_description": "SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
+      "headings": [
+        "# SALES Mode: Latest Trends",
+        "## 핵심 키워드",
+        "## 실행 전략",
+        "## FAQ"
+      ],
+      "faq": [
+        {
+          "q": "sales 모드에서 즉시 적용할 수 있는 3가지는?",
+          "a": "핵심 키워드 반영, 명확한 가치제안, 구체적인 CTA 설정입니다."
+        },
+        {
+          "q": "sales 모드에서 피해야 할 실수는?",
+          "a": "키워드 남용, 검증되지 않은 정보 인용, 과도한 형식적 요소 사용입니다."
+        }
+      ]
+    },
+    {
+      "mode": "blog",
+      "top_keywords": [
+        {
+          "keyword": "AI tutorial",
+          "score": 23.195
+        },
+        {
+          "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
+        }
+      ],
+      "meta_description": "BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
+      "headings": [
+        "# BLOG Mode: Latest Trends",
+        "## 핵심 키워드",
+        "## 실행 전략",
+        "## FAQ"
+      ],
+      "faq": [
+        {
+          "q": "blog 모드에서 즉시 적용할 수 있는 3가지는?",
+          "a": "핵심 키워드 반영, 명확한 가치제안, 구체적인 CTA 설정입니다."
+        },
+        {
+          "q": "blog 모드에서 피해야 할 실수는?",
+          "a": "키워드 남용, 검증되지 않은 정보 인용, 과도한 형식적 요소 사용입니다."
+        }
+      ]
+    },
+    {
+      "mode": "video",
+      "top_keywords": [
+        {
+          "keyword": "AI tutorial",
+          "score": 23.195
+        },
+        {
+          "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
+        }
+      ],
+      "meta_description": "VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
+      "headings": [
+        "# VIDEO Mode: Latest Trends",
+        "## 핵심 키워드",
+        "## 실행 전략",
+        "## FAQ"
+      ],
+      "faq": [
+        {
+          "q": "video 모드에서 즉시 적용할 수 있는 3가지는?",
+          "a": "핵심 키워드 반영, 명확한 가치제안, 구체적인 CTA 설정입니다."
+        },
+        {
+          "q": "video 모드에서 피해야 할 실수는?",
+          "a": "키워드 남용, 검증되지 않은 정보 인용, 과도한 형식적 요소 사용입니다."
+        }
+      ]
+    },
+    {
+      "mode": "ebook",
+      "top_keywords": [
+        {
+          "keyword": "AI tutorial",
+          "score": 20.17
+        },
+        {
+          "keyword": "SEO guide",
+          "score": 20.17
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 20.17
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.24
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.24
+        }
+      ],
+      "meta_description": "EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
+      "headings": [
+        "# EBOOK Mode: Latest Trends",
+        "## 핵심 키워드",
+        "## 실행 전략",
+        "## FAQ"
+      ],
+      "faq": [
+        {
+          "q": "ebook 모드에서 즉시 적용할 수 있는 3가지는?",
+          "a": "핵심 키워드 반영, 명확한 가치제안, 구체적인 CTA 설정입니다."
+        },
+        {
+          "q": "ebook 모드에서 피해야 할 실수는?",
+          "a": "키워드 남용, 검증되지 않은 정보 인용, 과도한 형식적 요소 사용입니다."
+        }
+      ]
+    },
+    {
+      "mode": "edu",
+      "top_keywords": [
+        {
+          "keyword": "AI tutorial",
+          "score": 20.17
+        },
+        {
+          "keyword": "SEO guide",
+          "score": 20.17
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 20.17
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.24
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.24
+        }
+      ],
+      "meta_description": "EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
+      "headings": [
+        "# EDU Mode: Latest Trends",
+        "## 핵심 키워드",
+        "## 실행 전략",
+        "## FAQ"
+      ],
+      "faq": [
+        {
+          "q": "edu 모드에서 즉시 적용할 수 있는 3가지는?",
+          "a": "핵심 키워드 반영, 명확한 가치제안, 구체적인 CTA 설정입니다."
+        },
+        {
+          "q": "edu 모드에서 피해야 할 실수는?",
+          "a": "키워드 남용, 검증되지 않은 정보 인용, 과도한 형식적 요소 사용입니다."
+        }
+      ]
+    },
+    {
+      "mode": "public",
+      "top_keywords": [
+        {
+          "keyword": "AI tutorial",
+          "score": 19.162
+        },
+        {
+          "keyword": "SEO guide",
+          "score": 19.162
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 19.162
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.028
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.028
+        }
+      ],
+      "meta_description": "PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
+      "headings": [
+        "# PUBLIC Mode: Latest Trends",
+        "## 핵심 키워드",
+        "## 실행 전략",
+        "## FAQ"
+      ],
+      "faq": [
+        {
+          "q": "public 모드에서 즉시 적용할 수 있는 3가지는?",
+          "a": "핵심 키워드 반영, 명확한 가치제안, 구체적인 CTA 설정입니다."
+        },
+        {
+          "q": "public 모드에서 피해야 할 실수는?",
+          "a": "키워드 남용, 검증되지 않은 정보 인용, 과도한 형식적 요소 사용입니다."
+        }
+      ]
+    }
+  ]
+}
