@@ -8,6 +8,8 @@ on:
 jobs:
   update-context:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,8 +31,8 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config --local user.email "context-bot@users.noreply.github.com"
-          git config --local user.name "Context Bot"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add context/latest.*
           if ! git diff --cached --quiet; then
             git commit -m "🤖 Update dynamic context $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
