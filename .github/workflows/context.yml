@@ -1,0 +1,40 @@
+name: Update Dynamic Context
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 매일 06:00 KST (UTC 21:00)
+    - cron: "0 4 * * *"    # 매일 13:00 KST (UTC 04:00)
+  workflow_dispatch:       # 수동 실행 가능
+
+jobs:
+  update-context:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          
+      - name: Install dependencies
+        run: |
+          pip install requests feedparser pytrends
+          
+      - name: Run context update script
+        run: python fetch_and_build_context.py
+        env:
+          X_BEARER: ${{ secrets.X_BEARER }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "context-bot@users.noreply.github.com"
+          git config --local user.name "Context Bot"
+          git add context/latest.*
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 Update dynamic context $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
