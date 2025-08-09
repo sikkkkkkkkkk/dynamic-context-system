@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-09T04:35:14Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-09T21:08:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20602.204)
+- **AI automation** (점수: 19808.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20602.204)
+- **AI automation** (점수: 19808.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20602.204)
+- **AI automation** (점수: 19808.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20602.204)
+- **AI automation** (점수: 19808.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17914.96)
+- **AI automation** (점수: 17224.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17914.96)
+- **AI automation** (점수: 17224.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17019.212)
+- **AI automation** (점수: 16363.712)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Dial-up Internet to be discontinued](https://help.aol.com/articles/dial-up-internet-to-be-discontinued)
-- [Little-known leguminous plant can increase beef production by 60% (2022)](https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60)
-- [How to safely escape JSON inside HTML SCRIPT elements](https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/)
-- [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
-- [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
-- [Efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
-- [Jim Lovell, Apollo 13 commander, has died](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
-- [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
-- [The surprise deprecation of GPT-4o for ChatGPT consumers](https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/)
-- [Open SWE: An open-source asynchronous coding agent](https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/)
+- [Physical Media Is Cool Again. Streaming Services Have Themselves to Blame](https://www.rollingstone.com/culture/culture-features/physical-media-collectors-trend-viral-streamers-1235387314/)
+- [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
+- [Debian 13 "Trixie"](https://www.debian.org/News/2025/20250809)
+- [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
+- [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
+- [Knuth on ChatGPT (2023)](https://cs.stanford.edu/~knuth/chatGPT20.txt)
+- [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
+- [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
+- [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
+- [End-User Programmable AI](https://queue.acm.org/detail.cfm?id=3746223)
 
-*마지막 업데이트: 2025-08-09T04:35:14Z*
+*마지막 업데이트: 2025-08-09T21:08:48Z*
