@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-10T04:46:31Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-10T21:08:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19551.564)
+- **AI automation** (점수: 19211.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19551.564)
+- **AI automation** (점수: 19211.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19551.564)
+- **AI automation** (점수: 19211.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19551.564)
+- **AI automation** (점수: 19211.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17001.36)
+- **AI automation** (점수: 16705.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17001.36)
+- **AI automation** (점수: 16705.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16151.292)
+- **AI automation** (점수: 15870.472)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Happy BuyNothing Day](https://justbuynothing.com/)
-- [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
-- [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
-- [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
-- [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
-- [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
-- [Debian 13 "Trixie"](https://www.debian.org/News/2025/20250809)
-- [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
-- [An AI-first program synthesis framework built around a new programming language](https://queue.acm.org/detail.cfm?id=3746223)
-- [ESP32 Bus Pirate 0.5 – A hardware hacking tool that speaks every protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
+- [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
+- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
+- [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
+- [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
+- [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
+- [Fight Chat Control](https://fightchatcontrol.eu/)
+- [Sunlight-activated material turns PFAS in water into harmless fluoride](https://phys.org/news/2025-08-sunlight-material-pfas-harmless-fluoride.html)
+- [Diffusion language models are super data learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
+- [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
+- [Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd](https://github.com/liquidmetal-dev/flintlock)
 
-*마지막 업데이트: 2025-08-10T04:46:31Z*
+*마지막 업데이트: 2025-08-10T21:08:54Z*
