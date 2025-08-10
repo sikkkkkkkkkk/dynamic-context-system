@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-09T21:08:48Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-10T04:46:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19808.704)
+- **AI automation** (점수: 19551.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19808.704)
+- **AI automation** (점수: 19551.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19808.704)
+- **AI automation** (점수: 19551.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19808.704)
+- **AI automation** (점수: 19551.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17224.96)
+- **AI automation** (점수: 17001.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17224.96)
+- **AI automation** (점수: 17001.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16363.712)
+- **AI automation** (점수: 16151.292)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Physical Media Is Cool Again. Streaming Services Have Themselves to Blame](https://www.rollingstone.com/culture/culture-features/physical-media-collectors-trend-viral-streamers-1235387314/)
+- [Happy BuyNothing Day](https://justbuynothing.com/)
+- [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
+- [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
+- [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
+- [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
 - [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
 - [Debian 13 "Trixie"](https://www.debian.org/News/2025/20250809)
-- [How AI is upending the software development industry](https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/)
 - [A CT scanner reveals surprises inside the 386 processor's ceramic package](https://www.righto.com/2025/08/intel-386-package-ct-scan.html)
-- [Knuth on ChatGPT (2023)](https://cs.stanford.edu/~knuth/chatGPT20.txt)
-- [Accessibility and the Agentic Web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
-- [The current state of LLM-driven development](http://blog.tolki.dev/posts/2025/08-07-llms/)
-- [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
-- [End-User Programmable AI](https://queue.acm.org/detail.cfm?id=3746223)
+- [An AI-first program synthesis framework built around a new programming language](https://queue.acm.org/detail.cfm?id=3746223)
+- [ESP32 Bus Pirate 0.5 – A hardware hacking tool that speaks every protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 
-*마지막 업데이트: 2025-08-09T21:08:48Z*
+*마지막 업데이트: 2025-08-10T04:46:31Z*
