@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-11T04:50:39Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-11T21:10:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19216.224)
+- **AI automation** (점수: 18608.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19216.224)
+- **AI automation** (점수: 18608.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19216.224)
+- **AI automation** (점수: 18608.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19216.224)
+- **AI automation** (점수: 18608.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16709.76)
+- **AI automation** (점수: 16181.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16709.76)
+- **AI automation** (점수: 16181.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15874.272)
+- **AI automation** (점수: 15372.292)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
-- [Optimizing My Sleep Around Claude Usage Limits](https://mattwie.se/no-sleep-till-agi)
-- [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
-- [TCP Client Self-Connect (2013)](http://sgros.blogspot.com/2013/08/tcp-client-self-connect.html)
-- [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
-- [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
-- [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
-- [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
-- [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
-- [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
+- [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
+- [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
+- [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
+- [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
+- [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
+- [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
+- [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
+- [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
+- [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
+- [UI vs. API. vs. UAI](https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai)
 
-*마지막 업데이트: 2025-08-11T04:50:39Z*
+*마지막 업데이트: 2025-08-11T21:10:23Z*
