@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-11T21:10:23Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-12T04:34:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18608.564)
+- **AI automation** (점수: 18267.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18608.564)
+- **AI automation** (점수: 18267.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18608.564)
+- **AI automation** (점수: 18267.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18608.564)
+- **AI automation** (점수: 18267.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16181.36)
+- **AI automation** (점수: 15884.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16181.36)
+- **AI automation** (점수: 15884.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15372.292)
+- **AI automation** (점수: 15090.712)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
+- [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
+- [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
+- [Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/)
+- [Show HN: Keeps – Mail a postcard that plays your voice](https://www.sendkeeps.com/)
+- [What does it mean to be thirsty?](https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/)
+- [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-- [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
 - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
-- [AP to end its weekly book reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
-- [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
 - [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
-- [The Value of Institutional Memory](https://timharford.com/2025/05/the-value-of-institutional-memory/)
-- [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
-- [The Joy of Mixing Custom Elements, Web Components, and Markdown](https://deanebarker.net/tech/blog/custom-elements-markdown/)
-- [UI vs. API. vs. UAI](https://www.joshbeckman.org/blog/practicing/ui-vs-api-vs-uai)
 
-*마지막 업데이트: 2025-08-11T21:10:23Z*
+*마지막 업데이트: 2025-08-12T04:34:29Z*
