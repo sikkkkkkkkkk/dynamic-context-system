@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-12T21:09:51Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-13T04:36:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17469.604)
+- **AI automation** (점수: 17396.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17469.604)
+- **AI automation** (점수: 17396.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17469.604)
+- **AI automation** (점수: 17396.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17469.604)
+- **AI automation** (점수: 17396.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15190.96)
+- **AI automation** (점수: 15126.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15190.96)
+- **AI automation** (점수: 15126.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14431.412)
+- **AI automation** (점수: 14370.612)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
-- [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
+- [Fennel Libraries as Single Files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
+- [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
+- [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
+- [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
+- [Search all text in New York City](https://www.alltext.nyc/)
+- [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
+- [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 - [Ashet Home Computer](https://ashet.computer/)
-- [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
-- [Let's get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
+- [The equality delete problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
 - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- [Claude vs. Gemini: Testing on 1M Tokens of Context](https://every.to/vibe-check/vibe-check-claude-sonnet-4-now-has-a-1-million-token-context-window)
-- [WHY2025: How to become your own ISP [video]](https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp)
-- [Writing is power transfer technology](https://danco.substack.com/p/im-joining-a16z)
-- [Show HN: Omnara – Run Claude Code from anywhere](https://github.com/omnara-ai/omnara)
 
-*마지막 업데이트: 2025-08-12T21:09:51Z*
+*마지막 업데이트: 2025-08-13T04:36:02Z*
