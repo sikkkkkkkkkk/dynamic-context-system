@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-14T04:36:09Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-14T21:09:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19359.744)
+- **AI automation** (점수: 21961.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19359.744)
+- **AI automation** (점수: 21961.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19359.744)
+- **AI automation** (점수: 21961.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19359.744)
+- **AI automation** (점수: 21961.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16834.56)
+- **AI automation** (점수: 19097.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16834.56)
+- **AI automation** (점수: 19097.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15992.832)
+- **AI automation** (점수: 18142.492)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Yet Another Memory System for LLM's](https://github.com/trvon/yams)
-- [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
-- [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
-- [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
-- [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
-- [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
-- [PYX: The next step in Python packaging](https://astral.sh/blog/introducing-pyx)
-- [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-- [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
-- [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
+- [Show HN: MCP Security Suite](https://github.com/NineSunsInc/mighty-security)
+- [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
+- [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
+- ["Privacy preserving age verification" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
+- [Axle (YC S22) is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
+- [Streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
+- [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
+- [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
+- [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
+- [I made a real-time C/C++/Rust build visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/)
 
-*마지막 업데이트: 2025-08-14T04:36:09Z*
+*마지막 업데이트: 2025-08-14T21:09:42Z*
