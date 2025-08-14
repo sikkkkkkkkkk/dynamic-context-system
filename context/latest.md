@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-13T21:09:32Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-14T04:36:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19169.304)
+- **AI automation** (점수: 19359.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19169.304)
+- **AI automation** (점수: 19359.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19169.304)
+- **AI automation** (점수: 19359.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19169.304)
+- **AI automation** (점수: 19359.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16668.96)
+- **AI automation** (점수: 16834.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16668.96)
+- **AI automation** (점수: 16834.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15835.512)
+- **AI automation** (점수: 15992.832)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Show HN: Yet Another Memory System for LLM's](https://github.com/trvon/yams)
+- [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
+- [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
+- [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
 - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
-- [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
-- [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
-- [Google Play Store Bans Wallets That Don't Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)
-- [PYX: The next step in Python packaging](https://astral.sh/pyx)
-- [29 years later, Settlers II gets Amiga release](https://gamingretro.co.uk/29-years-later-settlers-ii-finally-gets-amiga-release/)
+- [PYX: The next step in Python packaging](https://astral.sh/blog/introducing-pyx)
 - [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
-- [April Fools 2014: The *Real* Test Driven Development (2014)](https://testing.googleblog.com/2014/04/the-real-test-driven-development.html)
 - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
+- [Launch HN: Golpo (YC S25) – AI-generated explainer videos](https://video.golpoai.com/)
 
-*마지막 업데이트: 2025-08-13T21:09:32Z*
+*마지막 업데이트: 2025-08-14T04:36:09Z*
