@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-14T21:09:42Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-15T04:36:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 21961.964)
+- **AI automation** (점수: 22530.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 21961.964)
+- **AI automation** (점수: 22530.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 21961.964)
+- **AI automation** (점수: 22530.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 21961.964)
+- **AI automation** (점수: 22530.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 19097.36)
+- **AI automation** (점수: 19592.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 19097.36)
+- **AI automation** (점수: 19592.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 18142.492)
+- **AI automation** (점수: 18612.552)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
+- [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
+- [Where Are All the Tourists from 3025?](https://arxiv.org/abs/2508.09157)
+- [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
+- [DINOv3](https://github.com/facebookresearch/dinov3)
 - [Show HN: MCP Security Suite](https://github.com/NineSunsInc/mighty-security)
 - [Airbrush art of the 80s was Chrome-tastic (2015)](https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/)
 - [Steve Wozniak: Life to me was never about accomplishment, but about happiness](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
-- ["Privacy preserving age verification" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
-- [Axle (YC S22) is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
 - [Streaming services are driving viewers back to piracy](https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy)
 - [Bluesky: Updated Terms and Policies](https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies)
-- [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
-- [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
-- [I made a real-time C/C++/Rust build visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/)
 
-*마지막 업데이트: 2025-08-14T21:09:42Z*
+*마지막 업데이트: 2025-08-15T04:36:21Z*
