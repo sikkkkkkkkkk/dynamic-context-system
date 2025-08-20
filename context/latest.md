@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-19T21:09:18Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-20T04:30:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 28108.484)
+- **AI automation** (점수: 28352.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 28108.484)
+- **AI automation** (점수: 28352.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 28108.484)
+- **AI automation** (점수: 28352.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 28108.484)
+- **AI automation** (점수: 28352.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 24442.16)
+- **AI automation** (점수: 24654.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 24442.16)
+- **AI automation** (점수: 24654.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 23220.052)
+- **AI automation** (점수: 23421.452)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
-- [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
-- [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
-- [Medical cannabis patient data exposed by unsecured database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
-- [Notion releases offline mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
-- [D2 (text to diagram tool) now supports ASCII renders](https://d2lang.com/blog/ascii/)
-- [Forklifts require training](https://www.zacsweers.dev/forklifts-require-training/)
-- [Why Semantic Layers Matter (and how to build one with DuckDB)](https://motherduck.com/blog/semantic-layer-duckdb-tutorial/)
-- [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
-- [CRLite: Certificate Revocation Checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
+- [Pre-Sputnik Earth-Orbit Glints](https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit)
+- [Monoid-Augmented FIFOs, Deamortised](https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/)
+- [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
+- [Skill issues – Dialectical Behavior Therapy and its discontents (2024)](https://www.thedriftmag.com/skill-issues/)
+- [Copilot broke audit logs, but Microsoft won't tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
+- [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
+- [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
+- [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
+- [How to Scale Your Model: How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/)
+- [Drunken Bishop (2023)](https://re.factorcode.org/2023/08/drunken-bishop.html)
 
-*마지막 업데이트: 2025-08-19T21:09:18Z*
+*마지막 업데이트: 2025-08-20T04:30:58Z*
