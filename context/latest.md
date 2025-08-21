@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-20T21:09:03Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-21T04:30:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26451.104)
+- **AI automation** (점수: 26024.684)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26451.104)
+- **AI automation** (점수: 26024.684)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26451.104)
+- **AI automation** (점수: 26024.684)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26451.104)
+- **AI automation** (점수: 26024.684)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23000.96)
+- **AI automation** (점수: 22630.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23000.96)
+- **AI automation** (점수: 22630.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 21850.912)
+- **AI automation** (점수: 21498.652)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Family Farm Wins Historic Case After Feds Violate Constitution and Ruin Business](https://www.agweb.com/news/business/family-farm-wins-historic-case-after-feds-violate-constitution-and-ruin-business)
+- [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
+- [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
+- [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
+- [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
+- [SimpleIDE](https://github.com/jamesplotts/simpleide)
+- [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
 - [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
-- [Show HN: PlutoPrint – Generate Beautiful PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
-- [Introduction to Bluesky's AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
-- [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
-- [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
-- [Show HN: Bizcardz.ai – Custom metal business cards](https://github.com/rhodey/bizcardz.ai)
-- [Show HN: Nestable.dev – local whiteboard app with nestable canvases, deep links](https://nestable.dev/about)
-- [Pixel 10 Phones](https://blog.google/products/pixel/google-pixel-10-pro-xl/)
-- [An Update on Pytype](https://github.com/google/pytype)
-- [Best Options for Using AI in Chip Design](https://semiengineering.com/best-options-for-using-ai-in-chip-design/)
+- [Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
+- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 
-*마지막 업데이트: 2025-08-20T21:09:03Z*
+*마지막 업데이트: 2025-08-21T04:30:47Z*
