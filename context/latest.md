@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-21T04:30:47Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-21T21:08:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26024.684)
+- **AI automation** (점수: 22937.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26024.684)
+- **AI automation** (점수: 22937.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26024.684)
+- **AI automation** (점수: 22937.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26024.684)
+- **AI automation** (점수: 22937.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 22630.16)
+- **AI automation** (점수: 19945.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 22630.16)
+- **AI automation** (점수: 19945.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 21498.652)
+- **AI automation** (점수: 18948.472)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Family Farm Wins Historic Case After Feds Violate Constitution and Ruin Business](https://www.agweb.com/news/business/family-farm-wins-historic-case-after-feds-violate-constitution-and-ruin-business)
-- [How to stop feeling lost in tech: the wafflehouse method](https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech)
-- [Creating 3D Worlds with HTML and CSS (2013)](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
-- [Advice for Tech Non-Profits](https://mitchellh.com/writing/advice-for-tech-nonprofits)
-- [A statistical analysis of Rotten Tomatoes](https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable)
-- [SimpleIDE](https://github.com/jamesplotts/simpleide)
-- [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
-- [Coris (YC S22) Is Hiring](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer)
-- [Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python](https://github.com/plutoprint/plutoprint)
-- [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
+- [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
+- [Administration will review all 55M visa holders for deportable violations](https://apnews.com/article/trump-visas-deportations-068ad6cd5724e7248577f17592327ca4)
+- [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
+- [A Decoder Ring for AI Job Titles](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
+- [In the long run, LLMs make us dumber](https://desunit.com/blog/in-the-long-run-llms-make-us-dumber/)
+- [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
+- [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
+- [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era)
+- [The unbearable slowness of AI coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
+- [The contrarian physics podcast subculture](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 
-*마지막 업데이트: 2025-08-21T04:30:47Z*
+*마지막 업데이트: 2025-08-21T21:08:53Z*
