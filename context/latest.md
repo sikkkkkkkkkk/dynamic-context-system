@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-22T04:29:35Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-22T21:08:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 22165.744)
+- **AI automation** (점수: 20783.444)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 22165.744)
+- **AI automation** (점수: 20783.444)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 22165.744)
+- **AI automation** (점수: 20783.444)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 22165.744)
+- **AI automation** (점수: 20783.444)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 19274.56)
+- **AI automation** (점수: 18072.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 19274.56)
+- **AI automation** (점수: 18072.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 18310.832)
+- **AI automation** (점수: 17168.932)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
-- [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
-- [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
-- [The Onion brought back its print edition and the gamble is paying off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
-- [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
-- [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
-- [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
-- [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
-- [The AI Job Title Decoder Ring](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
-- [DeepSeek-v3.1](https://api-docs.deepseek.com/news/news250821)
+- [Ejabberd 25.08 / ProcessOne – Erlang Jabber/XMPP/Matrix Server – Communication](https://www.process-one.net/blog/ejabberd-25-08/)
+- [Nitro: A tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
+- [Harper Evolves](https://elijahpotter.dev/articles/harper_evolves)
+- [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
+- [The First Media over QUIC CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
+- [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
+- [Sprinkling self-doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
+- [Leaving Gmail for Mailbox.org](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
+- [Waymo granted permit to begin testing in New York City](https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html)
+- [Launch HN: BlankBio (YC S25) - Making RNA Programmable](https://news.ycombinator.com/item?id=44986809)
 
-*마지막 업데이트: 2025-08-22T04:29:35Z*
+*마지막 업데이트: 2025-08-22T21:08:39Z*
