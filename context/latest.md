@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-21T21:08:53Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-22T04:29:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 22937.624)
+- **AI automation** (점수: 22165.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 22937.624)
+- **AI automation** (점수: 22165.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 22937.624)
+- **AI automation** (점수: 22165.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 22937.624)
+- **AI automation** (점수: 22165.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 19945.76)
+- **AI automation** (점수: 19274.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 19945.76)
+- **AI automation** (점수: 19274.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 18948.472)
+- **AI automation** (점수: 18310.832)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
+- [Google scores six-year Meta cloud deal worth over $10B](https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html)
+- [From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
+- [The Onion brought back its print edition and the gamble is paying off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
+- [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
+- [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 - [Uv format: Code Formatting Comes to uv (experimentally)](https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/)
-- [Administration will review all 55M visa holders for deportable violations](https://apnews.com/article/trump-visas-deportations-068ad6cd5724e7248577f17592327ca4)
 - [Crimes with Python's Pattern Matching (2022)](https://www.hillelwayne.com/post/python-abc/)
-- [A Decoder Ring for AI Job Titles](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
-- [In the long run, LLMs make us dumber](https://desunit.com/blog/in-the-long-run-llms-make-us-dumber/)
-- [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
-- [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
-- [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era)
-- [The unbearable slowness of AI coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
-- [The contrarian physics podcast subculture](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
+- [The AI Job Title Decoder Ring](https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html)
+- [DeepSeek-v3.1](https://api-docs.deepseek.com/news/news250821)
 
-*마지막 업데이트: 2025-08-21T21:08:53Z*
+*마지막 업데이트: 2025-08-22T04:29:35Z*
