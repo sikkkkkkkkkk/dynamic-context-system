@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-23T04:28:39Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-23T21:08:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 18958.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 18958.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 18958.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 18958.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17397.36)
+- **AI automation** (점수: 16485.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17397.36)
+- **AI automation** (점수: 16485.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16527.492)
+- **AI automation** (점수: 15661.092)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Developer gets 4 years for activating network "kill switch" to avenge his firing](https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/)
-- [Google says it dropped the energy cost of AI queries by 33x in one year](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
-- [Japan city drafts ordinance to cap smartphone use at 2 hours per day](https://english.kyodonews.net/articles/-/59582)
-- [My tips for using LLM agents to create software](https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html)
-- [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
-- [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
-- [Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion](https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end)
-- [Bluesky Goes Dark in Mississippi over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
-- [Transcribe music in abc with syntax highlighting](https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597)
-- [Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering](https://github.com/mbuhot/glyn)
+- [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
+- [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
+- [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
+- [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
+- [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
+- [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
+- [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
+- [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
+- [Determinants and causal effects of admission to selective private colleges [pdf]](https://www.nber.org/system/files/working_papers/w31492/w31492.pdf)
 
-*마지막 업데이트: 2025-08-23T04:28:39Z*
+*마지막 업데이트: 2025-08-23T21:08:14Z*
