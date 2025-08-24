@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-23T21:08:14Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-24T04:32:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18958.164)
+- **AI automation** (점수: 18404.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18958.164)
+- **AI automation** (점수: 18404.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18958.164)
+- **AI automation** (점수: 18404.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18958.164)
+- **AI automation** (점수: 18404.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16485.36)
+- **AI automation** (점수: 16004.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16485.36)
+- **AI automation** (점수: 16004.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15661.092)
+- **AI automation** (점수: 15203.952)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- [A 2k-year-old sun hat worn by a Roman soldier in Egypt](https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/)
-- [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
-- [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
-- [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
-- [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
-- [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
-- [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
-- [Librebox: An open source, Roblox-compatible game engine](https://github.com/librebox-devs/librebox-demo)
-- [Determinants and causal effects of admission to selective private colleges [pdf]](https://www.nber.org/system/files/working_papers/w31492/w31492.pdf)
+- [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
+- [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
+- [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
+- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+- [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
+- [AGI is an engineering problem, not a model training problem](https://www.vincirufus.com/posts/agi-is-engineering-problem/)
+- [Debdelta](https://debdelta.debian.net/)
+- [The cost of interrupted work (2023)](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
+- [Motion (YC W20) Is Hiring Principal Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
+- [Romhack.ing's Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
 
-*마지막 업데이트: 2025-08-23T21:08:14Z*
+*마지막 업데이트: 2025-08-24T04:32:02Z*
