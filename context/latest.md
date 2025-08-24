@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-24T04:32:02Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-24T21:08:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18404.784)
+- **AI automation** (점수: 17815.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18404.784)
+- **AI automation** (점수: 17815.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18404.784)
+- **AI automation** (점수: 17815.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18404.784)
+- **AI automation** (점수: 17815.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16004.16)
+- **AI automation** (점수: 15491.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16004.16)
+- **AI automation** (점수: 15491.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15203.952)
+- **AI automation** (점수: 14716.792)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
-- [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
-- [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
-- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
-- [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
-- [AGI is an engineering problem, not a model training problem](https://www.vincirufus.com/posts/agi-is-engineering-problem/)
-- [Debdelta](https://debdelta.debian.net/)
-- [The cost of interrupted work (2023)](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
-- [Motion (YC W20) Is Hiring Principal Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
-- [Romhack.ing's Internet Archive Mirror No Longer Available](https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw)
+- [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
+- [A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
+- [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
+- [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
+- [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
+- [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
+- [We put a coding agent in a while loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+- [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
+- [Making games in Go: 3 months without LLMs vs. 3 days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
 
-*마지막 업데이트: 2025-08-24T04:32:02Z*
+*마지막 업데이트: 2025-08-24T21:08:20Z*
