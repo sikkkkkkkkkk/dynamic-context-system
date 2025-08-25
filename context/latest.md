@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-24T21:08:20Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-25T04:33:17Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17815.064)
+- **AI automation** (점수: 17661.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17815.064)
+- **AI automation** (점수: 17661.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17815.064)
+- **AI automation** (점수: 17661.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17815.064)
+- **AI automation** (점수: 17661.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15491.36)
+- **AI automation** (점수: 15358.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15491.36)
+- **AI automation** (점수: 15358.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14716.792)
+- **AI automation** (점수: 14590.252)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Looking back at my transition from Windows to Linux in an anti-customer age](https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/)
-- [A Brilliant and Nearby One-Off Fast Radio Burst Localized to 13pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
-- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
-- [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
-- [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
-- [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
-- [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
-- [We put a coding agent in a while loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
-- [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
-- [Making games in Go: 3 months without LLMs vs. 3 days with LLMs](https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/)
+- [Show HN: Decentralized Bitcoin Incentives via QR Codes](https://github.com/DT7QR/Bitcoin-Rewards-System-Proposal)
+- [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
+- [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
+- [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
+- [Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
+- [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
+- [From Hackathon to YC](https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc)
+- [Halt and Catch Fire Syllabus (2021)](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+- [How many paths of length K are there between A and B? (2021)](https://horace.io/walks)
+- [A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision](https://iopscience.iop.org/article/10.3847/2041-8213/adf62f)
 
-*마지막 업데이트: 2025-08-24T21:08:20Z*
+*마지막 업데이트: 2025-08-25T04:33:17Z*
