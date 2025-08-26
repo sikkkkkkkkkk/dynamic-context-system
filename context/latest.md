@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-25T21:09:21Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-26T04:30:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17025.704)
+- **AI automation** (점수: 16797.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17025.704)
+- **AI automation** (점수: 16797.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17025.704)
+- **AI automation** (점수: 16797.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17025.704)
+- **AI automation** (점수: 16797.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14804.96)
+- **AI automation** (점수: 14606.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14804.96)
+- **AI automation** (점수: 14606.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14064.712)
+- **AI automation** (점수: 13876.232)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Llama Fund: Crowdfund AI Models](https://llama.fund)
-- [Google to require developer verification for Android apps outside the Play Store](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
-- [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
-- [How RubyGems.org protects OSS infrastructure](https://blog.rubygems.org/2025/08/25/rubygems-security-response.html)
-- [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
-- [IBM's Power11 Processor Architecture](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
-- [Temporary suspension of acceptance of mail to the United States](https://www.post.japanpost.jp/int/information/2025/0825_01_en.html)
-- [Show HN: Stagewise – frontend coding agent for real codebases](https://stagewise.io/)
-- [The MiniPC Revolution](https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/)
-- [FCC bars providers for non-compliance with robocall protections](https://docs.fcc.gov/public/attachments/DOC-414073A1.txt)
+- [US retail giants raise prices due to tariffs](https://english.elpais.com/economy-and-business/2025-08-25/us-retail-giants-raise-prices-and-seek-new-import-sources-due-to-tariffs.html)
+- [Apple vs. Facebook Is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
+- [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
+- [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
+- [macOS 26 Tahoe's Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
+- [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
+- [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
+- [Blacksky grew to millions of users without spending a dollar](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
+- [Reverse Engineering All the Raspberry Pis](https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis)
+- [Fenster: Most minimal cross-platform GUI library](https://github.com/zserge/fenster)
 
-*마지막 업데이트: 2025-08-25T21:09:21Z*
+*마지막 업데이트: 2025-08-26T04:30:23Z*
