@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-26T04:30:23Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-26T21:08:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16797.544)
+- **AI automation** (점수: 18523.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16797.544)
+- **AI automation** (점수: 18523.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16797.544)
+- **AI automation** (점수: 18523.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16797.544)
+- **AI automation** (점수: 18523.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14606.56)
+- **AI automation** (점수: 16106.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14606.56)
+- **AI automation** (점수: 16106.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13876.232)
+- **AI automation** (점수: 15301.612)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [US retail giants raise prices due to tariffs](https://english.elpais.com/economy-and-business/2025-08-25/us-retail-giants-raise-prices-and-seek-new-import-sources-due-to-tariffs.html)
-- [Apple vs. Facebook Is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
-- [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
-- [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
-- [macOS 26 Tahoe's Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
-- [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
-- [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
-- [Blacksky grew to millions of users without spending a dollar](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
-- [Reverse Engineering All the Raspberry Pis](https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis)
-- [Fenster: Most minimal cross-platform GUI library](https://github.com/zserge/fenster)
+- [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
+- [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
+- [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
+- [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
+- ["Special register groups" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
+- [IBM and AMD to work on quantum-centric supercomputing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
+- [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
+- [Titles matter](https://joshcollinsworth.com/blog/titles-matter)
+- [Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
+- [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
 
-*마지막 업데이트: 2025-08-26T04:30:23Z*
+*마지막 업데이트: 2025-08-26T21:08:37Z*
