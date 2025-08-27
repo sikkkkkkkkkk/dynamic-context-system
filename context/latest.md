@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-27T04:29:38Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-27T21:08:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18622.364)
+- **AI automation** (점수: 20535.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18622.364)
+- **AI automation** (점수: 20535.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18622.364)
+- **AI automation** (점수: 20535.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18622.364)
+- **AI automation** (점수: 20535.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16193.36)
+- **AI automation** (점수: 17857.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16193.36)
+- **AI automation** (점수: 17857.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15383.692)
+- **AI automation** (점수: 16964.492)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
-- [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
-- [Stop Talking to Technology Executives Like They Have Anything to Say](https://www.stilldrinking.org/stop-talking-to-technology-executives-like-they-have-anything-to-say)
-- [Starship's Tenth Flight Test](https://www.spacex.com/)
-- [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
-- [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
-- [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
-- [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
-- [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
-- ["Special register groups" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
+- [Ask HN: GitHub Copilot Down?](https://news.ycombinator.com/item?id=45044919)
+- [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
+- [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
+- [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
+- [Firefox Has Moved to Firefox.com](https://www.firefox.com)
+- [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
+- [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
+- [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
+- [Typepad is shutting down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
+- [GMP damaging Zen 5 CPUs?](https://gmplib.org/gmp-zen5)
 
-*마지막 업데이트: 2025-08-27T04:29:38Z*
+*마지막 업데이트: 2025-08-27T21:08:51Z*
