@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-26T21:08:37Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-27T04:29:38Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18523.004)
+- **AI automation** (점수: 18622.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18523.004)
+- **AI automation** (점수: 18622.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18523.004)
+- **AI automation** (점수: 18622.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18523.004)
+- **AI automation** (점수: 18622.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16106.96)
+- **AI automation** (점수: 16193.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16106.96)
+- **AI automation** (점수: 16193.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15301.612)
+- **AI automation** (점수: 15383.692)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
+- [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
+- [Stop Talking to Technology Executives Like They Have Anything to Say](https://www.stilldrinking.org/stop-talking-to-technology-executives-like-they-have-anything-to-say)
+- [Starship's Tenth Flight Test](https://www.spacex.com/)
+- [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
 - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
+- [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
 - [GNU Artanis – A fast web application framework for Scheme](https://artanis.dev/index.html)
-- [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
 - [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
 - ["Special register groups" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
-- [IBM and AMD to work on quantum-centric supercomputing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
-- [Why do people keep writing about the imaginary compound Cr2Gr2Te6?](https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html)
-- [Titles matter](https://joshcollinsworth.com/blog/titles-matter)
-- [Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment](https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific)
-- [We regret but have to temporary suspend the shipments to USA](https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/)
 
-*마지막 업데이트: 2025-08-26T21:08:37Z*
+*마지막 업데이트: 2025-08-27T04:29:38Z*
