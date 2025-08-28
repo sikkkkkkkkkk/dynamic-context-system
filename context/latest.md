@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-27T21:08:51Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-28T04:29:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20535.964)
+- **AI automation** (점수: 20842.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20535.964)
+- **AI automation** (점수: 20842.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20535.964)
+- **AI automation** (점수: 20842.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20535.964)
+- **AI automation** (점수: 20842.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17857.36)
+- **AI automation** (점수: 18124.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17857.36)
+- **AI automation** (점수: 18124.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16964.492)
+- **AI automation** (점수: 17217.952)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: GitHub Copilot Down?](https://news.ycombinator.com/item?id=45044919)
+- [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
+- [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
+- [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
+- [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
+- [Google has eliminated 35% of managers overseeing small teams in past year](https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html)
+- [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
+- [Show HN: Meetup.com and eventribe alternative to small groups](https://github.com/polaroi8d/cactoide)
 - [Beginning 1 September, we will need to geoblock Mississippi IPs](https://dw-news.dreamwidth.org/44429.html)
-- [Mapping Connections of Anti-Offshore Wind Groups and Their Lawyers](https://www.climatedevlab.brown.edu/post/legal-entanglements-mapping-connections-of-anti-offshore-wind-groups-and-their-lawyers-in-the-easte)
-- [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
-- [Firefox Has Moved to Firefox.com](https://www.firefox.com)
-- [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
 - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
 - [Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)](https://www.ycombinator.com/companies/lago/jobs)
-- [Typepad is shutting down](https://everything.typepad.com/blog/2025/08/typepad-is-shutting-down.html)
-- [GMP damaging Zen 5 CPUs?](https://gmplib.org/gmp-zen5)
 
-*마지막 업데이트: 2025-08-27T21:08:51Z*
+*마지막 업데이트: 2025-08-28T04:29:07Z*
