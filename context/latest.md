@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-29T21:08:40Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-30T04:27:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 27316.364)
+- **AI automation** (점수: 27590.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 27316.364)
+- **AI automation** (점수: 27590.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 27316.364)
+- **AI automation** (점수: 27590.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 27316.364)
+- **AI automation** (점수: 27590.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23753.36)
+- **AI automation** (점수: 23992.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23753.36)
+- **AI automation** (점수: 23992.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22565.692)
+- **AI automation** (점수: 22792.552)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How to Stop Google from AI-Summarising Your Website](https://www.teruza.com/info-hub/how-to-stop-google-from-ai-summarising-your-website)
+- [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
+- [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
+- [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
 - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
-- [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
 - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 - [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
-- [SQLite's Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
+- [SQLite's documentation about its durability properties is unclear](https://www.agwa.name/blog/post/sqlite_durability)
 - [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
 - [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
-- [The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)
 
-*마지막 업데이트: 2025-08-29T21:08:40Z*
+*마지막 업데이트: 2025-08-30T04:27:32Z*
