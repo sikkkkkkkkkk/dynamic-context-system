@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-30T04:27:32Z -->
+<!-- Dynamic Context Block | Updated: 2025-08-30T21:07:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 27590.984)
+- **AI automation** (점수: 28896.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 27590.984)
+- **AI automation** (점수: 28896.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 27590.984)
+- **AI automation** (점수: 28896.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 27590.984)
+- **AI automation** (점수: 28896.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23992.16)
+- **AI automation** (점수: 25127.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23992.16)
+- **AI automation** (점수: 25127.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22792.552)
+- **AI automation** (점수: 23870.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
-- [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
-- [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
-- [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
-- [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
-- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
-- [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
-- [SQLite's documentation about its durability properties is unclear](https://www.agwa.name/blog/post/sqlite_durability)
-- [Thunder Compute (YC S24) Is Hiring](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire)
-- [John Carmack's arguments against building a custom XR OS at Meta](https://twitter.com/ID_AA_Carmack/status/1961172409920491849)
+- [U.S. guided-missile cruiser crosses Panama Canal, warships deployed to Venezuela](https://www.cbsnews.com/news/us-guided-missile-cruiser-panama-canal-warships-deployed-venezuela/)
+- [Sleeper AI agents and how Anthropic detects them [video]](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
+- [Meta and Yandex Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io?new)
+- [The space race is transforming Southern California's economy – again](https://www.latimes.com/business/story/2025-08-28/how-the-new-space-economy-is-transforming-southern-california)
+- [Are we decentralized yet?](https://arewedecentralizedyet.online/)
+- [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
+- [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
+- [GAO warns of privacy risks in using facial recognition in rental housing](https://files.gao.gov/reports/GAO-25-107196/index.html)
+- [You Have to Feel It](https://mitchellh.com/writing/feel-it)
+- [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 
-*마지막 업데이트: 2025-08-30T04:27:32Z*
+*마지막 업데이트: 2025-08-30T21:07:59Z*
