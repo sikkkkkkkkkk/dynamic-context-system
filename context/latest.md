@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-08-31T21:08:03Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-01T04:34:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 29990.344)
+- **AI automation** (점수: 29917.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 29990.344)
+- **AI automation** (점수: 29917.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 29990.344)
+- **AI automation** (점수: 29917.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 29990.344)
+- **AI automation** (점수: 29917.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 26078.56)
+- **AI automation** (점수: 26015.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 26078.56)
+- **AI automation** (점수: 26015.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 24774.632)
+- **AI automation** (점수: 24714.592)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How to poop outdoors in a way that won't harm the environment and other hikers](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
+- [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
+- [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
+- [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
+- [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
+- [Best practices for dealing with human waste in the great outdoors](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
 - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+- [New Ruby Curl bindings with Fiber native support](https://github.com/taf2/curb/blob/master/ChangeLog.md)
 - [Lunar soil machine developed to build bricks using sunlight](https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html)
+- [What to do with C++ modules?](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 - [Eternal Struggle](https://yoavg.github.io/eternal/)
-- [Code Is Debt](https://tornikeo.com/code-is-debt/)
-- [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
-- [Use One Big Server (2022)](https://specbranch.com/posts/one-big-server/)
-- [When the sun will literally set on what's left of the British Empire](https://oikofuge.com/sun-sets-on-british-empire/)
-- [Show HN: Anonymous Age Verification](https://gist.github.com/JWally/bf4681f79c0725eb378ec3c246cf0664)
-- [Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows](https://news.ycombinator.com/item?id=45084759)
 
-*마지막 업데이트: 2025-08-31T21:08:03Z*
+*마지막 업데이트: 2025-09-01T04:34:28Z*
