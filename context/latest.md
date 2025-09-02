@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-02T04:30:06Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-02T21:07:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 29223.984)
+- **AI automation** (점수: 27201.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 29223.984)
+- **AI automation** (점수: 27201.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 29223.984)
+- **AI automation** (점수: 27201.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 29223.984)
+- **AI automation** (점수: 27201.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 25412.16)
+- **AI automation** (점수: 23653.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 25412.16)
+- **AI automation** (점수: 23653.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 24141.552)
+- **AI automation** (점수: 22471.072)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
-- [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
-- [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
-- [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
-- [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
-- [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
-- [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
-- [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
-- [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+- [Google gets to keep Chrome but is barred from exclusive search deals](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
+- [U.S. Emissions Rise 4.2%, China's Fall 2.7%](https://www.theenergymix.com/u-s-emissions-rise-chinas-fall-in-massive-shift-between-worlds-biggest-climate-polluters/)
+- [Linux home server sleep on idle and wake on demand – the simple way](https://dgross.ca/blog/linux-home-server-auto-sleep)
+- [First attempt will be 95% garbage: 6 weeks with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
+- [iNaturalist keeps full species classification models private](https://github.com/inaturalist/inatVisionAPI)
+- [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
+- [Civics is boring, so, let's encrypt something (2024)](https://queue.acm.org/detail.cfm?id=3703126)
+- [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
+- [The Kafka Replication Protocol with KIP-966](https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md)
+- [A gentle introduction to CP/M](https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m/)
 
-*마지막 업데이트: 2025-09-02T04:30:06Z*
+*마지막 업데이트: 2025-09-02T21:07:59Z*
