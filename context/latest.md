@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-01T21:08:05Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-02T04:30:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 29270.444)
+- **AI automation** (점수: 29223.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 29270.444)
+- **AI automation** (점수: 29223.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 29270.444)
+- **AI automation** (점수: 29223.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 29270.444)
+- **AI automation** (점수: 29223.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 25452.56)
+- **AI automation** (점수: 25412.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 25452.56)
+- **AI automation** (점수: 25412.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 24179.932)
+- **AI automation** (점수: 24141.552)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Physics of Sales](https://howtogrow.substack.com/p/the-physics-of-sales)
+- [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
+- [Taiwan Submarine Cable Map Showing Current Outage](https://smc.peering.tw/)
+- [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
+- [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
+- [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
+- [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
+- [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
 - [Towards Memory Specialization: A Case for Long-Term and Short-Term RAM](https://arxiv.org/abs/2508.02992)
 - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [SparseLoCo: Communication-Efficient LLM Training](https://arxiv.org/abs/2508.15706)
-- [Thoughts on (Amazonian) leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
-- [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
-- [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
-- [MAGA declares war on the property tax](https://www.urbanproxima.com/p/maga-declares-war-on-the-property)
-- [Territorial Markings as a Predictor of Driver Aggression and Road Rage (2008)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2008.00364.x?prevSearch=allfield%3A%28szlemko%29)
-- [Show HN: woomarks, transfer your Pocket links to this app or self-host it](https://woomarks.com)
+- [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
 
-*마지막 업데이트: 2025-09-01T21:08:05Z*
+*마지막 업데이트: 2025-09-02T04:30:06Z*
