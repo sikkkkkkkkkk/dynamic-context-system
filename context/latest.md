@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-03T04:28:26Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-03T21:08:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26922.144)
+- **AI automation** (점수: 25031.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26922.144)
+- **AI automation** (점수: 25031.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26922.144)
+- **AI automation** (점수: 25031.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26922.144)
+- **AI automation** (점수: 25031.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23410.56)
+- **AI automation** (점수: 21766.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23410.56)
+- **AI automation** (점수: 21766.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22240.032)
+- **AI automation** (점수: 20677.852)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Zig Software Foundation 2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
-- [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
-- [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
-- [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
-- [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
-- [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
-- [Making a Linux home server sleep on idle and wake on demand (2023)](https://dgross.ca/blog/linux-home-server-auto-sleep)
-- [A staff engineer's journey with Claude Code](https://www.sanity.io/blog/first-attempt-will-be-95-garbage)
-- [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
-- [Vijaye Raji to become CTO of Applications with acquisition of Statsig](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
+- [Gleam Gathering 2026](https://gleamgathering.com/)
+- [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [We're Joining OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
+- [Ask HN: Gandi is holding my domain hostage. What can I do?](https://news.ycombinator.com/item?id=45118689)
+- [6NF File Format](https://habr.com/en/articles/942516/)
+- [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
+- [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
+- [Microsoft BASIC for 6502 Microprocessor – Version 1.1](https://github.com/microsoft/BASIC-M6502)
+- [Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 
-*마지막 업데이트: 2025-09-03T04:28:26Z*
+*마지막 업데이트: 2025-09-03T21:08:11Z*
