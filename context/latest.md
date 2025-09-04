@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-03T21:08:11Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-04T04:27:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 25031.084)
+- **AI automation** (점수: 24884.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 25031.084)
+- **AI automation** (점수: 24884.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 25031.084)
+- **AI automation** (점수: 24884.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 25031.084)
+- **AI automation** (점수: 24884.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21766.16)
+- **AI automation** (점수: 21638.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21766.16)
+- **AI automation** (점수: 21638.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20677.852)
+- **AI automation** (점수: 20557.012)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Gleam Gathering 2026](https://gleamgathering.com/)
-- [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
-- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [Étoilé – desktop built on GNUStep](http://etoileos.com/)
+- [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
+- [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
+- [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
+- [Where's the shovelware? Why AI coding claims don't add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
+- [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
 - [We're Joining OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
-- [Ask HN: Gandi is holding my domain hostage. What can I do?](https://news.ycombinator.com/item?id=45118689)
 - [6NF File Format](https://habr.com/en/articles/942516/)
-- [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
+- [What is it like to be a bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
-- [Microsoft BASIC for 6502 Microprocessor – Version 1.1](https://github.com/microsoft/BASIC-M6502)
-- [Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels](https://gimletlabs.ai/blog/ai-generated-metal-kernels)
 
-*마지막 업데이트: 2025-09-03T21:08:11Z*
+*마지막 업데이트: 2025-09-04T04:27:59Z*
