@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-04T04:27:59Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-04T21:08:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24884.804)
+- **AI automation** (점수: 20485.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24884.804)
+- **AI automation** (점수: 20485.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24884.804)
+- **AI automation** (점수: 20485.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24884.804)
+- **AI automation** (점수: 20485.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21638.96)
+- **AI automation** (점수: 17813.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21638.96)
+- **AI automation** (점수: 17813.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20557.012)
+- **AI automation** (점수: 16922.692)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Étoilé – desktop built on GNUStep](http://etoileos.com/)
-- [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
-- [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
-- [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
-- [Where's the shovelware? Why AI coding claims don't add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
-- [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
-- [We're Joining OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
-- [6NF File Format](https://habr.com/en/articles/942516/)
-- [What is it like to be a bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
-- [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
+- [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
+- [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
+- [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
+- [LLM Visualization](https://bbycroft.net/llm)
+- [The thousands of atomic bombs exploded on Earth (2015)](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
+- [Saquon Barkley is playing for equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
+- [Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
+- [AI not affecting job market much so far, New York Fed says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
+- [A PM's Guide to AI Agent Architecture](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
+- [Age Simulation Suit](https://www.age-simulation-suit.com/)
 
-*마지막 업데이트: 2025-09-04T04:27:59Z*
+*마지막 업데이트: 2025-09-04T21:08:48Z*
