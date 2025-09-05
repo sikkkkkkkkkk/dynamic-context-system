@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-05T04:28:36Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-05T21:08:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19822.964)
+- **AI automation** (점수: 18373.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19822.964)
+- **AI automation** (점수: 18373.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19822.964)
+- **AI automation** (점수: 18373.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19822.964)
+- **AI automation** (점수: 18373.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17237.36)
+- **AI automation** (점수: 15976.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17237.36)
+- **AI automation** (점수: 15976.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16375.492)
+- **AI automation** (점수: 15178.112)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Expanding Economic Opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai/)
-- [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
-- [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
-- [Evolving the OCaml Programming Language (2025) [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
-- [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
-- [Unix Conspiracy (1991)](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
-- [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
-- [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
-- [io_uring is faster than mmap](https://www.bitflux.ai/blog/memory-is-slow-part2/)
-- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
+- [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
+- [The Day I Kissed Comment Culture Goodbye](https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture)
+- [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
+- [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
+- [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
+- [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
+- [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
+- [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
+- [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
+- [MentraOS – open-source Smart glasses OS](https://github.com/Mentra-Community/MentraOS)
 
-*마지막 업데이트: 2025-09-05T04:28:36Z*
+*마지막 업데이트: 2025-09-05T21:08:10Z*
