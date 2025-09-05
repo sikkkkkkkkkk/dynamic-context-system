@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-04T21:08:48Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-05T04:28:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20485.364)
+- **AI automation** (점수: 19822.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20485.364)
+- **AI automation** (점수: 19822.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20485.364)
+- **AI automation** (점수: 19822.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20485.364)
+- **AI automation** (점수: 19822.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17813.36)
+- **AI automation** (점수: 17237.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17813.36)
+- **AI automation** (점수: 17237.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16922.692)
+- **AI automation** (점수: 16375.492)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [ICPC 2025 World Finals Results](https://worldfinals.icpc.global/scoreboard/2025/index.html)
-- [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
-- [Action was the best 8-bit programming language](https://www.goto10retro.com/p/action-was-the-best-8-bit-programming)
-- [LLM Visualization](https://bbycroft.net/llm)
-- [The thousands of atomic bombs exploded on Earth (2015)](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
-- [Saquon Barkley is playing for equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
-- [Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
-- [AI not affecting job market much so far, New York Fed says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
-- [A PM's Guide to AI Agent Architecture](https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture)
-- [Age Simulation Suit](https://www.age-simulation-suit.com/)
+- [Expanding Economic Opportunity with AI](https://openai.com/index/expanding-economic-opportunity-with-ai/)
+- [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
+- [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
+- [Evolving the OCaml Programming Language (2025) [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
+- [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
+- [Unix Conspiracy (1991)](http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html)
+- [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
+- [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
+- [io_uring is faster than mmap](https://www.bitflux.ai/blog/memory-is-slow-part2/)
+- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 
-*마지막 업데이트: 2025-09-04T21:08:48Z*
+*마지막 업데이트: 2025-09-05T04:28:36Z*
