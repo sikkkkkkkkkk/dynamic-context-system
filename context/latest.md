@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-06T04:27:15Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-06T21:07:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18169.264)
+- **AI automation** (점수: 17624.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18169.264)
+- **AI automation** (점수: 17624.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18169.264)
+- **AI automation** (점수: 17624.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18169.264)
+- **AI automation** (점수: 17624.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15799.36)
+- **AI automation** (점수: 15325.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15799.36)
+- **AI automation** (점수: 15325.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15009.392)
+- **AI automation** (점수: 14559.472)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AI and the Rise of Techno-Fascism in the United States](https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/)
-- [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-- [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
-- [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
-- [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
-- [Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025](https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952)
-- [Gym Class VR (YC W22) Is Hiring – UX Design Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal)
-- [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
-- [My Own DNS Server at Home – Part 1: IPv4](https://jan.wildeboer.net/2025/08/My-DNS-Part-1/)
-- [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
+- [Utah's hottest new power source is 15,000 feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
+- [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
+- [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
+- [How the "Kim" dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
+- [Historical Housing Prices Project](https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/historical-housing-prices)
+- [Normalization of deviance (2015)](https://danluu.com/wat/)
+- [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)
+- [Using Claude Code SDK to reduce E2E test time](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
+- [Patterns, Predictions, and Actions – A story about machine learning](https://mlstory.org/)
+- [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 
-*마지막 업데이트: 2025-09-06T04:27:15Z*
+*마지막 업데이트: 2025-09-06T21:07:43Z*
