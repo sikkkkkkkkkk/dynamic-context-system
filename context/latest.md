@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-06T21:07:43Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-07T04:27:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17624.624)
+- **AI automation** (점수: 17987.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17624.624)
+- **AI automation** (점수: 17987.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17624.624)
+- **AI automation** (점수: 17987.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17624.624)
+- **AI automation** (점수: 17987.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15325.76)
+- **AI automation** (점수: 15641.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15325.76)
+- **AI automation** (점수: 15641.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14559.472)
+- **AI automation** (점수: 14859.292)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Utah's hottest new power source is 15,000 feet below the ground](https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground)
-- [Europe enters the exascale supercomputing league with Jupiter](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2029)
-- [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
-- [How the "Kim" dump exposed North Korea's credential theft playbook](https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/)
-- [Historical Housing Prices Project](https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/historical-housing-prices)
-- [Normalization of deviance (2015)](https://danluu.com/wat/)
-- [GigaByte CXL memory expansion card with up to 512GB DRAM](https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4)
-- [Using Claude Code SDK to reduce E2E test time](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
-- [Patterns, Predictions, and Actions – A story about machine learning](https://mlstory.org/)
-- [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
+- [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
+- [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
+- [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
+- [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
+- [The MVC definition has been abused](https://stlab.cc/tips/about-mvc.html)
+- [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
+- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
+- [C++26: Erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
+- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
+- [Gloria funicular derailment initial findings report (EN) [pdf]](https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf)
 
-*마지막 업데이트: 2025-09-06T21:07:43Z*
+*마지막 업데이트: 2025-09-07T04:27:34Z*
