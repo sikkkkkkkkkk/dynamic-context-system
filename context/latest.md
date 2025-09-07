@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-07T04:27:34Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-07T21:07:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17987.564)
+- **AI automation** (점수: 17533.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17987.564)
+- **AI automation** (점수: 17533.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17987.564)
+- **AI automation** (점수: 17533.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17987.564)
+- **AI automation** (점수: 17533.084)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15641.36)
+- **AI automation** (점수: 15246.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15641.36)
+- **AI automation** (점수: 15246.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14859.292)
+- **AI automation** (점수: 14483.852)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
-- [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
-- [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
-- [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
-- [The MVC definition has been abused](https://stlab.cc/tips/about-mvc.html)
-- [Blogs used to be different](https://jetgirl.art/blogs-used-to-be-very-different/)
-- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
-- [C++26: Erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
-- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
-- [Gloria funicular derailment initial findings report (EN) [pdf]](https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf)
+- [Pico CSS • Minimal CSS Framework for Semantic HTML](https://picocss.com)
+- [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
+- [No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
+- [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
+- [Show HN: The World After 3, 5, 10, 25, 50, and 100 Years Ft. AI](https://www.mandar.cloud/blog.html)
+- [Electric bill may be paying for big data centers' energy use](https://theconversation.com/how-your-electric-bill-may-be-paying-for-big-data-centers-energy-use-257794)
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [Keeping secrets out of logs (2024)](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
+- [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
+- [SQLite's Use of Tcl](https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html)
 
-*마지막 업데이트: 2025-09-07T04:27:34Z*
+*마지막 업데이트: 2025-09-07T21:07:47Z*
