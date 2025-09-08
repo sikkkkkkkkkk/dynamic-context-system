@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-08T04:30:21Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-08T21:08:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17748.824)
+- **AI automation** (점수: 17754.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17748.824)
+- **AI automation** (점수: 17754.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17748.824)
+- **AI automation** (점수: 17754.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17748.824)
+- **AI automation** (점수: 17754.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15433.76)
+- **AI automation** (점수: 15438.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15433.76)
+- **AI automation** (점수: 15438.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14662.072)
+- **AI automation** (점수: 14666.632)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
-- ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
-- [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
-- [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
-- [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
-- [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
-- [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
-- [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
-- [Show HN: OpenCV over WebRTC (in Go)](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
-- [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
+- [YouTube views are down (don't panic)](https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic)
+- [Chat Control Must Be Stopped](https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/)
+- [Microsoft doubles down on small modular reactors and fusion energy](https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy)
+- [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
+- [iPhone dumbphone](https://stopa.io/post/297)
+- [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
+- [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/)
+- [Job mismatch and early career success](https://www.nber.org/papers/w34215)
+- [After nearly half a century in deep space, every ping from Voyager 1 is a bonus](https://www.theregister.com/2025/09/07/48_years_voyager_1/)
+- [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 
-*마지막 업데이트: 2025-09-08T04:30:21Z*
+*마지막 업데이트: 2025-09-08T21:08:30Z*
