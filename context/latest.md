@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-07T21:07:47Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-08T04:30:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17533.084)
+- **AI automation** (점수: 17748.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17533.084)
+- **AI automation** (점수: 17748.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17533.084)
+- **AI automation** (점수: 17748.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17533.084)
+- **AI automation** (점수: 17748.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15246.16)
+- **AI automation** (점수: 15433.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15246.16)
+- **AI automation** (점수: 15433.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14483.852)
+- **AI automation** (점수: 14662.072)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Pico CSS • Minimal CSS Framework for Semantic HTML](https://picocss.com)
-- [Everything from 1991 Radio Shack ad I now do with my phone](https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/)
-- [No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]](https://www.cs.unc.edu/techreports/86-020.pdf)
-- [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
-- [Show HN: The World After 3, 5, 10, 25, 50, and 100 Years Ft. AI](https://www.mandar.cloud/blog.html)
-- [Electric bill may be paying for big data centers' energy use](https://theconversation.com/how-your-electric-bill-may-be-paying-for-big-data-centers-energy-use-257794)
-- [Submarine Cable Map](https://www.submarinecablemap.com/)
-- [Keeping secrets out of logs (2024)](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
-- [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
-- [SQLite's Use of Tcl](https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html)
+- [GitHub Community Discussions: Two most upvoted requests are to disable Copilot](https://github.com/orgs/community/discussions)
+- ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
+- [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
+- [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
+- [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
+- [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
+- [Taking Buildkite from a side project to a global company](https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project)
+- [Creative Technology: The Sound Blaster](https://www.abortretry.fail/p/the-story-of-creative-technology)
+- [Show HN: OpenCV over WebRTC (in Go)](https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md)
+- [Taco Bell AI Drive-Thru](https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html)
 
-*마지막 업데이트: 2025-09-07T21:07:47Z*
+*마지막 업데이트: 2025-09-08T04:30:21Z*
