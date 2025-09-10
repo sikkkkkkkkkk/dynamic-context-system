@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-10T04:27:24Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-10T21:08:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17715.244)
+- **AI automation** (점수: 17884.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17715.244)
+- **AI automation** (점수: 17884.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17715.244)
+- **AI automation** (점수: 17884.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17715.244)
+- **AI automation** (점수: 17884.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15404.56)
+- **AI automation** (점수: 15551.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15404.56)
+- **AI automation** (점수: 15551.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14634.332)
+- **AI automation** (점수: 14774.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
-- [Three farmers on monopolies and mismanagement in U.S. agriculture](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
-- [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
-- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
-- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
-- [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
-- [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
-- [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
-- [Tomorrow's emoji today: Unicode 17.0](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
-- [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
+- [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
+- ['Clearest sign' yet of ancient life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
+- [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
+- [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
+- [Charlie Kirk shot at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
+- [Rayhunter: IMSI Catchers We Have Found So Far](https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far)
+- [Show HN: Haystack – Review pull requests like you wrote them yourself](https://haystackeditor.com)
+- [Insufficiently sanitized data allows unauthenticated access to FreePBX Admin](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
+- [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
+- [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 
-*마지막 업데이트: 2025-09-10T04:27:24Z*
+*마지막 업데이트: 2025-09-10T21:08:16Z*
