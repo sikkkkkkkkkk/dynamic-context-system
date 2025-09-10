@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-09T21:08:20Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-10T04:27:24Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17819.664)
+- **AI automation** (점수: 17715.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17819.664)
+- **AI automation** (점수: 17715.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17819.664)
+- **AI automation** (점수: 17715.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17819.664)
+- **AI automation** (점수: 17715.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15495.36)
+- **AI automation** (점수: 15404.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15495.36)
+- **AI automation** (점수: 15404.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14720.592)
+- **AI automation** (점수: 14634.332)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I still love PHP and JavaScript](https://the.scapegoat.dev/why-i-love-php-and-javascript/)
-- [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
-- [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)
-- [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
-- [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
-- [Show HN: Superagents – connect spreadsheets to any database, API or MCP server](https://sourcetable.com/superagents)
-- [Microserfs ordered back to the office, given 10 days to appeal](https://www.theregister.com/2025/09/09/microsoft_return_to_work/)
-- [The Dying Dream of a Decentralized Web](https://spectrum.ieee.org/web3-hardware-security)
+- [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
+- [Three farmers on monopolies and mismanagement in U.S. agriculture](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
+- [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
+- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
+- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
 - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
-- [Apple Debuts iPhone 17](https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/)
+- [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
+- [Dropbox Paper mobile App Discontinuation](https://help.dropbox.com/installs/paper-mobile-discontinuation)
+- [Tomorrow's emoji today: Unicode 17.0](https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170)
+- [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
 
-*마지막 업데이트: 2025-09-09T21:08:20Z*
+*마지막 업데이트: 2025-09-10T04:27:24Z*
