@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-10T21:08:16Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-11T04:28:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17884.524)
+- **AI automation** (점수: 17650.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17884.524)
+- **AI automation** (점수: 17650.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17884.524)
+- **AI automation** (점수: 17650.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17884.524)
+- **AI automation** (점수: 17650.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15551.76)
+- **AI automation** (점수: 15348.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15551.76)
+- **AI automation** (점수: 15348.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14774.172)
+- **AI automation** (점수: 14581.132)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Seoul says US must fix its visa system if it wants Korea's investments](https://english.hani.co.kr/arti/english_edition/e_international/1218025.html)
+- [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
+- [Where did the Smurfs get their hats](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
+- [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
+- [XNEdit – fast and classic X11 text editor](https://www.unixwork.de/xnedit/)
+- [Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
+- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+- [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
 - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
-- ['Clearest sign' yet of ancient life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
-- [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
 - [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
-- [Charlie Kirk shot at event in Utah](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
-- [Rayhunter: IMSI Catchers We Have Found So Far](https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far)
-- [Show HN: Haystack – Review pull requests like you wrote them yourself](https://haystackeditor.com)
-- [Insufficiently sanitized data allows unauthenticated access to FreePBX Admin](https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/)
-- [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/)
-- [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 
-*마지막 업데이트: 2025-09-10T21:08:16Z*
+*마지막 업데이트: 2025-09-11T04:28:40Z*
