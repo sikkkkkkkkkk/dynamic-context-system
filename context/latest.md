@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-12T04:27:21Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-12T21:07:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17529.404)
+- **AI automation** (점수: 17636.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17529.404)
+- **AI automation** (점수: 17636.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17529.404)
+- **AI automation** (점수: 17636.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17529.404)
+- **AI automation** (점수: 17636.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15242.96)
+- **AI automation** (점수: 15336.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15242.96)
+- **AI automation** (점수: 15336.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14480.812)
+- **AI automation** (점수: 14569.352)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
-- [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
-- [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
-- [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
-- [Float Exposed](https://float.exposed/)
-- [Toddlerbot: Open-Source Humanoid Robot](https://toddlerbot.github.io/)
-- [Why our website looks like an operating system](https://posthog.com/blog/why-os)
-- [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
-- [Danish supermarket chain is setting up "Emergency Stores"](https://swiss.social/@swaldorff/115186445638788782)
-- [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
+- [I made a small site to share text and files for free, no ads, no registration](https://www.dum.pt/)
+- [North Korea executing more people for watching foreign films and TV, UN finds](https://www.bbc.com/news/articles/ckgqdz17ye3o)
+- [Hyundai battery plant faces startup delay after US immigration raid, CEO says](https://www.japantimes.co.jp/business/2025/09/12/companies/hyundai-battery-plant-delay/)
+- [Show HN: 47jobs – A Fiverr/Upwork for AI Agents](https://47jobs.xyz)
+- [Groundbreaking Brazilian Drug, Capable of Reversing Spinal Cord Injury](https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2025/09/groundbreaking-brazilian-drug-considered-capable-of-reversing-spinal-cord-injury-presented-in-sao-paulo.shtml)
+- [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
+- [EU court rules nuclear energy is clean energy](https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy)
+- [An embarrassing failure of the US patent system: Nintendo's latest patents](https://www.pcgamer.com/gaming-industry/an-embarrassing-failure-of-the-us-patent-system-videogame-ip-lawyer-says-nintendos-latest-patents-on-pokemon-mechanics-should-not-have-happened-full-stop/)
+- [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
+- [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html)
 
-*마지막 업데이트: 2025-09-12T04:27:21Z*
+*마지막 업데이트: 2025-09-12T21:07:53Z*
