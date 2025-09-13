@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-13T04:26:57Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-13T21:07:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17645.324)
+- **AI automation** (점수: 18442.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17645.324)
+- **AI automation** (점수: 18442.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17645.324)
+- **AI automation** (점수: 18442.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17645.324)
+- **AI automation** (점수: 18442.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15343.76)
+- **AI automation** (점수: 16036.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15343.76)
+- **AI automation** (점수: 16036.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14576.572)
+- **AI automation** (점수: 15234.732)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1)
-- [OCI Registry Explorer](https://oci.dag.dev/)
-- [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
-- [Legal win](https://ma.tt/2025/09/legal-win/)
-- [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
-- [Life, work, death and the peasant: Rent and extraction](https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/)
-- [Meow: Yet another modal editing on Emacs](https://github.com/meow-edit/meow)
-- [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
-- [FFglitch, FFmpeg fork for glitch art](https://ffglitch.org/gallery/)
-- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
+- [WhoBIRD is now deprecated on certified Android devices](https://github.com/woheller69/whoBIRD)
+- [An Open-Source Maintainer's Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
+- [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
+- [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
+- [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
+- [Magical systems thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
+- [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
+- [‘Someone must know this guy’: four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland)
+- [Show HN: CLAVIER-36 – A programming environment for generative music](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
+- [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
 
-*마지막 업데이트: 2025-09-13T04:26:57Z*
+*마지막 업데이트: 2025-09-13T21:07:15Z*
