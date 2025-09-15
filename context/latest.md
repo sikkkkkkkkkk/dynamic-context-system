@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-14T21:07:32Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-15T04:29:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18031.724)
+- **AI automation** (점수: 17841.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18031.724)
+- **AI automation** (점수: 17841.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18031.724)
+- **AI automation** (점수: 17841.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18031.724)
+- **AI automation** (점수: 17841.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15679.76)
+- **AI automation** (점수: 15514.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15679.76)
+- **AI automation** (점수: 15514.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14895.772)
+- **AI automation** (점수: 14738.832)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Vibe coding has turned senior devs into 'AI babysitters'](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/)
-- [Show HN: DriftDB – An experimental append-only database with time-travel queries](https://github.com/DavidLiedle/DriftDB)
-- [OCSP Service Has Reached End of Life](https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life)
-- [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
-- [How older parents divorce affects their adult children](https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children)
-- [Eye drops could replace glasses or surgery for longsightedness, study says](https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study)
-- [The Perl Programming Language in 2025 (FOSS book)](https://github.com/cloudstreet-dev/The-PERL-Programming-Language/blob/main/01-why-perl-still-matters.md)
-- [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
-- [Nicu's test website made with SVG (2007)](https://svg.nicubunu.ro/)
-- [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
+- [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
+- [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
+- [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
+- [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
+- [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
+- [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
+- [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
+- [Titania Programming Language](https://github.com/gingerBill/titania)
+- [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html)
+- [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
 
-*마지막 업데이트: 2025-09-14T21:07:32Z*
+*마지막 업데이트: 2025-09-15T04:29:47Z*
