@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-15T04:29:47Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-15T21:08:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17841.744)
+- **AI automation** (점수: 18215.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17841.744)
+- **AI automation** (점수: 18215.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17841.744)
+- **AI automation** (점수: 18215.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17841.744)
+- **AI automation** (점수: 18215.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15514.56)
+- **AI automation** (점수: 15839.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15514.56)
+- **AI automation** (점수: 15839.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14738.832)
+- **AI automation** (점수: 15047.772)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
-- [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
-- [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
-- [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
-- [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
-- [AI False information rate for news nearly doubles in one year](https://www.newsguardtech.com/ai-monitor/august-2025-ai-false-claim-monitor/)
-- [Gentoo AI Policy](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
-- [Titania Programming Language](https://github.com/gingerBill/titania)
-- [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html)
-- [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
+- [Scryer Prolog Meetup 2025](https://hsd-pbsa.de/veranstaltung/scryer-prolog-meetup-2025/)
+- [Europe wants to turn Digital Euro (CBDC) into a stablecoin](https://antongolub.substack.com/p/europe-wants-to-turn-digital-euro)
+- [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
+- [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
+- [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+- [React is winning by default and slowing innovation](https://www.lorenstew.art/blog/react-won-by-default/)
+- [AOMedia Announces Year-End Launch of Next-Gen Video Codec AV2](https://aomedia.org/press%20releases/AOMedia-Announces-Year-End-Launch-of-Next-Generation-Video-Codec-AV2-on-10th-Anniversary/)
+- [macOS Tahoe](https://www.apple.com/os/macos/)
+- [GPT-5-Codex](https://openai.com/index/introducing-upgrades-to-codex/)
+- [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/)
 
-*마지막 업데이트: 2025-09-15T04:29:47Z*
+*마지막 업데이트: 2025-09-15T21:08:27Z*
