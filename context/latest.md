@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-16T04:28:45Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-16T21:08:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18142.124)
+- **AI automation** (점수: 18945.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18142.124)
+- **AI automation** (점수: 18945.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18142.124)
+- **AI automation** (점수: 18945.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18142.124)
+- **AI automation** (점수: 18945.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15775.76)
+- **AI automation** (점수: 16474.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15775.76)
+- **AI automation** (점수: 16474.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14986.972)
+- **AI automation** (점수: 15650.452)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Linux phones are more important now than ever](https://feddit.org/post/18353777)
-- [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137)
-- [Why do we keep gravitating toward complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
-- [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
-- [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
-- [William Gibson Reads Neuromancer (2004)](http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html)
-- [Ghost kitchens are dying](https://davidrmann3.substack.com/p/ghost-kitchens-are-dying-heres-the)
-- [GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/)
-- [How People Use ChatGPT [pdf]](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)
-- [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
+- [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
+- [Should We Drain the Everglades?](https://rabbitcavern.substack.com/p/should-we-drain-the-everglades)
+- [Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video](https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/)
+- [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
+- [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
+- [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
+- [The Linux Process Journey (2023) [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
+- [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat)
+- [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)
+- [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit)
 
-*마지막 업데이트: 2025-09-16T04:28:45Z*
+*마지막 업데이트: 2025-09-16T21:08:55Z*
