@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-17T04:28:06Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-17T21:08:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19197.364)
+- **AI automation** (점수: 19843.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19197.364)
+- **AI automation** (점수: 19843.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19197.364)
+- **AI automation** (점수: 19843.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19197.364)
+- **AI automation** (점수: 19843.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16693.36)
+- **AI automation** (점수: 17255.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16693.36)
+- **AI automation** (점수: 17255.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15858.692)
+- **AI automation** (점수: 16392.592)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GNU Midnight Commander](https://midnight-commander.org/)
-- [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
-- [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
-- [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
-- [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don't Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
-- [Irssi: IRC Client in a Docker Image](https://hub.docker.com/_/irssi)
-- [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142)
-- [AMDVLK (AMD Open Source Driver For Vulkan) project is discontinued](https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416)
-- [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
-- [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
+- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
+- [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/)
+- [Optimizing ClickHouse for Intel's 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
+- [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
+- [DeepMind and OpenAI win gold at ICPC](https://codeforces.com/blog/entry/146536)
+- [Anthropic irks White House with limits on models’ use](https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use)
+- [DeepSeek writes less secure code for groups China disfavors?](https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/)
+- [Depression reduces capacity to learn to actively avoid aversive events](https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025)
+- [Tinycolor supply chain attack post-mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/)
+- [Drought in Iraq reveals tombs created 2,300 years ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/)
 
-*마지막 업데이트: 2025-09-17T04:28:06Z*
+*마지막 업데이트: 2025-09-17T21:08:42Z*
