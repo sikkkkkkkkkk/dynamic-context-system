@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-17T21:08:42Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-18T04:29:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19843.664)
+- **AI automation** (점수: 20123.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19843.664)
+- **AI automation** (점수: 20123.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19843.664)
+- **AI automation** (점수: 20123.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19843.664)
+- **AI automation** (점수: 20123.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17255.36)
+- **AI automation** (점수: 17498.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17255.36)
+- **AI automation** (점수: 17498.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16392.592)
+- **AI automation** (점수: 16623.632)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
+- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
+- [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
+- [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
+- [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+- [Stepping Down as Libxml2 Maintainer](https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398)
+- [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
+- [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
 - [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
-- [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/)
 - [Optimizing ClickHouse for Intel's 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
-- [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
-- [DeepMind and OpenAI win gold at ICPC](https://codeforces.com/blog/entry/146536)
-- [Anthropic irks White House with limits on models’ use](https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use)
-- [DeepSeek writes less secure code for groups China disfavors?](https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/)
-- [Depression reduces capacity to learn to actively avoid aversive events](https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025)
-- [Tinycolor supply chain attack post-mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/)
-- [Drought in Iraq reveals tombs created 2,300 years ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/)
 
-*마지막 업데이트: 2025-09-17T21:08:42Z*
+*마지막 업데이트: 2025-09-18T04:29:28Z*
