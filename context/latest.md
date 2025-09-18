@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-18T04:29:28Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-18T21:09:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20123.344)
+- **AI automation** (점수: 20880.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20123.344)
+- **AI automation** (점수: 20880.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20123.344)
+- **AI automation** (점수: 20880.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20123.344)
+- **AI automation** (점수: 20880.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17498.56)
+- **AI automation** (점수: 18157.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17498.56)
+- **AI automation** (점수: 18157.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16623.632)
+- **AI automation** (점수: 17249.492)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
-- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
-- [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
-- [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
-- [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
-- [Stepping Down as Libxml2 Maintainer](https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398)
-- [One Token to rule them all – Obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
-- [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
-- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
-- [Optimizing ClickHouse for Intel's 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
+- [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
+- [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
+- [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
+- [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
+- [When Knowing Someone at Meta Is the Only Way to Break Out of "Content Jail"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
+- [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
+- [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
+- [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
+- [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
+- [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
 
-*마지막 업데이트: 2025-09-18T04:29:28Z*
+*마지막 업데이트: 2025-09-18T21:09:11Z*
