@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-18T21:09:11Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-19T04:28:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20880.964)
+- **AI automation** (점수: 20885.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20880.964)
+- **AI automation** (점수: 20885.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20880.964)
+- **AI automation** (점수: 20885.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20880.964)
+- **AI automation** (점수: 20885.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18157.36)
+- **AI automation** (점수: 18160.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18157.36)
+- **AI automation** (점수: 18160.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17249.492)
+- **AI automation** (점수: 17252.912)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Apple: SSH and FileVault](https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html)
-- [Shipping 100 hardware units in under eight weeks](https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units)
-- [U.S. already has the critical minerals it needs, according to new analysis](https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows)
-- [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
-- [When Knowing Someone at Meta Is the Only Way to Break Out of "Content Jail"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
-- [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
-- [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
-- [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
-- [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/)
-- [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
+- [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
+- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
+- [Playing “Minecraft” Without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
+- [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
+- [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
+- [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
+- [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research)
+- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+- [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
+- [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
 
-*마지막 업데이트: 2025-09-18T21:09:11Z*
+*마지막 업데이트: 2025-09-19T04:28:55Z*
