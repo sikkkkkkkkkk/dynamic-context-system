@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-20T04:27:53Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-20T21:07:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20975.724)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20975.724)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20975.724)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20975.724)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18239.76)
+- **AI automation** (점수: 18100.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18239.76)
+- **AI automation** (점수: 18100.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17327.772)
+- **AI automation** (점수: 17195.912)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [White House keeps heat on ABC's Maher](https://variety.com/2001/tv/features/white-house-keeps-heat-on-abc-s-maher-1117853351/)
-- [Things managers do that leaders never would](https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/)
-- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
-- [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis)
-- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
-- [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
-- [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
-- [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
-- [Trump to impose $100k fee for H-1B worker visas, White House says](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
-- [The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]](https://kevinbryanecon.com/BryanAIBookReview.pdf)
+- [Starship will soon fly over towns and cities, but will dodge the biggest ones](https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/)
+- [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
+- [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
+- [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
+- [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
+- [New H-1B visa fee will not apply to existing holders, official says](https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas)
+- [Designing NotebookLM](https://jasonspielman.com/notebooklm)
+- [Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
+- [Are touchscreens in cars dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
+- [Systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
 
-*마지막 업데이트: 2025-09-20T04:27:53Z*
+*마지막 업데이트: 2025-09-20T21:07:08Z*
