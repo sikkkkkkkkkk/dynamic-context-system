@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2025-09-19T21:08:40Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-20T04:27:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [White House keeps heat on ABC's Maher](https://variety.com/2001/tv/features/white-house-keeps-heat-on-abc-s-maher-1117853351/)
+- [Things managers do that leaders never would](https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/)
+- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
+- [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis)
+- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
+- [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 - [Show HN: WeUseElixir - Elixir project directory](https://weuseelixir.com/)
 - [Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
-- [$100K fee added to H1B applications](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
+- [Trump to impose $100k fee for H-1B worker visas, White House says](https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/)
 - [The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]](https://kevinbryanecon.com/BryanAIBookReview.pdf)
-- [Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease](https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/)
-- [Internal emails reveal Ticketmaster helped scalpers jack up prices, FTC says](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/)
-- [An untidy history of AI across four books](https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity)
-- [Your very own humane interface: Try Jef Raskin's ideas at home](https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/)
-- [BYD unveils world's largest 14.5 MWh DC energy storage system](https://www.ess-news.com/2025/09/19/byd-unveils-worlds-largest-14-5-mwh-dc-energy-storage-system/)
-- [Kernel: Introduce Multikernel Architecture Support](https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/)
 
-*마지막 업데이트: 2025-09-19T21:08:40Z*
+*마지막 업데이트: 2025-09-20T04:27:53Z*
