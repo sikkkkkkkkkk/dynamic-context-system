@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-20T21:07:08Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-21T04:28:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20816.104)
+- **AI automation** (점수: 20942.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20816.104)
+- **AI automation** (점수: 20942.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20816.104)
+- **AI automation** (점수: 20942.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20816.104)
+- **AI automation** (점수: 20942.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18100.96)
+- **AI automation** (점수: 18210.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18100.96)
+- **AI automation** (점수: 18210.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17195.912)
+- **AI automation** (점수: 17300.032)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Starship will soon fly over towns and cities, but will dodge the biggest ones](https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/)
-- [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
-- [A revolution in English bell ringing](https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/)
-- [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
-- [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
-- [New H-1B visa fee will not apply to existing holders, official says](https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas)
-- [Designing NotebookLM](https://jasonspielman.com/notebooklm)
-- [Ultrasonic Chef's Knife](https://seattleultrasonics.com/)
-- [Are touchscreens in cars dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous)
-- [Systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
+- [iFixIt iPhone Air Teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
+- [Radar and Radio Failures at Dallas Area Airports](https://news.ycombinator.com/item?id=45319496)
+- [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/)
+- [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
+- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [Teen suspect surrenders in 2023 Las Vegas casino cyberattack case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/)
+- [Bazel and Glibc Versions](https://blogsystem5.substack.com/p/glibc-versions-bazel)
+- [Why do some gamers invert their controls?](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think)
+- [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
+- [A brief history of threads and threading](https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/)
 
-*마지막 업데이트: 2025-09-20T21:07:08Z*
+*마지막 업데이트: 2025-09-21T04:28:20Z*
