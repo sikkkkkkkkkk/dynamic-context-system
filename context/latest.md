@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-22T04:29:01Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-22T21:08:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20924.204)
+- **AI automation** (점수: 21091.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20924.204)
+- **AI automation** (점수: 21091.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20924.204)
+- **AI automation** (점수: 21091.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20924.204)
+- **AI automation** (점수: 21091.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18194.96)
+- **AI automation** (점수: 18340.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18194.96)
+- **AI automation** (점수: 18340.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17285.212)
+- **AI automation** (점수: 17423.532)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668)
-- [South Korea's President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html)
-- [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true)
-- [Fs-code – PyFilesystems for Gitlab, GitHub, and Git](https://danjou.gitlab.io/fs-code/dev/codefs.html)
-- [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing)
-- [Show HN: Wan-Animate – Unified Character Animation and Replacement](https://www.wananimate.net/)
-- [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
-- [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
-- [Zig got a new ELF linker and it's fast](https://github.com/ziglang/zig/pull/25299)
-- [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating)
+- [Umberto Eco: Ur-Fascism](https://bobmschwartz.com/2017/12/28/umberto-eco-ur-fascism/)
+- [Rand Paul: FCC chair had "no business" intervening in ABC/Kimmel controversy](https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/)
+- [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
+- [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
+- [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
+- [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
+- [AI-generated “workslop” is destroying productivity?](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
+- [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
+- [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
+- [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 
-*마지막 업데이트: 2025-09-22T04:29:01Z*
+*마지막 업데이트: 2025-09-22T21:08:39Z*
