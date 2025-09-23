@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-22T21:08:39Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-23T04:28:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 21091.644)
+- **AI automation** (점수: 21323.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 21091.644)
+- **AI automation** (점수: 21323.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 21091.644)
+- **AI automation** (점수: 21323.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 21091.644)
+- **AI automation** (점수: 21323.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18340.56)
+- **AI automation** (점수: 18542.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18340.56)
+- **AI automation** (점수: 18542.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17423.532)
+- **AI automation** (점수: 17615.052)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Umberto Eco: Ur-Fascism](https://bobmschwartz.com/2017/12/28/umberto-eco-ur-fascism/)
-- [Rand Paul: FCC chair had "no business" intervening in ABC/Kimmel controversy](https://arstechnica.com/tech-policy/2025/09/rand-paul-fcc-chair-had-no-business-intervening-in-abc-kimmel-controversy/)
-- [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
-- [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
-- [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
+- [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source)
+- [X server implementation for SIXEL-featured terminals (2010-2014)](https://github.com/saitoha/xserver-SIXEL)
+- [US fall foliage map 2025](https://www.explorefall.com/fall-foliage-map)
+- [In Maine, prisoners are thriving in remote jobs](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
+- [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
+- [Kevo app shutdown](https://www.kwikset.com/support/answers/what-does-the-kevo-app-shutdown-mean-to-my-kevo-door-lock)
+- [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
-- [AI-generated “workslop” is destroying productivity?](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
+- [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 - [Qwen3-Omni: Native Omni AI model for text, image and video](https://github.com/QwenLM/Qwen3-Omni)
-- [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282)
-- [Testing is better than data structures and algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 
-*마지막 업데이트: 2025-09-22T21:08:39Z*
+*마지막 업데이트: 2025-09-23T04:28:57Z*
