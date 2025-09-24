@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-23T21:08:31Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-24T04:28:50Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20799.544)
+- **AI automation** (점수: 20714.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20799.544)
+- **AI automation** (점수: 20714.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20799.544)
+- **AI automation** (점수: 20714.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20799.544)
+- **AI automation** (점수: 20714.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18086.56)
+- **AI automation** (점수: 18012.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18086.56)
+- **AI automation** (점수: 18012.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17182.232)
+- **AI automation** (점수: 17112.312)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Is life a form of computation?](https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/)
-- [YouTube Will Let Users Booted for Violations of COVID, Elections Policies Rejoin](https://www.offthepress.com/youtube-will-let-users-booted-for-repeated-violations-of-covid-elections-policies-rejoin/)
-- [Musings on Generative AI](https://leejo.github.io/2025/09/23/gaps/)
-- [Privacy Commissioners find TikTok collected sensitive data from children](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2025/nr-c_250923/)
-- [Is Fortran better than Python for teaching basics of numerical linear algebra?](https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html)
-- [consumed.today](https://consumed.today/)
-- [Apple A19 SoC die shot](https://chipwise.tech/our-portfolio/apple-a19-dieshot/)
-- [How to draw construction equipment for kids](https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment)
-- [Denmark wants to push through Chat Control](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
-- [Find SF parking cops](https://walzr.com/sf-parking/)
+- [America's top companies keep talking about AI – but can't explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473)
+- [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs)
+- [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git)
+- [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/)
+- [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
+- [Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025)
+- [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system)
+- [NYC Telecom Raid: What's Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/)
+- [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/)
+- [Context Engineering for AI Agents: Lessons](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 
-*마지막 업데이트: 2025-09-23T21:08:31Z*
+*마지막 업데이트: 2025-09-24T04:28:50Z*
