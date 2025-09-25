@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-25T04:29:02Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-25T21:08:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20189.584)
+- **AI automation** (점수: 20006.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20189.584)
+- **AI automation** (점수: 20006.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20189.584)
+- **AI automation** (점수: 20006.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20189.584)
+- **AI automation** (점수: 20006.964)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17556.16)
+- **AI automation** (점수: 17397.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17556.16)
+- **AI automation** (점수: 17397.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16678.352)
+- **AI automation** (점수: 16527.492)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Homeowner baffled after washing machine uses 3.6GB of internet data a day (2024)](https://www.newsweek.com/homeowner-baffled-washing-machine-uses-3-6gb-internet-1862675)
-- [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
-- [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
-- [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
-- [Helium Browser](https://helium.computer/)
-- [Everything that's wrong with Google Search in one image](https://bitbytebit.substack.com/p/everything-thats-wrong-with-google)
-- [Snapdragon X2 Elite ARM Laptop CPU](https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite)
-- [SonyShell – An effort to “SSH into my Sony DSLR”](https://github.com/goudvuur/sonyshell)
-- [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
-- [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
+- [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
+- [How Amgen Lost the PCSK9 Patent War](https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war)
+- [Ollama Web Search](https://ollama.com/blog/web-search)
+- [Implementing UI translation in SumatraPDF, a C++ Windows application](https://blog.kowalczyk.info/a-vn0v/implementing-ui-translation-in-sumatrapdf-a-c-windows-application.html)
+- [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
+- [Electron-based apps cause system-wide lag on macOS 26 Tahoe](https://github.com/electron/electron/issues/48311)
+- [Redox OS Development Priorities for 2025/26](https://www.redox-os.org/news/development-priorities-2025-09/)
+- [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
+- [Haydex: From Zero to 178.6B rows a second in 30 days](https://axiom.co/blog/building-haydex)
+- [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
 
-*마지막 업데이트: 2025-09-25T04:29:02Z*
+*마지막 업데이트: 2025-09-25T21:08:58Z*
