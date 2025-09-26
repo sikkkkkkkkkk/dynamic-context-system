@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-25T21:08:58Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-26T04:29:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 20096.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 20096.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 20096.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20006.964)
+- **AI automation** (점수: 20096.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17397.36)
+- **AI automation** (점수: 17474.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17397.36)
+- **AI automation** (점수: 17474.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16527.492)
+- **AI automation** (점수: 16601.212)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
-- [How Amgen Lost the PCSK9 Patent War](https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war)
-- [Ollama Web Search](https://ollama.com/blog/web-search)
-- [Implementing UI translation in SumatraPDF, a C++ Windows application](https://blog.kowalczyk.info/a-vn0v/implementing-ui-translation-in-sumatrapdf-a-c-windows-application.html)
-- [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
-- [Electron-based apps cause system-wide lag on macOS 26 Tahoe](https://github.com/electron/electron/issues/48311)
-- [Redox OS Development Priorities for 2025/26](https://www.redox-os.org/news/development-priorities-2025-09/)
-- [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
-- [Haydex: From Zero to 178.6B rows a second in 30 days](https://axiom.co/blog/building-haydex)
-- [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/)
+- [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
+- [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
+- [All British adults to require a digital ID 'Brit Card'](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
+- [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
+- [Exploit allows for takeover of fleets of Unitree robots](https://spectrum.ieee.org/unitree-robot-exploit)
+- [The Digital Markets Act: time for a reset](https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/)
+- [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
+- [Redis is fast – I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
+- [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
+- [New Quasi-Moon Discovered Orbiting Earth, but It's Been Around for Decades](https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/)
 
-*마지막 업데이트: 2025-09-25T21:08:58Z*
+*마지막 업데이트: 2025-09-26T04:29:04Z*
