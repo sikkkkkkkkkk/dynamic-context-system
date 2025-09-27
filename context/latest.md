@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-26T21:08:22Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-27T04:27:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20696.964)
+- **AI automation** (점수: 20758.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20696.964)
+- **AI automation** (점수: 20758.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20696.964)
+- **AI automation** (점수: 20758.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20696.964)
+- **AI automation** (점수: 20758.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17997.36)
+- **AI automation** (점수: 18050.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17997.36)
+- **AI automation** (점수: 18050.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17097.492)
+- **AI automation** (점수: 17148.032)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
-- [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
-- [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
-- [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
-- [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
-- [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/)
-- [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/)
-- [Open Social](https://overreacted.io/open-social/)
-- [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
-- [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
+- [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
+- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
+- [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
+- [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
+- [New math revives geometry's oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
+- [Why do we remember some life moments but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
+- [Thoughts on Mechanical Keyboards and the ZSA Moonlander](https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander)
+- [Moondream 3 Preview: Frontier-level reasoning at a blazing speed](https://moondream.ai/blog/moondream-3-preview)
+- [Understanding RL for model training, and future directions with GRAPE](https://arxiv.org/abs/2509.04501)
+- [RNA structure prediction is hard. How much does that matter?](https://www.owlposting.com/p/rna-structure-prediction-is-hard)
 
-*마지막 업데이트: 2025-09-26T21:08:22Z*
+*마지막 업데이트: 2025-09-27T04:27:43Z*
