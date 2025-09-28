@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-27T21:07:41Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-28T04:27:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20076.424)
+- **AI automation** (점수: 20124.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20076.424)
+- **AI automation** (점수: 20124.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20076.424)
+- **AI automation** (점수: 20124.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20076.424)
+- **AI automation** (점수: 20124.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17457.76)
+- **AI automation** (점수: 17499.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17457.76)
+- **AI automation** (점수: 17499.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16584.872)
+- **AI automation** (점수: 16624.772)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Linux 6.18 Will Fix Lockups When Systemd Units Read Lots of Files](https://www.phoronix.com/news/Linux-6.18-Writeback-Lockups)
-- [Firefox context menu adds "Search Image with Google Lens"](https://connect.mozilla.org/t5/discussions/new-in-firefox-desktop-only-visual-search/m-p/106216#M41026)
-- [iPhone 17 chip becomes the fastest single-core CPU in the world on PassMark](https://www.tomshardware.com/pc-components/cpus/apples-a19-becomes-the-fastest-single-core-cpu-in-the-world-on-passmark-beating-pc-chips-and-apples-own-m3-ultra-passively-cooled-iphone-17-chip-catapults-past-power-hungry-competitors)
-- [NSPM-7 labels common beliefs as terrorism 'indicators'](https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs)
-- [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
+- [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
+- [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
+- [Learn to play Go](https://online-go.com/learn-to-play-go)
+- [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
+- [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
+- [Handy – Free open-source speech-to-text app written in Rust](https://handy.computer/)
+- [2025 Nikon Small World in Motion Competition Winners](https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition)
 - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
-- [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
 - [The death of east London's most radical bookshop](https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/)
 - [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol)
-- [Great Question (YC W21) Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product)
 
-*마지막 업데이트: 2025-09-27T21:07:41Z*
+*마지막 업데이트: 2025-09-28T04:27:56Z*
