@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-30T04:29:23Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-30T21:08:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18892.844)
+- **AI automation** (점수: 18295.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18892.844)
+- **AI automation** (점수: 18295.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18892.844)
+- **AI automation** (점수: 18295.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18892.844)
+- **AI automation** (점수: 18295.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16428.56)
+- **AI automation** (점수: 15908.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16428.56)
+- **AI automation** (점수: 15908.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15607.132)
+- **AI automation** (점수: 15113.512)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
-- [Awakening Bell](https://awakeningbell.org/)
-- [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
-- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
-- [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
-- [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
-- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
-- [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
-- [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
-- [iRobot Founder: Don't Believe the AI and Robotics Hype](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
+- [Diff Algorithms](https://flo.znkr.io/diff/)
+- [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
+- [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
+- [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
+- [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+- [Genomic analyses of hair from Ludwig van Beethoven (2023)](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
+- [Sora 2](https://openai.com/index/sora-2/)
+- [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
+- [Cerebras systems raises $1.1B Series G](https://www.cerebras.ai/press-release/series-g)
+- [Prompt analytics for MCP servers](https://hyprmcp.com/blog/mcp-server-prompt-analytics/)
 
-*마지막 업데이트: 2025-09-30T04:29:23Z*
+*마지막 업데이트: 2025-09-30T21:08:53Z*
