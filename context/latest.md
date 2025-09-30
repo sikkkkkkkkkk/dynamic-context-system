@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-29T21:08:10Z -->
+<!-- Dynamic Context Block | Updated: 2025-09-30T04:29:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19225.424)
+- **AI automation** (점수: 18892.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19225.424)
+- **AI automation** (점수: 18892.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19225.424)
+- **AI automation** (점수: 18892.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19225.424)
+- **AI automation** (점수: 18892.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16717.76)
+- **AI automation** (점수: 16428.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16717.76)
+- **AI automation** (점수: 16428.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15881.872)
+- **AI automation** (점수: 15607.132)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
+- [Awakening Bell](https://awakeningbell.org/)
+- [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
+- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+- [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
+- [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
+- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
+- [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
 - [California governor signs AI transparency bill into law](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/)
-- [Remember: Kurt Vonnegut Was 47](https://www.joanwestenberg.com/p/remember-kurt-vonnegut-was-47)
-- [What is artificial general intelligence?](https://arxiv.org/abs/2503.23923)
-- ['Based on a True Story'](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
-- [Diagnosing a Linux Performance Regression](https://automattic.com/2024/03/14/systems-report-linux-performance-regression/)
-- [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
-- [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
-- [Buy It in ChatGPT: Instant Checkout and the Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt/)
-- [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
-- [Sandboxing AI Agents at the Kernel Level](https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level)
+- [iRobot Founder: Don't Believe the AI and Robotics Hype](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
 
-*마지막 업데이트: 2025-09-29T21:08:10Z*
+*마지막 업데이트: 2025-09-30T04:29:23Z*
