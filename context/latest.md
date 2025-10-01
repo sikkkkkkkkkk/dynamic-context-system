@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-01T04:29:18Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-01T21:08:50Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18155.464)
+- **AI automation** (점수: 17903.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18155.464)
+- **AI automation** (점수: 17903.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18155.464)
+- **AI automation** (점수: 17903.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18155.464)
+- **AI automation** (점수: 17903.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15787.36)
+- **AI automation** (점수: 15568.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15787.36)
+- **AI automation** (점수: 15568.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14997.992)
+- **AI automation** (점수: 14789.752)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I Went to Prison](https://prison.josh.mn/)
-- [The Gaslit Asset Class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
-- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
-- [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
-- [Introduction to Multi-Armed Bandits (2019)](https://arxiv.org/abs/1904.07272)
-- [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
-- [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
-- [Diff Algorithms](https://flo.znkr.io/diff/)
-- [Organize your Slack channels by "How Often", not "What"](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
-- [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
+- [The Truth About the School "Replacing Teachers with AI"](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
+- [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
+- [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+- [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
+- [Jane Goodall has died](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
+- [What good workplace politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
+- [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
+- [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
+- [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
+- [Codeberg Reaches 300k Projects](https://codeberg.org/)
 
-*마지막 업데이트: 2025-10-01T04:29:18Z*
+*마지막 업데이트: 2025-10-01T21:08:50Z*
