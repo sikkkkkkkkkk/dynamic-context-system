@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-09-30T21:08:53Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-01T04:29:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18295.304)
+- **AI automation** (점수: 18155.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18295.304)
+- **AI automation** (점수: 18155.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18295.304)
+- **AI automation** (점수: 18155.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18295.304)
+- **AI automation** (점수: 18155.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15908.96)
+- **AI automation** (점수: 15787.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15908.96)
+- **AI automation** (점수: 15787.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15113.512)
+- **AI automation** (점수: 14997.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [I Went to Prison](https://prison.josh.mn/)
+- [The Gaslit Asset Class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
+- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+- [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
+- [Introduction to Multi-Armed Bandits (2019)](https://arxiv.org/abs/1904.07272)
+- [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
+- [Atuin Desktop: Runbooks That Run – Now Open Source](https://blog.atuin.sh/atuin-desktop-open-source/)
 - [Diff Algorithms](https://flo.znkr.io/diff/)
+- [Organize your Slack channels by "How Often", not "What"](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
 - [Inflammation now predicts heart disease more strongly than cholesterol](https://www.empirical.health/blog/inflammation-and-heart-health/)
-- [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
-- [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
-- [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
-- [Genomic analyses of hair from Ludwig van Beethoven (2023)](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
-- [Sora 2](https://openai.com/index/sora-2/)
-- [Launch HN: Airweave (YC X25) – Let agents search any app](https://github.com/airweave-ai/airweave)
-- [Cerebras systems raises $1.1B Series G](https://www.cerebras.ai/press-release/series-g)
-- [Prompt analytics for MCP servers](https://hyprmcp.com/blog/mcp-server-prompt-analytics/)
 
-*마지막 업데이트: 2025-09-30T21:08:53Z*
+*마지막 업데이트: 2025-10-01T04:29:18Z*
