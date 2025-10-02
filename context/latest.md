@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-01T21:08:50Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-02T04:28:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17903.384)
+- **AI automation** (점수: 17856.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17903.384)
+- **AI automation** (점수: 17856.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17903.384)
+- **AI automation** (점수: 17856.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17903.384)
+- **AI automation** (점수: 17856.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15568.16)
+- **AI automation** (점수: 15527.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15568.16)
+- **AI automation** (점수: 15527.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14789.752)
+- **AI automation** (점수: 14751.372)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Truth About the School "Replacing Teachers with AI"](https://danmeyer.substack.com/p/the-truth-about-2-hour-learning-and)
-- [AI has had zero effect on jobs so far, says Yale study](https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/)
-- [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+- [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa)
+- [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
+- [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
+- [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
+- [Egg-Shaped Curves (2007)](https://nyjp07.com/index_egg_E.html)
+- [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264)
+- [The Company Man](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)
 - [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
 - [Jane Goodall has died](https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead)
-- [What good workplace politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
-- [OpenTSLM: Language models that understand time series](https://www.opentslm.com/)
-- [Solar leads EU electricity generation as renewables hit 54%](https://electrek.co/2025/09/30/solar-leads-eu-electricity-generation-as-renewables-hit-54-percent/)
-- [Why Tech Inevitability is Self-Defeating](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
-- [Codeberg Reaches 300k Projects](https://codeberg.org/)
+- [Don't avoid workplace politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 
-*마지막 업데이트: 2025-10-01T21:08:50Z*
+*마지막 업데이트: 2025-10-02T04:28:00Z*
