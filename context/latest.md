@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-04T04:26:59Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-04T21:07:17Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16062.924)
+- **AI automation** (점수: 15828.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16062.924)
+- **AI automation** (점수: 15828.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16062.924)
+- **AI automation** (점수: 15828.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16062.924)
+- **AI automation** (점수: 15828.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13967.76)
+- **AI automation** (점수: 13764.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13967.76)
+- **AI automation** (점수: 13764.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13269.372)
+- **AI automation** (점수: 13075.952)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/)
-- [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/)
-- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1)
-- [Binary Formats Gallery](https://formats.kaitai.io/)
-- [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up)
-- [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
-- [Against the Uncritical Adoption of 'AI' Technologies in Academia](https://zenodo.org/records/17065099)
-- [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr)
-- [Interstellar Object 3I/Atlas Passed Mars Last Night](https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/)
-- [Offline card payments should be possible no later than 1 July 2026](https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/)
+- [Man buys used Tesla only to discover it's banned from Supercharger network](https://www.cbsnews.com/chicago/news/used-tesla-banned-supercharger-network-daniel-boycott/)
+- [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
+- [Blog Feeds](https://blogfeeds.net)
+- [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
+- [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
+- [Solaris 2.1 for x86 (2017)](https://www.os2museum.com/wp/pc-unix-history/solaris-2-1-for-x86/)
+- [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
+- [A comparison of Ada and Rust, using solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
+- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
+- [Self-hosting email like it's 1984](https://maxadamski.com/blog/2025/10/email.html)
 
-*마지막 업데이트: 2025-10-04T04:26:59Z*
+*마지막 업데이트: 2025-10-04T21:07:17Z*
