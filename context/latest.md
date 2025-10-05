@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-05T04:26:53Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-05T21:07:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15790.604)
+- **AI automation** (점수: 15918.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15790.604)
+- **AI automation** (점수: 15918.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15790.604)
+- **AI automation** (점수: 15918.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15790.604)
+- **AI automation** (점수: 15918.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13730.96)
+- **AI automation** (점수: 13842.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13730.96)
+- **AI automation** (점수: 13842.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13044.412)
+- **AI automation** (점수: 13150.052)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
-- [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
-- [Mod. 5140 - IBM's First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
-- [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351)
-- [AI-powered open-source code laundering](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
-- [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html)
-- [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
-- [OpenAI's hunger for computing power](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
-- [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
-- [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
+- [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
+- [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
+- [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
+- [Callbacks in C++ using template functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
+- [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
+- [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
+- [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1)
+- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)
+- [Show HN: ASCII Drawing Board](https://www.delopsu.com/draw.html)
+- [NIST's DeepSeek "evaluation" is a hit piece](https://erichartford.com/the-demonization-of-deepseek)
 
-*마지막 업데이트: 2025-10-05T04:26:53Z*
+*마지막 업데이트: 2025-10-05T21:07:48Z*
