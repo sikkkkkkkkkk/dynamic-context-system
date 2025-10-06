@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-05T21:07:48Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-06T04:28:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15918.484)
+- **AI automation** (점수: 16062.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15918.484)
+- **AI automation** (점수: 16062.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15918.484)
+- **AI automation** (점수: 16062.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15918.484)
+- **AI automation** (점수: 16062.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13842.16)
+- **AI automation** (점수: 13966.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13842.16)
+- **AI automation** (점수: 13966.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13150.052)
+- **AI automation** (점수: 13268.612)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Internet Archive – Celebrating 1T Web Pages Archived](https://blog.archive.org/trillion/)
+- [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
+- [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
+- [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
+- [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
+- [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
+- [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
+- [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
+- [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 - [Toybox: All-in-one Linux command line](https://github.com/landley/toybox)
-- [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
-- [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
-- [Callbacks in C++ using template functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
-- [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
-- [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
-- [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1)
-- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522)
-- [Show HN: ASCII Drawing Board](https://www.delopsu.com/draw.html)
-- [NIST's DeepSeek "evaluation" is a hit piece](https://erichartford.com/the-demonization-of-deepseek)
 
-*마지막 업데이트: 2025-10-05T21:07:48Z*
+*마지막 업데이트: 2025-10-06T04:28:46Z*
