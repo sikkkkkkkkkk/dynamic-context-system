@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-06T21:08:41Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-07T04:28:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17959.964)
+- **AI automation** (점수: 18441.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17959.964)
+- **AI automation** (점수: 18441.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17959.964)
+- **AI automation** (점수: 18441.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17959.964)
+- **AI automation** (점수: 18441.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15617.36)
+- **AI automation** (점수: 16035.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15617.36)
+- **AI automation** (점수: 16035.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14836.492)
+- **AI automation** (점수: 15233.972)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers)
-- [My Life in Ambigrammia](https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/)
-- [Apps SDK](https://developers.openai.com/apps-sdk/)
-- [OpenAI ChatKit](https://github.com/openai/chatkit-js)
-- [Beginnings: The Dempster Dumpster](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
-- [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
-- [OpenAI DevDay 2025: Opening keynote [video]](https://www.youtube.com/watch?v=hS1YqcewH0c)
-- [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601)
-- [One to two Starlink satellites are falling back to Earth each day](https://earthsky.org/human-world/1-to-2-starlink-satellites-falling-back-to-earth-each-day/)
-- [OpenZL: An open source format-aware compression framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
+- [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
+- [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
+- [Analytical review of depression and suicidality from finasteride](https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/)
+- [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
+- [Microsoft is plugging more holes that let you use Windows 11 without MS account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
+- [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844)
+- [CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
+- [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
+- [Valorant's 128-Tick Servers (2020)](https://technology.riotgames.com/news/valorants-128-tick-servers)
+- [Being blocked from contributing to lodash](https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/)
 
-*마지막 업데이트: 2025-10-06T21:08:41Z*
+*마지막 업데이트: 2025-10-07T04:28:48Z*
