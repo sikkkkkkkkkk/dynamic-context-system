@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-08T21:09:03Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-09T04:29:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20542.864)
+- **AI automation** (점수: 20588.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20542.864)
+- **AI automation** (점수: 20588.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20542.864)
+- **AI automation** (점수: 20588.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20542.864)
+- **AI automation** (점수: 20588.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17863.36)
+- **AI automation** (점수: 17903.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17863.36)
+- **AI automation** (점수: 17903.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16970.192)
+- **AI automation** (점수: 17008.192)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
-- [Expanding access to Opal, our no-code AI mini-app builder](https://blog.google/technology/google-labs/opal-expansion/)
-- [Svelte is that fast](https://chuniversiteit.nl/papers/svelte-is-fast)
-- [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-- [Julia 1.12 highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
-- [Show HN: FleetCode – Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
-- [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
-- [Show HN: I built a local-first podcast app](https://wherever.audio)
-- [Ortega hypothesis](https://en.wikipedia.org/wiki/Ortega_hypothesis)
-- [The RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
+- [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
+- [Tonight's restaurant dinner fell off the Sysco truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
+- [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
+- [Designing a Low Latency 10G Ethernet Core (2023)](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
+- [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false)
+- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/)
+- [Show HN: HyprMCP – Analytics, logs and auth for MCP servers](https://github.com/hyprmcp/jetski)
+- [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
+- [OpenAI, Nvidia fuel $1T AI market with web of circular deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals)
+- [Kurt Got Got](https://fly.io/blog/kurt-got-got/)
 
-*마지막 업데이트: 2025-10-08T21:09:03Z*
+*마지막 업데이트: 2025-10-09T04:29:43Z*
