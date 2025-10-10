@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-09T21:08:58Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-10T04:29:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 21720.004)
+- **AI automation** (점수: 22019.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 21720.004)
+- **AI automation** (점수: 22019.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 21720.004)
+- **AI automation** (점수: 22019.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 21720.004)
+- **AI automation** (점수: 22019.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18886.96)
+- **AI automation** (점수: 19147.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18886.96)
+- **AI automation** (점수: 19147.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17942.612)
+- **AI automation** (점수: 18190.372)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
+- [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
+- [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+- [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
+- [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
 - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
 - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
 - [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
+- [Examples Are the Best Documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 - [The government ate my name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
-- [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
-- [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
-- [Sea Rise Simulator (2023)](https://nagix.github.io/sea-level-rise-3d-map/)
-- [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
-- [Subway Builder: A realistic subway simulation game](https://www.subwaybuilder.com/)
-- [LLMs are mortally terrified of exceptions](https://twitter.com/karpathy/status/1976077806443569355)
 
-*마지막 업데이트: 2025-10-09T21:08:58Z*
+*마지막 업데이트: 2025-10-10T04:29:18Z*
