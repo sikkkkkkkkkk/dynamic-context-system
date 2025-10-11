@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-11T04:27:31Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-11T21:07:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 23853.024)
+- **AI automation** (점수: 24476.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 23853.024)
+- **AI automation** (점수: 24476.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 23853.024)
+- **AI automation** (점수: 24476.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 23853.024)
+- **AI automation** (점수: 24476.784)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 20741.76)
+- **AI automation** (점수: 21284.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 20741.76)
+- **AI automation** (점수: 21284.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 19704.672)
+- **AI automation** (점수: 20219.952)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bitter lessons building AI products](https://hex.tech/blog/bitter-lessons-building-ai-in-hex-product-management/)
-- [What happens to college towns after peak 18-year-old?](https://www.theargumentmag.com/p/what-happens-to-college-towns-after)
-- [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
-- [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636)
-- [(Re)Introducing the Pebble Appstore](https://ericmigi.com/blog/re-introducing-the-pebble-appstore/)
-- [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
-- [Tangled, a Git collaboration platform built on atproto](https://blog.tangled.org/intro)
-- [How to save the world with ZFS and 12 USB sticks: 4th anniversary video (2011)](https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/)
-- [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-- [Show HN: Semantic search over the National Gallery of Art](https://nga.demo.mixedbread.com/)
+- [Indonesia says 22 plants in industrial zone contaminated by caesium 137](https://www.reuters.com/sustainability/boards-policy-regulation/indonesia-says-22-plants-industrial-zone-near-jakarta-contaminated-by-caesium-2025-10-08/)
+- [Discord hack shows risks of online age checks](https://news.sky.com/story/discord-hack-shows-dangers-of-online-age-checks-as-internet-policing-hopes-put-to-the-test-13447618)
+- [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
+- [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
+- [People regret buying Amazon smart displays after being bombarded with ads](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
+- [GNU Health](https://www.gnuhealth.org/about-us.html)
+- [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
+- [Microsoft Amplifier](https://github.com/microsoft/amplifier)
+- [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
+- [Wilson's Algorithm](https://cruzgodar.com/applets/wilsons-algorithm/)
 
-*마지막 업데이트: 2025-10-11T04:27:31Z*
+*마지막 업데이트: 2025-10-11T21:07:23Z*
