@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-12T04:27:47Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-12T21:07:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24350.744)
+- **AI automation** (점수: 24367.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24350.744)
+- **AI automation** (점수: 24367.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24350.744)
+- **AI automation** (점수: 24367.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24350.744)
+- **AI automation** (점수: 24367.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21174.56)
+- **AI automation** (점수: 21188.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21174.56)
+- **AI automation** (점수: 21188.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20115.832)
+- **AI automation** (점수: 20129.512)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
-- [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
-- [LineageOS 23](https://lineageos.org/Changelog-30/)
-- [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
-- [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
-- [Paper2Video: Automatic Video Generation from Scientific Papers](https://arxiv.org/abs/2510.05096)
-- [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
-- [Heroin Addicts Often Seem Normal](https://justismills.substack.com/p/heroin-addicts-often-seem-normal)
-- [Ask HN: Abandoned/dead projects you think died before their time and why?](https://news.ycombinator.com/item?id=45553132)
-- [The story of X-Copy on the Amiga](https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/)
+- [Microsoft's "EdgeAI for Beginners":Learn How to Run AI Models Locally on Devices](https://github.com/microsoft/edgeai-for-beginners)
+- [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
+- [I audited 47 failed startups' codebases](https://old.reddit.com/r/Entrepreneur/comments/1o4jup6/i_audited_47_failed_startups_codebases_and_the/)
+- [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
+- [HP1345A (and wargames) (2017)](https://phk.freebsd.dk/hacks/Wargames/)
+- [Completing a BASIC language interpreter in 2025](https://nanochess.org/ecs_basic_2.html)
+- [Rcyl – a recycled plastic urban bike](https://rcyl.bike/en/the-bike/)
+- [We will no longer be actively supporting KuzuDB](https://kuzudb.com)
+- [Ridley Scott's Prometheus and Alien: Covenant – Contemporary Horror of AI (2020)](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
+- [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 
-*마지막 업데이트: 2025-10-12T04:27:47Z*
+*마지막 업데이트: 2025-10-12T21:07:55Z*
