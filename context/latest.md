@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-12T21:07:55Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-13T04:29:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24367.304)
+- **AI automation** (점수: 24328.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24367.304)
+- **AI automation** (점수: 24328.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24367.304)
+- **AI automation** (점수: 24328.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24367.304)
+- **AI automation** (점수: 24328.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21188.96)
+- **AI automation** (점수: 21155.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21188.96)
+- **AI automation** (점수: 21155.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20129.512)
+- **AI automation** (점수: 20097.592)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Microsoft's "EdgeAI for Beginners":Learn How to Run AI Models Locally on Devices](https://github.com/microsoft/edgeai-for-beginners)
+- [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
+- [Despite what's happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
+- [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food)
+- [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
+- [Novelty Automation](https://www.novelty-automation.com/)
+- [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
+- [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
+- [MAML – A new configuration language](https://maml.dev/)
+- [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
 - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
-- [I audited 47 failed startups' codebases](https://old.reddit.com/r/Entrepreneur/comments/1o4jup6/i_audited_47_failed_startups_codebases_and_the/)
-- [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
-- [HP1345A (and wargames) (2017)](https://phk.freebsd.dk/hacks/Wargames/)
-- [Completing a BASIC language interpreter in 2025](https://nanochess.org/ecs_basic_2.html)
-- [Rcyl – a recycled plastic urban bike](https://rcyl.bike/en/the-bike/)
-- [We will no longer be actively supporting KuzuDB](https://kuzudb.com)
-- [Ridley Scott's Prometheus and Alien: Covenant – Contemporary Horror of AI (2020)](https://www.ejumpcut.org/archive/jc58.2018/AlpertAlienPrequels/index.html)
-- [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 
-*마지막 업데이트: 2025-10-12T21:07:55Z*
+*마지막 업데이트: 2025-10-13T04:29:55Z*
