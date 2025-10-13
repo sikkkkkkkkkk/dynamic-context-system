@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-13T04:29:55Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-13T21:08:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24328.664)
+- **AI automation** (점수: 23652.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24328.664)
+- **AI automation** (점수: 23652.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24328.664)
+- **AI automation** (점수: 23652.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24328.664)
+- **AI automation** (점수: 23652.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21155.36)
+- **AI automation** (점수: 20567.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21155.36)
+- **AI automation** (점수: 20567.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20097.592)
+- **AI automation** (점수: 19539.372)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
-- [Despite what's happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
-- [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food)
-- [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
-- [Novelty Automation](https://www.novelty-automation.com/)
-- [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
-- [An initial investigation into WDDM on ReactOS](https://reactos.org/blogs/investigating-wddm/)
-- [MAML – A new configuration language](https://maml.dev/)
-- [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
-- [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
+- [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
+- [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
+- [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
+- [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
+- [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
+- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
+- [Android's sideloading limits are its most anti-consumer move](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
+- [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+- [Roger Dean – His legendary artwork in gaming history (Psygnosis)](https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/)
+- [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
 
-*마지막 업데이트: 2025-10-13T04:29:55Z*
+*마지막 업데이트: 2025-10-13T21:08:42Z*
