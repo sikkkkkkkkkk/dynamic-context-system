@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-13T21:08:42Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-14T04:29:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 23652.924)
+- **AI automation** (점수: 23424.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 23652.924)
+- **AI automation** (점수: 23424.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 23652.924)
+- **AI automation** (점수: 23424.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 23652.924)
+- **AI automation** (점수: 23424.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 20567.76)
+- **AI automation** (점수: 20368.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 20567.76)
+- **AI automation** (점수: 20368.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 19539.372)
+- **AI automation** (점수: 19350.512)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
+- [Show HN: Wordle but you have to predict your score before playing](https://boring.game/invite/SRhyUStjin)
+- [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6)
+- [Modifying a Casio F-Series Digital Watch (2020)](https://shellzine.net/casio-f-series-mods/)
+- [There are sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
+- [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608)
+- [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
+- [Sony PlayStation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
+- [LLMs are getting better at character-level text manipulation](https://blog.burkert.me/posts/llm_evolution_character_manipulation/)
 - [Strudel REPL – a music live coding environment living in the browser](https://strudel.cc)
-- [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
 - [Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/abs/2510.09272)
-- [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
-- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/)
-- [Android's sideloading limits are its most anti-consumer move](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
-- [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
-- [Roger Dean – His legendary artwork in gaming history (Psygnosis)](https://spillhistorie.no/2025/10/03/legends-of-the-games-industry-roger-dean/)
-- [Software update bricks some Jeep 4xe hybrids over the weekend](https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/)
 
-*마지막 업데이트: 2025-10-13T21:08:42Z*
+*마지막 업데이트: 2025-10-14T04:29:18Z*
