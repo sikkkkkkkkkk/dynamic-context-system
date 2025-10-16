@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-16T04:29:04Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-16T21:09:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24291.864)
+- **AI automation** (점수: 24494.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24291.864)
+- **AI automation** (점수: 24494.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24291.864)
+- **AI automation** (점수: 24494.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24291.864)
+- **AI automation** (점수: 24494.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21123.36)
+- **AI automation** (점수: 21299.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21123.36)
+- **AI automation** (점수: 21299.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20067.192)
+- **AI automation** (점수: 20234.392)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
-- [We're losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
-- [New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
-- [I'm recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
-- [Who's Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/)
-- [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
-- [IRS open sources its fact graph](https://github.com/IRS-Public/fact-graph)
-- [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
-- [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
-- [A Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/)
+- [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
+- [GifCities – The Geocities Animated GIF Search from Internet Archive](https://gifcities.org/)
+- [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [test-ipv6.com will stay online](https://status.test-ipv6.com)
+- [Talent](https://www.felixstocker.com/blog/talent)
+- [Mysterious Intrigue Around an x86 "Corporate Entity Other Than Intel/AMD"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
+- [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
+- [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
+- [Claude Skills](https://www.anthropic.com/news/skills)
+- [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 
-*마지막 업데이트: 2025-10-16T04:29:04Z*
+*마지막 업데이트: 2025-10-16T21:09:03Z*
