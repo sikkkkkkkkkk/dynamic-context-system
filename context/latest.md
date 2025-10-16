@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-15T21:08:46Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-16T04:29:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 23962.504)
+- **AI automation** (점수: 24291.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 23962.504)
+- **AI automation** (점수: 24291.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 23962.504)
+- **AI automation** (점수: 24291.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 23962.504)
+- **AI automation** (점수: 24291.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 20836.96)
+- **AI automation** (점수: 21123.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 20836.96)
+- **AI automation** (점수: 21123.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 19795.112)
+- **AI automation** (점수: 20067.192)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Things I've learned in my 7 years implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
-- [Recursive Language Models (RLMs)](https://alexzhang13.github.io/blog/2025/rlm/)
-- [Show HN: Specific (YC F25) – Build backends with specifications instead of code](https://specific.dev/)
-- [Are hard drives getting better?](https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/)
-- [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
-- [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
-- [Reverse engineering a 27MHz RC toy communication using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
-- [A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
-- [Pwning the Nix ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
-- [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/)
+- [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
+- [We're losing the war against drug-resistant infections faster than we thought](https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria)
+- [New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours](https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours)
+- [I'm recomming my customers switch to Linux rather that Upgrade to Windows 11](https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/)
+- [Who's Submitting AI-Tainted Filings in Court?](https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/)
+- [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
+- [IRS open sources its fact graph](https://github.com/IRS-Public/fact-graph)
+- [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
+- [Next Steps for the Caddy Project Maintainership](https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076)
+- [A Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/)
 
-*마지막 업데이트: 2025-10-15T21:08:46Z*
+*마지막 업데이트: 2025-10-16T04:29:04Z*
