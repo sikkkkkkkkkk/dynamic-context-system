@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-16T21:09:03Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-17T04:29:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24494.264)
+- **AI automation** (점수: 24443.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24494.264)
+- **AI automation** (점수: 24443.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24494.264)
+- **AI automation** (점수: 24443.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24494.264)
+- **AI automation** (점수: 24443.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21299.36)
+- **AI automation** (점수: 21255.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21299.36)
+- **AI automation** (점수: 21255.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20234.392)
+- **AI automation** (점수: 20192.592)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
+- [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
+- [America’s semiconductor boom](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
+- [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
+- [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
+- [Cloudflare Sandbox SDK](https://sandbox.cloudflare.com/)
+- [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
-- [GifCities – The Geocities Animated GIF Search from Internet Archive](https://gifcities.org/)
 - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-- [test-ipv6.com will stay online](https://status.test-ipv6.com)
 - [Talent](https://www.felixstocker.com/blog/talent)
-- [Mysterious Intrigue Around an x86 "Corporate Entity Other Than Intel/AMD"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel)
-- [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep)
-- [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/)
-- [Claude Skills](https://www.anthropic.com/news/skills)
-- [Codex Is Live in Zed](https://zed.dev/blog/codex-is-live-in-zed)
 
-*마지막 업데이트: 2025-10-16T21:09:03Z*
+*마지막 업데이트: 2025-10-17T04:29:58Z*
