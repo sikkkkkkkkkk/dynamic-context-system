@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-18T04:27:46Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-18T21:08:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24492.424)
+- **AI automation** (점수: 24855.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24492.424)
+- **AI automation** (점수: 24855.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24492.424)
+- **AI automation** (점수: 24855.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24492.424)
+- **AI automation** (점수: 24855.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21297.76)
+- **AI automation** (점수: 21613.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21297.76)
+- **AI automation** (점수: 21613.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20232.872)
+- **AI automation** (점수: 20532.692)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
-- [The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
-- [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
-- [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
-- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
-- [WebMCP](https://github.com/jasonjmcghee/WebMCP)
-- [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
-- [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
-- [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
-- [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
+- [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
+- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
+- [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
+- [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
+- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
+- [Attention is a luxury good](https://seths.blog/2025/10/attention-is-a-luxury-good/)
+- [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
+- [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search)
+- [Ripgrep 15.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
+- [Using CUE to unify IoT sensor data](https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/)
 
-*마지막 업데이트: 2025-10-18T04:27:46Z*
+*마지막 업데이트: 2025-10-18T21:08:06Z*
