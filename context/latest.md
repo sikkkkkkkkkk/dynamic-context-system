@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-19T04:29:20Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-19T21:08:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24956.564)
+- **AI automation** (점수: 25346.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24956.564)
+- **AI automation** (점수: 25346.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24956.564)
+- **AI automation** (점수: 25346.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24956.564)
+- **AI automation** (점수: 25346.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 21701.36)
+- **AI automation** (점수: 22040.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 21701.36)
+- **AI automation** (점수: 22040.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20616.292)
+- **AI automation** (점수: 20938.532)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The traffickers are winning the war on drugs](https://www.economist.com/briefing/2025/10/16/the-traffickers-are-winning-the-war-on-drugs)
-- [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem)
-- [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html)
-- [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422)
-- [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
-- [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k)
-- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data)
-- [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
-- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
-- [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
+- [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/)
+- [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
+- [US Government Uptime Monitor](https://usa-status.com/)
+- [Compare Single Board Computers](https://sbc.compare/)
+- [Airliner hit by possible space debris](https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/)
+- [Could the XZ backdoor been detected with better Git/Deb packaging practices?](https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/)
+- [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940)
+- [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish)
+- [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global)
+- [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/)
 
-*마지막 업데이트: 2025-10-19T04:29:20Z*
+*마지막 업데이트: 2025-10-19T21:08:10Z*
