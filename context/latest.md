@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-20T04:30:57Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-20T21:09:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 25470.384)
+- **AI automation** (점수: 25391.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 25470.384)
+- **AI automation** (점수: 25391.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 25470.384)
+- **AI automation** (점수: 25391.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 25470.384)
+- **AI automation** (점수: 25391.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 22148.16)
+- **AI automation** (점수: 22079.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 22148.16)
+- **AI automation** (점수: 22079.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 21040.752)
+- **AI automation** (점수: 20975.772)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366)
-- [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
-- [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
-- [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
-- [Carefully Educated to Be Idiots](https://www.hilarylayne.com/p/very-carefully-educated-to-be-idiots)
-- [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
-- [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o)
-- [LoC Is a Dumb Metric for Functions](https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/)
-- [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
-- [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim)
+- [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)
+- [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
+- [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
+- [When a stadium adds AI to everything, it's worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/)
+- [First Self-Propagating Worm Using Invisible Code Hits OpenVSX and VS Code](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
+- [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
+- [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
+- [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
+- [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/)
+- [Chess grandmaster Daniel Naroditsky has died](https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/)
 
-*마지막 업데이트: 2025-10-20T04:30:57Z*
+*마지막 업데이트: 2025-10-20T21:09:11Z*
