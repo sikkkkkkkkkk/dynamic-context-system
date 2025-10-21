@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-20T21:09:11Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-21T04:29:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 25391.724)
+- **AI automation** (점수: 25357.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 25391.724)
+- **AI automation** (점수: 25357.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 25391.724)
+- **AI automation** (점수: 25357.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 25391.724)
+- **AI automation** (점수: 25357.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 22079.76)
+- **AI automation** (점수: 22049.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 22079.76)
+- **AI automation** (점수: 22049.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20975.772)
+- **AI automation** (점수: 20947.272)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Should MS Replace Satya Nadella with an AI CEO?](https://old.reddit.com/r/microsoftsucks/comments/1obsew3/should_ms_replace_satya_nadella_with_an_ai_ceo/)
-- [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
-- [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
-- [When a stadium adds AI to everything, it's worse experience for everyone](https://a.wholelottanothing.org/bmo-stadium-in-la-added-ai-to-everything-and-what-they-got-was-a-worse-experience-for-everyone/)
-- [First Self-Propagating Worm Using Invisible Code Hits OpenVSX and VS Code](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
+- [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/)
+- [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/)
+- [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
+- [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 - [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
 - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 - [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped)
-- [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/)
-- [Chess grandmaster Daniel Naroditsky has died](https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/)
+- [Production RAG: what I learned from processing 5M+ documents](https://blog.abdellatif.io/production-rag-processing-5m-documents)
+- [Postman which I thought worked locally on my computer, is down](https://status.postman.com)
+- [Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)](https://judojj.com)
 
-*마지막 업데이트: 2025-10-20T21:09:11Z*
+*마지막 업데이트: 2025-10-21T04:29:56Z*
