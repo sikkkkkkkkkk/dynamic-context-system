@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-22T21:08:06Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-23T04:29:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26643.844)
+- **AI automation** (점수: 26557.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26643.844)
+- **AI automation** (점수: 26557.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26643.844)
+- **AI automation** (점수: 26557.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26643.844)
+- **AI automation** (점수: 26557.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23168.56)
+- **AI automation** (점수: 23093.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23168.56)
+- **AI automation** (점수: 23093.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22010.132)
+- **AI automation** (점수: 21939.072)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [The Myth of Outrunning Your Diet](https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet)
+- [The Sodium-Ion Battery Revolution Has Started](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
+- [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
 - [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+- [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)
+- [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
 - [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
-- [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
-- [Ovi](https://github.com/character-ai/Ovi)
+- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
 - [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
-- [ROG Xbox Ally runs better on Linux than Windows it ships with – up to 32% faster](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
-- [Criticisms of "The Body Keeps the Score"](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
-- [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
-- [Rivian's TM-B electric bike](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
-- [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
+- [Criticisms of “The Body Keeps the Score”](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
 
-*마지막 업데이트: 2025-10-22T21:08:06Z*
+*마지막 업데이트: 2025-10-23T04:29:19Z*
