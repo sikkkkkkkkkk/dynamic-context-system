@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-23T04:29:19Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-23T21:09:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26557.824)
+- **AI automation** (점수: 26815.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26557.824)
+- **AI automation** (점수: 26815.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26557.824)
+- **AI automation** (점수: 26815.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26557.824)
+- **AI automation** (점수: 26815.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23093.76)
+- **AI automation** (점수: 23318.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23093.76)
+- **AI automation** (점수: 23318.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 21939.072)
+- **AI automation** (점수: 22152.252)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Myth of Outrunning Your Diet](https://williamjbarry.substack.com/p/the-myth-of-outrunning-your-diet)
-- [The Sodium-Ion Battery Revolution Has Started](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/)
-- [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet)
-- [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
-- [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/)
-- [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
-- [Why SSA Compilers?](https://mcyoung.xyz/2025/10/21/ssa-1/)
-- [Ovi: Twin backbone cross-modal fusion for audio-video generation](https://github.com/character-ai/Ovi)
-- [Show HN: Cuq – Formal Verification of Rust GPU Kernels](https://github.com/neelsomani/cuq)
-- [Criticisms of “The Body Keeps the Score”](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
+- [The Muscular Compassion of "Paper Girl"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
+- [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
+- [What happened to Apple's legendary attention to detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
+- [Can "second life" EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
+- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
+- [OpenMaxIO: Forked UI for MinIO Object Storage](https://github.com/OpenMaxIO/openmaxio-object-browser)
+- [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
+- [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
+- [Show HN: Tommy – Turn ESP32 devices into through-wall motion sensors](https://www.tommysense.com)
+- [Make Any TypeScript Function Durable](https://useworkflow.dev/)
 
-*마지막 업데이트: 2025-10-23T04:29:19Z*
+*마지막 업데이트: 2025-10-23T21:09:07Z*
