@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-24T04:29:23Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-24T21:09:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26837.504)
+- **AI automation** (점수: 26989.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26837.504)
+- **AI automation** (점수: 26989.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26837.504)
+- **AI automation** (점수: 26989.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26837.504)
+- **AI automation** (점수: 26989.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23336.96)
+- **AI automation** (점수: 23469.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23336.96)
+- **AI automation** (점수: 23469.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22170.112)
+- **AI automation** (점수: 22295.892)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Roc Camera](https://roc.camera/)
-- [Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html)
-- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
-- [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314)
-- [Automating Algorithm Discovery: A Case Study in MoE Load Balancing](https://adrs-ucb.notion.site/moe-load-balancing)
-- [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
-- [How memory maps (mmap) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
-- [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
-- [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
-- [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
+- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
+- [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
+- [Harnessing America's Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
+- [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
+- [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
+- [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
+- [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
+- [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
+- [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
+- [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
 
-*마지막 업데이트: 2025-10-24T04:29:23Z*
+*마지막 업데이트: 2025-10-24T21:09:04Z*
