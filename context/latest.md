@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-23T21:09:07Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-24T04:29:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26815.884)
+- **AI automation** (점수: 26837.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26815.884)
+- **AI automation** (점수: 26837.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26815.884)
+- **AI automation** (점수: 26837.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26815.884)
+- **AI automation** (점수: 26837.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23318.16)
+- **AI automation** (점수: 23336.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23318.16)
+- **AI automation** (점수: 23336.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22152.252)
+- **AI automation** (점수: 22170.112)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Muscular Compassion of "Paper Girl"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
-- [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
-- [What happened to Apple's legendary attention to detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
-- [Can "second life" EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
-- [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
-- [OpenMaxIO: Forked UI for MinIO Object Storage](https://github.com/OpenMaxIO/openmaxio-object-browser)
-- [Show HN: I built a tech news aggregator that works the way my brain does](https://deadstack.net/recent)
-- [OpenAI acquires Sky.app](https://openai.com/index/openai-acquires-software-applications-incorporated)
-- [Show HN: Tommy – Turn ESP32 devices into through-wall motion sensors](https://www.tommysense.com)
-- [Make Any TypeScript Function Durable](https://useworkflow.dev/)
+- [Roc Camera](https://roc.camera/)
+- [Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html)
+- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
+- [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314)
+- [Automating Algorithm Discovery: A Case Study in MoE Load Balancing](https://adrs-ucb.notion.site/moe-load-balancing)
+- [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/)
+- [How memory maps (mmap) deliver faster file access in Go](https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go)
+- [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
+- [When is it better to think without words?](https://www.henrikkarlsson.xyz/p/wordless-thought)
+- [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 
-*마지막 업데이트: 2025-10-23T21:09:07Z*
+*마지막 업데이트: 2025-10-24T04:29:23Z*
