@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-24T21:09:04Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-25T04:28:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26989.764)
+- **AI automation** (점수: 26885.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26989.764)
+- **AI automation** (점수: 26885.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26989.764)
+- **AI automation** (점수: 26885.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26989.764)
+- **AI automation** (점수: 26885.804)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23469.36)
+- **AI automation** (점수: 23378.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23469.36)
+- **AI automation** (점수: 23378.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22295.892)
+- **AI automation** (점수: 22210.012)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
+- [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
+- [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
+- [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
+- [Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)
+- [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
+- [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
+- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
 - [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
 - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
-- [Harnessing America's Heat Pump Moment](https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment)
-- [How to make a Smith chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
-- [Code Like a Surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
-- [First shape found that can't pass through itself](https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/)
-- [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
-- [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
-- [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
-- [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
 
-*마지막 업데이트: 2025-10-24T21:09:04Z*
+*마지막 업데이트: 2025-10-25T04:28:05Z*
