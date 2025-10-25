@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-25T04:28:05Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-25T21:08:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 26885.804)
+- **AI automation** (점수: 27091.424)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 26885.804)
+- **AI automation** (점수: 27091.424)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 26885.804)
+- **AI automation** (점수: 27091.424)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 26885.804)
+- **AI automation** (점수: 27091.424)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23378.96)
+- **AI automation** (점수: 23557.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23378.96)
+- **AI automation** (점수: 23557.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22210.012)
+- **AI automation** (점수: 22379.872)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
-- [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
-- [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
-- [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
-- [Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)
-- [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
-- [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
-- [Study: MRI contrast agent causes harmful metal buildup in some patients](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
-- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
-- [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
+- [ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]](https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf)
+- [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
+- [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
+- ["Learn APL" Notes](https://luksamuk.codes/pages/learn-apl.html)
+- [Honda's ASIMO](https://www.robotsgottalents.com/post/asimo)
+- [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
+- [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
+- [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
+- [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
+- [Show HN: Status of my favorite bike share stations](https://blog.alexboden.ca/toronto-bike-share-status/)
 
-*마지막 업데이트: 2025-10-25T04:28:05Z*
+*마지막 업데이트: 2025-10-25T21:08:19Z*
