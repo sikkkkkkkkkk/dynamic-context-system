@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-25T21:08:19Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-26T04:28:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 27091.424)
+- **AI automation** (점수: 27068.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 27091.424)
+- **AI automation** (점수: 27068.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 27091.424)
+- **AI automation** (점수: 27068.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 27091.424)
+- **AI automation** (점수: 27068.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23557.76)
+- **AI automation** (점수: 23538.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23557.76)
+- **AI automation** (점수: 23538.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22379.872)
+- **AI automation** (점수: 22361.252)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]](https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf)
-- [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
-- [Project Amplify: Powered footwear for running and walking](https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images)
-- ["Learn APL" Notes](https://luksamuk.codes/pages/learn-apl.html)
-- [Honda's ASIMO](https://www.robotsgottalents.com/post/asimo)
-- [Agent Lightning: Train agents with RL (no code changes needed)](https://github.com/microsoft/agent-lightning)
-- [Testing out BLE beacons with BeaconDB](https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/)
-- [Load-time relocation of shared libraries (2011)](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/)
-- [In memory of the Christmas Island shrew](https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/)
-- [Show HN: Status of my favorite bike share stations](https://blog.alexboden.ca/toronto-bike-share-status/)
+- [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
+- [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
+- [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
+- [I'm drowning in AI features I never asked for and I hate it](https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/)
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
+- [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
+- [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
+- [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
+- [An Efficient Implementation of SELF (1989) [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
+- [An Update on TinyKVM](https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9)
 
-*마지막 업데이트: 2025-10-25T21:08:19Z*
+*마지막 업데이트: 2025-10-26T04:28:16Z*
