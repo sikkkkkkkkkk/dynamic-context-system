@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-26T21:08:41Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-27T04:35:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 27002.184)
+- **AI automation** (점수: 27004.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 27002.184)
+- **AI automation** (점수: 27004.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 27002.184)
+- **AI automation** (점수: 27004.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 27002.184)
+- **AI automation** (점수: 27004.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 23480.16)
+- **AI automation** (점수: 23482.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 23480.16)
+- **AI automation** (점수: 23482.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 22306.152)
+- **AI automation** (점수: 22308.432)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
-- [A Definition of AGI](https://arxiv.org/abs/2510.18212)
-- [Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
-- [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
-- [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
-- [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da)
-- [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
-- [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
-- [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
-- [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
+- [We're in the Wrong Moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/)
+- [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media)
+- [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
+- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet)
+- [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/)
+- [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser)
+- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)
+- [We Saved $500k per Year by Rolling Our Own "S3"](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
+- [Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)](https://github.com/dvir-biton/MyraOS)
+- [A definition of AGI](https://arxiv.org/abs/2510.18212)
 
-*마지막 업데이트: 2025-10-26T21:08:41Z*
+*마지막 업데이트: 2025-10-27T04:35:20Z*
