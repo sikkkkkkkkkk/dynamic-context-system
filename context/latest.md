@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-28T04:29:37Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-28T21:09:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 29900.184)
+- **AI automation** (점수: 30646.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 29900.184)
+- **AI automation** (점수: 30646.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 29900.184)
+- **AI automation** (점수: 30646.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 29900.184)
+- **AI automation** (점수: 30646.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 26000.16)
+- **AI automation** (점수: 26648.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 26000.16)
+- **AI automation** (점수: 26648.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 24700.152)
+- **AI automation** (점수: 25316.512)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering)
-- [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
-- [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
-- [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
-- [Easy RISC-V](https://dramforever.github.io/easyriscv/)
-- [Study finds growing social circles may fuel polarization](https://phys.org/news/2025-10-friends-division-social-circles-fuel.html)
-- [Creating an all-weather driver](https://waymo.com/blog/2025/10/creating-an-all-weather-driver)
-- [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
-- [The new calculus of AI-based coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
-- [Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)](https://dlog.pro/)
+- [Inside Amazon's engineering culture: Lessons from their senior principals](https://olshansky.substack.com/p/inside-amazons-engineering-culture)
+- [Boring Is What We Wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
+- [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
+- [Samsung makes ads on $3,499 smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
+- [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
+- [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+- [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/)
+- [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3)
+- [I've been loving Claude Code on the web](https://ben.page/claude-code-web)
+- [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto)
 
-*마지막 업데이트: 2025-10-28T04:29:37Z*
+*마지막 업데이트: 2025-10-28T21:09:20Z*
