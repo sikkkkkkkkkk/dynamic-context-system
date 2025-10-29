@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-29T04:32:33Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-29T21:09:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 31217.624)
+- **AI automation** (점수: 32539.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 31217.624)
+- **AI automation** (점수: 32539.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 31217.624)
+- **AI automation** (점수: 32539.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 31217.624)
+- **AI automation** (점수: 32539.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 27145.76)
+- **AI automation** (점수: 28295.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 27145.76)
+- **AI automation** (점수: 28295.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 25788.472)
+- **AI automation** (점수: 26880.592)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
-- [Project Shadowglass](https://shadowglassgame.com)
-- [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
-- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
-- [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
-- [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/)
-- [Show HN: Butter – A Behavior Cache for LLMs](https://www.butter.dev/)
-- [Why do some radio towers blink?](https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink)
-- [Samsung makes ads on smart fridges official with upcoming software update](https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/)
+- [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)
+- [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
+- [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+- [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
+- [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
+- [Encoding x86 Instructions](https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm)
+- [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
+- [Upwave (YC S12) is hiring software engineers](https://www.upwave.com/job/8228849002/)
+- [AOL to be sold to Bending Spoons for $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
+- [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
 
-*마지막 업데이트: 2025-10-29T04:32:33Z*
+*마지막 업데이트: 2025-10-29T21:09:25Z*
