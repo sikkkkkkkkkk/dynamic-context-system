@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-30T04:29:56Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-30T21:09:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 32770.584)
+- **AI automation** (점수: 33202.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 32770.584)
+- **AI automation** (점수: 33202.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 32770.584)
+- **AI automation** (점수: 33202.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 32770.584)
+- **AI automation** (점수: 33202.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 28496.16)
+- **AI automation** (점수: 28871.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 28496.16)
+- **AI automation** (점수: 28871.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 27071.352)
+- **AI automation** (점수: 27428.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
-- [IRCd service (2024)](https://example.fi/blog/ircd.html)
-- [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
-- [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
-- [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
-- [A century of reforestation helped keep the eastern US cool (2024)](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
-- [Responses from LLMs are not facts](https://stopcitingai.com/)
-- [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
-- [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
-- [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+- [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
+- [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
+- [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
+- [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
+- [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
+- [Some people can't see mental images](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
+- [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
+- [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
+- [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
+- [Affinity Studio now free](https://www.affinity.studio/get-affinity)
 
-*마지막 업데이트: 2025-10-30T04:29:56Z*
+*마지막 업데이트: 2025-10-30T21:09:21Z*
