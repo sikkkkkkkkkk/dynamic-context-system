@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-29T21:09:25Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-30T04:29:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 32539.664)
+- **AI automation** (점수: 32770.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 32539.664)
+- **AI automation** (점수: 32770.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 32539.664)
+- **AI automation** (점수: 32770.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 32539.664)
+- **AI automation** (점수: 32770.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 28295.36)
+- **AI automation** (점수: 28496.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 28295.36)
+- **AI automation** (점수: 28496.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 26880.592)
+- **AI automation** (점수: 27071.352)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Emergent Introspective Awareness in Large Language Models](https://transformer-circuits.pub/2025/introspection/index.html)
+- [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
+- [IRCd service (2024)](https://example.fi/blog/ircd.html)
+- [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
+- [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
+- [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
+- [A century of reforestation helped keep the eastern US cool (2024)](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
+- [Responses from LLMs are not facts](https://stopcitingai.com/)
+- [How the U.S. National Science Foundation Enabled Software-Defined Networking](https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/)
 - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
-- [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
-- [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
-- [Encoding x86 Instructions](https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm)
-- [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c)
-- [Upwave (YC S12) is hiring software engineers](https://www.upwave.com/job/8228849002/)
-- [AOL to be sold to Bending Spoons for $1.5B](https://www.axios.com/2025/10/29/aol-bending-spoons-deal)
-- [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-beta)
 
-*마지막 업데이트: 2025-10-29T21:09:25Z*
+*마지막 업데이트: 2025-10-30T04:29:56Z*
