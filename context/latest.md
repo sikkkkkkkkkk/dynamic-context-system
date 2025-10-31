@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-31T04:30:59Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-31T21:09:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 33560.864)
+- **AI automation** (점수: 34357.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 33560.864)
+- **AI automation** (점수: 34357.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 33560.864)
+- **AI automation** (점수: 34357.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 33560.864)
+- **AI automation** (점수: 34357.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 29183.36)
+- **AI automation** (점수: 29876.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 29183.36)
+- **AI automation** (점수: 29876.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 27724.192)
+- **AI automation** (점수: 28382.352)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [No Code](https://github.com/lemonyte/no-code)
-- [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
-- [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)
-- [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
-- [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
-- [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
-- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
-- [A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/)
-- [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
-- [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
+- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
+- [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+- [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
+- [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
+- [Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
+- [Just Use a Button](https://gomakethings.com/just-use-a-button/)
+- [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
+- [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
+- [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
+- [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 
-*마지막 업데이트: 2025-10-31T04:30:59Z*
+*마지막 업데이트: 2025-10-31T21:09:07Z*
