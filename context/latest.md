@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-30T21:09:21Z -->
+<!-- Dynamic Context Block | Updated: 2025-10-31T04:30:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 33202.524)
+- **AI automation** (점수: 33560.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 33202.524)
+- **AI automation** (점수: 33560.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 33202.524)
+- **AI automation** (점수: 33560.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 33202.524)
+- **AI automation** (점수: 33560.864)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 28871.76)
+- **AI automation** (점수: 29183.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 28871.76)
+- **AI automation** (점수: 29183.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 27428.172)
+- **AI automation** (점수: 27724.192)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Apple reports fourth quarter results](https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/)
-- [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
-- [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
-- [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
-- [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
-- [Some people can't see mental images](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound)
-- [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform)
-- [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)
-- [Qt Creator 18 Released](https://www.qt.io/blog/qt-creator-18-released)
-- [Affinity Studio now free](https://www.affinity.studio/get-affinity)
+- [No Code](https://github.com/lemonyte/no-code)
+- [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
+- [Chromium Browser DoS Attack via Document.title Exploitation](https://github.com/jofpin/brash)
+- [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
+- [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
+- [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler)
+- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
+- [A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/)
+- [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
+- [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
 
-*마지막 업데이트: 2025-10-30T21:09:21Z*
+*마지막 업데이트: 2025-10-31T04:30:59Z*
