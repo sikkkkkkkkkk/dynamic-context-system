@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-10-31T21:09:07Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-01T04:27:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 34357.584)
+- **AI automation** (점수: 34553.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 34357.584)
+- **AI automation** (점수: 34553.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 34357.584)
+- **AI automation** (점수: 34553.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 34357.584)
+- **AI automation** (점수: 34553.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 29876.16)
+- **AI automation** (점수: 30046.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 29876.16)
+- **AI automation** (점수: 30046.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 28382.352)
+- **AI automation** (점수: 28544.232)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [The Profitable Startup](https://linear.app/now/the-profitable-startup)
+- [Fungus: The Befunge CPU(2015)](https://www.bedroomlan.org/hardware/fungus/)
+- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+- [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
+- [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
-- [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
-- [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
+- [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
 - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-- [Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
-- [Just Use a Button](https://gomakethings.com/just-use-a-button/)
+- [Pangolin (YC S25) is hiring a full stack software engineer (open-source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
 - [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
-- [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
-- [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
-- [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 
-*마지막 업데이트: 2025-10-31T21:09:07Z*
+*마지막 업데이트: 2025-11-01T04:27:36Z*
