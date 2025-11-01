@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-01T04:27:36Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-01T21:07:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 34553.544)
+- **AI automation** (점수: 34565.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 34553.544)
+- **AI automation** (점수: 34565.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 34553.544)
+- **AI automation** (점수: 34565.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 34553.544)
+- **AI automation** (점수: 34565.504)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 30046.56)
+- **AI automation** (점수: 30056.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 30046.56)
+- **AI automation** (점수: 30056.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 28544.232)
+- **AI automation** (점수: 28554.112)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Profitable Startup](https://linear.app/now/the-profitable-startup)
-- [Fungus: The Befunge CPU(2015)](https://www.bedroomlan.org/hardware/fungus/)
-- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
-- [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
-- [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
-- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
-- [Addiction Markets](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
-- [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-- [Pangolin (YC S25) is hiring a full stack software engineer (open-source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
-- [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
+- [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)
+- [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
+- [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
+- [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
+- [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/)
+- [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
+- [Reconfigurable Analog Computers](https://arxiv.org/abs/2510.25942)
+- [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
+- [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
+- [Self-help gets philosophical](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)
 
-*마지막 업데이트: 2025-11-01T04:27:36Z*
+*마지막 업데이트: 2025-11-01T21:07:39Z*
