@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-02T04:29:02Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-02T21:08:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 34669.004)
+- **AI automation** (점수: 35244.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 34669.004)
+- **AI automation** (점수: 35244.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 34669.004)
+- **AI automation** (점수: 35244.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 34669.004)
+- **AI automation** (점수: 35244.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 30146.96)
+- **AI automation** (점수: 30646.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 30146.96)
+- **AI automation** (점수: 30646.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 28639.612)
+- **AI automation** (점수: 29114.612)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
-- [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
-- [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
-- [Why "everyone dies" gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
-- [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
-- [Show HN: Duper – The Format That's Super](https://duper.dev.br/)
-- [Pomelli](https://blog.google/technology/google-labs/pomelli/)
-- [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
-- [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
-- [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
+- ['This is the big one' – tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no)
+- [MTurk is 20 years old today – what did you create with it?](https://news.ycombinator.com/item?id=45792951)
+- [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
+- [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
+- [React-Native-Godot](https://github.com/borndotcom/react-native-godot)
+- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
+- [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
+- [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
+- [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html)
+- [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/)
 
-*마지막 업데이트: 2025-11-02T04:29:02Z*
+*마지막 업데이트: 2025-11-02T21:08:15Z*
