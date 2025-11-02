@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-01T21:07:39Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-02T04:29:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 34565.504)
+- **AI automation** (점수: 34669.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 34565.504)
+- **AI automation** (점수: 34669.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 34565.504)
+- **AI automation** (점수: 34669.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 34565.504)
+- **AI automation** (점수: 34669.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 30056.96)
+- **AI automation** (점수: 30146.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 30056.96)
+- **AI automation** (점수: 30146.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 28554.112)
+- **AI automation** (점수: 28639.612)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)
-- [Beginner-friendly, unofficial documentation for Helix text editor](https://helix-editor.vercel.app/start-here/basics/)
-- [Word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
-- [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
-- [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/)
-- [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
-- [Reconfigurable Analog Computers](https://arxiv.org/abs/2510.25942)
-- [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/)
-- [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode)
-- [Self-help gets philosophical](https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/)
+- [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
+- [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
+- [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
+- [Why "everyone dies" gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
+- [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
+- [Show HN: Duper – The Format That's Super](https://duper.dev.br/)
+- [Pomelli](https://blog.google/technology/google-labs/pomelli/)
+- [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
+- [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
+- [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
 
-*마지막 업데이트: 2025-11-01T21:07:39Z*
+*마지막 업데이트: 2025-11-02T04:29:02Z*
