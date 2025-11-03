@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-03T04:34:32Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-03T21:09:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 35358.084)
+- **AI automation** (점수: 34356.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 35358.084)
+- **AI automation** (점수: 34356.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 35358.084)
+- **AI automation** (점수: 34356.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 35358.084)
+- **AI automation** (점수: 34356.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 30746.16)
+- **AI automation** (점수: 29875.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 30746.16)
+- **AI automation** (점수: 29875.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 29208.852)
+- **AI automation** (점수: 28381.592)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
-- [Amazon has launched a major global crackdown on Fire Stick piracy](https://www.the-sun.com/tech/15422622/amazon-fire-tv-stick-dodgy-apps-block-piracy-streaming/)
-- [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
-- [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
-- [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
-- [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
-- [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
-- [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
-- [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
-- [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
+- [</> Htmx – The Fetch()ening](https://htmx.org/essays/the-fetchening/)
+- [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa (no LoRaWAN)](https://github.com/antirez/freakwan)
+- [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
+- [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
+- [No Socials November](https://bjhess.com/posts/no-socials-november)
+- [Python Steering Council unanimously accepts "PEP 810, Explicit lazy imports"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
+- [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
+- [Learning to read Arthur Whitney's C to become smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
+- [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
+- [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
 
-*마지막 업데이트: 2025-11-03T04:34:32Z*
+*마지막 업데이트: 2025-11-03T21:09:32Z*
