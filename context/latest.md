@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-03T21:09:32Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-04T04:30:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 34356.664)
+- **AI automation** (점수: 33538.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 34356.664)
+- **AI automation** (점수: 33538.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 34356.664)
+- **AI automation** (점수: 33538.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 34356.664)
+- **AI automation** (점수: 33538.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 29875.36)
+- **AI automation** (점수: 29163.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 29875.36)
+- **AI automation** (점수: 29163.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 28381.592)
+- **AI automation** (점수: 27705.572)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [</> Htmx – The Fetch()ening](https://htmx.org/essays/the-fetchening/)
-- [FreakWAN: A floor-routing WAN implementing a chat over bare-LoRa (no LoRaWAN)](https://github.com/antirez/freakwan)
-- [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
-- [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
-- [No Socials November](https://bjhess.com/posts/no-socials-november)
-- [Python Steering Council unanimously accepts "PEP 810, Explicit lazy imports"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23)
-- [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node)
-- [Learning to read Arthur Whitney's C to become smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html)
-- [Ask HN: Who is hiring? (November 2025)](https://news.ycombinator.com/item?id=45800465)
-- [Ask HN: Who wants to be hired? (November 2025)](https://news.ycombinator.com/item?id=45800464)
+- [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
+- [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)
+- [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
+- [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
+- [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
+- [A friendly tour of process memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
+- [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38)
+- [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition)
+- [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era)
+- [The Mack Super Pumper was a locomotive engined fire fighter (2018)](https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/)
 
-*마지막 업데이트: 2025-11-03T21:09:32Z*
+*마지막 업데이트: 2025-11-04T04:30:07Z*
