@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-07T04:29:24Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-07T21:07:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 30331.664)
+- **AI automation** (점수: 29418.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 30331.664)
+- **AI automation** (점수: 29418.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 30331.664)
+- **AI automation** (점수: 29418.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 30331.664)
+- **AI automation** (점수: 29418.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 26375.36)
+- **AI automation** (점수: 25580.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 26375.36)
+- **AI automation** (점수: 25580.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 25056.592)
+- **AI automation** (점수: 24301.912)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
-- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
-- [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
-- [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
-- [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
-- [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-- [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
-- [Analysis indicates that the universe’s expansion is not accelerating](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
-- [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
-- [Two billion email addresses were exposed](https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/)
+- [VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025](https://fsfe.org/news/2025/news-20251107-01.en.html)
+- [Ribir: Non-intrusive GUI framework for Rust/WASM](https://github.com/RibirX/Ribir)
+- [Apple is crossing a Steve Jobs red line](https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/)
+- [How did I get here?](https://how-did-i-get-here.net/)
+- [Should facial analysis help determine whom companies hire?](https://www.economist.com/business/2025/11/06/should-facial-analysis-help-determine-whom-companies-hire)
+- [Show HN: Three Emojis, a daily word puzzle for language learners](https://threeemojis.com/en-US/play/hex/en-US/2025-11-07)
+- [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
+- [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
+- [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
+- [Rockstar employee shares account of the company's union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
 
-*마지막 업데이트: 2025-11-07T04:29:24Z*
+*마지막 업데이트: 2025-11-07T21:07:26Z*
