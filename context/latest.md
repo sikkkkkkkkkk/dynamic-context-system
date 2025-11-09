@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-08T21:08:14Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-09T04:28:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 28987.084)
+- **AI automation** (점수: 28876.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 28987.084)
+- **AI automation** (점수: 28876.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 28987.084)
+- **AI automation** (점수: 28876.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 28987.084)
+- **AI automation** (점수: 28876.224)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 25206.16)
+- **AI automation** (점수: 25109.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 25206.16)
+- **AI automation** (점수: 25109.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 23945.852)
+- **AI automation** (점수: 23854.272)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Avería: The Average Font (2011)](http://iotic.com/averia/)
-- [Near mid-air collision at LAX between American Airlines and ITA [video]](https://www.youtube.com/watch?v=-j76cp7bETw)
-- [Facebook enables gender discrimination in job ads, European human rights rules](https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl)
-- [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)
-- [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
-- [WriterdeckOS](https://writerdeckos.com)
-- [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
-- [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/)
-- [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/)
-- [Ticker: Don't die of heart disease](https://myticker.com/)
+- [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html)
+- [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
+- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
+- [How Airbus Took Off](https://worksinprogress.co/issue/how-airbus-took-off/)
+- [He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
+- [Judge denies request to exempt Flock footage from Public Records Act](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
+- [Humanity's Endgame](https://www.noemamag.com/humanitys-endgame/)
+- [GPT-5-Codex-Mini – A more compact and cost-efficient version of GPT-5-Codex](https://github.com/openai/codex/releases/tag/rust-v0.56.0)
+- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
+- [IP blocking the UK is not enough to comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
 
-*마지막 업데이트: 2025-11-08T21:08:14Z*
+*마지막 업데이트: 2025-11-09T04:28:49Z*
