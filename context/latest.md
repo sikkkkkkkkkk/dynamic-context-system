@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-09T21:08:24Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-10T04:33:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 28488.444)
+- **AI automation** (점수: 28482.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 28488.444)
+- **AI automation** (점수: 28482.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 28488.444)
+- **AI automation** (점수: 28482.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 28488.444)
+- **AI automation** (점수: 28482.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 24772.56)
+- **AI automation** (점수: 24767.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 24772.56)
+- **AI automation** (점수: 24767.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 23533.932)
+- **AI automation** (점수: 23528.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
+- [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
+- [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
+- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
+- [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
+- [Sued by Nintendo](https://www.suedbynintendo.com/)
+- [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
+- [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
 - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
-- [Protect Your Consciousness from AI](https://jordangoodman.bearblog.dev/protect-your-consciousness-from-ai/)
 - [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/)
-- [Drilling Down on Uncle Sam's Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
-- [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
-- [Python Software Foundation gets a donor surge after rejecting federal grant](https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/)
-- [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi)
-- [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
-- [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
-- [AI isn't replacing jobs. AI spending is](https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon)
 
-*마지막 업데이트: 2025-11-09T21:08:24Z*
+*마지막 업데이트: 2025-11-10T04:33:23Z*
