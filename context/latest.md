@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-10T21:09:27Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-11T04:30:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 28865.644)
+- **AI automation** (점수: 28705.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 28865.644)
+- **AI automation** (점수: 28705.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 28865.644)
+- **AI automation** (점수: 28705.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 28865.644)
+- **AI automation** (점수: 28705.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 25100.56)
+- **AI automation** (점수: 24960.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 25100.56)
+- **AI automation** (점수: 24960.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 23845.532)
+- **AI automation** (점수: 23712.912)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Redmond, WA, turns off Flock Safety cameras after ICE arrests](https://www.seattletimes.com/seattle-news/law-justice/redmond-turns-off-flock-safety-cameras-after-ice-arrests/)
-- [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
-- [Omnilingual ASR: Advancing automatic speech recognition for 1600 languages](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1)
-- [The lazy Git UI you didn't know you need](https://www.bwplotka.dev/2025/lazygit/)
-- [European Commission plans “digital omnibus” package to simplify its tech laws](https://www.politico.eu/article/brussels-knifes-privacy-to-feed-the-ai-boom-gdpr-digital-omnibus/)
-- [Canadian military will rely on public servants to boost its ranks by 300k](https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-servants)
-- [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/)
-- [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://news.ycombinator.com/item?id=45877517)
-- [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
-- [How cops can get your private online data](https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data)
+- [DEC Mini – computer inspired by one of the loveliest retro computers of the 80s](https://decmini.tin.cat/)
+- [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
+- [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
+- [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
+- [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
+- [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
+- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
+- [Linux in a Pixel Shader – A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
+- [Zeroing in on Zero-Point Motion Inside a Crystal](https://physics.aps.org/articles/v18/178)
+- [Spatial intelligence is AI’s next frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
 
-*마지막 업데이트: 2025-11-10T21:09:27Z*
+*마지막 업데이트: 2025-11-11T04:30:57Z*
