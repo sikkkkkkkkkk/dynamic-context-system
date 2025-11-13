@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2025-11-12T21:09:44Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-13T04:31:50Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 28377.584)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 28117.224)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 12.155)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 28377.584)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 28117.224)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 12.155)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 28377.584)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 28117.224)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 12.155)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 28377.584)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 28117.224)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 12.155)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 24676.16)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 24449.76)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.57)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 24676.16)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 24449.76)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.57)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 23442.352)
-- **AI tutorial** (점수: 19.162)
+- **AI automation** (점수: 23227.272)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 10.041)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [My dad could still be alive, but he's not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
+- [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
+- [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+- [Eleven Labs Debuts "Iconic Marketplace" Feat Michael Caine, Judy Garland, Others](https://elevenlabs.io/iconic-marketplace)
+- [Voyager 1 is a light-day away by November 2026](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
+- [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/)
+- [Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase](https://arxiv.org/abs/2510.27002)
+- [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
+- [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
 - [OmniAI (YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
-- [LLM Output Drift in Financial Workflows: Validation and Mitigation (arXiv)](https://arxiv.org/abs/2511.07585)
-- [GLP-1 drugs linked to lower death rates in colon cancer patients](https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients)
-- [Blasting Yeast with UV Light](https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with)
-- [How Tube Amplifiers Work](https://robrobinette.com/How_Amps_Work.htm)
-- [Maestro Technology Sells Used SSD Drives as New](https://kozubik.com/items/MaestroTechnology/)
-- [Valve Announces New Steam Machine, Steam Controller and Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
-- [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
-- [Steam Machine](https://store.steampowered.com/sale/steammachine)
-- [Steam Frame](https://store.steampowered.com/sale/steamframe)
 
-*마지막 업데이트: 2025-11-12T21:09:44Z*
+*마지막 업데이트: 2025-11-13T04:31:50Z*
