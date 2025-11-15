@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-15T04:29:16Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-15T21:08:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 25699.004)
+- **AI automation** (점수: 26356.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 25699.004)
+- **AI automation** (점수: 26356.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 25699.004)
+- **AI automation** (점수: 26356.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 25699.004)
+- **AI automation** (점수: 26356.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 22346.96)
+- **AI automation** (점수: 22918.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 22346.96)
+- **AI automation** (점수: 22918.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 21229.612)
+- **AI automation** (점수: 21772.632)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Scientists reverse kidney damage in mice, hope for humans next](https://www.sciencedaily.com/releases/2025/11/251114094525.htm)
-- [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
-- [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)
-- [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/)
-- [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
-- [Go's Sweet 16](https://go.dev/blog/16years)
-- [SSL Configuration Generator](https://ssl-config.mozilla.org/)
-- [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
-- [All praise to the lunch ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies)
-- [Structured outputs on the Claude Developer Platform](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
+- [AMD continues to chip away at Intel's x86 market share](https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems)
+- [Caffeinated coffee consumption or abstinence to reduce atrial fibrillation](https://jamanetwork.com/journals/jama/fullarticle/2841253)
+- [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
+- [AWS deprecates two dozen services (most of which you've never heard of)](https://www.lastweekinaws.com/blog/aws-deprecates-two-dozen-services-most-of-which-youve-never-heard-of/)
+- [The computer poetry of J. M. Coetzee's early programming career](https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/)
+- [Transgenerational Epigenetic Inheritance: the story of learned avoidance](https://elifesciences.org/articles/109427)
+- [USA gives South Korea green light to build nuclear submarines](https://www.navalnews.com/naval-news/2025/10/usa-gives-south-korea-green-light-to-build-nuclear-submarines/)
+- [FBI Director Waived Polygraph Security Screening for Three Senior Staff](https://www.propublica.org/article/fbi-kash-patel-dan-bongino-waived-polygraph)
+- [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time)
+- [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable)
 
-*마지막 업데이트: 2025-11-15T04:29:16Z*
+*마지막 업데이트: 2025-11-15T21:08:07Z*
