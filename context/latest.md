@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2025-11-18T04:31:22Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-19T04:31:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 25369.644)
+- **AI automation** (점수: 23841.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 25369.644)
+- **AI automation** (점수: 23841.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 25369.644)
+- **AI automation** (점수: 23841.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 25369.644)
+- **AI automation** (점수: 23841.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 22060.56)
+- **AI automation** (점수: 20731.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 22060.56)
+- **AI automation** (점수: 20731.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 20957.532)
+- **AI automation** (점수: 19695.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 9.662)
+- **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
-- [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
-- [I caught Google Gemini using my data and then covering it up](https://unbuffered.stream/gemini-personal-context/)
-- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
-- [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye)
-- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
-- [Run ancient UNIX on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
-- [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
-- [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
-- [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
+- [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
+- [Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
+- [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
+- [Rebecca Heineman – from homelessness to porting Doom (2022)](https://corecursive.com/doomed-to-fail-with-burger-becky/)
+- [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
+- [Blender 5.0](https://www.blender.org/download/releases/5-0/)
+- [Bild AI (YC W25) is hiring – Make housing affordable](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
+- [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
+- [Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark](https://simonwillison.net/2025/Nov/18/gemini-3/)
+- [OrthoRoute – GPU-accelerated autorouting for KiCad](https://bbenchoff.github.io/pages/OrthoRoute.html)
 
-*마지막 업데이트: 2025-11-18T04:31:22Z*
+*마지막 업데이트: 2025-11-19T04:31:26Z*
