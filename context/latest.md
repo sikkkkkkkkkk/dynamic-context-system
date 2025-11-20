@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-19T21:08:25Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-20T04:29:50Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 23059.064)
+- **AI automation** (점수: 23211.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 23059.064)
+- **AI automation** (점수: 23211.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 23059.064)
+- **AI automation** (점수: 23211.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 23059.064)
+- **AI automation** (점수: 23211.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 20051.36)
+- **AI automation** (점수: 20183.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 20051.36)
+- **AI automation** (점수: 20183.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 19048.792)
+- **AI automation** (점수: 19174.572)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish)
+- [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/)
+- [CornHub](https://cornhub.website/)
+- [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
+- [Precise geolocation via Wi-Fi Positioning System](https://www.amoses.dev/blog/wifi-location/)
+- [Gaming on Linux has never been more approachable](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
+- [How Slide Rules Work](https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/)
+- [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 - [Microsoft AI CEO pushes back against critics after recent Windows AI backlash](https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me)
-- [Detection, Decoding of "Power Track" Predictive Signaling in Equity Market Data](https://github.com/TheGameStopsNow/power-tracks-research)
-- [Loose Wire Leads to Blackout, Contact with Francis Scott Key Bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
-- [Cognitive and Mental Health Correlates of Short-Form Video Use](https://psycnet.apa.org/fulltext/2026-89350-001.html)
-- [The Death of Arduino?](https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H)
-- [Measuring Political Bias in Claude](https://www.anthropic.com/news/political-even-handedness)
-- [Pozsar's Bretton Woods III: Sometimes Money Can't Solve the Problem](https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/)
-- [What AI Is Really For](https://www.chrbutler.com/what-ai-is-really-for)
-- [Why Samsung Phones Are Failing Emergency Calls in Australia](https://hackaday.com/2025/11/19/why-samsung-phones-are-failing-emergency-calls-in-australia/)
-- [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
+- [Loose wire leads to blackout, contact with Francis Scott Key bridge](https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx)
 
-*마지막 업데이트: 2025-11-19T21:08:25Z*
+*마지막 업데이트: 2025-11-20T04:29:50Z*
