@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-22T04:28:58Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-22T21:08:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 24048.064)
+- **AI automation** (점수: 23029.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 24048.064)
+- **AI automation** (점수: 23029.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 24048.064)
+- **AI automation** (점수: 23029.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 24048.064)
+- **AI automation** (점수: 23029.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 20911.36)
+- **AI automation** (점수: 20025.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 20911.36)
+- **AI automation** (점수: 20025.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 19865.792)
+- **AI automation** (점수: 19024.092)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
-- [Infinibay LXD Container](https://github.com/Infinibay/lxd)
-- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
-- [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)
-- [Apple's Problem with Bodies](https://drobinin.com/posts/apples-problem-with-bodies/)
-- [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
-- [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
-- [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
-- [LAPD helicopter tracker with real-time operating costs](https://lapdhelicoptertracker.com/)
-- [Arduino Terms of Service and Privacy Policy update: setting the record straight](https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/)
+- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+- [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
+- [China reaches energy milestone by "breeding" uranium from thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
+- [Gwern's "Stem Humor" Directory](https://gwern.net/doc/math/humor/index)
+- [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
+- [The Uncertain Origins of Aspirin](https://press.asimov.com/articles/aspirin)
+- [New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/)
+- ['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)
+- [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
+- [Original Superman comic becomes the highest-priced comic book ever sold](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 
-*마지막 업데이트: 2025-11-22T04:28:58Z*
+*마지막 업데이트: 2025-11-22T21:08:31Z*
