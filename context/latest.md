@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-22T21:08:31Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-23T04:36:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 23029.164)
+- **AI automation** (점수: 22742.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 23029.164)
+- **AI automation** (점수: 22742.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 23029.164)
+- **AI automation** (점수: 22742.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 23029.164)
+- **AI automation** (점수: 22742.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 20025.36)
+- **AI automation** (점수: 19775.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 20025.36)
+- **AI automation** (점수: 19775.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 19024.092)
+- **AI automation** (점수: 18786.972)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
-- [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
-- [China reaches energy milestone by "breeding" uranium from thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
-- [Gwern's "Stem Humor" Directory](https://gwern.net/doc/math/humor/index)
-- [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
-- [The Uncertain Origins of Aspirin](https://press.asimov.com/articles/aspirin)
-- [New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/)
-- ['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex)
-- [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
-- [Original Superman comic becomes the highest-priced comic book ever sold](https://www.bbc.com/news/articles/c8e9rp0knj6o)
+- [Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
+- [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
+- [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
+- [An Economy of AI Agents](https://arxiv.org/abs/2509.01063)
+- [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/)
+- [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors)
+- [A Year Without Caffeine (2013)](https://bryanalexander.org/personal/a-year-without-caffeine/)
+- [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
+- [NTSB report: Decryption of images from the Titan submersible camera [pdf]](https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf)
+- [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
 
-*마지막 업데이트: 2025-11-22T21:08:31Z*
+*마지막 업데이트: 2025-11-23T04:36:46Z*
