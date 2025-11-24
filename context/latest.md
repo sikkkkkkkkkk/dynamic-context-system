@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-23T21:08:48Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-24T04:38:22Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 22581.124)
+- **AI automation** (점수: 22386.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 22581.124)
+- **AI automation** (점수: 22386.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 22581.124)
+- **AI automation** (점수: 22386.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 22581.124)
+- **AI automation** (점수: 22386.544)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 19635.76)
+- **AI automation** (점수: 19466.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 19635.76)
+- **AI automation** (점수: 19466.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 18653.972)
+- **AI automation** (점수: 18493.232)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- ["Good engineering management" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)
-- [780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks](https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/loaded-this-linux-distro-in-a-month/)
-- [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
-- [Apple to focus on 'quality and underlying performance' with iOS 27 next year](https://9to5mac.com/2025/11/23/apple-focusing-on-software-quality-improvements-ios-27-next-year-report/)
-- [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
-- [SVG.js v3.2](https://svgjs.dev/docs/3.2/)
-- [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer)
-- [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
-- [Ask HN: Good resources to learn financial systems engineering?](https://news.ycombinator.com/item?id=46024753)
-- [Mount Proton Drive on Linux using rclone and systemd](https://github.com/dadtronics/protondrive-linux)
+- [RuBee](https://computer.rip/2025-11-22-RuBee.html)
+- [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
+- [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
+- [Ask HN: Hearing aid wearers, what's hot?](https://news.ycombinator.com/item?id=46029699)
+- [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
+- [A Unified Theory of Ego, Empathy, and Humility at Work](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
+- [A ncurses-based command line torrent client for high performance](https://github.com/rakshasa/rtorrent)
+- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
+- [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
+- [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
 
-*마지막 업데이트: 2025-11-23T21:08:48Z*
+*마지막 업데이트: 2025-11-24T04:38:22Z*
