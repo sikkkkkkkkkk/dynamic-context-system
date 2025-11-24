@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2025-11-24T04:38:22Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-24T21:10:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 22386.544)
+- **AI automation** (점수: 21635.824)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 22386.544)
+- **AI automation** (점수: 21635.824)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 22386.544)
+- **AI automation** (점수: 21635.824)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 22386.544)
+- **AI automation** (점수: 21635.824)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 19466.56)
+- **AI automation** (점수: 18813.76)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 19466.56)
+- **AI automation** (점수: 18813.76)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 18493.232)
+- **AI automation** (점수: 17873.072)
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [RuBee](https://computer.rip/2025-11-22-RuBee.html)
-- [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
-- [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
-- [Ask HN: Hearing aid wearers, what's hot?](https://news.ycombinator.com/item?id=46029699)
-- [Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4](https://technotes.seastrom.com/2025/11/23/passing-the-torch.html)
-- [A Unified Theory of Ego, Empathy, and Humility at Work](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/)
-- [A ncurses-based command line torrent client for high performance](https://github.com/rakshasa/rtorrent)
-- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern)
-- [Sunsetting Supermaven](https://supermaven.com/blog/sunsetting-supermaven)
-- [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
+- [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
+- [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
+- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
+- [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+- [GrapheneOS migrates server infrastructure from France](https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/)
+- [Is your Android TV streaming box part of a botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+- [Launch HN: Karumi (YC F25) – Personalized, agentic product demos](http://karumi.ai/)
+- [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
+- [TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
+- [Mind-reading devices can now predict preconscious thoughts](https://www.nature.com/articles/d41586-025-03714-0)
 
-*마지막 업데이트: 2025-11-24T04:38:22Z*
+*마지막 업데이트: 2025-11-24T21:10:07Z*
