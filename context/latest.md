@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-25T04:32:30Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-25T21:09:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 21445.844)
+- **AI automation** (점수: 21913.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 21445.844)
+- **AI automation** (점수: 21913.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 21445.844)
+- **AI automation** (점수: 21913.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 21445.844)
+- **AI automation** (점수: 21913.664)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 18648.56)
+- **AI automation** (점수: 19055.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 18648.56)
+- **AI automation** (점수: 19055.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17716.132)
+- **AI automation** (점수: 18102.592)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
-- [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)
-- [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
-- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
-- [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
-- [Google's new 'Aluminium OS' project brings Android to PC](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
-- [The Bitter Lesson of LLM Extensions](https://www.sawyerhood.com/blog/llm-extension)
-- [TSMC Arizona outage saw fab halt, Apple wafers scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt)
-- [Mind-reading devices can now predict preconscious thoughts](https://www.nature.com/articles/d41586-025-03714-0)
-- [Show HN: I built an interactive HN Simulator](https://news.ysimulator.run/news)
+- [How to repurpose your old phone's GPS modem into a web server](https://blog.nns.ee/2021/04/01/modem-blog)
+- [A New Bridge Links the Math of Infinity to Computer Science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
+- [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
+- [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
+- [Bad UX World Cup 2025](https://badux.lol/)
+- [Google Antigravity Exfiltrates Data](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
+- [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
+- [It is ok to say "CSS variables" instead of "custom properties"](https://blog.kizu.dev/css-variables/)
+- [US banks scramble to assess data theft after hackers breach financial tech firm](https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/)
+- [Ozempic does not slow Alzheimer's, study finds](https://www.semafor.com/article/11/25/2025/ozempic-does-not-slow-alzheimers-study-finds)
 
-*마지막 업데이트: 2025-11-25T04:32:30Z*
+*마지막 업데이트: 2025-11-25T21:09:43Z*
