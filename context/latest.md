@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-26T04:32:46Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-26T21:09:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 22075.584)
+- **AI automation** (점수: 21958.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 22075.584)
+- **AI automation** (점수: 21958.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 22075.584)
+- **AI automation** (점수: 21958.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 22075.584)
+- **AI automation** (점수: 21958.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 19196.16)
+- **AI automation** (점수: 19094.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 19196.16)
+- **AI automation** (점수: 19094.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 18236.352)
+- **AI automation** (점수: 18139.452)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
-- [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
-- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
-- [BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh)
-- [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
-- [CS234: Reinforcement Learning Winter 2025](https://web.stanford.edu/class/cs234/)
-- [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)
-- [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
-- [Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)
-- [What they don't tell you about maintaining an open source project](https://andrej.sh/blog/maintaining-open-source-project/)
+- [Why 90s Movies Feel More Alive Than Anything on Netflix](https://afranca.com.br/why-90s-movies-feel-more-alive-than-anything-on-netflix)
+- [Crews Claim Boring Company Failed to Pay Workers and Snubbed OSHA Concerns](https://nashvillebanner.com/2025/11/25/boring-company-nashville-shane-trucking-and-excavating/)
+- [The most male and female reasons to end up hospital](https://leobenedictus.substack.com/p/the-most-male-and-female-reasons)
+- [S&box is now an open source game engine](https://sbox.game/news/update-25-11-26)
+- [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
+- [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
+- [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
+- [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
+- [Slop Detective – Fight the Slop Syndicate](https://slopdetective.kagi.com/)
+- [From blood sugar to brain relief: GLP-1 therapy slashes migraine frequency](https://www.medlink.com/news/from-blood-sugar-to-brain-relief-glp-1-therapy-slashes-migraine-frequency)
 
-*마지막 업데이트: 2025-11-26T04:32:46Z*
+*마지막 업데이트: 2025-11-26T21:09:07Z*
