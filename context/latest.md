@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-26T21:09:07Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-27T04:31:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 21958.284)
+- **AI automation** (점수: 21766.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 21958.284)
+- **AI automation** (점수: 21766.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 21958.284)
+- **AI automation** (점수: 21766.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 21958.284)
+- **AI automation** (점수: 21766.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 19094.16)
+- **AI automation** (점수: 18927.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 19094.16)
+- **AI automation** (점수: 18927.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 18139.452)
+- **AI automation** (점수: 17980.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Why 90s Movies Feel More Alive Than Anything on Netflix](https://afranca.com.br/why-90s-movies-feel-more-alive-than-anything-on-netflix)
-- [Crews Claim Boring Company Failed to Pay Workers and Snubbed OSHA Concerns](https://nashvillebanner.com/2025/11/25/boring-company-nashville-shane-trucking-and-excavating/)
-- [The most male and female reasons to end up hospital](https://leobenedictus.substack.com/p/the-most-male-and-female-reasons)
-- [S&box is now an open source game engine](https://sbox.game/news/update-25-11-26)
-- [China Has Three Reusable Rockets Ready for Their Debut Flights](https://www.china-in-space.com/p/china-has-three-reusable-rockets)
-- [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
-- [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/)
-- [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
-- [Slop Detective – Fight the Slop Syndicate](https://slopdetective.kagi.com/)
-- [From blood sugar to brain relief: GLP-1 therapy slashes migraine frequency](https://www.medlink.com/news/from-blood-sugar-to-brain-relief-glp-1-therapy-slashes-migraine-frequency)
+- [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
+- [Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens](https://www.nytimes.com/2025/11/26/us/trump-green-card-interview-arrests.html)
+- [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
+- [Migrating the Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
+- [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
+- [DSP 101 Part 1: An Introductory Course in DSP System Design](https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html)
+- [AdBlock and Signal are for terrorists, according to French govt (2023) [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4)
+- [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
+- [Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
+- [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)
 
-*마지막 업데이트: 2025-11-26T21:09:07Z*
+*마지막 업데이트: 2025-11-27T04:31:52Z*
