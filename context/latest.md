@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-11-29T04:30:55Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-29T21:08:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20672.124)
+- **AI automation** (점수: 20083.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20672.124)
+- **AI automation** (점수: 20083.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20672.124)
+- **AI automation** (점수: 20083.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20672.124)
+- **AI automation** (점수: 20083.324)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17975.76)
+- **AI automation** (점수: 17463.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17975.76)
+- **AI automation** (점수: 17463.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 17076.972)
+- **AI automation** (점수: 16590.572)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
-- [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
-- [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
-- [Fabric Project](https://github.com/Fabric-Project/Fabric)
-- [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
-- [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
-- [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
-- [Flight disruption warning as Airbus requests modifications to 6k planes](https://www.bbc.com/news/live/cvg4y6g74ert)
-- [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
-- [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
+- [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
+- [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
+- [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
+- [Learning Feynman's Trick for Integrals](https://zackyzz.github.io/feynman.html)
+- [Be Like Clippy](https://be-clippy.com/)
+- [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
+- [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
+- [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
+- [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
+- [Zero knowlege proof of compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
 
-*마지막 업데이트: 2025-11-29T04:30:55Z*
+*마지막 업데이트: 2025-11-29T21:08:44Z*
