@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2025-11-30T04:37:55Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-30T21:08:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20018.924)
+- **AI automation** (점수: 19783.404)
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20018.924)
+- **AI automation** (점수: 19783.404)
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20018.924)
+- **AI automation** (점수: 19783.404)
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20018.924)
+- **AI automation** (점수: 19783.404)
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17407.76)
+- **AI automation** (점수: 17202.96)
+- **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI tutorial** (점수: 10.17)
-- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17407.76)
+- **AI automation** (점수: 17202.96)
+- **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI tutorial** (점수: 10.17)
-- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16537.372)
+- **AI automation** (점수: 16342.812)
+- **AI tutorial** (점수: 19.162)
+- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **AI tutorial** (점수: 9.662)
-- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Boing](https://boing.greg.technology/)
-- [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
-- [Meshtastic](https://meshtastic.org/)
-- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
-- [Scala](https://www.huygens-fokker.org/scala/)
-- [Americans no longer see four-year college degrees as worth the cost](https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672)
-- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
-- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
-- [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
-- [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
+- [How to run phones while being struck by suicide drones](https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/)
+- [By my count, Linux has 11% of the desktop market. Here's how I got that number](https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/)
+- [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)](https://arxiv.org/abs/2211.12588)
+- [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
+- [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
+- [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
+- [Writing a Good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+- [ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=start)
+- [ESA Sentinel-1D delivers first high-resolution images](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen)
+- [Notes on Shadowing a Hospitalist](https://humaninvariant.substack.com/p/notes-on-shadowing-a-hospitalist)
 
-*마지막 업데이트: 2025-11-30T04:37:55Z*
+*마지막 업데이트: 2025-11-30T21:08:49Z*
