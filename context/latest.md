@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2025-11-29T21:08:44Z -->
+<!-- Dynamic Context Block | Updated: 2025-11-30T04:37:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 20083.324)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 20018.924)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 20083.324)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 20018.924)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 20083.324)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 20018.924)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 20083.324)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 20018.924)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17463.76)
-- **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
+- **AI automation** (점수: 17407.76)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17463.76)
-- **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
+- **AI automation** (점수: 17407.76)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16590.572)
-- **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
+- **AI automation** (점수: 16537.372)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Show HN: Boing](https://boing.greg.technology/)
+- [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
+- [Meshtastic](https://meshtastic.org/)
+- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
+- [Scala](https://www.huygens-fokker.org/scala/)
+- [Americans no longer see four-year college degrees as worth the cost](https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672)
+- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
+- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
 - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
 - [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
-- [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
-- [Learning Feynman's Trick for Integrals](https://zackyzz.github.io/feynman.html)
-- [Be Like Clippy](https://be-clippy.com/)
-- [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
-- [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
-- [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
-- [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
-- [Zero knowlege proof of compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/)
 
-*마지막 업데이트: 2025-11-29T21:08:44Z*
+*마지막 업데이트: 2025-11-30T04:37:55Z*
