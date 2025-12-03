@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2025-12-03T04:35:07Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-03T21:09:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19673.464)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 19302.244)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19673.464)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 19302.244)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19673.464)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 19302.244)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19673.464)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 19302.244)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 17107.36)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 16784.56)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 10.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 17107.36)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 16784.56)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 10.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16251.992)
-- **AI tutorial** (점수: 19.162)
+- **AI automation** (점수: 15945.332)
+- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **SEO guide** (점수: 9.662)
+- **AI tutorial** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/)
-- [Kohler Can Access Pictures from "End-to-End Encrypted" Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
-- [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
-- [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
-- [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
-- [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer)
-- [Paged Out](https://pagedout.institute)
-- [Free static site generator for small restaurants and cafes](https://lite.localcafe.org/)
-- [Claude 4.5 Opus’ Soul Document](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
-- [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
+- [No room for error – A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
+- [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+- [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
+- [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
+- [Formally verifying Advent of Code using Dijkstra's program construction](https://haripm.com/blog/aoc-day-3-without-thinking/)
+- [Micron Announces Exit from Crucial Consumer Business](https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business)
+- [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
+- [Launch HN: Phind 3 (YC S22) – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
+- [Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+- [1D Conway's Life glider found, 3.7B cells long](https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136)
 
-*마지막 업데이트: 2025-12-03T04:35:07Z*
+*마지막 업데이트: 2025-12-03T21:09:59Z*
