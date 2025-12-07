@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-07T04:36:34Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-07T21:08:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18147.184)
+- **AI automation** (점수: 18002.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18147.184)
+- **AI automation** (점수: 18002.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18147.184)
+- **AI automation** (점수: 18002.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18147.184)
+- **AI automation** (점수: 18002.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15780.16)
+- **AI automation** (점수: 15654.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15780.16)
+- **AI automation** (점수: 15654.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14991.152)
+- **AI automation** (점수: 14871.452)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
-- [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
-- [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
-- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
-- [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
-- [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
-- [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder)
-- [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
-- [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
-- [Saving Japan's exceptionally rare 'snow monsters'](https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters)
+- [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
+- [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
+- [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
+- [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
+- [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
+- [I failed to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
+- [Semantic Compression (2014)](https://caseymuratori.com/blog_0015)
+- [The AI wildfire is coming. it's going to be painful and healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+- [Scala 3 slowed us down?](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
+- [Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
 
-*마지막 업데이트: 2025-12-07T04:36:34Z*
+*마지막 업데이트: 2025-12-07T21:08:20Z*
