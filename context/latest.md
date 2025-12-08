@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-07T21:08:20Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-08T04:38:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18002.284)
+- **AI automation** (점수: 18163.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18002.284)
+- **AI automation** (점수: 18163.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18002.284)
+- **AI automation** (점수: 18163.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18002.284)
+- **AI automation** (점수: 18163.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15654.16)
+- **AI automation** (점수: 15794.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15654.16)
+- **AI automation** (점수: 15794.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14871.452)
+- **AI automation** (점수: 15004.452)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Syncthing-Android have had a change of owner/maintainer](https://github.com/researchxxl/syncthing-android/issues/16)
-- [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
-- [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
-- [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
-- [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
-- [I failed to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)
-- [Semantic Compression (2014)](https://caseymuratori.com/blog_0015)
-- [The AI wildfire is coming. it's going to be painful and healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
-- [Scala 3 slowed us down?](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
-- [Nested Learning: A new ML paradigm for continual learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)
+- [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/)
+- [Damn Small Linux](https://www.damnsmalllinux.org/)
+- [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
+- [Toyota unintended acceleration and the big bowl of "spaghetti" code (2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
+- [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
+- [The era of jobs is ending](https://www.thepavement.xyz/p/the-era-of-jobs-is-ending)
+- [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
+- [How I block all online ads](https://troubled.engineer/posts/no-ads/)
+- [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
+- [Millions of Americans mess up their taxes, but a new law will help](https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their)
 
-*마지막 업데이트: 2025-12-07T21:08:20Z*
+*마지막 업데이트: 2025-12-08T04:38:35Z*
