@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-08T21:09:47Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-09T04:35:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18164.664)
+- **AI automation** (점수: 18147.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18164.664)
+- **AI automation** (점수: 18147.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18164.664)
+- **AI automation** (점수: 18147.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18164.664)
+- **AI automation** (점수: 18147.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15795.36)
+- **AI automation** (점수: 15780.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15795.36)
+- **AI automation** (점수: 15780.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15005.592)
+- **AI automation** (점수: 14991.532)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GitHub no longer uses Toasts](https://primer.style/accessibility/toasts/)
-- [Cancer is surging, bringing a debate about whether to look for it](https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html)
+- [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
+- [Scientific and Technical Amateur Radio](https://destevez.net/)
+- [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
+- [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
+- [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
+- [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 - [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
+- [Has the cost of building software dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
 - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
-- [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
-- [Quanta to publish popular math and physics books by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
 - [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/)
-- [We collected 10k hours of neuro-language data in our basement](https://condu.it/thought/10k-hours)
-- [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/)
-- [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/)
 
-*마지막 업데이트: 2025-12-08T21:09:47Z*
+*마지막 업데이트: 2025-12-09T04:35:11Z*
