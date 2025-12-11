@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-11T04:39:47Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-11T21:12:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17373.004)
+- **AI automation** (점수: 16959.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17373.004)
+- **AI automation** (점수: 16959.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17373.004)
+- **AI automation** (점수: 16959.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17373.004)
+- **AI automation** (점수: 16959.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15106.96)
+- **AI automation** (점수: 14746.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15106.96)
+- **AI automation** (점수: 14746.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14351.612)
+- **AI automation** (점수: 14009.612)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
-- [Vibe coding is mad depressing](https://law.gmnz.xyz/vibe-coding-is-mad-depressing/)
-- [Patterns.dev](https://www.patterns.dev/)
-- [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
-- [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
-- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
-- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
-- [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
-- [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
-- [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
+- [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
+- [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
+- [My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
+- [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
+- [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
+- [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
+- [Litestream VFS](https://fly.io/blog/litestream-vfs/)
+- [Show HN: Sim – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
+- [Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus](https://news.ycombinator.com/item?id=46233009)
+- [Deprecate like you mean it](https://entropicthoughts.com/deprecate-like-you-mean-it)
 
-*마지막 업데이트: 2025-12-11T04:39:47Z*
+*마지막 업데이트: 2025-12-11T21:12:12Z*
