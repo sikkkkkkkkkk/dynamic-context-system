@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-10T21:11:56Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-11T04:39:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17503.644)
+- **AI automation** (점수: 17373.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17503.644)
+- **AI automation** (점수: 17373.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17503.644)
+- **AI automation** (점수: 17373.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17503.644)
+- **AI automation** (점수: 17373.004)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15220.56)
+- **AI automation** (점수: 15106.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15220.56)
+- **AI automation** (점수: 15106.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14459.532)
+- **AI automation** (점수: 14351.612)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
-- [EFF Launches Age Verification Hub as Resource Against Misguided Laws](https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws)
+- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+- [Vibe coding is mad depressing](https://law.gmnz.xyz/vibe-coding-is-mad-depressing/)
+- [Patterns.dev](https://www.patterns.dev/)
+- [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
+- [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
+- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
 - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
 - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
-- [Intermittent hypoxia increases blood flow and benefits executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)
 - [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
 - [Show HN: Automated license plate reader coverage in the USA](https://alpranalysis.com)
-- [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/)
-- [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html)
-- [9 Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers)
 
-*마지막 업데이트: 2025-12-10T21:11:56Z*
+*마지막 업데이트: 2025-12-11T04:39:47Z*
