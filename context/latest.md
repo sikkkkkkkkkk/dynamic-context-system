@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-11T21:12:12Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-12T04:38:24Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16959.004)
+- **AI automation** (점수: 16780.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16959.004)
+- **AI automation** (점수: 16780.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16959.004)
+- **AI automation** (점수: 16780.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16959.004)
+- **AI automation** (점수: 16780.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14746.96)
+- **AI automation** (점수: 14592.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14746.96)
+- **AI automation** (점수: 14592.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14009.612)
+- **AI automation** (점수: 13862.552)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)
+- [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
+- [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
+- [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
+- [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/)
+- [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
+- [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
 - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
 - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
-- [My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
-- [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
-- [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
-- [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
-- [Litestream VFS](https://fly.io/blog/litestream-vfs/)
-- [Show HN: Sim – Apache-2.0 n8n alternative](https://github.com/simstudioai/sim)
-- [Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus](https://news.ycombinator.com/item?id=46233009)
-- [Deprecate like you mean it](https://entropicthoughts.com/deprecate-like-you-mean-it)
+- [My productivity app is a never-ending .txt file (2020)](https://jeffhuang.com/productivity_text_file/)
 
-*마지막 업데이트: 2025-12-11T21:12:12Z*
+*마지막 업데이트: 2025-12-12T04:38:24Z*
