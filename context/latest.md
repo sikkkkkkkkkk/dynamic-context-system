@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-13T04:32:23Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-13T21:08:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16119.504)
+- **AI automation** (점수: 15944.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16119.504)
+- **AI automation** (점수: 15944.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16119.504)
+- **AI automation** (점수: 15944.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16119.504)
+- **AI automation** (점수: 15944.244)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14016.96)
+- **AI automation** (점수: 13864.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14016.96)
+- **AI automation** (점수: 13864.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13316.112)
+- **AI automation** (점수: 13171.332)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/)
-- [Oliver Sacks fabricated key details in his books](https://boingboing.net/2025/12/12/oliver-sacks-fabricated-key-details-in-his-books.html)
-- [1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli](https://www.ghibli.jp/info/013772/)
-- [The Checkerboard](https://99percentinvisible.org/episode/650-the-checkerboard/)
-- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
-- [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
-- [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
-- [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
-- [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39)
-- [GNU Unifont](https://unifoundry.com/unifont/index.html)
+- [Ask HN: How do you handle release notes for multiple audiences?](https://news.ycombinator.com/item?id=46257486)
+- [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
+- [We Lost Something: 1970s REPLs Were Better Than Modern Development Environments](https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were)
+- [VPN location claims don't match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
+- [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
+- [Former Apple, Google designer: "Are we stuck with the same Desktop UX forever?" [video]](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
+- [How to Watch the Radiant Geminid Meteor Shower Tonight](https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/)
+- [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/)
+- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
 
-*마지막 업데이트: 2025-12-13T04:32:23Z*
+*마지막 업데이트: 2025-12-13T21:08:35Z*
