@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-13T21:08:35Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-14T04:40:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15944.244)
+- **AI automation** (점수: 15869.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15944.244)
+- **AI automation** (점수: 15869.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15944.244)
+- **AI automation** (점수: 15869.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15944.244)
+- **AI automation** (점수: 15869.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13864.56)
+- **AI automation** (점수: 13799.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13864.56)
+- **AI automation** (점수: 13799.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13171.332)
+- **AI automation** (점수: 13109.392)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: How do you handle release notes for multiple audiences?](https://news.ycombinator.com/item?id=46257486)
-- [What is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
-- [We Lost Something: 1970s REPLs Were Better Than Modern Development Environments](https://programmingsimplicity.substack.com/p/we-lost-something-1970s-repls-were)
-- [VPN location claims don't match real traffic exits](https://ipinfo.io/blog/vpn-location-mismatch-report)
-- [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
-- [Former Apple, Google designer: "Are we stuck with the same Desktop UX forever?" [video]](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
-- [How to Watch the Radiant Geminid Meteor Shower Tonight](https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/)
-- [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/)
-- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
+- [Tiobe Index for December 2025: R Joins the Top as SQL Climbs](https://www.techrepublic.com/article/news-tiobe-commentary-dec-2025/)
+- [Rocket Lab – 'Raise and Shine' Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
+- [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
+- [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)
+- [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
+- [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
+- [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
+- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
+- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
+- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 
-*마지막 업데이트: 2025-12-13T21:08:35Z*
+*마지막 업데이트: 2025-12-14T04:40:26Z*
