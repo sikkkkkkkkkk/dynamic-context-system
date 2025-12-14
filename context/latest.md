@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-14T04:40:26Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-14T21:09:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15869.264)
+- **AI automation** (점수: 15324.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15869.264)
+- **AI automation** (점수: 15324.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15869.264)
+- **AI automation** (점수: 15324.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15869.264)
+- **AI automation** (점수: 15324.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13799.36)
+- **AI automation** (점수: 13325.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13799.36)
+- **AI automation** (점수: 13325.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13109.392)
+- **AI automation** (점수: 12659.092)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Tiobe Index for December 2025: R Joins the Top as SQL Climbs](https://www.techrepublic.com/article/news-tiobe-commentary-dec-2025/)
-- [Rocket Lab – 'Raise and Shine' Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
-- [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
-- [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)
-- [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
-- [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
-- [An Implementation of J](https://www.jsoftware.com/ioj/ioj.htm)
-- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
-- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
-- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
+- [Opus 4.5 is the first model that makes me fear for my job](https://old.reddit.com/r/ClaudeAI/comments/1pmgk5c/opus_45_is_the_first_model_that_makes_me_actually/)
+- [JSDoc *Is* TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
+- [Do Dyslexia Fonts Actually Work? (2022)](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
+- [GNU recutils: Plain text database](https://www.gnu.org/software/recutils/)
+- [Stop crawling my HTML – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
+- [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
+- [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
+- [GraphQL: The enterprise honeymoon is over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over)
+- [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
+- [Ask HN: What Are You Working On? (December 2025)](https://news.ycombinator.com/item?id=46264491)
 
-*마지막 업데이트: 2025-12-14T04:40:26Z*
+*마지막 업데이트: 2025-12-14T21:09:04Z*
