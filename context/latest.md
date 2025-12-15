@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-15T04:47:29Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-15T21:10:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15133.724)
+- **AI automation** (점수: 14813.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15133.724)
+- **AI automation** (점수: 14813.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15133.724)
+- **AI automation** (점수: 14813.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15133.724)
+- **AI automation** (점수: 14813.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13159.76)
+- **AI automation** (점수: 12881.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13159.76)
+- **AI automation** (점수: 12881.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12501.772)
+- **AI automation** (점수: 12237.292)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
-- [John Varley, 1947-2025](http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html)
-- [SoundCloud just banned VPN access](https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/)
-- [Mom and daughter find stranger in trunk of Waymo](https://abc7.com/post/los-angeles-viral-video-mom-daughter-find-stranger-trunk-waymo-macarthur-park/18286019/)
-- [SPhotonix – 360TB into 5-inch glass disc with femtosecond laser](https://www.tomshardware.com/pc-components/storage/sphotonix-pushes-5d-glass-storage-toward-data-center-pilots)
-- [CapROS: Capability-Based Reliable Operating System](https://www.capros.org/)
-- [Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted](https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted)
-- [DARPA GO: Generative Optogenetics](https://www.darpa.mil/research/programs/go)
-- [History of Declarative Programming](https://shenlanguage.org/TBoS/tbos_15.html)
-- [Elevated errors across many models](https://status.claude.com/incidents/9g6qpr72ttbr)
+- [Taiwan May Restart Nuclear Power Plant in 2028, Minister Says](https://www.energyconnects.com/news/utilities/2025/december/taiwan-may-restart-nuclear-power-plant-in-2028-minister-says/)
+- [Google discontinuing their dark web report](https://support.google.com/websearch/answer/16767242?hl=en&co=GENIE.Platform%3DAndroid)
+- [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
+- [Umbrel – Personal Cloud](https://umbrel.com)
+- [“Super secure” messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
+- [United 777-200 fleet faces an uncertain future after Dulles engine failure](https://liveandletsfly.com/united-airlines-777-200-future/)
+- [Problems with D-Bus on the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
+- [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
+- [US Tech Force](https://techforce.gov/)
+- [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892)
 
-*마지막 업데이트: 2025-12-15T04:47:29Z*
+*마지막 업데이트: 2025-12-15T21:10:53Z*
