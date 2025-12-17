@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-17T04:38:06Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-17T21:11:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15036.664)
+- **AI automation** (점수: 15144.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 11.695)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15036.664)
+- **AI automation** (점수: 15144.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 11.695)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15036.664)
+- **AI automation** (점수: 15144.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 11.695)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15036.664)
+- **AI automation** (점수: 15144.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 11.695)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13075.36)
+- **AI automation** (점수: 13169.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 10.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13075.36)
+- **AI automation** (점수: 13169.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 10.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12421.592)
+- **AI automation** (점수: 12510.892)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 9.662)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Tesla Robotaxis in Austin Crash 12.5x More Frequently Than Humans](https://electrek.co/2025/12/15/tesla-reports-another-robotaxi-crash-even-with-supervisor/)
-- [Locked out: How a gift card purchase destroyed an Apple account](https://appleinsider.com/articles/25/12/13/locked-out-how-a-gift-card-purchase-destroyed-an-apple-account)
-- [CS 4973: Introduction to Software Development Tooling – Northeastern Univ (2024)](https://bernsteinbear.com/isdt/)
-- [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior)
-- [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
-- [Dafny: Verification-Aware Programming Language](https://dafny.org/)
-- [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
-- [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
-- [Chat-tails: Throwback terminal chat, built on Tailscale](https://tailscale.com/blog/chat-tails-terminal-chat)
-- [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+- ["There are more Japanese [VRChat] creators than all other countries combined "](https://twitter.com/chyadosensei/status/2001356290531156159)
+- [Why do commercial spaces sit vacant?](https://archive.strongtowns.org/journal/2025/5/21/why-do-commercial-spaces-sit-vacant)
+- [FIFA Arrives on Netflix Games](https://www.netflix.com/tudum/articles/fifa-mens-world-cup-2026-game-on-netflix)
+- [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
+- [Doublespeed hacked, revealing what its AI-generated accounts are promoting](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+- [How SQLite is tested](https://sqlite.org/testing.html)
+- [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
+- [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
+- [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+- [AI capability isn't humanness](https://research.roundtable.ai/capabilities-humanness/)
 
-*마지막 업데이트: 2025-12-17T04:38:06Z*
+*마지막 업데이트: 2025-12-17T21:11:14Z*
