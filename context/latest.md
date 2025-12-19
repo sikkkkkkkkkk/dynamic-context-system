@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-18T21:10:32Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-19T04:39:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15748.284)
+- **AI automation** (점수: 16001.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15748.284)
+- **AI automation** (점수: 16001.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15748.284)
+- **AI automation** (점수: 16001.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15748.284)
+- **AI automation** (점수: 16001.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13694.16)
+- **AI automation** (점수: 13914.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13694.16)
+- **AI automation** (점수: 13914.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13009.452)
+- **AI automation** (점수: 13218.832)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Noclip.website – A digital museum of video game levels](https://noclip.website/)
+- [Great ideas in theoretical computer science](https://www.cs251.com/)
+- [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
+- [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
+- [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer)
 - [Oliver Sacks put himself into his case studies – what was the cost?](https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost)
-- [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
 - [T5Gemma 2: The next generation of encoder-decoder models](https://blog.google/technology/developers/t5gemma-2/)
 - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 - [The Scottish Highlands, the Appalachians, Atlas are the same mountain range](https://vividmaps.com/central-pangean-mountains/)
 - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
-- [The most banned books in U.S. schools](https://pen.org/top-52-banned-books-since-2021/)
-- [Show HN: Spice Cayenne – SQL acceleration built on Vortex](https://spice.ai/blog/introducing-spice-cayenne-data-accelerator)
-- [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
-- [FunctionGemma 270M Model](https://blog.google/technology/developers/functiongemma/)
 
-*마지막 업데이트: 2025-12-18T21:10:32Z*
+*마지막 업데이트: 2025-12-19T04:39:05Z*
