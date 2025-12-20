@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-19T21:10:15Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-20T04:33:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16209.664)
+- **AI automation** (점수: 16300.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16209.664)
+- **AI automation** (점수: 16300.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16209.664)
+- **AI automation** (점수: 16300.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16209.664)
+- **AI automation** (점수: 16300.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14095.36)
+- **AI automation** (점수: 14174.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14095.36)
+- **AI automation** (점수: 14174.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13390.592)
+- **AI automation** (점수: 13465.832)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/)
-- [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
-- [Wall Street Ruined the Roomba and Then Blamed Lina Khan](https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba)
-- [Performance Hints – Jeff Dean and Sanjay Ghemawat](https://abseil.io/fast/hints.html)
+- [Build Your Own React](https://pomb.us/build-your-own-react/)
+- [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
+- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
+- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
+- [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
+- [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
+- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
 - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
 - [Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
-- [Show HN: I Made Loom for Mobile](https://demoscope.app)
-- [Graphite Is Joining Cursor](https://cursor.com/blog/graphite)
-- [Believe the Checkbook](https://robertgreiner.com/believe-the-checkbook/)
-- [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
+- [Performance Hints (2023)](https://abseil.io/fast/hints.html)
 
-*마지막 업데이트: 2025-12-19T21:10:15Z*
+*마지막 업데이트: 2025-12-20T04:33:00Z*
