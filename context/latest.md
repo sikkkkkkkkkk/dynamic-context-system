@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-20T04:33:00Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-20T21:08:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16300.744)
+- **AI automation** (점수: 16700.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16300.744)
+- **AI automation** (점수: 16700.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16300.744)
+- **AI automation** (점수: 16700.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16300.744)
+- **AI automation** (점수: 16700.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14174.56)
+- **AI automation** (점수: 14521.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14174.56)
+- **AI automation** (점수: 14521.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13465.832)
+- **AI automation** (점수: 13795.672)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Build Your Own React](https://pomb.us/build-your-own-react/)
-- [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
-- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
-- [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
-- [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
-- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
-- [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
-- [Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
-- [Performance Hints (2023)](https://abseil.io/fast/hints.html)
+- ['LeBron James of spreadsheets' wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
+- [I spent a week without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
+- [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
+- [Mathematicians don't care about foundations](https://matteocapucci.wordpress.com/2022/12/21/mathematicians-dont-care-about-foundations/)
+- [Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer)
+- [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
+- [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
+- [You have reached the end of the internet](https://hmpg.net/)
+- [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
+- [Why do people leave comments on OpenBenches?](https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/)
 
-*마지막 업데이트: 2025-12-20T04:33:00Z*
+*마지막 업데이트: 2025-12-20T21:08:29Z*
