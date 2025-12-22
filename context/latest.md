@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-22T04:46:39Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-22T21:09:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17253.864)
+- **AI automation** (점수: 17120.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17253.864)
+- **AI automation** (점수: 17120.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17253.864)
+- **AI automation** (점수: 17120.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17253.864)
+- **AI automation** (점수: 17120.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15003.36)
+- **AI automation** (점수: 14887.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15003.36)
+- **AI automation** (점수: 14887.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14253.192)
+- **AI automation** (점수: 14142.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Build Android apps using Rust and iced](https://github.com/ibaryshnikov/android-iced-example)
-- [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
-- [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
-- [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
-- [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
-- [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
-- [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
-- [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
-- [The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt](https://mastodon.online/@mullvadnet/115742530333573065)
-- [You’re not burnt out, you’re existentially starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
+- [Vince Zampella, Developer of Call of Duty and Battlefield, Dead at 55](https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/)
+- [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
+- [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
+- [The Garbage Collection Handbook](https://gchandbook.org/index.html)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [State regulators vote to keep utility profits high angering customers across CA](https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers)
+- [Things I learnt about passkeys when building passkeybot](https://enzom.dev/b/passkeys/)
+- [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
+- [Henge Finder](https://hengefinder.rcdis.co/#learn)
+- [NIST was 5 μs off UTC after last week's power cut](https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut)
 
-*마지막 업데이트: 2025-12-22T04:46:39Z*
+*마지막 업데이트: 2025-12-22T21:09:55Z*
