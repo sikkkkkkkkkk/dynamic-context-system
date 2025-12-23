@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-23T04:41:38Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-23T21:10:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17380.364)
+- **AI automation** (점수: 18069.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17380.364)
+- **AI automation** (점수: 18069.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17380.364)
+- **AI automation** (점수: 18069.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17380.364)
+- **AI automation** (점수: 18069.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15113.36)
+- **AI automation** (점수: 15712.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15113.36)
+- **AI automation** (점수: 15712.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14357.692)
+- **AI automation** (점수: 14927.312)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
-- [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)
-- [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
-- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
-- [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
-- [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
-- [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
-- [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
-- [In Pursuit of Clancy Sigal (2021)](https://yalereview.org/article/in-pursuit-of-clancy-sigal)
-- [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
+- [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
+- [Un-Redactor](https://github.com/kvthweatt/unredactor)
+- [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
+- [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
+- [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
+- [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
+- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
+- [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
+- [Test, don't just verify](https://alperenkeles.com/posts/test-dont-verify/)
+- [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 
-*마지막 업데이트: 2025-12-23T04:41:38Z*
+*마지막 업데이트: 2025-12-23T21:10:32Z*
