@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-22T21:09:55Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-23T04:41:38Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17120.464)
+- **AI automation** (점수: 17380.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17120.464)
+- **AI automation** (점수: 17380.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17120.464)
+- **AI automation** (점수: 17380.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17120.464)
+- **AI automation** (점수: 17380.364)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14887.36)
+- **AI automation** (점수: 15113.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14887.36)
+- **AI automation** (점수: 15113.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14142.992)
+- **AI automation** (점수: 14357.692)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Vince Zampella, Developer of Call of Duty and Battlefield, Dead at 55](https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/)
+- [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
+- [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)
+- [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
+- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
+- [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
+- [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
+- [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
+- [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+- [In Pursuit of Clancy Sigal (2021)](https://yalereview.org/article/in-pursuit-of-clancy-sigal)
 - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
-- [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
-- [The Garbage Collection Handbook](https://gchandbook.org/index.html)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [State regulators vote to keep utility profits high angering customers across CA](https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers)
-- [Things I learnt about passkeys when building passkeybot](https://enzom.dev/b/passkeys/)
-- [GLM-4.7: Advancing the Coding Capability](https://z.ai/blog/glm-4.7)
-- [Henge Finder](https://hengefinder.rcdis.co/#learn)
-- [NIST was 5 μs off UTC after last week's power cut](https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut)
 
-*마지막 업데이트: 2025-12-22T21:09:55Z*
+*마지막 업데이트: 2025-12-23T04:41:38Z*
