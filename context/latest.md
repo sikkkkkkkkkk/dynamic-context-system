@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-23T21:10:32Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-24T04:40:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18069.904)
+- **AI automation** (점수: 17922.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18069.904)
+- **AI automation** (점수: 17922.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18069.904)
+- **AI automation** (점수: 17922.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18069.904)
+- **AI automation** (점수: 17922.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15712.96)
+- **AI automation** (점수: 15584.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15712.96)
+- **AI automation** (점수: 15584.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14927.312)
+- **AI automation** (점수: 14805.712)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
-- [Un-Redactor](https://github.com/kvthweatt/unredactor)
-- [Help My c64 caught on fire](https://c0de517e.com/026_c64fire.htm)
-- [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
-- [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
-- [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
-- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
-- [Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
-- [Test, don't just verify](https://alperenkeles.com/posts/test-dont-verify/)
-- [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
+- [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
+- [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
+- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
+- ['Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
+- [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
+- [Nabokov's guide to foreigners learning Russian](https://twitter.com/haravayin_hogh/status/2003299405907247502)
+- [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router)
+- [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
+- [Microspeak: North Star – The Old New Thing (2015)](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
+- [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
 
-*마지막 업데이트: 2025-12-23T21:10:32Z*
+*마지막 업데이트: 2025-12-24T04:40:34Z*
