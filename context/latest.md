@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2025-12-25T04:42:02Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-25T21:10:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17965.944)
+- **AI automation** (점수: 17650.384)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17965.944)
+- **AI automation** (점수: 17650.384)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17965.944)
+- **AI automation** (점수: 17650.384)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17965.944)
+- **AI automation** (점수: 17650.384)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15622.56)
+- **AI automation** (점수: 15348.16)
 - **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15622.56)
+- **AI automation** (점수: 15348.16)
 - **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14841.432)
+- **AI automation** (점수: 14580.752)
 - **AI tutorial** (점수: 19.162)
+- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)
-- [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)
-- [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
-- [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
-- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
-- [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
-- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
-- [How I Left YouTube](https://zhach.news/how-i-left-youtube/)
-- [Nvidia buying AI chip startup Groq for about $20B in cash](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
-- [Keystone (YC S25) is hiring engineer #1 to automate coding](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer)
+- [URL Pattern API](https://developer.mozilla.org/en-US/docs/Web/API/URL_Pattern_API)
+- [All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
+- [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
+- [I sell onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
+- [Alzheimer’s disease can be reversed in animal models: Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
+- [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+- [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
+- [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
+- [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503)
+- [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
 
-*마지막 업데이트: 2025-12-25T04:42:02Z*
+*마지막 업데이트: 2025-12-25T21:10:06Z*
