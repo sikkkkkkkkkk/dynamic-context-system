@@ -1,13 +1,13 @@
 {
-  "updated_at": "2025-12-26T04:39:20Z",
+  "updated_at": "2025-12-26T21:09:37Z",
   "version": "1.0",
   "modes": [
     {
       "mode": "sns",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 17490.304
+          "keyword": "SEO",
+          "score": 39531.204
         },
         {
           "keyword": "AI tutorial",
@@ -48,8 +48,8 @@
       "mode": "sales",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 17490.304
+          "keyword": "SEO",
+          "score": 39531.204
         },
         {
           "keyword": "AI tutorial",
@@ -90,8 +90,8 @@
       "mode": "blog",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 17490.304
+          "keyword": "SEO",
+          "score": 39531.204
         },
         {
           "keyword": "AI tutorial",
@@ -132,8 +132,8 @@
       "mode": "video",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 17490.304
+          "keyword": "SEO",
+          "score": 39531.204
         },
         {
           "keyword": "AI tutorial",
@@ -174,8 +174,8 @@
       "mode": "ebook",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 15208.96
+          "keyword": "SEO",
+          "score": 34374.96
         },
         {
           "keyword": "AI tutorial",
@@ -216,8 +216,8 @@
       "mode": "edu",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 15208.96
+          "keyword": "SEO",
+          "score": 34374.96
         },
         {
           "keyword": "AI tutorial",
@@ -258,8 +258,8 @@
       "mode": "public",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 14448.512
+          "keyword": "SEO",
+          "score": 32656.212
         },
         {
           "keyword": "AI tutorial",
