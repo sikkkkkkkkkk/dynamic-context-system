@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-27T04:37:34Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-27T21:08:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 17438.324)
+- **SEO** (점수: 38905.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 17438.324)
+- **SEO** (점수: 38905.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 17438.324)
+- **SEO** (점수: 38905.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 17438.324)
+- **SEO** (점수: 38905.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15163.76)
+- **SEO** (점수: 33830.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15163.76)
+- **SEO** (점수: 33830.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 14405.572)
+- **SEO** (점수: 32139.032)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
-- [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
-- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
-- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
-- [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
-- [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
-- [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
-- [How Lewis Carroll computed determinants (2023)](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
-- [Drawing with zero-width characters](https://zw.swerdlow.dev)
-- [MongoBleed](https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py)
+- [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
+- [Toll roads are spreading in America](https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america)
+- [Scientists edited genes in a living person and saved his life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
+- [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
+- [Cleartext signatures considered harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
+- [Nvidia's $20B antitrust loophole](https://ossa-ma.github.io/blog/groq)
+- [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+- [USD share as global reserve currency drops to lowest since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/)
+- [Gpg.fail](https://gpg.fail)
+- [NMH BASIC](https://t3x.org/nmhbasic/index.html)
 
-*마지막 업데이트: 2025-12-27T04:37:34Z*
+*마지막 업데이트: 2025-12-27T21:08:44Z*
