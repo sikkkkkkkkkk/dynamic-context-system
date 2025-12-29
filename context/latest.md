@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2025-12-28T21:09:29Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-29T04:54:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [No it's not a Battleship](https://www.navalgazing.net/No-its-not)
-- [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
-- [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
-- [A "Prime" View of HN](https://dosaygo-studio.github.io/prime-news/index.html)
-- [tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
-- [Global Memory Shortage Crisis: Market Analysis](https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/)
-- [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080)
-- [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
-- [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
-- [Learn computer graphics from scratch and for free](https://www.scratchapixel.com)
+- [Why I Think Valve's Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
+- [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
+- [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
+- [Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
+- [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
+- [How to Complain (2024)](https://outerproduct.net/trivial/2024-03-25_complain.html)
+- [Spherical Cow](https://lib.rs/crates/spherical-cow)
+- [Slaughtering Competition Problems with Quantifier Elimination (2021)](https://grossack.site/2021/12/22/qe-competition.html)
+- [62 years in the making: NYC's newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
+- [As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram)
 
-*마지막 업데이트: 2025-12-28T21:09:29Z*
+*마지막 업데이트: 2025-12-29T04:54:09Z*
