@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2025-12-29T21:09:53Z -->
+<!-- Dynamic Context Block | Updated: 2025-12-30T04:44:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16624.124)
+- **AI automation** (점수: 16391.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16624.124)
+- **AI automation** (점수: 16391.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16624.124)
+- **AI automation** (점수: 16391.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16624.124)
+- **AI automation** (점수: 16391.824)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14455.76)
+- **AI automation** (점수: 14253.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14455.76)
+- **AI automation** (점수: 14253.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13732.972)
+- **AI automation** (점수: 13541.072)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: I derived Planck mass from sphere packing – 0.574 ppm, zero free param](https://zenodo.org/records/18089296)
-- [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
-- [Binance's Trust Wallet extension hacked; users lose $7M](https://www.web3isgoinggreat.com/?id=trust-wallet-hack)
-- [Which Humans?](https://osf.io/preprints/psyarxiv/5b26t_v1)
-- [Meta's ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
-- [All Delisted Steam Games](https://delistedgames.com/all-delisted-steam-games/)
-- [The Future of Software Development Is Software Developers](https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/)
-- [List of domains censored by German ISPs](https://cuiiliste.de/domains)
-- [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
-- [Nvidia takes $5B stake in Intel under September agreement](https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/)
+- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+- [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
+- [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
+- [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
+- [Stranger Things creator says turn off "garbage" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
+- [I migrated to an almost all-EU stack and saved 500€ per year](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to)
+- [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
+- [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
+- [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+- [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 
-*마지막 업데이트: 2025-12-29T21:09:53Z*
+*마지막 업데이트: 2025-12-30T04:44:07Z*
