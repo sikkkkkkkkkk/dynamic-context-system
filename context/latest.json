@@ -1,13 +1,13 @@
 {
-  "updated_at": "2025-12-31T04:42:58Z",
+  "updated_at": "2025-12-31T21:09:55Z",
   "version": "1.0",
   "modes": [
     {
       "mode": "sns",
       "top_keywords": [
         {
-          "keyword": "AI tutorial",
-          "score": 23.195
+          "keyword": "SEO",
+          "score": 36984.644
         },
         {
           "keyword": "SEO guide",
@@ -18,11 +18,11 @@
           "score": 23.195
         },
         {
-          "keyword": "AI automation",
-          "score": 4.876
+          "keyword": "AI tutorial",
+          "score": 11.695
         },
         {
-          "keyword": "AEO",
+          "keyword": "AI automation",
           "score": 4.876
         }
       ],
@@ -48,8 +48,8 @@
       "mode": "sales",
       "top_keywords": [
         {
-          "keyword": "AI tutorial",
-          "score": 23.195
+          "keyword": "SEO",
+          "score": 36984.644
         },
         {
           "keyword": "SEO guide",
@@ -60,11 +60,11 @@
           "score": 23.195
         },
         {
-          "keyword": "AI automation",
-          "score": 4.876
+          "keyword": "AI tutorial",
+          "score": 11.695
         },
         {
-          "keyword": "AEO",
+          "keyword": "AI automation",
           "score": 4.876
         }
       ],
@@ -90,8 +90,8 @@
       "mode": "blog",
       "top_keywords": [
         {
-          "keyword": "AI tutorial",
-          "score": 23.195
+          "keyword": "SEO",
+          "score": 36984.644
         },
         {
           "keyword": "SEO guide",
@@ -102,11 +102,11 @@
           "score": 23.195
         },
         {
-          "keyword": "AI automation",
-          "score": 4.876
+          "keyword": "AI tutorial",
+          "score": 11.695
         },
         {
-          "keyword": "AEO",
+          "keyword": "AI automation",
           "score": 4.876
         }
       ],
@@ -132,8 +132,8 @@
       "mode": "video",
       "top_keywords": [
         {
-          "keyword": "AI tutorial",
-          "score": 23.195
+          "keyword": "SEO",
+          "score": 36984.644
         },
         {
           "keyword": "SEO guide",
@@ -144,11 +144,11 @@
           "score": 23.195
         },
         {
-          "keyword": "AI automation",
-          "score": 4.876
+          "keyword": "AI tutorial",
+          "score": 11.695
         },
         {
-          "keyword": "AEO",
+          "keyword": "AI automation",
           "score": 4.876
         }
       ],
@@ -174,8 +174,8 @@
       "mode": "ebook",
       "top_keywords": [
         {
-          "keyword": "AI tutorial",
-          "score": 20.17
+          "keyword": "SEO",
+          "score": 32160.56
         },
         {
           "keyword": "SEO guide",
@@ -186,11 +186,11 @@
           "score": 20.17
         },
         {
-          "keyword": "AI automation",
-          "score": 4.24
+          "keyword": "AI tutorial",
+          "score": 10.17
         },
         {
-          "keyword": "AEO",
+          "keyword": "AI automation",
           "score": 4.24
         }
       ],
@@ -216,8 +216,8 @@
       "mode": "edu",
       "top_keywords": [
         {
-          "keyword": "AI tutorial",
-          "score": 20.17
+          "keyword": "SEO",
+          "score": 32160.56
         },
         {
           "keyword": "SEO guide",
@@ -228,11 +228,11 @@
           "score": 20.17
         },
         {
-          "keyword": "AI automation",
-          "score": 4.24
+          "keyword": "AI tutorial",
+          "score": 10.17
         },
         {
-          "keyword": "AEO",
+          "keyword": "AI automation",
           "score": 4.24
         }
       ],
@@ -258,8 +258,8 @@
       "mode": "public",
       "top_keywords": [
         {
-          "keyword": "AI tutorial",
-          "score": 19.162
+          "keyword": "SEO",
+          "score": 30552.532
         },
         {
           "keyword": "SEO guide",
@@ -270,11 +270,11 @@
           "score": 19.162
         },
         {
-          "keyword": "AI automation",
-          "score": 4.028
+          "keyword": "AI tutorial",
+          "score": 9.662
         },
         {
-          "keyword": "AEO",
+          "keyword": "AI automation",
           "score": 4.028
         }
       ],
