@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-01-01T04:52:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-01T21:10:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)
-- [Judge to Texas: You Can't Age-Gate the Internet Without Evidence](https://www.techdirt.com/2025/12/31/judge-to-texas-you-cant-age-gate-the-entire-internet-without-evidence/)
-- [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
-- [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
-- [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
-- [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
-- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
-- [Resistance training load does not determine hypertrophy](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684)
-- [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
-- [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
+- [Linux is good now; to feel like you actually own your PC, put Linux on it](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
+- [Starlink satellites being lowered from 550 km to 480 km](https://twitter.com/michaelnicollsx/status/2006790372681220530)
+- [Arpanet standardized TCP/IP on this day in 1983](https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet)
+- [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
+- [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
+- [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
+- [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
+- [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)
+- [Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes)
+- [Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)
 
-*마지막 업데이트: 2026-01-01T04:52:24Z*
+*마지막 업데이트: 2026-01-01T21:10:18Z*
