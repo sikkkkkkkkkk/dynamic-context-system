@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-01-03T21:09:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-04T04:53:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18238.264)
+- **SEO** (점수: 35612.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18238.264)
+- **SEO** (점수: 35612.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18238.264)
+- **SEO** (점수: 35612.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18238.264)
+- **SEO** (점수: 35612.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15859.36)
+- **SEO** (점수: 30967.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15859.36)
+- **SEO** (점수: 30967.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15066.392)
+- **SEO** (점수: 29419.372)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 9.662)
+- **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU](https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/)
-- [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
-- [The C3 Programming Language](https://c3-lang.org)
-- [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
-- [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
-- [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
-- [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
-- [Recursive Language Models](https://arxiv.org/abs/2512.24601)
-- [Profiling with Ctrl-C (2024)](https://yosefk.com/blog/profiling-with-ctrl-c.html)
-- [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
+- [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
+- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+- [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
+- [The Great Gatsby is the most misunderstood novel (2021)](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
+- [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
+- [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
+- [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
+- [Worst Case Optimal Joins: Graph-Join Correspondence](https://finnvolkel.com/wcoj-graph-join-correspondence)
+- [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
+- [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
 
-*마지막 업데이트: 2026-01-03T21:09:14Z*
+*마지막 업데이트: 2026-01-04T04:53:06Z*
