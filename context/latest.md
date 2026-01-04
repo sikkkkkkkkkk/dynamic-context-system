@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-04T04:53:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-04T21:09:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 35612.924)
+- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 35612.924)
+- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 35612.924)
+- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 35612.924)
+- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 30967.76)
+- **SEO** (점수: 30687.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 30967.76)
+- **SEO** (점수: 30687.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 29419.372)
+- **SEO** (점수: 29152.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
-- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
-- [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
-- [The Great Gatsby is the most misunderstood novel (2021)](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
-- [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
-- [Corroded: Illegal Rust](https://github.com/buyukakyuz/corroded)
-- [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
-- [Worst Case Optimal Joins: Graph-Join Correspondence](https://finnvolkel.com/wcoj-graph-join-correspondence)
-- [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
-- [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
+- [Seed of Life](https://seed-of-life-eight.vercel.app/)
+- [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
+- [OpenGitOps](https://opengitops.dev/)
+- [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
+- [I changed my personality in six weeks](https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks)
+- [Server-rendered multiplayer games with Lua (no client code)](https://cleoselene.com/)
+- [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
+- [Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
+- [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
+- [NSFW Acronyms for Programmers (Free eBook)](https://github.com/fristovic/naughty-words-every-programmer-should-know)
 
-*마지막 업데이트: 2026-01-04T04:53:06Z*
+*마지막 업데이트: 2026-01-04T21:09:42Z*
