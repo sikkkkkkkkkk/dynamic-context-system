@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-01-04T21:09:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-05T05:00:33Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 35290.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 30687.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 30687.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 29152.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
+- **AEO** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Seed of Life](https://seed-of-life-eight.vercel.app/)
+- [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/)
+- [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
+- [Millennium Challenge: A corrupted military exercise and its legacy (2015)](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
+- [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
+- [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 - [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
-- [OpenGitOps](https://opengitops.dev/)
 - [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
-- [I changed my personality in six weeks](https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks)
-- [Server-rendered multiplayer games with Lua (no client code)](https://cleoselene.com/)
 - [Claude Code On-the-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
 - [Agentic Patterns](https://github.com/nibzard/awesome-agentic-patterns)
-- [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
-- [NSFW Acronyms for Programmers (Free eBook)](https://github.com/fristovic/naughty-words-every-programmer-should-know)
+- [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
 
-*마지막 업데이트: 2026-01-04T21:09:42Z*
+*마지막 업데이트: 2026-01-05T05:00:33Z*
