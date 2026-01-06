@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-01-06T04:45:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-06T21:11:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 19379.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 19379.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 19379.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 19379.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16852.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16852.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 16009.552)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
+- **AEO** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [A prediction market user made $436,000 betting on Maduro's downfall](https://www.bbc.com/news/articles/cx2gn93292do)
-- [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
-- [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
-- [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
-- [Strange.website](https://strange.website/)
-- [Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density](https://www.donutlab.com/ces-battery-announcement/)
-- [Why didn't AI “join the workforce” in 2025?](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
-- [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
-- [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
-- [Scientific production in the era of large language models [pdf]](https://gwern.net/doc/science/2025-kusumegi.pdf)
+- [How Spotify Made Me Self Host](https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/)
+- [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
+- [High-Performance DBMSs with io_uring: When and How to use it](https://arxiv.org/abs/2512.04859)
+- [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
+- [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
+- [Passing of Joe Mancuso author of Masonite (Python web framework)](https://github.com/MasoniteFramework/masonite/discussions/853)
+- [Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation](https://arxiv.org/abs/2512.20687)
+- [Dude, where's my supersonic jet?](https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet)
+- [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)
+- [DatBench: Discriminative, faithful, and efficient VLM evaluations](https://arxiv.org/abs/2601.02316)
 
-*마지막 업데이트: 2026-01-06T04:45:24Z*
+*마지막 업데이트: 2026-01-06T21:11:07Z*
