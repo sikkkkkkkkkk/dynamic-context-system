@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-01-06T21:11:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-07T04:47:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
+- **AI automation** (점수: 19614.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
-- **AEO** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
+- **AI automation** (점수: 19614.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
-- **AEO** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
+- **AI automation** (점수: 19614.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
-- **AEO** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
+- **AI automation** (점수: 19614.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
-- **AEO** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
+- **AI automation** (점수: 17055.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
-- **AEO** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
+- **AI automation** (점수: 17055.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
-- **AEO** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
+- **AI automation** (점수: 16202.972)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
-- **AEO** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How Spotify Made Me Self Host](https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/)
-- [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
-- [High-Performance DBMSs with io_uring: When and How to use it](https://arxiv.org/abs/2512.04859)
-- [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
-- [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
-- [Passing of Joe Mancuso author of Masonite (Python web framework)](https://github.com/MasoniteFramework/masonite/discussions/853)
-- [Hierarchical Autoregressive Modeling for Memory-Efficient Language Generation](https://arxiv.org/abs/2512.20687)
-- [Dude, where's my supersonic jet?](https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet)
-- [Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)
-- [DatBench: Discriminative, faithful, and efficient VLM evaluations](https://arxiv.org/abs/2601.02316)
+- [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
+- [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
+- [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
+- [We recreated Steve Jobs's 1975 Atari horoscope program](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
+- [Electronic nose for indoor mold detection and identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124)
+- [Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI](https://github.com/x011/smtp-tunnel-proxy)
+- [Why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)
+- [JavaScript Analyzer – Burp Suite Extension](https://github.com/jenish-sojitra/JSAnalyzer)
+- [Ruby Array Pack Bleed](https://nastystereo.com/security/ruby-pack.html)
+- [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
 
-*마지막 업데이트: 2026-01-06T21:11:07Z*
+*마지막 업데이트: 2026-01-07T04:47:18Z*
