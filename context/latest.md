@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-01-07T21:11:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-08T04:44:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 44181.804)
-- **AI automation** (점수: 20074.124)
+- **AI automation** (점수: 20107.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 44181.804)
-- **AI automation** (점수: 20074.124)
+- **AI automation** (점수: 20107.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 44181.804)
-- **AI automation** (점수: 20074.124)
+- **AI automation** (점수: 20107.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 44181.804)
-- **AI automation** (점수: 20074.124)
+- **AI automation** (점수: 20107.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 38418.96)
-- **AI automation** (점수: 17455.76)
+- **AI automation** (점수: 17484.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 38418.96)
-- **AI automation** (점수: 17455.76)
+- **AI automation** (점수: 17484.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 36498.012)
-- **AI automation** (점수: 16582.972)
+- **AI automation** (점수: 16610.712)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Claude Code CLI Broken](https://github.com/anthropics/claude-code/issues/16673)
+- [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
+- [Musashi: Motorola 680x0 emulator written in C](https://github.com/kstenerud/Musashi)
+- [The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)](https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md)
+- [Fighting back against biometric surveillance at Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
+- [Play Aardwolf MUD](https://www.aardwolf.com/)
+- [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
 - [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-- [Claude Code Emergent Behavior: When Skills Combine](https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html)
-- [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
+- [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
-- [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
-- [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
-- [Eat Real Food](https://realfood.gov)
-- [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says)
-- [BillG the Manager (2021)](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager)
+- [Show HN: I visualized the entire history of Citi Bike in the browser](https://bikemap.nyc/)
 
-*마지막 업데이트: 2026-01-07T21:11:06Z*
+*마지막 업데이트: 2026-01-08T04:44:52Z*
