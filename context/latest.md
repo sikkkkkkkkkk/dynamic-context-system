@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-10T21:09:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-11T04:52:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16406.544)
+- **AI automation** (점수: 16110.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16406.544)
+- **AI automation** (점수: 16110.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16406.544)
+- **AI automation** (점수: 16110.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16406.544)
+- **AI automation** (점수: 16110.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14266.56)
+- **AI automation** (점수: 14009.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14266.56)
+- **AI automation** (점수: 14009.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13553.232)
+- **AI automation** (점수: 13308.892)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Sinclair C5](https://en.wikipedia.org/wiki/Sinclair_C5)
-- [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
-- [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
-- [Rats caught on camera hunting flying bats](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
-- [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
-- [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
-- [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
-- [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
-- [I replaced Windows with Linux and everything's going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop)
+- [Workers at Redmond SpaceX lab exposed to toxic chemicals](https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5)
+- [Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load](https://github.com/unhaya/vam-seek)
+- [A Year of Work on the Arch Linux Package Management (ALPM) Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
+- [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
+- [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
+- [Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE](https://github.com/kalcaddle/kodbox)
+- [Bob Weir has died](https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/)
+- [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
+- [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)
+- [Overdose deaths are falling in America because of a 'supply shock': study](https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america)
 
-*마지막 업데이트: 2026-01-10T21:09:09Z*
+*마지막 업데이트: 2026-01-11T04:52:21Z*
