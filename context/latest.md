@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-01-12T04:55:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-12T21:11:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15366.484)
+- **SEO** (점수: 52543.684)
+- **AI automation** (점수: 15056.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15366.484)
+- **SEO** (점수: 52543.684)
+- **AI automation** (점수: 15056.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15366.484)
+- **SEO** (점수: 52543.684)
+- **AI automation** (점수: 15056.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15366.484)
+- **SEO** (점수: 52543.684)
+- **AI automation** (점수: 15056.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13362.16)
+- **SEO** (점수: 45690.16)
+- **AI automation** (점수: 13092.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13362.16)
+- **SEO** (점수: 45690.16)
+- **AI automation** (점수: 13092.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12694.052)
+- **SEO** (점수: 43405.652)
+- **AI automation** (점수: 12438.312)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
-- [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
-- [Code is cheap now, but software isn't](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
-- [Uncrossy](https://uncrossy.com/)
-- [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
-- [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
-- [I'd tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
-- [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
-- [The next two years of software engineering](https://addyosmani.com/blog/next-two-years/)
-- [Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults](https://news.ycombinator.com/item?id=46580652)
+- [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+- [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
+- [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+- [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
+- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
+- [Postal Arbitrage](https://walzr.com/postal-arbitrage)
+- [Show HN: Customizable OSINT dashboard to monitor the situation](https://sr.ericli.tech/?d=N4IgbiBcCMA0IHcoG1QBcogEYngGxQAZZiAOWUgXXgGMpQBHTASwCcBDAO1xAAcoAzIWGEAvqNjpMAWx4FIycsWjKAbNRB1IoLcgEAmAHSqALAHYArAOgnYFk4YumBF6OvgAvKGfgBnKGisAK4ApvDckCAAkhzc4pIgGJEhckQU6VS09CBMkWxcIPFSkfz4KNBKsKqwZhpaoP6RNi5mAjwhSSAA0gAW7NIhnCHMAAQA9kFoI+y+IwDKQbysIQMjADIh7AAmIazjAGYjMVwjWACeIwBSXEHsrBfWAPyFEsUgZ6kKFTVVsACcdWyQUwPTQaF4vkgAHooQg4YYzhM0EEsCFDDQxtJYew0DQeo8wABeNYAfX2NFYAHlEQB1ABapBelFEQA)
+- [Message Queues: A Simple Guide with Analogies (2024)](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
+- [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
+- [Show HN: AI in SolidWorks](https://www.trylad.com)
 
-*마지막 업데이트: 2026-01-12T04:55:25Z*
+*마지막 업데이트: 2026-01-12T21:11:00Z*
