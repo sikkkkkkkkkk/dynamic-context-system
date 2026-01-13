@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-01-12T21:11:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-13T04:47:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 52543.684)
-- **AI automation** (점수: 15056.904)
+- **AI automation** (점수: 15014.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 52543.684)
-- **AI automation** (점수: 15056.904)
+- **AI automation** (점수: 15014.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 52543.684)
-- **AI automation** (점수: 15056.904)
+- **AI automation** (점수: 15014.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 52543.684)
-- **AI automation** (점수: 15056.904)
+- **AI automation** (점수: 15014.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 45690.16)
-- **AI automation** (점수: 13092.96)
+- **AI automation** (점수: 13055.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 10.17)
+- **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 45690.16)
-- **AI automation** (점수: 13092.96)
+- **AI automation** (점수: 13055.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 10.17)
+- **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 43405.652)
-- **AI automation** (점수: 12438.312)
+- **AI automation** (점수: 12402.972)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 19.162)
+- **productivity tips** (점수: 9.662)
+- **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [PawSense: Catproof Your Computer](http://bitboost.com/pawsense/)
+- [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
+- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+- [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
+- [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
+- [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
 - [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 - [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
-- [Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://github.com/finbarr/yolobox)
-- [Postal Arbitrage](https://walzr.com/postal-arbitrage)
-- [Show HN: Customizable OSINT dashboard to monitor the situation](https://sr.ericli.tech/?d=N4IgbiBcCMA0IHcoG1QBcogEYngGxQAZZiAOWUgXXgGMpQBHTASwCcBDAO1xAAcoAzIWGEAvqNjpMAWx4FIycsWjKAbNRB1IoLcgEAmAHSqALAHYArAOgnYFk4YumBF6OvgAvKGfgBnKGisAK4ApvDckCAAkhzc4pIgGJEhckQU6VS09CBMkWxcIPFSkfz4KNBKsKqwZhpaoP6RNi5mAjwhSSAA0gAW7NIhnCHMAAQA9kFoI+y+IwDKQbysIQMjADIh7AAmIazjAGYjMVwjWACeIwBSXEHsrBfWAPyFEsUgZ6kKFTVVsACcdWyQUwPTQaF4vkgAHooQg4YYzhM0EEsCFDDQxtJYew0DQeo8wABeNYAfX2NFYAHlEQB1ABapBelFEQA)
-- [Message Queues: A Simple Guide with Analogies (2024)](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html)
-- [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170)
-- [Show HN: AI in SolidWorks](https://www.trylad.com)
 
-*마지막 업데이트: 2026-01-12T21:11:00Z*
+*마지막 업데이트: 2026-01-13T04:47:19Z*
