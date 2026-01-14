@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-01-13T21:11:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-14T04:50:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 14922.124)
+- **AI automation** (점수: 14823.684)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 14922.124)
+- **AI automation** (점수: 14823.684)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 14922.124)
+- **AI automation** (점수: 14823.684)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 14922.124)
+- **AI automation** (점수: 14823.684)
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 12975.76)
+- **AI automation** (점수: 12890.16)
 - **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 12975.76)
+- **AI automation** (점수: 12890.16)
 - **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12326.972)
+- **AI automation** (점수: 12245.652)
 - **AI tutorial** (점수: 19.162)
+- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Games Workshop bans staff from using AI, management not excited about the tech](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
-- [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)
-- [A university got itself banned from the Linux kernel (2021)](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
-- [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
-- [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
-- [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
-- [Show HN: Ayder – HTTP-native durable event log written in C (curl as client)](https://github.com/A1darbek/ayder)
-- [How to make a damn website (2024)](https://lmnt.me/blog/how-to-make-a-damn-website.html)
-- [The Tulip Creative Computer](https://github.com/shorepine/tulipcc)
-- [Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424)
+- [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
+- [The Gleam Programming Language](https://gleam.run/)
+- [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
+- [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
+- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
+- [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
+- [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
+- [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
+- [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
+- [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
 
-*마지막 업데이트: 2026-01-13T21:11:21Z*
+*마지막 업데이트: 2026-01-14T04:50:52Z*
