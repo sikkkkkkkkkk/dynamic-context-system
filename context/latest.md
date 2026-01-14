@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-14T04:50:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-14T21:11:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 14823.684)
+- **AI automation** (점수: 14805.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 14823.684)
+- **AI automation** (점수: 14805.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 14823.684)
+- **AI automation** (점수: 14805.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 14823.684)
+- **AI automation** (점수: 14805.284)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 12890.16)
+- **AI automation** (점수: 12874.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 12890.16)
+- **AI automation** (점수: 12874.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12245.652)
+- **AI automation** (점수: 12230.452)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
-- [The Gleam Programming Language](https://gleam.run/)
-- [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
-- [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
-- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
-- [Show HN: Axis – A systems programming language with Python syntax](https://github.com/AGDNoob/axis-lang)
-- [Show HN: OSS AI agent that indexes and searches the Epstein files](https://epstein.trynia.ai/)
-- [Exa-d: How to store the web in S3](https://exa.ai/blog/exa-d)
-- [Vanderbilt University plans new campus in San Francisco](https://www.wsj.com/us-news/education/vanderbilt-san-francisco-cca-california-college-arts-expansion-lurie-8b6528b0)
-- [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer)
+- [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
+- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+- [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
+- [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
+- [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
+- [The string theory hype machine will never die](https://www.math.columbia.edu/~woit/wordpress/?p=15407)
+- [Ask HN: How do you safely give LLMs SSH/DB access?](https://news.ycombinator.com/item?id=46620990)
+- [Verizon outages reported across U.S.](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
+- [Native ZFS VDEV for Object Storage (OpenZFS Summit)](https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html)
+- [So, you've hit an age gate. what now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
 
-*마지막 업데이트: 2026-01-14T04:50:52Z*
+*마지막 업데이트: 2026-01-14T21:11:31Z*
