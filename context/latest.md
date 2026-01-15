@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-01-15T04:48:39Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-15T21:11:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 14762.044)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14293.764)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 14762.044)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14293.764)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 14762.044)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14293.764)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 14762.044)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14293.764)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 12836.56)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 12429.36)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 12836.56)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 12429.36)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12194.732)
-- **AI tutorial** (점수: 19.162)
+- **AI automation** (점수: 11807.892)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
-- [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
-- [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
-- [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
-- [Ask HN: Weird archive.today behavior?](https://news.ycombinator.com/item?id=46624740)
-- [ChromaDB Explorer](https://www.chroma-explorer.com/)
-- [Crafting Interpreters](https://craftinginterpreters.com/)
-- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
-- [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
-- [Ask HN: Distributed SQL engine for ultra-wide tables](https://news.ycombinator.com/item?id=46624190)
+- [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
+- [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
+- [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
+- [‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid](https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
+- [Dutch experts warn US takeover of DigiD platform poses security risks](https://nltimes.nl/2026/01/15/dutch-experts-warn-us-takeover-digid-platform-poses-national-security-risks)
+- [Ask HN: One IP, multiple unrealistic locations worldwide hitting my website](https://news.ycombinator.com/item?id=46636861)
+- [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/)
+- [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)
+- [CVEs affecting the Svelte ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem)
+- [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 
-*마지막 업데이트: 2026-01-15T04:48:39Z*
+*마지막 업데이트: 2026-01-15T21:11:59Z*
