@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-14T21:11:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-15T04:48:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 14805.284)
+- **AI automation** (점수: 14762.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 14805.284)
+- **AI automation** (점수: 14762.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 14805.284)
+- **AI automation** (점수: 14762.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 14805.284)
+- **AI automation** (점수: 14762.044)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 12874.16)
+- **AI automation** (점수: 12836.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 12874.16)
+- **AI automation** (점수: 12836.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12230.452)
+- **AI automation** (점수: 12194.732)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Wind power slashed 4.6B euros off electricity bills in Spain last year](https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html)
-- [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
-- [Show HN: Harmony – AI notetaker for Discord](https://harmonynotetaker.ai/)
-- [Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances](https://github.com/Strand-AI/lambda-cli)
-- [US to suspend immigrant visa processing for 75 nations, State Department says](https://www.reuters.com/world/us/us-suspend-visa-processing-75-nations-next-week-fox-news-reports-2026-01-14/)
-- [The string theory hype machine will never die](https://www.math.columbia.edu/~woit/wordpress/?p=15407)
-- [Ask HN: How do you safely give LLMs SSH/DB access?](https://news.ycombinator.com/item?id=46620990)
-- [Verizon outages reported across U.S.](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
-- [Native ZFS VDEV for Object Storage (OpenZFS Summit)](https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html)
-- [So, you've hit an age gate. what now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
+- [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
+- [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
+- [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
+- [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+- [Ask HN: Weird archive.today behavior?](https://news.ycombinator.com/item?id=46624740)
+- [ChromaDB Explorer](https://www.chroma-explorer.com/)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+- [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
+- [Ask HN: Distributed SQL engine for ultra-wide tables](https://news.ycombinator.com/item?id=46624190)
 
-*마지막 업데이트: 2026-01-14T21:11:31Z*
+*마지막 업데이트: 2026-01-15T04:48:39Z*
