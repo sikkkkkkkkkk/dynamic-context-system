@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-16T04:45:26Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-16T21:10:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 14018.224)
+- **AI automation** (점수: 13467.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 14018.224)
+- **AI automation** (점수: 13467.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 14018.224)
+- **AI automation** (점수: 13467.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 14018.224)
+- **AI automation** (점수: 13467.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 12189.76)
+- **AI automation** (점수: 11710.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 12189.76)
+- **AI automation** (점수: 11710.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 11580.272)
+- **AI automation** (점수: 11125.032)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Boeing knew of flaw in part linked to UPS plane crash](https://www.bbc.com/news/articles/cly56w0p9e1o)
-- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
-- [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/)
-- [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/)
-- [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit)
-- [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
-- [All 23-Bit Still Lifes Are Glider Constructible](https://mvr.github.io/posts/xs23.html)
-- [Why senior engineers let bad projects fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
-- [Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs)
-- [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
+- [LWN is currently under the heaviest scraper attack seen yet](https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO)
+- [Slop Is Everywhere for Those with Eyes to See](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
+- [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
+- [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
+- [Our approach to advertising](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
+- [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
+- [STFU](https://github.com/Pankajtanwarbanna/stfu)
+- [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
+- [Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)
+- [Launch HN: Indy (YC S21) – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
 
-*마지막 업데이트: 2026-01-16T04:45:26Z*
+*마지막 업데이트: 2026-01-16T21:10:58Z*
