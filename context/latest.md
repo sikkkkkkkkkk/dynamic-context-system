@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-16T21:10:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-17T04:37:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 13467.144)
+- **AI automation** (점수: 13422.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 13467.144)
+- **AI automation** (점수: 13422.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 13467.144)
+- **AI automation** (점수: 13422.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 13467.144)
+- **AI automation** (점수: 13422.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 11710.56)
+- **AI automation** (점수: 11671.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 11710.56)
+- **AI automation** (점수: 11671.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 11125.032)
+- **AI automation** (점수: 11088.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [LWN is currently under the heaviest scraper attack seen yet](https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO)
-- [Slop Is Everywhere for Those with Eyes to See](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
+- [Crypto grifters are recruiting open-source AI developers](https://www.seangoedecke.com/gas-and-ralph/)
+- [Ask HN: Is it still worth pursuing a software startup?](https://news.ycombinator.com/item?id=46654726)
+- [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
+- [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
+- [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation)
+- [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
+- [Slop is everywhere for those with eyes to see](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
 - [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
-- [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
-- [Our approach to advertising](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
 - [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
 - [STFU](https://github.com/Pankajtanwarbanna/stfu)
-- [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
-- [Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/zep-ai/jobs/)
-- [Launch HN: Indy (YC S21) – A support app designed for ADHD brains](https://www.shimmer.care/indy-redirect)
 
-*마지막 업데이트: 2026-01-16T21:10:58Z*
+*마지막 업데이트: 2026-01-17T04:37:16Z*
