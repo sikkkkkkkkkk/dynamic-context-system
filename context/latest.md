@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-19T04:56:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-19T21:10:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 12965.744)
+- **AI automation** (점수: 12652.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 12965.744)
+- **AI automation** (점수: 12652.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 12965.744)
+- **AI automation** (점수: 12652.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 12965.744)
+- **AI automation** (점수: 12652.024)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 11274.56)
+- **AI automation** (점수: 11001.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 11274.56)
+- **AI automation** (점수: 11001.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 10710.832)
+- **AI automation** (점수: 10451.672)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
-- [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/)
-- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
-- [Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)
-- [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
-- [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
-- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
-- [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
-- [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
-- [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
+- [Mammals have evolved into ant eaters 12 times since the dinosaur age – study](https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html)
+- [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
+- [Show HN: A creative coding library for making art with desktop windows](https://github.com/willmeyers/window-art)
+- [There's a hidden Android setting that spots fake cell towers](https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/)
+- [Understanding C++ Ownership System](https://blog.aiono.dev/posts/understanding-c++-ownership-system.html)
+- [Fix macOS 26 (Tahoe) exaggerated rounded corners](https://github.com/makalin/CornerFix)
+- [Letter from a Birmingham Jail (1963)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
+- [Show HN: Subth.ink – write something and see how many others wrote the same](https://subth.ink/)
+- [Nearly a third of social media research has undisclosed ties to industry](https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims)
+- [Notes on Apple's Nano Texture (2025)](https://jon.bo/posts/nano-texture/)
 
-*마지막 업데이트: 2026-01-19T04:56:48Z*
+*마지막 업데이트: 2026-01-19T21:10:21Z*
