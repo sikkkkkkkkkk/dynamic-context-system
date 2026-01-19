@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-18T21:09:35Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-19T04:56:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 13001.164)
+- **AI automation** (점수: 12965.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 13001.164)
+- **AI automation** (점수: 12965.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 13001.164)
+- **AI automation** (점수: 12965.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 13001.164)
+- **AI automation** (점수: 12965.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 11305.36)
+- **AI automation** (점수: 11274.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 11305.36)
+- **AI automation** (점수: 11274.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 10740.092)
+- **AI automation** (점수: 10710.832)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
+- [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/)
+- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
+- [Show HN: I quit coding years ago. AI brought me back](https://calquio.com/finance/compound-interest)
+- [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
+- [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
+- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
+- [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
 - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
-- [Microslop: A Web Browser Extension](https://github.com/4O4-wasd/Microslop)
-- [Evolution Unleashed (2018)](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
-- [Breaking the Zimmermann Telegram (2018)](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
-- [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
-- [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
-- [Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup](https://cua.ai/docs/lume/guide/getting-started/introduction)
-- [Gaussian Splatting – A$AP Rocky "Helicopter" music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
-- [Sins of the Children (Adrian Tchaikovsky)](https://asteriskmag.com/issues/07/sins-of-the-children)
-- [Predicting OpenAI's ad strategy](https://ossa-ma.github.io/blog/openads)
+- [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 
-*마지막 업데이트: 2026-01-18T21:09:35Z*
+*마지막 업데이트: 2026-01-19T04:56:48Z*
