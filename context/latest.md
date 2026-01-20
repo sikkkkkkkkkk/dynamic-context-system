@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-20T04:52:05Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-20T21:12:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 12507.124)
+- **AI automation** (점수: 12382.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 12507.124)
+- **AI automation** (점수: 12382.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 12507.124)
+- **AI automation** (점수: 12382.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 12507.124)
+- **AI automation** (점수: 12382.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 10875.76)
+- **AI automation** (점수: 10767.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 10875.76)
+- **AI automation** (점수: 10767.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 10331.972)
+- **AI automation** (점수: 10229.372)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
-- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
-- [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
-- [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)
-- [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
-- [Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
-- [Harvard legal scholars debate the state of the U.S. constitution (2025)](https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken)
-- [Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
-- [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
-- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
+- [Citizen says ICE took him at gunpoint in underwear despite cold and no warrant](https://apnews.com/article/minnesota-immigration-us-citizen-detained-hmong-d009590a491c0c8243ef21ef24db7182)
+- [A scammer's blueprint: How cybercriminals plot to rob a target in a week](https://www.reuters.com/graphics/SOUTHEASTASIA-SCAMS/MANUALS/klpyjlqelvg/)
+- [The secret medieval tunnels that we still don't understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
+- [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
+- [Without benchmarking LLMs, you're likely overpaying 5-10x](https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying)
+- [When "Likers'' Go Private: Engagement with Reputationally Risky Content on X](https://arxiv.org/abs/2601.11140)
+- [The 26,000-Year Astronomical Monument Hidden in Plain Sight](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+- [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/)
+- [Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs](https://github.com/mastra-ai/mastra)
+- [De-dollarization: Is the US dollar losing its dominance? (2025)](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
 
-*마지막 업데이트: 2026-01-20T04:52:05Z*
+*마지막 업데이트: 2026-01-20T21:12:32Z*
