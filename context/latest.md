@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-19T21:10:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-20T04:52:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 12652.024)
+- **AI automation** (점수: 12507.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 12652.024)
+- **AI automation** (점수: 12507.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 12652.024)
+- **AI automation** (점수: 12507.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 12652.024)
+- **AI automation** (점수: 12507.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 11001.76)
+- **AI automation** (점수: 10875.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 11001.76)
+- **AI automation** (점수: 10875.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 10451.672)
+- **AI automation** (점수: 10331.972)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mammals have evolved into ant eaters 12 times since the dinosaur age – study](https://phys.org/news/2025-07-mammals-evolved-ant-eaters-dinosaur.html)
-- [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/)
-- [Show HN: A creative coding library for making art with desktop windows](https://github.com/willmeyers/window-art)
-- [There's a hidden Android setting that spots fake cell towers](https://www.howtogeek.com/theres-a-hidden-android-setting-that-spots-fake-cell-towers/)
-- [Understanding C++ Ownership System](https://blog.aiono.dev/posts/understanding-c++-ownership-system.html)
-- [Fix macOS 26 (Tahoe) exaggerated rounded corners](https://github.com/makalin/CornerFix)
-- [Letter from a Birmingham Jail (1963)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
-- [Show HN: Subth.ink – write something and see how many others wrote the same](https://subth.ink/)
-- [Nearly a third of social media research has undisclosed ties to industry](https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims)
-- [Notes on Apple's Nano Texture (2025)](https://jon.bo/posts/nano-texture/)
+- [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
+- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow)
+- [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
+- [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)
+- [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
+- [Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
+- [Harvard legal scholars debate the state of the U.S. constitution (2025)](https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken)
+- [Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
+- [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
+- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
 
-*마지막 업데이트: 2026-01-19T21:10:21Z*
+*마지막 업데이트: 2026-01-20T04:52:05Z*
