@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-21T04:51:15Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-21T21:19:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 12396.264)
+- **AI automation** (점수: 12348.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 12396.264)
+- **AI automation** (점수: 12348.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 12396.264)
+- **AI automation** (점수: 12348.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 12396.264)
+- **AI automation** (점수: 12348.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 10779.36)
+- **AI automation** (점수: 10738.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 10779.36)
+- **AI automation** (점수: 10738.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 10240.392)
+- **AI automation** (점수: 10201.252)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)
-- [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
-- [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
-- [Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
-- [Claude Chill: Fix Claude Code's flickering in terminal](https://github.com/davidbeesley/claude-chill)
-- [Show HN: Parallel Agentic Search on the Twitter Algorithm](https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm)
-- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
-- [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
-- [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)
-- [Which AI Lies Best? A game theory classic designed by John Nash](https://so-long-sucker.vercel.app/)
+- [FreeBSD](https://docs.freebsd.org/en/books/handbook/)
+- [Ask HN: How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
+- [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
+- [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
+- [Show HN: Rails UI](https://railsui.com/)
+- [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
+- [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/)
+- [Slouching Towards Bethlehem – Joan Didion (1967)](https://www.saturdayeveningpost.com/2017/06/didion/)
+- [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
+- [Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees](https://atg.science/)
 
-*마지막 업데이트: 2026-01-21T04:51:15Z*
+*마지막 업데이트: 2026-01-21T21:19:23Z*
