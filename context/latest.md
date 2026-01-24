@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-01-24T04:39:53Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-24T21:09:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 13226.564)
+- **AI automation** (점수: 13687.944)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 13226.564)
+- **AI automation** (점수: 13687.944)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 13226.564)
+- **AI automation** (점수: 13687.944)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 13226.564)
+- **AI automation** (점수: 13687.944)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 11501.36)
+- **AI automation** (점수: 11902.56)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 11501.36)
+- **AI automation** (점수: 11902.56)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 10926.292)
+- **AI automation** (점수: 11307.432)
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
-- [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
-- [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
-- [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
-- [Mental Models (2018)](https://fs.blog/mental-models/)
-- [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
-- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
-- [Banned C++ features in Chromium](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md)
-- [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
-- [New YC homepage](https://www.ycombinator.com/)
+- [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
+- [Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android](https://github.com/hissain/jscipy)
+- [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
+- [Propositions about the New Romanticism](https://www.honest-broker.com/p/25-propositions-about-the-new-romanticism)
+- [Why Does Destroying Resources via TF Suck?](https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck)
+- [Bye Bye Gmail](https://m24tom.com/bye-bye-gmail/show)
+- [Show HN: StormWatch – Weather emergency dashboard with prep checklists](https://jeisey.github.io/stormwatch/)
+- [Show HN: Polymcp – Turn Any Python Function into an MCP Tool for AI Agents](https://news.ycombinator.com/item?id=46746700)
+- [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
+- [JSON-render: LLM-based JSON-to-UI tool](https://json-render.dev/)
 
-*마지막 업데이트: 2026-01-24T04:39:53Z*
+*마지막 업데이트: 2026-01-24T21:09:32Z*
