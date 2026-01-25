@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-01-25T04:55:41Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-25T21:09:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 13785.004)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 14212.344)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 13785.004)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 14212.344)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 13785.004)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 14212.344)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 13785.004)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **AI automation** (점수: 14212.344)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 11986.96)
-- **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **AI automation** (점수: 12358.56)
+- **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 11986.96)
-- **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **AI automation** (점수: 12358.56)
+- **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 11387.612)
-- **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 9.662)
+- **AI automation** (점수: 11740.632)
+- **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
-- [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
-- [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
-- [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
-- [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
-- [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047)
-- [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/)
-- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
-- [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
-- [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
+- [AI Tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
+- [OnePlus update blocks downgrades and custom ROMs by blowing a fuse](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
+- [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
+- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
+- [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
+- [First, make me care](https://gwern.net/blog/2026/make-me-care)
+- [ICE using Palantir tool that feeds on Medicaid data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
+- [FAA institutes nationwide drone no-fly zones around ICE operations](https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs)
+- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
+- [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 
-*마지막 업데이트: 2026-01-25T04:55:41Z*
+*마지막 업데이트: 2026-01-25T21:09:49Z*
