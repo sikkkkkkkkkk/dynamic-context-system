@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-25T21:09:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-26T04:59:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 14212.344)
+- **AI automation** (점수: 14294.224)
 - **productivity tips** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 14212.344)
+- **AI automation** (점수: 14294.224)
 - **productivity tips** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 14212.344)
+- **AI automation** (점수: 14294.224)
 - **productivity tips** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 14212.344)
+- **AI automation** (점수: 14294.224)
 - **productivity tips** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 12358.56)
+- **AI automation** (점수: 12429.76)
 - **productivity tips** (점수: 20.17)
 - **AI tutorial** (점수: 10.17)
 - **SEO guide** (점수: 10.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 12358.56)
+- **AI automation** (점수: 12429.76)
 - **productivity tips** (점수: 20.17)
 - **AI tutorial** (점수: 10.17)
 - **SEO guide** (점수: 10.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 11740.632)
+- **AI automation** (점수: 11808.272)
 - **productivity tips** (점수: 19.162)
 - **AI tutorial** (점수: 9.662)
 - **SEO guide** (점수: 9.662)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AI Tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
-- [OnePlus update blocks downgrades and custom ROMs by blowing a fuse](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
-- [Data Leak Exposes 149M Logins, Including Gmail, Facebook](https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/)
-- [I was right about ATProto key management](https://notes.nora.codes/atproto-again/)
-- [Spanish track was fractured before high-speed train disaster, report finds](https://www.bbc.com/news/articles/c1m77dmxlvlo)
-- [First, make me care](https://gwern.net/blog/2026/make-me-care)
-- [ICE using Palantir tool that feeds on Medicaid data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
-- [FAA institutes nationwide drone no-fly zones around ICE operations](https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs)
-- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
-- [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
+- [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
+- [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
+- [Microsoft suspects some PCs might not boot after Windows 11 January 2026 Update](https://www.windowslatest.com/2026/01/25/microsoft-suspects-some-pcs-might-not-boot-after-windows-11-january-2026-update-kb5074109/)
+- [Video Games as Art](https://gwern.net/video-game-art)
+- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
+- [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
+- [Show HN: A small programming language where everything is pass-by-value](https://github.com/Jcparkyn/herd)
+- [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
+- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
+- [The '3.5% rule': How a small minority can change the world (2019)](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
 
-*마지막 업데이트: 2026-01-25T21:09:49Z*
+*마지막 업데이트: 2026-01-26T04:59:00Z*
