@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-01-29T21:16:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-30T05:12:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15499.884)
+- **AI automation** (점수: 15487.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15499.884)
+- **AI automation** (점수: 15487.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15499.884)
+- **AI automation** (점수: 15487.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15499.884)
+- **AI automation** (점수: 15487.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13478.16)
+- **AI automation** (점수: 13467.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13478.16)
+- **AI automation** (점수: 13467.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12804.252)
+- **AI automation** (점수: 12794.372)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [iPhone 16 Best-Selling Smartphone in 2025; Apple Takes 7 Spots in Top Models](https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models)
-- [Apple buys Israeli startup Q.ai as the AI race heats up](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
-- [Slopaganda: AI images posted by the White House and what they teach us](https://www.theguardian.com/us-news/2026/jan/29/the-slopaganda-era-10-ai-images-posted-by-the-white-house-and-what-they-teach-us)
-- [Why "The AI Hallucinated" is the perfect legal defense](https://niyikiza.com/posts/hallucination-defense/)
+- [I built VanCamera: FOSS, secure, zero-config Android webcam for Windows](https://github.com/danielbolivar/vancamera)
+- [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
+- [Moltbook](https://www.moltbook.com/)
+- [Stargaze: SpaceX's Space Situational Awareness System](https://starlink.com/updates/stargaze)
+- [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
+- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+- [Cutting Up Curved Things](https://campedersen.com/tessellation)
+- [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
+- [The WiFi only works when it's raining (2024)](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 - [Flameshot](https://github.com/flameshot-org/flameshot)
-- [Networks Hold the Key to a Decades-Old Problem About Waves](https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/)
-- [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
-- [County pays $600k to pentesters it arrested for assessing courthouse security](https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/)
-- [My Mom and Dr. DeepSeek (2025)](https://restofworld.org/2025/ai-chatbot-china-sick/)
-- [MakuluLinux (6.4M Downloads) Ships Persistent Backdoor from Developer's Own C2](https://werai.ca/security-disclosure.html)
 
-*마지막 업데이트: 2026-01-29T21:16:44Z*
+*마지막 업데이트: 2026-01-30T05:12:08Z*
