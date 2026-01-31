@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-01-30T21:18:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-01-31T05:04:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15346.244)
+- **AI automation** (점수: 15432.724)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15346.244)
+- **AI automation** (점수: 15432.724)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15346.244)
+- **AI automation** (점수: 15432.724)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15346.244)
+- **AI automation** (점수: 15432.724)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13344.56)
+- **AI automation** (점수: 13419.76)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **AI tutorial** (점수: 10.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13344.56)
+- **AI automation** (점수: 13419.76)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **AI tutorial** (점수: 10.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12677.332)
+- **AI automation** (점수: 12748.772)
+- **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **AI tutorial** (점수: 9.662)
-- **productivity tips** (점수: 9.662)
+- **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
+- [Show HN: Foundry – Turns your repeated workflows into one-click commands](https://github.com/lekt9/openclaw-foundry)
+- [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
+- [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
+- [Stonebraker on CAP theorem and Databases (2010)](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
+- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
+- [I trapped an AI model inside an art installation (2025) [video]](https://www.youtube.com/watch?v=7fNYj0EXxMs)
+- [P vs. NP and the Difficulty of Computation: A ruliological approach](https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/)
 - [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
 - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
-- [A judge gave the FBI permission to attempt to bypass biometrics](https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/)
-- [Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
-- [Vcad: Free BRep CAD in the Browser](https://vcad.io)
-- [Kimi K2.5 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf)
-- [Self Driving Car Insurance](https://www.lemonade.com/car/explained/self-driving-car-insurance/)
-- [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
-- [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
-- [HTTP Cats](https://http.cat/)
 
-*마지막 업데이트: 2026-01-30T21:18:06Z*
+*마지막 업데이트: 2026-01-31T05:04:55Z*
