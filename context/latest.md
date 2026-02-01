@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-02-01T05:24:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-01T21:13:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15140.624)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14978.244)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15140.624)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14978.244)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15140.624)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14978.244)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15140.624)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 14978.244)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13165.76)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 13024.56)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13165.76)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 13024.56)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12507.472)
-- **AI tutorial** (점수: 19.162)
+- **AI automation** (점수: 12373.332)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
 - **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
-- [List animals until failure](https://rose.systems/animalist/)
-- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
-- [Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
-- [Swift is a more convenient Rust (2023)](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
-- [Best of Moltbook](https://www.astralcodexten.com/p/best-of-moltbook)
-- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
-- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
-- [Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.](https://github.com/zupat/related_post_gen)
+- [1-Click RCE to steal your Moltbot data and keys](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
+- [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
+- ['Right-to-Compute' Laws May Be Coming to Your State This Year](https://www.vktr.com/ai-ethics-law-risk/right-to-compute-laws/)
+- [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
+- [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
+- [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+- [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
+- [A Crisis comes to Wordle: Reusing old words](https://forkingmad.blog/wordle-crisis/)
+- [Apple I Advertisement (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
+- [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html)
 
-*마지막 업데이트: 2026-02-01T05:24:18Z*
+*마지막 업데이트: 2026-02-01T21:13:32Z*
