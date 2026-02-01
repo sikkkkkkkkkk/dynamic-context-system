@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-01-31T21:11:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-01T05:24:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15174.664)
+- **AI automation** (점수: 15140.624)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15174.664)
+- **AI automation** (점수: 15140.624)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15174.664)
+- **AI automation** (점수: 15140.624)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15174.664)
+- **AI automation** (점수: 15140.624)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13195.36)
+- **AI automation** (점수: 13165.76)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13195.36)
+- **AI automation** (점수: 13165.76)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12535.592)
+- **AI automation** (점수: 12507.472)
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/)
+- [List animals until failure](https://rose.systems/animalist/)
+- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html)
+- [Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/)
+- [Swift is a more convenient Rust (2023)](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
+- [Best of Moltbook](https://www.astralcodexten.com/p/best-of-moltbook)
+- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
-- [Demystifying ARM SME to Optimize General Matrix Multiplications](https://arxiv.org/abs/2512.21473)
-- [The Saddest Moment (2013) [pdf]](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
-- [Show HN: Minimal – Open-Source Community driven Hardened Container Images](https://github.com/rtvkiz/minimal)
-- [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
-- [Death Note: L, Anonymity and Eluding Entropy (2011)](https://gwern.net/death-note-anonymity)
-- [Google Cloud suspended my account for 2 years, only automated replies](https://news.ycombinator.com/item?id=46839375)
-- [Nintendo DS code editor and scriptable game engine](https://crl.io/ds-game-engine/)
-- [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
-- [US has investigated claims WhatsApp chats aren't private](https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private)
+- [Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.](https://github.com/zupat/related_post_gen)
 
-*마지막 업데이트: 2026-01-31T21:11:42Z*
+*마지막 업데이트: 2026-02-01T05:24:18Z*
