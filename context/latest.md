@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-02-03T21:23:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-04T05:12:41Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15378.904)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 15527.484)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15378.904)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 15527.484)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15378.904)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 15527.484)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15378.904)
-- **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **AI automation** (점수: 15527.484)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13372.96)
-- **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
+- **AI automation** (점수: 13502.16)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13372.96)
-- **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
+- **AI automation** (점수: 13502.16)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12704.312)
-- **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
+- **AI automation** (점수: 12827.052)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bruce Schneier: AI and the scaling of betrayal](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
-- [Anthropic AI Tool Sparks Selloff from Software to Broader Market](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
-- [How Vibe Coding Is Killing Open Source](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
-- [When rust ≠ performance. a lesson in developer experience](https://suriya.cc/tech/performance/oxen-add/)
-- [China Moon Mission: Aiming for 2030 Lunar Landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+- [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
+- [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
+- [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
+- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
+- [China Moon Mission: Aiming for 2030 lunar landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 - [AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines](https://github.com/alibaba/AliSQL)
-- [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
-- [Sandboxing AI Agents in Linux](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+- [Y Combinator will let founders receive funds in stablecoins](https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/)
+- [Xcode 26.3 – Developers can leverage coding agents directly in Xcode](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)
 - [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox)
-- [Migrate Wizard – IMAP Based Email Migration Tool](https://migratewizard.com/#features)
+- [221 Cannon is Not For Sale](https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/)
 
-*마지막 업데이트: 2026-02-03T21:23:29Z*
+*마지막 업데이트: 2026-02-04T05:12:41Z*
