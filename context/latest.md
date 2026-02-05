@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-02-04T21:23:26Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-05T05:19:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15524.724)
+- **AI automation** (점수: 15403.284)
 - **SEO guide** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **productivity tips** (점수: 11.695)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15524.724)
+- **AI automation** (점수: 15403.284)
 - **SEO guide** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **productivity tips** (점수: 11.695)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15524.724)
+- **AI automation** (점수: 15403.284)
 - **SEO guide** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **productivity tips** (점수: 11.695)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15524.724)
+- **AI automation** (점수: 15403.284)
 - **SEO guide** (점수: 23.195)
 - **AI tutorial** (점수: 11.695)
 - **productivity tips** (점수: 11.695)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13499.76)
+- **AI automation** (점수: 13394.16)
 - **SEO guide** (점수: 20.17)
 - **AI tutorial** (점수: 10.17)
 - **productivity tips** (점수: 10.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13499.76)
+- **AI automation** (점수: 13394.16)
 - **SEO guide** (점수: 20.17)
 - **AI tutorial** (점수: 10.17)
 - **productivity tips** (점수: 10.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12824.772)
+- **AI automation** (점수: 12724.452)
 - **SEO guide** (점수: 19.162)
 - **AI tutorial** (점수: 9.662)
 - **productivity tips** (점수: 9.662)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Interactive California Budget (By Claude Code)](https://california-budget.com)
-- [Technocracy 2.0](https://brooklynrail.org/2026/02/field-notes/technocracy-2-0/)
-- [Show HN: EpsteIn – Search the Epstein files for your LinkedIn connections](https://github.com/cfinke/EpsteIn)
-- [Turn any website into a live, structured data feed](https://www.meter.sh/)
-- [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
+- [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)
+- [Sam Altman Responds to Anthropic Ad Campaign](https://twitter.com/i/status/2019139174339928189)
+- [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
+- [Child prodigies rarely become elite performers](https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers)
+- [OpenClaw is what Apple intelligence should have been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
+- [Why More Companies Are Recognizing the Benefits of Keeping Older Employees](https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/)
+- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
+- [Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)
 - [Claude Code for Infrastructure](https://www.fluid.sh/)
 - [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
-- [Study: emotional support from social media found to reduce anxiety](https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety)
-- [AI is killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
-- [Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)](https://www.runconverge.com/careers/product-engineer)
 
-*마지막 업데이트: 2026-02-04T21:23:26Z*
+*마지막 업데이트: 2026-02-05T05:19:29Z*
