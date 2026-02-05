@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-02-05T05:19:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-05T21:18:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15403.284)
+- **AI automation** (점수: 15262.984)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15403.284)
+- **AI automation** (점수: 15262.984)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15403.284)
+- **AI automation** (점수: 15262.984)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15403.284)
+- **AI automation** (점수: 15262.984)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **AI tutorial** (점수: 11.695)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13394.16)
+- **AI automation** (점수: 13272.16)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **AI tutorial** (점수: 10.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13394.16)
+- **AI automation** (점수: 13272.16)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **AI tutorial** (점수: 10.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12724.452)
+- **AI automation** (점수: 12608.552)
+- **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **AI tutorial** (점수: 9.662)
-- **productivity tips** (점수: 9.662)
+- **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use)
-- [Sam Altman Responds to Anthropic Ad Campaign](https://twitter.com/i/status/2019139174339928189)
-- [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
-- [Child prodigies rarely become elite performers](https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers)
-- [OpenClaw is what Apple intelligence should have been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
-- [Why More Companies Are Recognizing the Benefits of Keeping Older Employees](https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/)
-- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
-- [Show HN: Morph – Videos of AI testing your PR, embedded in GitHub](https://morphllm.com/products/glance)
-- [Claude Code for Infrastructure](https://www.fluid.sh/)
-- [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
+- [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
+- [The time I didn't meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
+- [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
+- [Flock CEO calls Deflock a "terrorist organization" [video] (2025)](https://www.youtube.com/watch?v=l-kZGrDz7PU)
+- [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
+- [Anthropic's Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
+- [Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](https://arxiv.org/abs/2512.04124)
+- [A small, shared skill library by builders, for builders. (human and agent)](https://github.com/PsiACE/skills)
+- [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
 
-*마지막 업데이트: 2026-02-05T05:19:29Z*
+*마지막 업데이트: 2026-02-05T21:18:48Z*
