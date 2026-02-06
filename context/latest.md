@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-02-06T05:17:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-06T21:20:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15223.884)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 16044.524)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15223.884)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 16044.524)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15223.884)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 16044.524)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15223.884)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 16044.524)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13238.16)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 13951.76)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13238.16)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 13951.76)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12576.252)
-- **AI tutorial** (점수: 19.162)
+- **AI automation** (점수: 13254.172)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
-- [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
-- [C isn't a programming language anymore (2022)](https://faultlore.com/blah/c-isnt-a-language/)
-- [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
-- [The RCE that AMD won't fix](https://mrbruh.com/amd/)
-- [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka](https://github.com/calf-ai/calfkit-sdk)
-- [What if writing tests was a joyful experience? (2023)](https://blog.janestreet.com/the-joy-of-expect-tests/)
-- [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)
-- [Claude Opus 4.6 extra usage promo](https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo)
-- [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
+- [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986)
+- [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
+- [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
+- [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+- [Fraud investigation is believing your lying eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/)
+- [Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements](https://www.biotradingarena.com/hn)
+- [I spent 5 years in DevOps – Solutions engineering gave me what I was missing](https://infisical.com/blog/devops-to-solutions-engineering)
+- [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
+- [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
+- [NIMBYs aren't just shutting down housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
 
-*마지막 업데이트: 2026-02-06T05:17:55Z*
+*마지막 업데이트: 2026-02-06T21:20:07Z*
