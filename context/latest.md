@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-02-05T21:18:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-06T05:17:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 15262.984)
+- **AI automation** (점수: 15223.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 15262.984)
+- **AI automation** (점수: 15223.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 15262.984)
+- **AI automation** (점수: 15223.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 15262.984)
+- **AI automation** (점수: 15223.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 13272.16)
+- **AI automation** (점수: 13238.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 13272.16)
+- **AI automation** (점수: 13238.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 12608.552)
+- **AI automation** (점수: 12576.252)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
+- [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
+- [C isn't a programming language anymore (2022)](https://faultlore.com/blah/c-isnt-a-language/)
+- [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
+- [The RCE that AMD won't fix](https://mrbruh.com/amd/)
+- [Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka](https://github.com/calf-ai/calfkit-sdk)
+- [What if writing tests was a joyful experience? (2023)](https://blog.janestreet.com/the-joy-of-expect-tests/)
+- [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)
+- [Claude Opus 4.6 extra usage promo](https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo)
 - [LinkedIn checks for 2953 browser extensions](https://github.com/mdp/linkedin-extension-fingerprinting)
-- [The time I didn't meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
-- [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
-- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
-- [Flock CEO calls Deflock a "terrorist organization" [video] (2025)](https://www.youtube.com/watch?v=l-kZGrDz7PU)
-- [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
-- [Anthropic's Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
-- [Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](https://arxiv.org/abs/2512.04124)
-- [A small, shared skill library by builders, for builders. (human and agent)](https://github.com/PsiACE/skills)
-- [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
 
-*마지막 업데이트: 2026-02-05T21:18:48Z*
+*마지막 업데이트: 2026-02-06T05:17:55Z*
