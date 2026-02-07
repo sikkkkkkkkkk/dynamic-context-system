@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-02-07T05:08:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-07T21:15:22Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16155.844)
+- **AI automation** (점수: 16435.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16155.844)
+- **AI automation** (점수: 16435.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16155.844)
+- **AI automation** (점수: 16435.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16155.844)
+- **AI automation** (점수: 16435.984)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14048.56)
+- **AI automation** (점수: 14292.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14048.56)
+- **AI automation** (점수: 14292.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13346.132)
+- **AI automation** (점수: 13577.552)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
-- [I'm going to cure my girlfriend's brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain)
-- [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
-- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
-- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
-- [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
-- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
-- [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
-- [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
-- [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+- [Microsoft Account bugs locked me out of Notepad – are Thin Clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
+- [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
+- [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
+- [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
+- [I Write Games in C (yes, C)](https://jonathanwhiting.com/writing/blog/games_in_c/)
+- [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+- [U.S. Jobs Disappear at Fastest January Pace Since Great Recession](https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/)
+- [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
+- [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
+- [France's homegrown open source online office suite](https://github.com/suitenumerique)
 
-*마지막 업데이트: 2026-02-07T05:08:48Z*
+*마지막 업데이트: 2026-02-07T21:15:22Z*
