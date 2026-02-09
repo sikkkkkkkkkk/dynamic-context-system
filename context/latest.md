@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-02-09T05:39:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-09T21:28:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16418.504)
+- **AI automation** (점수: 16481.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16418.504)
+- **AI automation** (점수: 16481.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16418.504)
+- **AI automation** (점수: 16481.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16418.504)
+- **AI automation** (점수: 16481.064)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14276.96)
+- **AI automation** (점수: 14331.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14276.96)
+- **AI automation** (점수: 14331.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13563.112)
+- **AI automation** (점수: 13614.792)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 19.162)
+- **productivity tips** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
-- [Claude's C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
-- [NanoClaw now supports Claude's Agent Swarms in containers](https://twitter.com/Gavriel_Cohen/status/2020701159175155874)
-- [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
-- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
-- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html)
-- [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
-- [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
-- [Stop Generating, Start Thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
-- [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)](https://arxiv.org/abs/2510.25417)
+- [America Has a Tungsten Problem](https://www.noleary.com/blog/posts/1)
+- [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+- [Upcoming changes to Let's Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
+- [MIT Living Wage Calculator](https://livingwage.mit.edu/)
+- [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
+- [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
+- [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
+- [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
+- [The Markets of Old London (2024)](https://spitalfieldslife.com/2024/06/20/the-markets-of-old-london-i/)
+- [Game Boy Advance Audio Interpolation](https://jsgroth.dev/blog/posts/gba-audio-interpolation/)
 
-*마지막 업데이트: 2026-02-09T05:39:55Z*
+*마지막 업데이트: 2026-02-09T21:28:58Z*
