@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-02-10T05:40:45Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-10T21:32:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 16585.484)
+- **AI automation** (점수: 16752.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 16585.484)
+- **AI automation** (점수: 16752.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 16585.484)
+- **AI automation** (점수: 16752.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 16585.484)
+- **AI automation** (점수: 16752.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 14422.16)
+- **AI automation** (점수: 14567.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 14422.16)
+- **AI automation** (점수: 14567.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 13701.052)
+- **AI automation** (점수: 13838.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
-- [Why "just prompt better" doesn't work](https://www.bicameral-ai.com/blog/tech-debt-meeting)
-- [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
-- [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
-- [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
-- [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
-- [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
-- [LiftKit – UI where "everything derives from the golden ratio"](https://www.chainlift.io/liftkit)
-- [America has a tungsten problem](https://www.noleary.com/blog/posts/1)
-- [Upcoming changes to Let's Encrypt and how they affect XMPP server operators](https://blog.prosody.im/2026-letsencrypt-changes/)
+- [Show HN: Clawe – open-source Trello for agent teams](https://github.com/getclawe/clawe)
+- [Toyotas and Terrorists: "Why are ISIS's trucks better than ours?"](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
+- [China's Data Center Boom: A View from Zhangjiakou (2025)](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
+- [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)
+- [Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis](https://livedocs.com)
+- [The switch to Linux and the beginning of my self-hosting journey](https://hazemkrimi.tech/blog/linux-self-hosting-journey/)
+- [Show HN: Showboat and Rodney, so agents can demo what they've built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/)
+- [Markdown CLI viewer with VI keybindings](https://github.com/taf2/mdvi)
+- [Google handed ICE student journalist's bank and credit card numbers](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
+- [Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB](https://github.com/pretzelai/stripe-no-webhooks)
 
-*마지막 업데이트: 2026-02-10T05:40:45Z*
+*마지막 업데이트: 2026-02-10T21:32:57Z*
