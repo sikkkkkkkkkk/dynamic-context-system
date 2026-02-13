@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-02-13T05:24:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-13T21:24:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18588.784)
+- **AI automation** (점수: 18477.004)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18588.784)
+- **AI automation** (점수: 18477.004)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18588.784)
+- **AI automation** (점수: 18477.004)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18588.784)
+- **AI automation** (점수: 18477.004)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16164.16)
+- **AI automation** (점수: 16066.96)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16164.16)
+- **AI automation** (점수: 16066.96)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15355.952)
+- **AI automation** (점수: 15263.612)
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)
-- [Inside Epstein’s network: what 1.4M emails reveal](https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network)
-- [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/)
-- [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
-- [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
-- [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
-- [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/)
-- [Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)](https://news.ycombinator.com/item?id=46996490)
-- [Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case](https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/)
-- [Fixing retail with land value capture](https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/)
+- [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
+- [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
+- [Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs](https://cloudrouter.dev/)
+- [Age of Empires: 25 years of pathfinding problems with C++ [video]](https://www.youtube.com/watch?v=lEBQveBCtKY)
+- [The Sharp PC-2000 Computer Boombox from 1979](https://stereo2go.com/forums/threads/one-of-the-rarest-the-sharp-pc-2000-computer-boombox-from-1979.10341/)
+- [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
+- [CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+- [I spent two days gigging at RentAHuman and didn't make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)
+- [IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw)
+- [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 
-*마지막 업데이트: 2026-02-13T05:24:06Z*
+*마지막 업데이트: 2026-02-13T21:24:57Z*
