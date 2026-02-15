@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-02-15T05:22:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-15T21:14:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18381.784)
-- **AI tutorial** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18381.784)
-- **AI tutorial** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18381.784)
-- **AI tutorial** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18381.784)
-- **AI tutorial** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15984.16)
-- **AI tutorial** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15984.16)
-- **AI tutorial** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15184.952)
-- **AI tutorial** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
 - **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
+- **AEO** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html)
-- [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
-- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
-- [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
-- [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
-- [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
-- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
-- [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/)
-- [Amsterdam Compiler Kit](https://github.com/davidgiven/ack)
-- [A review of M Disc archival capability with long term testing results (2016)](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html)
+- [Show HN: Lightwave – Real-time notes app, 3.5 years of hand-rolled JavaScript](https://news.ycombinator.com/item?id=47027463)
+- [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
+- [Court orders Acer and Asus to stop selling PCs in Germany over H.265 patents](https://videocardz.com/newz/acer-and-asus-are-now-banned-from-selling-pcs-and-laptops-in-germany-following-nokia-hevc-patent-ruling)
+- [State Attorneys General Want to Tie Online Access to ID](https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act)
+- [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
+- [Scientists observe a 300M-year-old brain rhythm in several animal species](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html)
+- [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
+- [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
+- [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com)
+- [Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/)
 
-*마지막 업데이트: 2026-02-15T05:22:00Z*
+*마지막 업데이트: 2026-02-15T21:14:23Z*
