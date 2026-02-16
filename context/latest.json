@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-02-15T21:14:23Z",
+  "updated_at": "2026-02-16T05:39:38Z",
   "version": "1.0",
   "modes": [
     {
       "mode": "sns",
       "top_keywords": [
         {
-          "keyword": "productivity tips",
-          "score": 23.195
+          "keyword": "AI automation",
+          "score": 18643.064
         },
         {
           "keyword": "AI tutorial",
-          "score": 11.695
+          "score": 23.195
         },
         {
           "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
           "score": 11.695
         },
         {
           "keyword": "AI automation",
-          "score": 4.876
-        },
-        {
-          "keyword": "AEO",
           "score": 4.876
         }
       ],
@@ -48,23 +48,23 @@
       "mode": "sales",
       "top_keywords": [
         {
-          "keyword": "productivity tips",
-          "score": 23.195
+          "keyword": "AI automation",
+          "score": 18643.064
         },
         {
           "keyword": "AI tutorial",
-          "score": 11.695
+          "score": 23.195
         },
         {
           "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
           "score": 11.695
         },
         {
           "keyword": "AI automation",
-          "score": 4.876
-        },
-        {
-          "keyword": "AEO",
           "score": 4.876
         }
       ],
@@ -90,23 +90,23 @@
       "mode": "blog",
       "top_keywords": [
         {
-          "keyword": "productivity tips",
-          "score": 23.195
+          "keyword": "AI automation",
+          "score": 18643.064
         },
         {
           "keyword": "AI tutorial",
-          "score": 11.695
+          "score": 23.195
         },
         {
           "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
           "score": 11.695
         },
         {
           "keyword": "AI automation",
-          "score": 4.876
-        },
-        {
-          "keyword": "AEO",
           "score": 4.876
         }
       ],
@@ -132,23 +132,23 @@
       "mode": "video",
       "top_keywords": [
         {
-          "keyword": "productivity tips",
-          "score": 23.195
+          "keyword": "AI automation",
+          "score": 18643.064
         },
         {
           "keyword": "AI tutorial",
-          "score": 11.695
+          "score": 23.195
         },
         {
           "keyword": "SEO guide",
+          "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
           "score": 11.695
         },
         {
           "keyword": "AI automation",
-          "score": 4.876
-        },
-        {
-          "keyword": "AEO",
           "score": 4.876
         }
       ],
@@ -174,23 +174,23 @@
       "mode": "ebook",
       "top_keywords": [
         {
-          "keyword": "productivity tips",
-          "score": 20.17
+          "keyword": "AI automation",
+          "score": 16211.36
         },
         {
           "keyword": "AI tutorial",
-          "score": 10.17
+          "score": 20.17
         },
         {
           "keyword": "SEO guide",
+          "score": 20.17
+        },
+        {
+          "keyword": "productivity tips",
           "score": 10.17
         },
         {
           "keyword": "AI automation",
-          "score": 4.24
-        },
-        {
-          "keyword": "AEO",
           "score": 4.24
         }
       ],
@@ -216,23 +216,23 @@
       "mode": "edu",
       "top_keywords": [
         {
-          "keyword": "productivity tips",
-          "score": 20.17
+          "keyword": "AI automation",
+          "score": 16211.36
         },
         {
           "keyword": "AI tutorial",
-          "score": 10.17
+          "score": 20.17
         },
         {
           "keyword": "SEO guide",
+          "score": 20.17
+        },
+        {
+          "keyword": "productivity tips",
           "score": 10.17
         },
         {
           "keyword": "AI automation",
-          "score": 4.24
-        },
-        {
-          "keyword": "AEO",
           "score": 4.24
         }
       ],
@@ -258,23 +258,23 @@
       "mode": "public",
       "top_keywords": [
         {
-          "keyword": "productivity tips",
-          "score": 19.162
+          "keyword": "AI automation",
+          "score": 15400.792
         },
         {
           "keyword": "AI tutorial",
-          "score": 9.662
+          "score": 19.162
         },
         {
           "keyword": "SEO guide",
+          "score": 19.162
+        },
+        {
+          "keyword": "productivity tips",
           "score": 9.662
         },
         {
           "keyword": "AI automation",
-          "score": 4.028
-        },
-        {
-          "keyword": "AEO",
           "score": 4.028
         }
       ],
