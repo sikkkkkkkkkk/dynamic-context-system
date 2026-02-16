@@ -1,11 +1,11 @@
-<!-- Dynamic Context Block | Updated: 2026-02-16T05:39:38Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-16T21:18:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18643.064)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 18757.144)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -23,10 +23,10 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18643.064)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 18757.144)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -44,10 +44,10 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18643.064)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 18757.144)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -65,10 +65,10 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18643.064)
-- **AI tutorial** (점수: 23.195)
+- **AI automation** (점수: 18757.144)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
+- **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -86,10 +86,10 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16211.36)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 16310.56)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -107,10 +107,10 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16211.36)
-- **AI tutorial** (점수: 20.17)
+- **AI automation** (점수: 16310.56)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
+- **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -128,10 +128,10 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15400.792)
-- **AI tutorial** (점수: 19.162)
+- **AI automation** (점수: 15495.032)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 9.662)
+- **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
-- [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
-- [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
-- [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
-- [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
-- [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
-- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
-- [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
-- [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
-- [Show HN: Microgpt is a GPT you can visualize in the browser](https://microgpt.boratto.ca)
+- [Turing Labs (YC W20) Is Hiring – GTM Sales Hacker](https://news.ycombinator.com/item?id=47040268)
+- [Suicide Linux (2009)](https://qntm.org/suicide)
+- [Testing Postgres race conditions with synchronization barriers](https://www.lirbank.com/harnessing-postgres-race-conditions)
+- [State of Show HN: 2025](https://blog.sturdystatistics.com/posts/show_hn/)
+- [Fff.nvim – Typo-resistant code search](https://github.com/dmtrKovalenko/fff.nvim)
+- [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
+- [Neurons outside the brain](https://essays.debugyourpain.com/p/you-are-not-just-your-brain)
+- [Robert Duvall has died](https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share)
+- [Use protocols, not services](https://notnotp.com/notes/use-protocols-not-services/)
+- [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
 
-*마지막 업데이트: 2026-02-16T05:39:38Z*
+*마지막 업데이트: 2026-02-16T21:18:19Z*
