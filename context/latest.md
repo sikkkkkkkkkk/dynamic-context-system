@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-02-21T05:08:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-21T21:12:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18867.084)
+- **AI automation** (점수: 18832.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18867.084)
+- **AI automation** (점수: 18832.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18867.084)
+- **AI automation** (점수: 18832.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18867.084)
+- **AI automation** (점수: 18832.584)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16406.16)
+- **AI automation** (점수: 16376.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16406.16)
+- **AI automation** (점수: 16376.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15585.852)
+- **AI automation** (점수: 15557.352)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Script Snap – Extract code from videos](https://script-snap.com/)
-- [Excessive token usage in Claude Code](https://github.com/anthropics/claude-code/issues/16856)
-- [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
-- [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
-- [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
-- [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
-- [Don't create .gitkeep files, use .gitignore instead (2023)](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/)
-- [Turn Dependabot Off](https://words.filippo.io/dependabot/)
-- [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/)
-- [OpenScan](https://openscan.eu/pages/scan-gallery)
+- [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
+- [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
+- [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
+- [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
+- [Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
+- [Personal Statement of a CIA Analyst](https://antipolygraph.org/statements/statement-038.shtml)
+- [What not to write on your security clearance form (1988)](https://milk.com/wall-o-shame/security_clearance.html)
+- [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
+- [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
+- [macOS's Little-Known Command-Line Sandboxing Tool (2025)](https://igorstechnoclub.com/sandbox-exec/)
 
-*마지막 업데이트: 2026-02-21T05:08:55Z*
+*마지막 업데이트: 2026-02-21T21:12:12Z*
