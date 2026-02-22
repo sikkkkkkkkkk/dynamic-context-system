@@ -1,8 +1,8 @@
-<!-- Dynamic Context Block | Updated: 2026-02-21T21:12:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-22T05:18:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18832.584)
+- **AI automation** (점수: 18826.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -23,7 +23,7 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18832.584)
+- **AI automation** (점수: 18826.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -44,7 +44,7 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18832.584)
+- **AI automation** (점수: 18826.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -65,7 +65,7 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18832.584)
+- **AI automation** (점수: 18826.144)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
@@ -86,7 +86,7 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 16376.16)
+- **AI automation** (점수: 16370.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -107,7 +107,7 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 16376.16)
+- **AI automation** (점수: 16370.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
@@ -128,7 +128,7 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15557.352)
+- **AI automation** (점수: 15552.032)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Japanese Woodblock Print Search](https://ukiyo-e.org/)
+- [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
+- [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
+- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188)
+- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)
 - [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
 - [Inputlag.science – Repository of knowledge about input lag in gaming](https://inputlag.science)
 - [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
-- [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/)
 - [Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
-- [Personal Statement of a CIA Analyst](https://antipolygraph.org/statements/statement-038.shtml)
-- [What not to write on your security clearance form (1988)](https://milk.com/wall-o-shame/security_clearance.html)
-- [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/)
-- [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf)
-- [macOS's Little-Known Command-Line Sandboxing Tool (2025)](https://igorstechnoclub.com/sandbox-exec/)
+- [Toyota Mirai hydrogen car depreciation: 65% value loss in a year](https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/)
 
-*마지막 업데이트: 2026-02-21T21:12:12Z*
+*마지막 업데이트: 2026-02-22T05:18:10Z*
