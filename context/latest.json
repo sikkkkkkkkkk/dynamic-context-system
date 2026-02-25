@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-02-25T05:25:35Z",
+  "updated_at": "2026-02-25T21:25:22Z",
   "version": "1.0",
   "modes": [
     {
       "mode": "sns",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 18037.244
+          "keyword": "productivity",
+          "score": 66299.984
         },
         {
           "keyword": "AI tutorial",
@@ -48,8 +48,8 @@
       "mode": "sales",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 18037.244
+          "keyword": "productivity",
+          "score": 66299.984
         },
         {
           "keyword": "AI tutorial",
@@ -90,8 +90,8 @@
       "mode": "blog",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 18037.244
+          "keyword": "productivity",
+          "score": 66299.984
         },
         {
           "keyword": "AI tutorial",
@@ -132,8 +132,8 @@
       "mode": "video",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 18037.244
+          "keyword": "productivity",
+          "score": 66299.984
         },
         {
           "keyword": "AI tutorial",
@@ -174,8 +174,8 @@
       "mode": "ebook",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 15684.56
+          "keyword": "productivity",
+          "score": 57652.16
         },
         {
           "keyword": "AI tutorial",
@@ -216,8 +216,8 @@
       "mode": "edu",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 15684.56
+          "keyword": "productivity",
+          "score": 57652.16
         },
         {
           "keyword": "AI tutorial",
@@ -258,8 +258,8 @@
       "mode": "public",
       "top_keywords": [
         {
-          "keyword": "AI automation",
-          "score": 14900.332
+          "keyword": "productivity",
+          "score": 54769.552
         },
         {
           "keyword": "AI tutorial",
