@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-02-26T21:23:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-27T05:17:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI automation** (점수: 18273.224)
+- **productivity** (점수: 135281.584)
+- **SEO** (점수: 65909.904)
+- **AI automation** (점수: 18435.604)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
-- **AI automation** (점수: 4.876)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI automation** (점수: 18273.224)
+- **productivity** (점수: 135281.584)
+- **SEO** (점수: 65909.904)
+- **AI automation** (점수: 18435.604)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
-- **AI automation** (점수: 4.876)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI automation** (점수: 18273.224)
+- **productivity** (점수: 135281.584)
+- **SEO** (점수: 65909.904)
+- **AI automation** (점수: 18435.604)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
-- **AI automation** (점수: 4.876)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI automation** (점수: 18273.224)
+- **productivity** (점수: 135281.584)
+- **SEO** (점수: 65909.904)
+- **AI automation** (점수: 18435.604)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 11.695)
-- **AI automation** (점수: 4.876)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI automation** (점수: 15889.76)
+- **productivity** (점수: 117636.16)
+- **SEO** (점수: 57312.96)
+- **AI automation** (점수: 16030.96)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
-- **AI automation** (점수: 4.24)
+- **productivity tips** (점수: 20.17)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI automation** (점수: 15889.76)
+- **productivity** (점수: 117636.16)
+- **SEO** (점수: 57312.96)
+- **AI automation** (점수: 16030.96)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 10.17)
-- **AI automation** (점수: 4.24)
+- **productivity tips** (점수: 20.17)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI automation** (점수: 15095.272)
+- **productivity** (점수: 111754.352)
+- **SEO** (점수: 54447.312)
+- **AI automation** (점수: 15229.412)
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 9.662)
-- **AI automation** (점수: 4.028)
+- **productivity tips** (점수: 19.162)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
-- [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
-- [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
-- [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
-- [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
-- [Show HN: Deff – side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
-- [Google Street View in 2026](https://tech.marksblogg.com/google-street-view-coverage.html)
-- [Palm OS User Interface Guidelines (2003) [pdf]](https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf)
-- [Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable](https://www.workatastartup.com/jobs/80596)
-- [Open Source Endowment – new funding source for open source maintainers](https://endowment.dev/)
+- [The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
+- [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
+- [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/)
+- [Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic](https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html)
+- [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer)
+- [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
+- [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/)
+- [Smartphone market forecast to decline this year due to memory shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/)
+- [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
+- [What does " 2>&1 " mean?](https://stackoverflow.com/questions/818255/what-does-21-mean)
 
-*마지막 업데이트: 2026-02-26T21:23:13Z*
+*마지막 업데이트: 2026-02-27T05:17:09Z*
