@@ -1,22 +1,10 @@
 {
-  "updated_at": "2026-02-28T04:58:32Z",
+  "updated_at": "2026-02-28T21:10:46Z",
   "version": "1.0",
   "modes": [
     {
       "mode": "sns",
       "top_keywords": [
-        {
-          "keyword": "productivity",
-          "score": 134870.344
-        },
-        {
-          "keyword": "SEO",
-          "score": 68825.844
-        },
-        {
-          "keyword": "AI automation",
-          "score": 19006.464
-        },
         {
           "keyword": "AI tutorial",
           "score": 23.195
@@ -24,6 +12,18 @@
         {
           "keyword": "SEO guide",
           "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
         }
       ],
       "meta_description": "SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
@@ -48,24 +48,24 @@
       "mode": "sales",
       "top_keywords": [
         {
-          "keyword": "productivity",
-          "score": 134870.344
-        },
-        {
-          "keyword": "SEO",
-          "score": 68825.844
-        },
-        {
-          "keyword": "AI automation",
-          "score": 19006.464
-        },
-        {
           "keyword": "AI tutorial",
           "score": 23.195
         },
         {
           "keyword": "SEO guide",
           "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
         }
       ],
       "meta_description": "SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
@@ -90,24 +90,24 @@
       "mode": "blog",
       "top_keywords": [
         {
-          "keyword": "productivity",
-          "score": 134870.344
-        },
-        {
-          "keyword": "SEO",
-          "score": 68825.844
-        },
-        {
-          "keyword": "AI automation",
-          "score": 19006.464
-        },
-        {
           "keyword": "AI tutorial",
           "score": 23.195
         },
         {
           "keyword": "SEO guide",
           "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
         }
       ],
       "meta_description": "BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
@@ -132,24 +132,24 @@
       "mode": "video",
       "top_keywords": [
         {
-          "keyword": "productivity",
-          "score": 134870.344
-        },
-        {
-          "keyword": "SEO",
-          "score": 68825.844
-        },
-        {
-          "keyword": "AI automation",
-          "score": 19006.464
-        },
-        {
           "keyword": "AI tutorial",
           "score": 23.195
         },
         {
           "keyword": "SEO guide",
           "score": 23.195
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 23.195
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.876
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.876
         }
       ],
       "meta_description": "VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
@@ -174,24 +174,24 @@
       "mode": "ebook",
       "top_keywords": [
         {
-          "keyword": "productivity",
-          "score": 117278.56
-        },
-        {
-          "keyword": "SEO",
-          "score": 59848.56
-        },
-        {
-          "keyword": "AI automation",
-          "score": 16527.36
-        },
-        {
           "keyword": "AI tutorial",
           "score": 20.17
         },
         {
           "keyword": "SEO guide",
           "score": 20.17
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 20.17
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.24
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.24
         }
       ],
       "meta_description": "EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
@@ -216,24 +216,24 @@
       "mode": "edu",
       "top_keywords": [
         {
-          "keyword": "productivity",
-          "score": 117278.56
-        },
-        {
-          "keyword": "SEO",
-          "score": 59848.56
-        },
-        {
-          "keyword": "AI automation",
-          "score": 16527.36
-        },
-        {
           "keyword": "AI tutorial",
           "score": 20.17
         },
         {
           "keyword": "SEO guide",
           "score": 20.17
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 20.17
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.24
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.24
         }
       ],
       "meta_description": "EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",
@@ -258,24 +258,24 @@
       "mode": "public",
       "top_keywords": [
         {
-          "keyword": "productivity",
-          "score": 111414.632
-        },
-        {
-          "keyword": "SEO",
-          "score": 56856.132
-        },
-        {
-          "keyword": "AI automation",
-          "score": 15700.992
-        },
-        {
           "keyword": "AI tutorial",
           "score": 19.162
         },
         {
           "keyword": "SEO guide",
           "score": 19.162
+        },
+        {
+          "keyword": "productivity tips",
+          "score": 19.162
+        },
+        {
+          "keyword": "AI automation",
+          "score": 4.028
+        },
+        {
+          "keyword": "AEO",
+          "score": 4.028
         }
       ],
       "meta_description": "PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.",

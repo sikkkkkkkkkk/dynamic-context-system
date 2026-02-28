@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-02-28T04:58:32Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-28T21:10:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 134870.344)
-- **SEO** (점수: 68825.844)
-- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 134870.344)
-- **SEO** (점수: 68825.844)
-- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 134870.344)
-- **SEO** (점수: 68825.844)
-- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 134870.344)
-- **SEO** (점수: 68825.844)
-- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 117278.56)
-- **SEO** (점수: 59848.56)
-- **AI automation** (점수: 16527.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
+- **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 117278.56)
-- **SEO** (점수: 59848.56)
-- **AI automation** (점수: 16527.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
+- **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 111414.632)
-- **SEO** (점수: 56856.132)
-- **AI automation** (점수: 15700.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
+- **productivity tips** (점수: 19.162)
+- **AI automation** (점수: 4.028)
+- **AEO** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
-- [Don't use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
-- [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
-- [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
-- [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
-- [We Will Not Be Divided](https://notdivided.org)
-- [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
-- [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
-- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
-- [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
+- [Show HN: Tomoshibi – A writing app where your words fade by firelight](https://tomoshibi.in-hakumei.com/)
+- [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
+- [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)
+- [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
+- [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
+- [OpenAI fires an employee for prediction market insider trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
+- [The Life Cycle of Money](https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/)
+- [Show HN: Now I Get It – Translate scientific papers into interactive webpages](https://nowigetit.us)
+- [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
+- [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
 
-*마지막 업데이트: 2026-02-28T04:58:32Z*
+*마지막 업데이트: 2026-02-28T21:10:46Z*
