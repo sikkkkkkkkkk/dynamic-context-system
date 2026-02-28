@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-02-27T21:18:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-02-28T04:58:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 134704.744)
-- **SEO** (점수: 68623.904)
-- **AI automation** (점수: 18794.404)
+- **productivity** (점수: 134870.344)
+- **SEO** (점수: 68825.844)
+- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 134704.744)
-- **SEO** (점수: 68623.904)
-- **AI automation** (점수: 18794.404)
+- **productivity** (점수: 134870.344)
+- **SEO** (점수: 68825.844)
+- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 134704.744)
-- **SEO** (점수: 68623.904)
-- **AI automation** (점수: 18794.404)
+- **productivity** (점수: 134870.344)
+- **SEO** (점수: 68825.844)
+- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 134704.744)
-- **SEO** (점수: 68623.904)
-- **AI automation** (점수: 18794.404)
+- **productivity** (점수: 134870.344)
+- **SEO** (점수: 68825.844)
+- **AI automation** (점수: 19006.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 117134.56)
-- **SEO** (점수: 59672.96)
-- **AI automation** (점수: 16342.96)
+- **productivity** (점수: 117278.56)
+- **SEO** (점수: 59848.56)
+- **AI automation** (점수: 16527.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 117134.56)
-- **SEO** (점수: 59672.96)
-- **AI automation** (점수: 16342.96)
+- **productivity** (점수: 117278.56)
+- **SEO** (점수: 59848.56)
+- **AI automation** (점수: 16527.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 111277.832)
-- **SEO** (점수: 56689.312)
-- **AI automation** (점수: 15525.812)
+- **productivity** (점수: 111414.632)
+- **SEO** (점수: 56856.132)
+- **AI automation** (점수: 15700.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
-- [Rob Grant, creator of Red Dwarf, has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
-- [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
-- [Let's discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
-- [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
-- [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
-- [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
-- [Show HN: SignalCend – API that resolves conflicting IoT device state in 47ms](https://signalcend.com/)
-- [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
-- [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
+- [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+- [Don't use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
+- [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
+- [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
+- [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
+- [We Will Not Be Divided](https://notdivided.org)
+- [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
+- [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
+- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
+- [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
 
-*마지막 업데이트: 2026-02-27T21:18:25Z*
+*마지막 업데이트: 2026-02-28T04:58:32Z*
