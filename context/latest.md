@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-03-01T21:12:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-02T05:17:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 136044.724)
-- **SEO** (점수: 70480.924)
-- **AI automation** (점수: 19961.424)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 136044.724)
-- **SEO** (점수: 70480.924)
-- **AI automation** (점수: 19961.424)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 136044.724)
-- **SEO** (점수: 70480.924)
-- **AI automation** (점수: 19961.424)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 136044.724)
-- **SEO** (점수: 70480.924)
-- **AI automation** (점수: 19961.424)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 118299.76)
-- **SEO** (점수: 61287.76)
-- **AI automation** (점수: 17357.76)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 118299.76)
-- **SEO** (점수: 61287.76)
-- **AI automation** (점수: 17357.76)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 112384.772)
-- **SEO** (점수: 58223.372)
-- **AI automation** (점수: 16489.872)
+- **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **AI automation** (점수: 4.028)
+- **AEO** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
-- [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
-- [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
-- [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
-- [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
-- [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
-- [Why XML tags are so fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
-- [Ape Coding [fiction]](https://rsaksida.com/blog/ape-coding/)
-- [Ghostty – Terminal Emulator](https://ghostty.org/docs)
-- [I built a demo of what AI chat will look like when it's "free" and ad-supported](https://99helpers.com/tools/ad-supported-chat)
+- [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
+- [Everett shuts down Flock camera network after judge rules footage public record](https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae)
+- [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
+- [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
+- [Show HN: Logira – eBPF runtime auditing for AI agent runs](https://github.com/melonattacker/logira)
+- [Right-sizes LLM models to your system's RAM, CPU, and GPU](https://github.com/AlexsJones/llmfit)
+- [Little Free Library](https://littlefreelibrary.org/)
+- [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
+- [You don't have to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
+- [Why does C have the best file API](https://maurycyz.com/misc/c_files/)
 
-*마지막 업데이트: 2026-03-01T21:12:30Z*
+*마지막 업데이트: 2026-03-02T05:17:29Z*
