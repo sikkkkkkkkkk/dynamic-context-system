@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-04T05:11:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-04T21:22:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 131695.884)
-- **SEO** (점수: 70506.224)
-- **AI automation** (점수: 20816.104)
+- **productivity** (점수: 128117.544)
+- **SEO** (점수: 69528.724)
+- **AI automation** (점수: 21444.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 131695.884)
-- **SEO** (점수: 70506.224)
-- **AI automation** (점수: 20816.104)
+- **productivity** (점수: 128117.544)
+- **SEO** (점수: 69528.724)
+- **AI automation** (점수: 21444.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 131695.884)
-- **SEO** (점수: 70506.224)
-- **AI automation** (점수: 20816.104)
+- **productivity** (점수: 128117.544)
+- **SEO** (점수: 69528.724)
+- **AI automation** (점수: 21444.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 131695.884)
-- **SEO** (점수: 70506.224)
-- **AI automation** (점수: 20816.104)
+- **productivity** (점수: 128117.544)
+- **SEO** (점수: 69528.724)
+- **AI automation** (점수: 21444.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 114518.16)
-- **SEO** (점수: 61309.76)
-- **AI automation** (점수: 18100.96)
+- **productivity** (점수: 111406.56)
+- **SEO** (점수: 60459.76)
+- **AI automation** (점수: 18647.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 114518.16)
-- **SEO** (점수: 61309.76)
-- **AI automation** (점수: 18100.96)
+- **productivity** (점수: 111406.56)
+- **SEO** (점수: 60459.76)
+- **AI automation** (점수: 18647.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 108792.252)
-- **SEO** (점수: 58244.272)
-- **AI automation** (점수: 17195.912)
+- **productivity** (점수: 105836.232)
+- **SEO** (점수: 57436.772)
+- **AI automation** (점수: 17714.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
-- [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
-- [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251)
-- [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
-- [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
-- [Number Research Inc](https://numberresearch.xyz/)
-- [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
-- [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
-- [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
-- [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now)
+- [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
+- [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
+- [Building a New Flash](https://bill.newgrounds.com/news/post/1607118)
+- [Was Windows 1.0's lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
+- [Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
+- [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
+- [An interactive map of Flock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
+- [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
+- [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
+- [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
 
-*마지막 업데이트: 2026-03-04T05:11:12Z*
+*마지막 업데이트: 2026-03-04T21:22:55Z*
