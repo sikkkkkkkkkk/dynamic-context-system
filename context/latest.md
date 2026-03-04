@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-03T21:23:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-04T05:11:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 132595.184)
-- **SEO** (점수: 70106.024)
-- **AI automation** (점수: 20542.404)
+- **productivity** (점수: 131695.884)
+- **SEO** (점수: 70506.224)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 132595.184)
-- **SEO** (점수: 70106.024)
-- **AI automation** (점수: 20542.404)
+- **productivity** (점수: 131695.884)
+- **SEO** (점수: 70506.224)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 132595.184)
-- **SEO** (점수: 70106.024)
-- **AI automation** (점수: 20542.404)
+- **productivity** (점수: 131695.884)
+- **SEO** (점수: 70506.224)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 132595.184)
-- **SEO** (점수: 70106.024)
-- **AI automation** (점수: 20542.404)
+- **productivity** (점수: 131695.884)
+- **SEO** (점수: 70506.224)
+- **AI automation** (점수: 20816.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 115300.16)
-- **SEO** (점수: 60961.76)
-- **AI automation** (점수: 17862.96)
+- **productivity** (점수: 114518.16)
+- **SEO** (점수: 61309.76)
+- **AI automation** (점수: 18100.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 115300.16)
-- **SEO** (점수: 60961.76)
-- **AI automation** (점수: 17862.96)
+- **productivity** (점수: 114518.16)
+- **SEO** (점수: 61309.76)
+- **AI automation** (점수: 18100.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 109535.152)
-- **SEO** (점수: 57913.672)
-- **AI automation** (점수: 16969.812)
+- **productivity** (점수: 108792.252)
+- **SEO** (점수: 58244.272)
+- **AI automation** (점수: 17195.912)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying](https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary)
-- [A US Government iPhone-Hacking Toolkit Is Now in Foreign Spy and Criminal Hands](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
-- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
-- [GitHub Is Having Issues](https://www.githubstatus.com/incidents/n07yy1bk6kc4)
-- [Iran War Cost Tracker](https://iran-cost-ticker.com)
-- [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
-- [Fire the CEO, Introducing the AxO's](https://boringops.sh/articles/fire_the_ceo/)
-- [Why payment fees matter more than you think](https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/)
-- [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/)
-- [Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]](https://www.youtube.com/watch?v=B3m3AMRlYfc)
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+- [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
+- [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251)
+- [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
+- [Mac external displays for designers and developers, part 2](https://bjango.com/articles/macexternaldisplays2/)
+- [Number Research Inc](https://numberresearch.xyz/)
+- [Graphics Programming Resources](https://develop--gpvm-website.netlify.app/resources/)
+- [Weave – A language aware merge algorithm based on entities](https://github.com/Ataraxy-Labs/weave)
+- [TikTok will not introduce end-to-end encryption, saying it makes users less safe](https://www.bbc.com/news/articles/cly2m5e5ke4o)
+- [The largest acidic geyser has been putting on quite a show](https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now)
 
-*마지막 업데이트: 2026-03-03T21:23:44Z*
+*마지막 업데이트: 2026-03-04T05:11:12Z*
