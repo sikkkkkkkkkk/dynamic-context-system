@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-03-05T05:15:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-05T21:23:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 127198.924)
-- **SEO** (점수: 64419.504)
-- **AI automation** (점수: 21545.204)
+- **SEO** (점수: 60187.504)
+- **productivity** (점수: 51991.684)
+- **AI automation** (점수: 21580.164)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 127198.924)
-- **SEO** (점수: 64419.504)
-- **AI automation** (점수: 21545.204)
+- **SEO** (점수: 60187.504)
+- **productivity** (점수: 51991.684)
+- **AI automation** (점수: 21580.164)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 127198.924)
-- **SEO** (점수: 64419.504)
-- **AI automation** (점수: 21545.204)
+- **SEO** (점수: 60187.504)
+- **productivity** (점수: 51991.684)
+- **AI automation** (점수: 21580.164)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 127198.924)
-- **SEO** (점수: 64419.504)
-- **AI automation** (점수: 21545.204)
+- **SEO** (점수: 60187.504)
+- **productivity** (점수: 51991.684)
+- **AI automation** (점수: 21580.164)
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 110607.76)
-- **SEO** (점수: 56016.96)
-- **AI automation** (점수: 18734.96)
+- **SEO** (점수: 52336.96)
+- **productivity** (점수: 45210.16)
+- **AI automation** (점수: 18765.36)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
+- **productivity tips** (점수: 20.17)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 110607.76)
-- **SEO** (점수: 56016.96)
-- **AI automation** (점수: 18734.96)
+- **SEO** (점수: 52336.96)
+- **productivity** (점수: 45210.16)
+- **AI automation** (점수: 18765.36)
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
+- **productivity tips** (점수: 20.17)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 105077.372)
-- **SEO** (점수: 53216.112)
-- **AI automation** (점수: 17798.212)
+- **SEO** (점수: 49720.112)
+- **productivity** (점수: 42949.652)
+- **AI automation** (점수: 17827.092)
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
+- **productivity tips** (점수: 19.162)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [What Python's asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio)
-- [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
-- [Chaos and Dystopian news for the dead internet survivors](https://www.fubardaily.com)
-- [Google Workspace CLI](https://github.com/googleworkspace/cli)
-- [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
-- [NRC issues first commercial reactor construction approval in 10 years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
-- [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
-- [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
-- [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
-- [Was Windows 1.0's lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
+- [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
+- [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
+- [Let's Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
+- [OpenTitan Shipping in Production](https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html)
+- [Remotely unlocking an encrypted hard disk](https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/)
+- [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
+- [The Brand Age](https://paulgraham.com/brandage.html)
+- [Launch HN: Vela (YC W26) – AI for complex scheduling](https://news.ycombinator.com/item?id=47264741)
+- [The Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)
+- [Show HN: PageAgent, A GUI agent that lives inside your web app](https://alibaba.github.io/page-agent/)
 
-*마지막 업데이트: 2026-03-05T05:15:28Z*
+*마지막 업데이트: 2026-03-05T21:23:31Z*
