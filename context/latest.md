@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-04T21:22:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-05T05:15:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 128117.544)
-- **SEO** (점수: 69528.724)
-- **AI automation** (점수: 21444.464)
+- **productivity** (점수: 127198.924)
+- **SEO** (점수: 64419.504)
+- **AI automation** (점수: 21545.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 128117.544)
-- **SEO** (점수: 69528.724)
-- **AI automation** (점수: 21444.464)
+- **productivity** (점수: 127198.924)
+- **SEO** (점수: 64419.504)
+- **AI automation** (점수: 21545.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 128117.544)
-- **SEO** (점수: 69528.724)
-- **AI automation** (점수: 21444.464)
+- **productivity** (점수: 127198.924)
+- **SEO** (점수: 64419.504)
+- **AI automation** (점수: 21545.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 128117.544)
-- **SEO** (점수: 69528.724)
-- **AI automation** (점수: 21444.464)
+- **productivity** (점수: 127198.924)
+- **SEO** (점수: 64419.504)
+- **AI automation** (점수: 21545.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 111406.56)
-- **SEO** (점수: 60459.76)
-- **AI automation** (점수: 18647.36)
+- **productivity** (점수: 110607.76)
+- **SEO** (점수: 56016.96)
+- **AI automation** (점수: 18734.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 111406.56)
-- **SEO** (점수: 60459.76)
-- **AI automation** (점수: 18647.36)
+- **productivity** (점수: 110607.76)
+- **SEO** (점수: 56016.96)
+- **AI automation** (점수: 18734.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 105836.232)
-- **SEO** (점수: 57436.772)
-- **AI automation** (점수: 17714.992)
+- **productivity** (점수: 105077.372)
+- **SEO** (점수: 53216.112)
+- **AI automation** (점수: 17798.212)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
+- [What Python's asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio)
+- [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
+- [Chaos and Dystopian news for the dead internet survivors](https://www.fubardaily.com)
+- [Google Workspace CLI](https://github.com/googleworkspace/cli)
+- [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+- [NRC issues first commercial reactor construction approval in 10 years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
+- [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
 - [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/)
-- [Building a New Flash](https://bill.newgrounds.com/news/post/1607118)
+- [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
 - [Was Windows 1.0's lack of overlapping windows a legal or a technical matter?](https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter)
-- [Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
-- [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
-- [An interactive map of Flock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
-- [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
-- [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
-- [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck)
 
-*마지막 업데이트: 2026-03-04T21:22:55Z*
+*마지막 업데이트: 2026-03-05T05:15:28Z*
