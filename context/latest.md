@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-06T05:12:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-06T21:18:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 58005.724)
-- **productivity** (점수: 51637.024)
-- **AI automation** (점수: 21571.424)
+- **SEO** (점수: 64873.064)
+- **productivity** (점수: 51886.804)
+- **AI automation** (점수: 21990.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 58005.724)
-- **productivity** (점수: 51637.024)
-- **AI automation** (점수: 21571.424)
+- **SEO** (점수: 64873.064)
+- **productivity** (점수: 51886.804)
+- **AI automation** (점수: 21990.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 58005.724)
-- **productivity** (점수: 51637.024)
-- **AI automation** (점수: 21571.424)
+- **SEO** (점수: 64873.064)
+- **productivity** (점수: 51886.804)
+- **AI automation** (점수: 21990.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 58005.724)
-- **productivity** (점수: 51637.024)
-- **AI automation** (점수: 21571.424)
+- **SEO** (점수: 64873.064)
+- **productivity** (점수: 51886.804)
+- **AI automation** (점수: 21990.944)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 50439.76)
-- **productivity** (점수: 44901.76)
-- **AI automation** (점수: 18757.76)
+- **SEO** (점수: 56411.36)
+- **productivity** (점수: 45118.96)
+- **AI automation** (점수: 19122.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 50439.76)
-- **productivity** (점수: 44901.76)
-- **AI automation** (점수: 18757.76)
+- **SEO** (점수: 56411.36)
+- **productivity** (점수: 45118.96)
+- **AI automation** (점수: 19122.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 47917.772)
-- **productivity** (점수: 42656.672)
-- **AI automation** (점수: 17819.872)
+- **SEO** (점수: 53590.792)
+- **productivity** (점수: 42863.012)
+- **AI automation** (점수: 18166.432)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
-- [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
-- [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
-- [Stop Using Grey Text (2025)](https://catskull.net/stop-using-grey-text.html)
-- [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts)
-- [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
-- [Ethiopia gets $350M World Bank financing for its digital ID project (2024)](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project)
-- [Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
-- [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
-- [GLiNER2: Unified Schema-Based Information Extraction](https://github.com/fastino-ai/GLiNER2)
+- [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
+- [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
+- [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
+- [Anthropic, Please Make a New Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
+- [TSA leaves passenger needing surgery after illegally forcing her through scanner](https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/)
+- [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
+- [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
+- [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
+- [Supertoast tables](https://hatchet.run/blog/supertoast-tables)
+- [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
 
-*마지막 업데이트: 2026-03-06T05:12:28Z*
+*마지막 업데이트: 2026-03-06T21:18:46Z*
