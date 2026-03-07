@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-06T21:18:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-07T05:03:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 64873.064)
-- **productivity** (점수: 51886.804)
-- **AI automation** (점수: 21990.944)
+- **SEO** (점수: 69306.544)
+- **productivity** (점수: 51943.384)
+- **AI automation** (점수: 21927.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 64873.064)
-- **productivity** (점수: 51886.804)
-- **AI automation** (점수: 21990.944)
+- **SEO** (점수: 69306.544)
+- **productivity** (점수: 51943.384)
+- **AI automation** (점수: 21927.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 64873.064)
-- **productivity** (점수: 51886.804)
-- **AI automation** (점수: 21990.944)
+- **SEO** (점수: 69306.544)
+- **productivity** (점수: 51943.384)
+- **AI automation** (점수: 21927.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 64873.064)
-- **productivity** (점수: 51886.804)
-- **AI automation** (점수: 21990.944)
+- **SEO** (점수: 69306.544)
+- **productivity** (점수: 51943.384)
+- **AI automation** (점수: 21927.464)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 56411.36)
-- **productivity** (점수: 45118.96)
-- **AI automation** (점수: 19122.56)
+- **SEO** (점수: 60266.56)
+- **productivity** (점수: 45168.16)
+- **AI automation** (점수: 19067.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 56411.36)
-- **productivity** (점수: 45118.96)
-- **AI automation** (점수: 19122.56)
+- **SEO** (점수: 60266.56)
+- **productivity** (점수: 45168.16)
+- **AI automation** (점수: 19067.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 53590.792)
-- **productivity** (점수: 42863.012)
-- **AI automation** (점수: 18166.432)
+- **SEO** (점수: 57253.232)
+- **productivity** (점수: 42909.752)
+- **AI automation** (점수: 18113.992)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
-- [Why it takes you and an elephant the same amount of time to poop](https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop)
-- [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
-- [Anthropic, Please Make a New Slack](https://www.fivetran.com/blog/anthropic-please-make-a-new-slack)
-- [TSA leaves passenger needing surgery after illegally forcing her through scanner](https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/)
-- [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980)
-- [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242)
-- [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead)
-- [Supertoast tables](https://hatchet.run/blog/supertoast-tables)
-- [Astra: An open-source observatory control software](https://github.com/ppp-one/astra)
+- [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
+- [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+- [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
+- [Game about Data of America](https://americaindata.com/)
+- [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
+- [Tell HN: I'm 60 years old. Claude Code has ignited a passion again](https://news.ycombinator.com/item?id=47282777)
+- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
+- [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
+- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
+- [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
 
-*마지막 업데이트: 2026-03-06T21:18:46Z*
+*마지막 업데이트: 2026-03-07T05:03:06Z*
