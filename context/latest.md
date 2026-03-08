@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-08T05:12:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-08T21:13:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 79266.924)
-- **productivity** (점수: 51196.804)
-- **AI automation** (점수: 22011.184)
+- **SEO** (점수: 91674.964)
+- **productivity** (점수: 50418.484)
+- **AI automation** (점수: 21789.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 79266.924)
-- **productivity** (점수: 51196.804)
-- **AI automation** (점수: 22011.184)
+- **SEO** (점수: 91674.964)
+- **productivity** (점수: 50418.484)
+- **AI automation** (점수: 21789.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 79266.924)
-- **productivity** (점수: 51196.804)
-- **AI automation** (점수: 22011.184)
+- **SEO** (점수: 91674.964)
+- **productivity** (점수: 50418.484)
+- **AI automation** (점수: 21789.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 79266.924)
-- **productivity** (점수: 51196.804)
-- **AI automation** (점수: 22011.184)
+- **SEO** (점수: 91674.964)
+- **productivity** (점수: 50418.484)
+- **AI automation** (점수: 21789.924)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 68927.76)
-- **productivity** (점수: 44518.96)
-- **AI automation** (점수: 19140.16)
+- **SEO** (점수: 79717.36)
+- **productivity** (점수: 43842.16)
+- **AI automation** (점수: 18947.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 68927.76)
-- **productivity** (점수: 44518.96)
-- **AI automation** (점수: 19140.16)
+- **SEO** (점수: 79717.36)
+- **productivity** (점수: 43842.16)
+- **AI automation** (점수: 18947.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 65481.372)
-- **productivity** (점수: 42293.012)
-- **AI automation** (점수: 18183.152)
+- **SEO** (점수: 75731.492)
+- **productivity** (점수: 41650.052)
+- **AI automation** (점수: 18000.372)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
-- [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
-- ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)
-- [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
-- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/)
-- [Put the zip code first](https://zipcodefirst.com)
-- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
-- [The stagnancy of publishing and the disappearance of the midlist](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
-- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
-- [CasNum](https://github.com/0x0mer/CasNum)
+- [71% Desk Workers Say Screen-Related Visual Discomfort Is Reducing Productivity](https://www.vspvision.com/newsroom/eye-health-and-wellness/vision-care/new-research-from-vsp-vision-care-and-workplace-intelligence-finds-desk-workers-spend-nearly-100-hours-a-week-on-screens)
+- [She called 911 for an ambulance. She got a nightmare instead](https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/)
+- [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
+- [Neural Boids](https://campedersen.com/noid)
+- [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
+- [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
+- [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
+- [WSL Manager](https://github.com/bostrot/wsl2-distro-manager)
+- [Show HN: Skir – like Protocol Buffer but better](https://skir.build/)
+- [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
 
-*마지막 업데이트: 2026-03-08T05:12:21Z*
+*마지막 업데이트: 2026-03-08T21:13:11Z*
