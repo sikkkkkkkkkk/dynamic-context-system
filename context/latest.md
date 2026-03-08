@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-07T21:11:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-08T05:12:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 75333.004)
-- **productivity** (점수: 51317.324)
-- **AI automation** (점수: 22100.884)
+- **SEO** (점수: 79266.924)
+- **productivity** (점수: 51196.804)
+- **AI automation** (점수: 22011.184)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 75333.004)
-- **productivity** (점수: 51317.324)
-- **AI automation** (점수: 22100.884)
+- **SEO** (점수: 79266.924)
+- **productivity** (점수: 51196.804)
+- **AI automation** (점수: 22011.184)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 75333.004)
-- **productivity** (점수: 51317.324)
-- **AI automation** (점수: 22100.884)
+- **SEO** (점수: 79266.924)
+- **productivity** (점수: 51196.804)
+- **AI automation** (점수: 22011.184)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 75333.004)
-- **productivity** (점수: 51317.324)
-- **AI automation** (점수: 22100.884)
+- **SEO** (점수: 79266.924)
+- **productivity** (점수: 51196.804)
+- **AI automation** (점수: 22011.184)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 65506.96)
-- **productivity** (점수: 44623.76)
-- **AI automation** (점수: 19218.16)
+- **SEO** (점수: 68927.76)
+- **productivity** (점수: 44518.96)
+- **AI automation** (점수: 19140.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 65506.96)
-- **productivity** (점수: 44623.76)
-- **AI automation** (점수: 19218.16)
+- **SEO** (점수: 68927.76)
+- **productivity** (점수: 44518.96)
+- **AI automation** (점수: 19140.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 62231.612)
-- **productivity** (점수: 42392.572)
-- **AI automation** (점수: 18257.252)
+- **SEO** (점수: 65481.372)
+- **productivity** (점수: 42293.012)
+- **AI automation** (점수: 18183.152)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Senators Launch Effort Ban Elected Officials Profiting from Prediction Markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/)
+- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
+- [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
+- ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)
+- [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
+- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/)
+- [Put the zip code first](https://zipcodefirst.com)
+- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
+- [The stagnancy of publishing and the disappearance of the midlist](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul)
+- [LLM Writing Tropes.md](https://tropes.fyi/tropes-md)
 - [CasNum](https://github.com/0x0mer/CasNum)
-- [War Prediction Markets Are a National-Security Threat](https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/)
-- [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
-- [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
-- [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
-- [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
-- [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
-- [PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
-- [Tinnitus Is Connected to Sleep](https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function)
 
-*마지막 업데이트: 2026-03-07T21:11:24Z*
+*마지막 업데이트: 2026-03-08T05:12:21Z*
