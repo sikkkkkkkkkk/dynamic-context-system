@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-09T05:21:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-09T21:22:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 94699.004)
-- **productivity** (점수: 50194.004)
-- **AI automation** (점수: 21859.844)
+- **SEO** (점수: 101354.284)
+- **productivity** (점수: 50190.324)
+- **AI automation** (점수: 22251.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 94699.004)
-- **productivity** (점수: 50194.004)
-- **AI automation** (점수: 21859.844)
+- **SEO** (점수: 101354.284)
+- **productivity** (점수: 50190.324)
+- **AI automation** (점수: 22251.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 94699.004)
-- **productivity** (점수: 50194.004)
-- **AI automation** (점수: 21859.844)
+- **SEO** (점수: 101354.284)
+- **productivity** (점수: 50190.324)
+- **AI automation** (점수: 22251.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 94699.004)
-- **productivity** (점수: 50194.004)
-- **AI automation** (점수: 21859.844)
+- **SEO** (점수: 101354.284)
+- **productivity** (점수: 50190.324)
+- **AI automation** (점수: 22251.764)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 82346.96)
-- **productivity** (점수: 43646.96)
-- **AI automation** (점수: 19008.56)
+- **SEO** (점수: 88134.16)
+- **productivity** (점수: 43643.76)
+- **AI automation** (점수: 19349.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 82346.96)
-- **productivity** (점수: 43646.96)
-- **AI automation** (점수: 19008.56)
+- **SEO** (점수: 88134.16)
+- **productivity** (점수: 43643.76)
+- **AI automation** (점수: 19349.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 78229.612)
-- **productivity** (점수: 41464.612)
-- **AI automation** (점수: 18058.132)
+- **SEO** (점수: 83727.452)
+- **productivity** (점수: 41461.572)
+- **AI automation** (점수: 18381.892)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/)
-- [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
-- [Last Statements](https://walzr.com/last-statements)
-- [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/)
-- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
-- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
-- [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
-- [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
-- [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
-- [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
+- [Oracle is building yesterday's data centers with tomorrow's debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
+- [Thomas Selfridge: The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
+- [Things I've Done with AI](https://sjer.red/blog/2026/built-with-ai/)
+- [The Most Beautiful Freezer in the World: Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
+- [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
+- [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
+- [Workers report watching Ray-Ban Meta-shot footage of people using the bathroom](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)
+- [Show HN: The Mog Programming Language](https://moglang.org)
+- [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
+- [Florida judge rules red light camera tickets are unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
 
-*마지막 업데이트: 2026-03-09T05:21:58Z*
+*마지막 업데이트: 2026-03-09T21:22:07Z*
