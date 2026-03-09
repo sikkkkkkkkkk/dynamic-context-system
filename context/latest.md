@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-08T21:13:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-09T05:21:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 91674.964)
-- **productivity** (점수: 50418.484)
-- **AI automation** (점수: 21789.924)
+- **SEO** (점수: 94699.004)
+- **productivity** (점수: 50194.004)
+- **AI automation** (점수: 21859.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 91674.964)
-- **productivity** (점수: 50418.484)
-- **AI automation** (점수: 21789.924)
+- **SEO** (점수: 94699.004)
+- **productivity** (점수: 50194.004)
+- **AI automation** (점수: 21859.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 91674.964)
-- **productivity** (점수: 50418.484)
-- **AI automation** (점수: 21789.924)
+- **SEO** (점수: 94699.004)
+- **productivity** (점수: 50194.004)
+- **AI automation** (점수: 21859.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 91674.964)
-- **productivity** (점수: 50418.484)
-- **AI automation** (점수: 21789.924)
+- **SEO** (점수: 94699.004)
+- **productivity** (점수: 50194.004)
+- **AI automation** (점수: 21859.844)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 79717.36)
-- **productivity** (점수: 43842.16)
-- **AI automation** (점수: 18947.76)
+- **SEO** (점수: 82346.96)
+- **productivity** (점수: 43646.96)
+- **AI automation** (점수: 19008.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 79717.36)
-- **productivity** (점수: 43842.16)
-- **AI automation** (점수: 18947.76)
+- **SEO** (점수: 82346.96)
+- **productivity** (점수: 43646.96)
+- **AI automation** (점수: 19008.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 75731.492)
-- **productivity** (점수: 41650.052)
-- **AI automation** (점수: 18000.372)
+- **SEO** (점수: 78229.612)
+- **productivity** (점수: 41464.612)
+- **AI automation** (점수: 18058.132)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [71% Desk Workers Say Screen-Related Visual Discomfort Is Reducing Productivity](https://www.vspvision.com/newsroom/eye-health-and-wellness/vision-care/new-research-from-vsp-vision-care-and-workplace-intelligence-finds-desk-workers-spend-nearly-100-hours-a-week-on-screens)
-- [She called 911 for an ambulance. She got a nightmare instead](https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/)
+- [The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/)
+- [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
+- [Last Statements](https://walzr.com/last-statements)
+- [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/)
+- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
+- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
+- [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
 - [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
-- [Neural Boids](https://campedersen.com/noid)
 - [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
-- [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
-- [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
-- [WSL Manager](https://github.com/bostrot/wsl2-distro-manager)
-- [Show HN: Skir – like Protocol Buffer but better](https://skir.build/)
-- [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
+- [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
 
-*마지막 업데이트: 2026-03-08T21:13:11Z*
+*마지막 업데이트: 2026-03-09T05:21:58Z*
