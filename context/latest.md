@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-09T21:22:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-10T05:12:50Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 101354.284)
-- **productivity** (점수: 50190.324)
-- **AI automation** (점수: 22251.764)
+- **SEO** (점수: 103152.424)
+- **productivity** (점수: 50818.684)
+- **AI automation** (점수: 22273.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 101354.284)
-- **productivity** (점수: 50190.324)
-- **AI automation** (점수: 22251.764)
+- **SEO** (점수: 103152.424)
+- **productivity** (점수: 50818.684)
+- **AI automation** (점수: 22273.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 101354.284)
-- **productivity** (점수: 50190.324)
-- **AI automation** (점수: 22251.764)
+- **SEO** (점수: 103152.424)
+- **productivity** (점수: 50818.684)
+- **AI automation** (점수: 22273.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 101354.284)
-- **productivity** (점수: 50190.324)
-- **AI automation** (점수: 22251.764)
+- **SEO** (점수: 103152.424)
+- **productivity** (점수: 50818.684)
+- **AI automation** (점수: 22273.384)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 88134.16)
-- **productivity** (점수: 43643.76)
-- **AI automation** (점수: 19349.36)
+- **SEO** (점수: 89697.76)
+- **productivity** (점수: 44190.16)
+- **AI automation** (점수: 19368.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 88134.16)
-- **productivity** (점수: 43643.76)
-- **AI automation** (점수: 19349.36)
+- **SEO** (점수: 89697.76)
+- **productivity** (점수: 44190.16)
+- **AI automation** (점수: 19368.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 83727.452)
-- **productivity** (점수: 41461.572)
-- **AI automation** (점수: 18381.892)
+- **SEO** (점수: 85212.872)
+- **productivity** (점수: 41980.652)
+- **AI automation** (점수: 18399.752)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Oracle is building yesterday's data centers with tomorrow's debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
-- [Thomas Selfridge: The First Airplane Fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
-- [Things I've Done with AI](https://sjer.red/blog/2026/built-with-ai/)
-- [The Most Beautiful Freezer in the World: Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
+- [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+- [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
+- [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+- [No, it doesn't cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/)
+- [So you want to write an “app” (2025)](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
+- [OpenAI is walking away from expanding its Stargate data center with Oracle](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
+- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
+- [Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
 - [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
 - [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
-- [Workers report watching Ray-Ban Meta-shot footage of people using the bathroom](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)
-- [Show HN: The Mog Programming Language](https://moglang.org)
-- [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/)
-- [Florida judge rules red light camera tickets are unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
 
-*마지막 업데이트: 2026-03-09T21:22:07Z*
+*마지막 업데이트: 2026-03-10T05:12:50Z*
