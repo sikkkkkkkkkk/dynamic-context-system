@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-11T21:21:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-12T05:18:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 107073.464)
-- **productivity** (점수: 50916.664)
-- **AI automation** (점수: 21855.704)
+- **SEO** (점수: 106400.944)
+- **productivity** (점수: 50846.744)
+- **AI automation** (점수: 21600.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 107073.464)
-- **productivity** (점수: 50916.664)
-- **AI automation** (점수: 21855.704)
+- **SEO** (점수: 106400.944)
+- **productivity** (점수: 50846.744)
+- **AI automation** (점수: 21600.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 107073.464)
-- **productivity** (점수: 50916.664)
-- **AI automation** (점수: 21855.704)
+- **SEO** (점수: 106400.944)
+- **productivity** (점수: 50846.744)
+- **AI automation** (점수: 21600.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 107073.464)
-- **productivity** (점수: 50916.664)
-- **AI automation** (점수: 21855.704)
+- **SEO** (점수: 106400.944)
+- **productivity** (점수: 50846.744)
+- **AI automation** (점수: 21600.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 93107.36)
-- **productivity** (점수: 44275.36)
-- **AI automation** (점수: 19004.96)
+- **SEO** (점수: 92522.56)
+- **productivity** (점수: 44214.56)
+- **AI automation** (점수: 18782.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 93107.36)
-- **productivity** (점수: 44275.36)
-- **AI automation** (점수: 19004.96)
+- **SEO** (점수: 92522.56)
+- **productivity** (점수: 44214.56)
+- **AI automation** (점수: 18782.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 88451.992)
-- **productivity** (점수: 42061.592)
-- **AI automation** (점수: 18054.712)
+- **SEO** (점수: 87896.432)
+- **productivity** (점수: 42003.832)
+- **AI automation** (점수: 17843.812)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
+- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
+- [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/)
+- [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
+- [Preliminary data from a longitudinal AI impact study](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)
+- [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
 - [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
-- [Iran warns U.S. tech firms could become targets as war expands](https://www.wired.me/story/war-on-big-tech-iran-names-israeli-linked-us-firms-as-potential-targets)
-- [The dead Internet is not a theory anymore](https://www.adriankrebs.ch/blog/dead-internet/)
-- [What Is a Tort?](https://harvardlawreview.org/print/vol-139/what-is-a-tort/)
-- [X is selling existing users' handles](https://news.ycombinator.com/item?id=47340754)
-- [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
-- [I'm glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic)
-- [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
-- [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
-- [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
+- [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
 
-*마지막 업데이트: 2026-03-11T21:21:42Z*
+*마지막 업데이트: 2026-03-12T05:18:09Z*
