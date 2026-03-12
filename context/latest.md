@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-12T05:18:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-12T21:22:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 106400.944)
-- **productivity** (점수: 50846.744)
-- **AI automation** (점수: 21600.404)
+- **SEO** (점수: 108031.644)
+- **productivity** (점수: 51065.704)
+- **AI automation** (점수: 21247.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 106400.944)
-- **productivity** (점수: 50846.744)
-- **AI automation** (점수: 21600.404)
+- **SEO** (점수: 108031.644)
+- **productivity** (점수: 51065.704)
+- **AI automation** (점수: 21247.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 106400.944)
-- **productivity** (점수: 50846.744)
-- **AI automation** (점수: 21600.404)
+- **SEO** (점수: 108031.644)
+- **productivity** (점수: 51065.704)
+- **AI automation** (점수: 21247.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 106400.944)
-- **productivity** (점수: 50846.744)
-- **AI automation** (점수: 21600.404)
+- **SEO** (점수: 108031.644)
+- **productivity** (점수: 51065.704)
+- **AI automation** (점수: 21247.124)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 92522.56)
-- **productivity** (점수: 44214.56)
-- **AI automation** (점수: 18782.96)
+- **SEO** (점수: 93940.56)
+- **productivity** (점수: 44404.96)
+- **AI automation** (점수: 18475.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 92522.56)
-- **productivity** (점수: 44214.56)
-- **AI automation** (점수: 18782.96)
+- **SEO** (점수: 93940.56)
+- **productivity** (점수: 44404.96)
+- **AI automation** (점수: 18475.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 87896.432)
-- **productivity** (점수: 42003.832)
-- **AI automation** (점수: 17843.812)
+- **SEO** (점수: 89243.532)
+- **productivity** (점수: 42184.712)
+- **AI automation** (점수: 17551.972)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
-- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
-- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
-- [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/)
-- [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/)
-- [Preliminary data from a longitudinal AI impact study](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)
-- [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
-- [Meticulous (YC S21) is hiring to redefine software dev](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e)
-- [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)
+- [AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+- [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
+- [An old photo of a large BBS (2022)](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
+- [Runners Are Discovering It's Surprisingly Easy to Churn Butter on Their Runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/)
+- [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io)
+- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
+- [Show HN: Understudy – Teach a desktop agent by demonstrating a task once](https://github.com/understudy-ai/understudy)
+- [Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)](https://www.runconverge.com/careers/founding-platform-engineer)
+- [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli)
+- [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html)
 
-*마지막 업데이트: 2026-03-12T05:18:09Z*
+*마지막 업데이트: 2026-03-12T21:22:21Z*
