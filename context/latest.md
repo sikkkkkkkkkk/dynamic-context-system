@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-12T21:22:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-13T05:15:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 108031.644)
-- **productivity** (점수: 51065.704)
-- **AI automation** (점수: 21247.124)
+- **SEO** (점수: 109912.584)
+- **productivity** (점수: 51200.484)
+- **AI automation** (점수: 21296.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 108031.644)
-- **productivity** (점수: 51065.704)
-- **AI automation** (점수: 21247.124)
+- **SEO** (점수: 109912.584)
+- **productivity** (점수: 51200.484)
+- **AI automation** (점수: 21296.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 108031.644)
-- **productivity** (점수: 51065.704)
-- **AI automation** (점수: 21247.124)
+- **SEO** (점수: 109912.584)
+- **productivity** (점수: 51200.484)
+- **AI automation** (점수: 21296.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 108031.644)
-- **productivity** (점수: 51065.704)
-- **AI automation** (점수: 21247.124)
+- **SEO** (점수: 109912.584)
+- **productivity** (점수: 51200.484)
+- **AI automation** (점수: 21296.344)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 93940.56)
-- **productivity** (점수: 44404.96)
-- **AI automation** (점수: 18475.76)
+- **SEO** (점수: 95576.16)
+- **productivity** (점수: 44522.16)
+- **AI automation** (점수: 18518.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 93940.56)
-- **productivity** (점수: 44404.96)
-- **AI automation** (점수: 18475.76)
+- **SEO** (점수: 95576.16)
+- **productivity** (점수: 44522.16)
+- **AI automation** (점수: 18518.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 89243.532)
-- **productivity** (점수: 42184.712)
-- **AI automation** (점수: 17551.972)
+- **SEO** (점수: 90797.352)
+- **productivity** (점수: 42296.052)
+- **AI automation** (점수: 17592.632)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AI error jails innocent grandmother for months in North Dakota fraud case](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+- [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8)
+- [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
+- [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/)
+- [Golden Sets: Regression Engineering for Probabilistic Systems](https://heavythoughtcloud.com/knowledge/designing-a-golden-set)
+- [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
+- [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
+- [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
 - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
-- [An old photo of a large BBS (2022)](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
-- [Runners Are Discovering It's Surprisingly Easy to Churn Butter on Their Runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/)
 - [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io)
-- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
-- [Show HN: Understudy – Teach a desktop agent by demonstrating a task once](https://github.com/understudy-ai/understudy)
-- [Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)](https://www.runconverge.com/careers/founding-platform-engineer)
-- [Show HN: OneCLI – Vault for AI Agents in Rust](https://github.com/onecli/onecli)
-- [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html)
 
-*마지막 업데이트: 2026-03-12T21:22:21Z*
+*마지막 업데이트: 2026-03-13T05:15:44Z*
