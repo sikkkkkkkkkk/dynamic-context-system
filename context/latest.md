@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-13T21:23:15Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-14T05:13:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 102266.464)
-- **productivity** (점수: 49633.264)
-- **AI automation** (점수: 20784.824)
+- **SEO** (점수: 100924.184)
+- **productivity** (점수: 49245.024)
+- **AI automation** (점수: 20943.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 102266.464)
-- **productivity** (점수: 49633.264)
-- **AI automation** (점수: 20784.824)
+- **SEO** (점수: 100924.184)
+- **productivity** (점수: 49245.024)
+- **AI automation** (점수: 20943.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 102266.464)
-- **productivity** (점수: 49633.264)
-- **AI automation** (점수: 20784.824)
+- **SEO** (점수: 100924.184)
+- **productivity** (점수: 49245.024)
+- **AI automation** (점수: 20943.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 102266.464)
-- **productivity** (점수: 49633.264)
-- **AI automation** (점수: 20784.824)
+- **SEO** (점수: 100924.184)
+- **productivity** (점수: 49245.024)
+- **AI automation** (점수: 20943.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 88927.36)
-- **productivity** (점수: 43159.36)
-- **AI automation** (점수: 18073.76)
+- **SEO** (점수: 87760.16)
+- **productivity** (점수: 42821.76)
+- **AI automation** (점수: 18211.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 88927.36)
-- **productivity** (점수: 43159.36)
-- **AI automation** (점수: 18073.76)
+- **SEO** (점수: 87760.16)
+- **productivity** (점수: 42821.76)
+- **AI automation** (점수: 18211.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 84480.992)
-- **productivity** (점수: 41001.392)
-- **AI automation** (점수: 17170.072)
+- **SEO** (점수: 83372.152)
+- **productivity** (점수: 40680.672)
+- **AI automation** (점수: 17301.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The wild six weeks for NanoClaw's creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+- [An investigation of the forces behind the age-verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
+- [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
+- [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
+- [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
+- [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 - [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
-- [Digg is gone again](https://digg.com/)
 - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-- [You deleted everything and AWS is still charging you?](https://jvogel.me/posts/2026/aws-still-charging-you/)
 - [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
-- [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway)
-- [John Carmack about open source and anti-AI activists](https://twitter.com/id_aa_carmack/status/2032460578669691171)
-- [The Accidental Room (2018)](https://99percentinvisible.org/episode/the-accidental-room/)
 
-*마지막 업데이트: 2026-03-13T21:23:15Z*
+*마지막 업데이트: 2026-03-14T05:13:25Z*
