@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-14T05:13:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-14T21:16:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 100924.184)
-- **productivity** (점수: 49245.024)
-- **AI automation** (점수: 20943.524)
+- **SEO** (점수: 99661.944)
+- **productivity** (점수: 47891.704)
+- **AI automation** (점수: 21067.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 100924.184)
-- **productivity** (점수: 49245.024)
-- **AI automation** (점수: 20943.524)
+- **SEO** (점수: 99661.944)
+- **productivity** (점수: 47891.704)
+- **AI automation** (점수: 21067.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 100924.184)
-- **productivity** (점수: 49245.024)
-- **AI automation** (점수: 20943.524)
+- **SEO** (점수: 99661.944)
+- **productivity** (점수: 47891.704)
+- **AI automation** (점수: 21067.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 100924.184)
-- **productivity** (점수: 49245.024)
-- **AI automation** (점수: 20943.524)
+- **SEO** (점수: 99661.944)
+- **productivity** (점수: 47891.704)
+- **AI automation** (점수: 21067.724)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 87760.16)
-- **productivity** (점수: 42821.76)
-- **AI automation** (점수: 18211.76)
+- **SEO** (점수: 86662.56)
+- **productivity** (점수: 41644.96)
+- **AI automation** (점수: 18319.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 87760.16)
-- **productivity** (점수: 42821.76)
-- **AI automation** (점수: 18211.76)
+- **SEO** (점수: 86662.56)
+- **productivity** (점수: 41644.96)
+- **AI automation** (점수: 18319.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 83372.152)
-- **productivity** (점수: 40680.672)
-- **AI automation** (점수: 17301.172)
+- **SEO** (점수: 82329.432)
+- **productivity** (점수: 39562.712)
+- **AI automation** (점수: 17403.772)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
-- [An investigation of the forces behind the age-verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
-- [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/)
-- [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo)
-- [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
-- [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
-- [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
-- [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
-- [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-- [Your phone is an entire computer](https://medhir.com/blog/your-phone-is-an-entire-computer)
+- [Claude Doubles Usage Limits During Off-Peak Hours (March 13–27, 2026)](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
+- [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
+- [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
+- [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
+- [MCP Is Dead; Long Live MCP](https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/)
+- [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
+- [Show HN: Ichinichi – One note per day, E2E encrypted, local-first](https://news.ycombinator.com/item?id=47379898)
+- [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
+- [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
+- [In Praise of Stupid Questions](https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/)
 
-*마지막 업데이트: 2026-03-14T05:13:25Z*
+*마지막 업데이트: 2026-03-14T21:16:12Z*
