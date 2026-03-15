@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-14T21:16:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-15T05:39:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 99661.944)
-- **productivity** (점수: 47891.704)
-- **AI automation** (점수: 21067.724)
+- **SEO** (점수: 96614.444)
+- **productivity** (점수: 47603.744)
+- **AI automation** (점수: 21136.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 99661.944)
-- **productivity** (점수: 47891.704)
-- **AI automation** (점수: 21067.724)
+- **SEO** (점수: 96614.444)
+- **productivity** (점수: 47603.744)
+- **AI automation** (점수: 21136.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 99661.944)
-- **productivity** (점수: 47891.704)
-- **AI automation** (점수: 21067.724)
+- **SEO** (점수: 96614.444)
+- **productivity** (점수: 47603.744)
+- **AI automation** (점수: 21136.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 99661.944)
-- **productivity** (점수: 47891.704)
-- **AI automation** (점수: 21067.724)
+- **SEO** (점수: 96614.444)
+- **productivity** (점수: 47603.744)
+- **AI automation** (점수: 21136.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 86662.56)
-- **productivity** (점수: 41644.96)
-- **AI automation** (점수: 18319.76)
+- **SEO** (점수: 84012.56)
+- **productivity** (점수: 41394.56)
+- **AI automation** (점수: 18379.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 86662.56)
-- **productivity** (점수: 41644.96)
-- **AI automation** (점수: 18319.76)
+- **SEO** (점수: 84012.56)
+- **productivity** (점수: 41394.56)
+- **AI automation** (점수: 18379.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 82329.432)
-- **productivity** (점수: 39562.712)
-- **AI automation** (점수: 17403.772)
+- **SEO** (점수: 79811.932)
+- **productivity** (점수: 39324.832)
+- **AI automation** (점수: 17460.392)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Claude Doubles Usage Limits During Off-Peak Hours (March 13–27, 2026)](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion)
-- [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
-- [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
-- [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
-- [MCP Is Dead; Long Live MCP](https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/)
-- [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
-- [Show HN: Ichinichi – One note per day, E2E encrypted, local-first](https://news.ycombinator.com/item?id=47379898)
-- [Hostile Volume – A game about adjusting volume with intentionally bad UI](https://hostilevolume.com/)
-- [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
-- [In Praise of Stupid Questions](https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/)
+- [Microslop](https://www.s-config.com/microslop/)
+- [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
+- [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
+- [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/)
+- [How Kernel Anti-Cheats Work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
+- [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/)
+- [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+- [Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net](https://github.com/groverburger/grobpaint)
+- [Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/)
+- [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 
-*마지막 업데이트: 2026-03-14T21:16:12Z*
+*마지막 업데이트: 2026-03-15T05:39:30Z*
