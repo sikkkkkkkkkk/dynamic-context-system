@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-15T05:39:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-15T21:17:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 96614.444)
-- **productivity** (점수: 47603.744)
-- **AI automation** (점수: 21136.264)
+- **SEO** (점수: 85998.564)
+- **productivity** (점수: 47646.064)
+- **AI automation** (점수: 21617.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 96614.444)
-- **productivity** (점수: 47603.744)
-- **AI automation** (점수: 21136.264)
+- **SEO** (점수: 85998.564)
+- **productivity** (점수: 47646.064)
+- **AI automation** (점수: 21617.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 96614.444)
-- **productivity** (점수: 47603.744)
-- **AI automation** (점수: 21136.264)
+- **SEO** (점수: 85998.564)
+- **productivity** (점수: 47646.064)
+- **AI automation** (점수: 21617.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 96614.444)
-- **productivity** (점수: 47603.744)
-- **AI automation** (점수: 21136.264)
+- **SEO** (점수: 85998.564)
+- **productivity** (점수: 47646.064)
+- **AI automation** (점수: 21617.884)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 84012.56)
-- **productivity** (점수: 41394.56)
-- **AI automation** (점수: 18379.36)
+- **SEO** (점수: 74781.36)
+- **productivity** (점수: 41431.36)
+- **AI automation** (점수: 18798.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 84012.56)
-- **productivity** (점수: 41394.56)
-- **AI automation** (점수: 18379.36)
+- **SEO** (점수: 74781.36)
+- **productivity** (점수: 41431.36)
+- **AI automation** (점수: 18798.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 79811.932)
-- **productivity** (점수: 39324.832)
-- **AI automation** (점수: 17460.392)
+- **SEO** (점수: 71042.292)
+- **productivity** (점수: 39359.792)
+- **AI automation** (점수: 17858.252)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Microslop](https://www.s-config.com/microslop/)
-- [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
-- [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
-- [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/)
-- [How Kernel Anti-Cheats Work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
-- [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/)
-- [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
-- [Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net](https://github.com/groverburger/grobpaint)
-- [Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/)
-- [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
+- [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
+- [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
+- [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
+- [Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV](https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/)
+- [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
+- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
+- [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)
+- [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
+- [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
+- [Learning athletic humanoid tennis skills from imperfect human motion data](https://zzk273.github.io/LATENT/)
 
-*마지막 업데이트: 2026-03-15T05:39:30Z*
+*마지막 업데이트: 2026-03-15T21:17:42Z*
