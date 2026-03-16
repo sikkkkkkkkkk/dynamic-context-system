@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-16T05:51:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-16T21:28:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 84165.004)
-- **productivity** (점수: 47517.724)
-- **AI automation** (점수: 21728.744)
+- **SEO** (점수: 79428.384)
+- **productivity** (점수: 45991.444)
+- **AI automation** (점수: 21844.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 84165.004)
-- **productivity** (점수: 47517.724)
-- **AI automation** (점수: 21728.744)
+- **SEO** (점수: 79428.384)
+- **productivity** (점수: 45991.444)
+- **AI automation** (점수: 21844.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 84165.004)
-- **productivity** (점수: 47517.724)
-- **AI automation** (점수: 21728.744)
+- **SEO** (점수: 79428.384)
+- **productivity** (점수: 45991.444)
+- **AI automation** (점수: 21844.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 84165.004)
-- **productivity** (점수: 47517.724)
-- **AI automation** (점수: 21728.744)
+- **SEO** (점수: 79428.384)
+- **productivity** (점수: 45991.444)
+- **AI automation** (점수: 21844.204)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 73186.96)
-- **productivity** (점수: 41319.76)
-- **AI automation** (점수: 18894.56)
+- **SEO** (점수: 69068.16)
+- **productivity** (점수: 39992.56)
+- **AI automation** (점수: 18994.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 73186.96)
-- **productivity** (점수: 41319.76)
-- **AI automation** (점수: 18894.56)
+- **SEO** (점수: 69068.16)
+- **productivity** (점수: 39992.56)
+- **AI automation** (점수: 18994.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 69527.612)
-- **productivity** (점수: 39253.772)
-- **AI automation** (점수: 17949.832)
+- **SEO** (점수: 65614.752)
+- **productivity** (점수: 37992.932)
+- **AI automation** (점수: 18045.212)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
-- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
-- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
-- [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
-- [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
-- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
-- [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame)
-- [Bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
-- [LLMs can be exhausting](https://tomjohnell.com/llms-can-be-absolutely-exhausting/)
+- [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
+- [Beyond Meat CEO 'It's Just Not the Moment for Plant-Based Meat' After Rebrand](https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/)
+- [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai)
+- [Palestinian boy, 12, describes how Israeli forces killed his family in car](https://www.bbc.com/news/articles/c70n2x7p22do)
+- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+- [Language Model Teams as Distrbuted Systems](https://arxiv.org/abs/2603.12229)
+- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+- [Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure](https://www.usechamber.io/)
+- [Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)](https://arxiv.org/abs/2511.04427)
+- [Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs](https://www.kaizenautomation.com/careers)
 
-*마지막 업데이트: 2026-03-16T05:51:59Z*
+*마지막 업데이트: 2026-03-16T21:28:25Z*
