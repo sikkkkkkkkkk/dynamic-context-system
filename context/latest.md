@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-15T21:17:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-16T05:51:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 85998.564)
-- **productivity** (점수: 47646.064)
-- **AI automation** (점수: 21617.884)
+- **SEO** (점수: 84165.004)
+- **productivity** (점수: 47517.724)
+- **AI automation** (점수: 21728.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 85998.564)
-- **productivity** (점수: 47646.064)
-- **AI automation** (점수: 21617.884)
+- **SEO** (점수: 84165.004)
+- **productivity** (점수: 47517.724)
+- **AI automation** (점수: 21728.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 85998.564)
-- **productivity** (점수: 47646.064)
-- **AI automation** (점수: 21617.884)
+- **SEO** (점수: 84165.004)
+- **productivity** (점수: 47517.724)
+- **AI automation** (점수: 21728.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 85998.564)
-- **productivity** (점수: 47646.064)
-- **AI automation** (점수: 21617.884)
+- **SEO** (점수: 84165.004)
+- **productivity** (점수: 47517.724)
+- **AI automation** (점수: 21728.744)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 74781.36)
-- **productivity** (점수: 41431.36)
-- **AI automation** (점수: 18798.16)
+- **SEO** (점수: 73186.96)
+- **productivity** (점수: 41319.76)
+- **AI automation** (점수: 18894.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 74781.36)
-- **productivity** (점수: 41431.36)
-- **AI automation** (점수: 18798.16)
+- **SEO** (점수: 73186.96)
+- **productivity** (점수: 41319.76)
+- **AI automation** (점수: 18894.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 71042.292)
-- **productivity** (점수: 39359.792)
-- **AI automation** (점수: 17858.252)
+- **SEO** (점수: 69527.612)
+- **productivity** (점수: 39253.772)
+- **AI automation** (점수: 17949.832)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
-- [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
-- [Office.eu launches as Europe's sovereign office platform](https://office.eu/media/pressrelease-20260304)
-- [Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV](https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/)
-- [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
-- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
-- [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)
-- [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
-- [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
-- [Learning athletic humanoid tennis skills from imperfect human motion data](https://zzk273.github.io/LATENT/)
+- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
+- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
+- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
+- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
+- [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
+- [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
+- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
+- [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame)
+- [Bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
+- [LLMs can be exhausting](https://tomjohnell.com/llms-can-be-absolutely-exhausting/)
 
-*마지막 업데이트: 2026-03-15T21:17:42Z*
+*마지막 업데이트: 2026-03-16T05:51:59Z*
