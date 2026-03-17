@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-03-17T05:24:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-17T21:26:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 78355.204)
-- **productivity** (점수: 45707.624)
-- **AI automation** (점수: 21972.084)
+- **SEO** (점수: 76663.324)
+- **productivity** (점수: 46127.144)
+- **AI automation** (점수: 21819.364)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 78355.204)
-- **productivity** (점수: 45707.624)
-- **AI automation** (점수: 21972.084)
+- **SEO** (점수: 76663.324)
+- **productivity** (점수: 46127.144)
+- **AI automation** (점수: 21819.364)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 78355.204)
-- **productivity** (점수: 45707.624)
-- **AI automation** (점수: 21972.084)
+- **SEO** (점수: 76663.324)
+- **productivity** (점수: 46127.144)
+- **AI automation** (점수: 21819.364)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 78355.204)
-- **productivity** (점수: 45707.624)
-- **AI automation** (점수: 21972.084)
+- **SEO** (점수: 76663.324)
+- **productivity** (점수: 46127.144)
+- **AI automation** (점수: 21819.364)
+- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 68134.96)
-- **productivity** (점수: 39745.76)
-- **AI automation** (점수: 19106.16)
+- **SEO** (점수: 66663.76)
+- **productivity** (점수: 40110.56)
+- **AI automation** (점수: 18973.36)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 68134.96)
-- **productivity** (점수: 39745.76)
-- **AI automation** (점수: 19106.16)
+- **SEO** (점수: 66663.76)
+- **productivity** (점수: 40110.56)
+- **AI automation** (점수: 18973.36)
+- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 64728.212)
-- **productivity** (점수: 37758.472)
-- **AI automation** (점수: 18150.852)
+- **SEO** (점수: 63330.572)
+- **productivity** (점수: 38105.032)
+- **AI automation** (점수: 18024.692)
+- **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 19.162)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
-- [Zenclora OS](https://zenclora.org/)
-- [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
-- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
-- [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
-- [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
-- [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead)
-- [Beyond has dropped “meat” from its name and expanded its high-protein drink line](https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/)
-- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
-- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
+- [Curated Female Founder Cohort in SF](https://jointheden.co/)
+- [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
+- [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
+- ['It's sweet. It's bitter. It's ours.' The chocolate ritual that binds my family](https://www.csmonitor.com/The-Home-Forum/2026/0212/chocolate-valentines-day-love)
+- [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
+- [Java 26 is here](https://hanno.codes/2026/03/17/java-26-is-here/)
+- [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
+- [Edge.js: Run Node apps inside a WebAssembly sandbox](https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox)
+- [GPT‑5.4 Mini and Nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)
+- [Spice Data (YC S19) Is Hiring a Product Specialist](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad)
 
-*마지막 업데이트: 2026-03-17T05:24:00Z*
+*마지막 업데이트: 2026-03-17T21:26:30Z*
