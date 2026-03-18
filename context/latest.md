@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-18T05:37:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-18T21:24:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 77395.644)
-- **productivity** (점수: 46013.524)
-- **AI automation** (점수: 21695.164)
+- **SEO** (점수: 76245.644)
+- **productivity** (점수: 45118.364)
+- **AI automation** (점수: 20553.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 77395.644)
-- **productivity** (점수: 46013.524)
-- **AI automation** (점수: 21695.164)
+- **SEO** (점수: 76245.644)
+- **productivity** (점수: 45118.364)
+- **AI automation** (점수: 20553.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 77395.644)
-- **productivity** (점수: 46013.524)
-- **AI automation** (점수: 21695.164)
+- **SEO** (점수: 76245.644)
+- **productivity** (점수: 45118.364)
+- **AI automation** (점수: 20553.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 77395.644)
-- **productivity** (점수: 46013.524)
-- **AI automation** (점수: 21695.164)
+- **SEO** (점수: 76245.644)
+- **productivity** (점수: 45118.364)
+- **AI automation** (점수: 20553.904)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 67300.56)
-- **productivity** (점수: 40011.76)
-- **AI automation** (점수: 18865.36)
+- **SEO** (점수: 66300.56)
+- **productivity** (점수: 39233.36)
+- **AI automation** (점수: 17872.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 67300.56)
-- **productivity** (점수: 40011.76)
-- **AI automation** (점수: 18865.36)
+- **SEO** (점수: 66300.56)
+- **productivity** (점수: 39233.36)
+- **AI automation** (점수: 17872.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 63935.532)
-- **productivity** (점수: 38011.172)
-- **AI automation** (점수: 17922.092)
+- **SEO** (점수: 62985.532)
+- **productivity** (점수: 37271.692)
+- **AI automation** (점수: 16979.312)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
-- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html)
-- [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)
-- [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
-- [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
-- [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
-- [Why AI systems don't learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
-- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
-- [Get Shit Done: A meta-prompting, context engineering and spec-driven dev system](https://github.com/gsd-build/get-shit-done)
-- [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
+- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+- [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
+- [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
+- [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
+- [EU Inc.: A new harmonised corporate legal regime](https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en)
+- [I haven't used a mouse for 14 years](https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/)
+- [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650)
+- [AI coding is gambling](https://notes.visaint.space/ai-coding-is-gambling/)
+- [Show HN: I built 48 lightweight SVG backgrounds you can copy/paste](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
+- [CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root)
 
-*마지막 업데이트: 2026-03-18T05:37:46Z*
+*마지막 업데이트: 2026-03-18T21:24:43Z*
