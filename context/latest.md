@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-03-19T05:24:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-19T21:24:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 74096.064)
-- **productivity** (점수: 44948.164)
-- **AI automation** (점수: 20442.584)
+- **SEO** (점수: 69012.144)
+- **productivity** (점수: 43976.644)
+- **AI automation** (점수: 19792.144)
 - **AI tutorial** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 74096.064)
-- **productivity** (점수: 44948.164)
-- **AI automation** (점수: 20442.584)
+- **SEO** (점수: 69012.144)
+- **productivity** (점수: 43976.644)
+- **AI automation** (점수: 19792.144)
 - **AI tutorial** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 74096.064)
-- **productivity** (점수: 44948.164)
-- **AI automation** (점수: 20442.584)
+- **SEO** (점수: 69012.144)
+- **productivity** (점수: 43976.644)
+- **AI automation** (점수: 19792.144)
 - **AI tutorial** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 74096.064)
-- **productivity** (점수: 44948.164)
-- **AI automation** (점수: 20442.584)
+- **SEO** (점수: 69012.144)
+- **productivity** (점수: 43976.644)
+- **AI automation** (점수: 19792.144)
 - **AI tutorial** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 64431.36)
-- **productivity** (점수: 39085.36)
-- **AI automation** (점수: 17776.16)
+- **SEO** (점수: 60010.56)
+- **productivity** (점수: 38240.56)
+- **AI automation** (점수: 17210.56)
 - **AI tutorial** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 64431.36)
-- **productivity** (점수: 39085.36)
-- **AI automation** (점수: 17776.16)
+- **SEO** (점수: 60010.56)
+- **productivity** (점수: 38240.56)
+- **AI automation** (점수: 17210.56)
 - **AI tutorial** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 61209.792)
-- **productivity** (점수: 37131.092)
-- **AI automation** (점수: 16887.352)
+- **SEO** (점수: 57010.032)
+- **productivity** (점수: 36328.532)
+- **AI automation** (점수: 16350.032)
 - **AI tutorial** (점수: 19.162)
-- **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 19.162)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
-- [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
-- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
-- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
-- [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
-- [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
-- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-- [RX – a new random-access JSON alternative](https://github.com/creationix/rx)
-- [What’s on HTTP?](https://whatsonhttp.com/)
-- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+- [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
+- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
+- [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
+- [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
+- [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
+- [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
+- [No AI in Node.js Core](https://github.com/indutny/no-ai-in-nodejs-core)
+- [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
+- [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
+- [NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute](https://qlabs.sh/10x)
 
-*마지막 업데이트: 2026-03-19T05:24:52Z*
+*마지막 업데이트: 2026-03-19T21:24:19Z*
