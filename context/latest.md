@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-19T21:24:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-20T05:18:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 69012.144)
-- **productivity** (점수: 43976.644)
-- **AI automation** (점수: 19792.144)
+- **SEO** (점수: 67002.404)
+- **productivity** (점수: 43712.144)
+- **AI automation** (점수: 19647.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 69012.144)
-- **productivity** (점수: 43976.644)
-- **AI automation** (점수: 19792.144)
+- **SEO** (점수: 67002.404)
+- **productivity** (점수: 43712.144)
+- **AI automation** (점수: 19647.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 69012.144)
-- **productivity** (점수: 43976.644)
-- **AI automation** (점수: 19792.144)
+- **SEO** (점수: 67002.404)
+- **productivity** (점수: 43712.144)
+- **AI automation** (점수: 19647.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 69012.144)
-- **productivity** (점수: 43976.644)
-- **AI automation** (점수: 19792.144)
+- **SEO** (점수: 67002.404)
+- **productivity** (점수: 43712.144)
+- **AI automation** (점수: 19647.704)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 60010.56)
-- **productivity** (점수: 38240.56)
-- **AI automation** (점수: 17210.56)
+- **SEO** (점수: 58262.96)
+- **productivity** (점수: 38010.56)
+- **AI automation** (점수: 17084.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 60010.56)
-- **productivity** (점수: 38240.56)
-- **AI automation** (점수: 17210.56)
+- **SEO** (점수: 58262.96)
+- **productivity** (점수: 38010.56)
+- **AI automation** (점수: 17084.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 57010.032)
-- **productivity** (점수: 36328.532)
-- **AI automation** (점수: 16350.032)
+- **SEO** (점수: 55349.812)
+- **productivity** (점수: 36110.032)
+- **AI automation** (점수: 16230.712)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
+- [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
+- [Drugwars for the TI-82/83/83 Calculators (2011)](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
+- [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+- [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
+- [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
+- [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
 - [EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages](https://esolang-bench.vercel.app/)
 - [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
-- [Waymo 13x safer than human drivers](https://twitter.com/Waymo/status/2034646084073480224)
-- [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf)
-- [Clockwise acquired by Salesforce and shutting down next week](https://www.getclockwise.com)
-- [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
-- [No AI in Node.js Core](https://github.com/indutny/no-ai-in-nodejs-core)
-- [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
-- [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
-- [NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute](https://qlabs.sh/10x)
+- [Waymo Safety Impact](https://waymo.com/safety/impact/)
 
-*마지막 업데이트: 2026-03-19T21:24:19Z*
+*마지막 업데이트: 2026-03-20T05:18:26Z*
