@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-20T21:20:01Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-21T05:09:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 61871.564)
-- **productivity** (점수: 44644.564)
-- **AI automation** (점수: 19201.044)
+- **SEO** (점수: 58064.144)
+- **productivity** (점수: 45001.524)
+- **AI automation** (점수: 18909.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 61871.564)
-- **productivity** (점수: 44644.564)
-- **AI automation** (점수: 19201.044)
+- **SEO** (점수: 58064.144)
+- **productivity** (점수: 45001.524)
+- **AI automation** (점수: 18909.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 61871.564)
-- **productivity** (점수: 44644.564)
-- **AI automation** (점수: 19201.044)
+- **SEO** (점수: 58064.144)
+- **productivity** (점수: 45001.524)
+- **AI automation** (점수: 18909.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 61871.564)
-- **productivity** (점수: 44644.564)
-- **AI automation** (점수: 19201.044)
+- **SEO** (점수: 58064.144)
+- **productivity** (점수: 45001.524)
+- **AI automation** (점수: 18909.404)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 53801.36)
-- **productivity** (점수: 38821.36)
-- **AI automation** (점수: 16696.56)
+- **SEO** (점수: 50490.56)
+- **productivity** (점수: 39131.76)
+- **AI automation** (점수: 16442.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 53801.36)
-- **productivity** (점수: 38821.36)
-- **AI automation** (점수: 16696.56)
+- **SEO** (점수: 50490.56)
+- **productivity** (점수: 39131.76)
+- **AI automation** (점수: 16442.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 51111.292)
-- **productivity** (점수: 36880.292)
-- **AI automation** (점수: 15861.732)
+- **SEO** (점수: 47966.032)
+- **productivity** (점수: 37175.172)
+- **AI automation** (점수: 15620.812)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The bespoke software revolution? I'm not buying it](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec)
-- [NumKong: 2'000 Mixed Precision Kernels for All](https://ashvardanian.com/posts/numkong/)
-- [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
-- [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
-- [BYD is seeing a flood of new EV buyers](https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/)
-- [Show HN: I made an email app inspired by Arc browser](https://demo.define.app)
-- [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
-- [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
-- [Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot](https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/)
-- [Chuck Norris has died](https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/)
+- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
+- [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
+- [Traces of Evil](https://www.tracesofevil.com/)
+- [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
+- [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
+- [Ghostling](https://github.com/ghostty-org/ghostling)
+- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
+- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
+- [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light)
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)
 
-*마지막 업데이트: 2026-03-20T21:20:01Z*
+*마지막 업데이트: 2026-03-21T05:09:36Z*
