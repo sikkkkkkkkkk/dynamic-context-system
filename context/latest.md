@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-21T05:09:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-21T21:14:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 58064.144)
-- **productivity** (점수: 45001.524)
-- **AI automation** (점수: 18909.404)
+- **SEO** (점수: 53137.544)
+- **productivity** (점수: 45324.444)
+- **AI automation** (점수: 18884.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 58064.144)
-- **productivity** (점수: 45001.524)
-- **AI automation** (점수: 18909.404)
+- **SEO** (점수: 53137.544)
+- **productivity** (점수: 45324.444)
+- **AI automation** (점수: 18884.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 58064.144)
-- **productivity** (점수: 45001.524)
-- **AI automation** (점수: 18909.404)
+- **SEO** (점수: 53137.544)
+- **productivity** (점수: 45324.444)
+- **AI automation** (점수: 18884.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 58064.144)
-- **productivity** (점수: 45001.524)
-- **AI automation** (점수: 18909.404)
+- **SEO** (점수: 53137.544)
+- **productivity** (점수: 45324.444)
+- **AI automation** (점수: 18884.104)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 50490.56)
-- **productivity** (점수: 39131.76)
-- **AI automation** (점수: 16442.96)
+- **SEO** (점수: 46206.56)
+- **productivity** (점수: 39412.56)
+- **AI automation** (점수: 16420.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 50490.56)
-- **productivity** (점수: 39131.76)
-- **AI automation** (점수: 16442.96)
+- **SEO** (점수: 46206.56)
+- **productivity** (점수: 39412.56)
+- **AI automation** (점수: 16420.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 47966.032)
-- **productivity** (점수: 37175.172)
-- **AI automation** (점수: 15620.812)
+- **SEO** (점수: 43896.232)
+- **productivity** (점수: 37441.932)
+- **AI automation** (점수: 15599.912)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
-- [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/)
-- [Traces of Evil](https://www.tracesofevil.com/)
-- [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
-- [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink)
-- [Ghostling](https://github.com/ghostty-org/ghostling)
-- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky)
-- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser)
-- [Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light)
-- [OpenCode – Open source AI coding agent](https://opencode.ai/)
+- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
+- [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+- [No evidence cannabis helps anxiety, depression, or PTSD](https://www.sciencedaily.com/releases/2026/03/260319044656.htm)
+- [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
+- [Hawaii's worst flooding in 20 years threatens dam, prompts evacuations](https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573)
+- [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
+- [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
+- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
+- [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/)
+- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
 
-*마지막 업데이트: 2026-03-21T05:09:36Z*
+*마지막 업데이트: 2026-03-21T21:14:42Z*
