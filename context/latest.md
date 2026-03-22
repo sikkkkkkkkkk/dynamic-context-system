@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-21T21:14:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-22T05:21:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 53137.544)
-- **productivity** (점수: 45324.444)
-- **AI automation** (점수: 18884.104)
+- **SEO** (점수: 52304.944)
+- **productivity** (점수: 45524.084)
+- **AI automation** (점수: 18935.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 53137.544)
-- **productivity** (점수: 45324.444)
-- **AI automation** (점수: 18884.104)
+- **SEO** (점수: 52304.944)
+- **productivity** (점수: 45524.084)
+- **AI automation** (점수: 18935.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 53137.544)
-- **productivity** (점수: 45324.444)
-- **AI automation** (점수: 18884.104)
+- **SEO** (점수: 52304.944)
+- **productivity** (점수: 45524.084)
+- **AI automation** (점수: 18935.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 53137.544)
-- **productivity** (점수: 45324.444)
-- **AI automation** (점수: 18884.104)
+- **SEO** (점수: 52304.944)
+- **productivity** (점수: 45524.084)
+- **AI automation** (점수: 18935.164)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 46206.56)
-- **productivity** (점수: 39412.56)
-- **AI automation** (점수: 16420.96)
+- **SEO** (점수: 45482.56)
+- **productivity** (점수: 39586.16)
+- **AI automation** (점수: 16465.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 46206.56)
-- **productivity** (점수: 39412.56)
-- **AI automation** (점수: 16420.96)
+- **SEO** (점수: 45482.56)
+- **productivity** (점수: 39586.16)
+- **AI automation** (점수: 16465.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 43896.232)
-- **productivity** (점수: 37441.932)
-- **AI automation** (점수: 15599.912)
+- **SEO** (점수: 43208.432)
+- **productivity** (점수: 37606.852)
+- **AI automation** (점수: 15642.092)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today)
+- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
+- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+- [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
+- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
 - [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
-- [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
-- [No evidence cannabis helps anxiety, depression, or PTSD](https://www.sciencedaily.com/releases/2026/03/260319044656.htm)
+- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
 - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
-- [Hawaii's worst flooding in 20 years threatens dam, prompts evacuations](https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573)
-- [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
-- [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
-- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
-- [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/)
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
+- [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
 
-*마지막 업데이트: 2026-03-21T21:14:42Z*
+*마지막 업데이트: 2026-03-22T05:21:15Z*
