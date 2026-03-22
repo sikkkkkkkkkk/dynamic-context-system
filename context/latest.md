@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-22T05:21:15Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-22T21:16:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 52304.944)
-- **productivity** (점수: 45524.084)
-- **AI automation** (점수: 18935.164)
+- **SEO** (점수: 49886.724)
+- **productivity** (점수: 44896.184)
+- **AI automation** (점수: 18540.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 52304.944)
-- **productivity** (점수: 45524.084)
-- **AI automation** (점수: 18935.164)
+- **SEO** (점수: 49886.724)
+- **productivity** (점수: 44896.184)
+- **AI automation** (점수: 18540.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 52304.944)
-- **productivity** (점수: 45524.084)
-- **AI automation** (점수: 18935.164)
+- **SEO** (점수: 49886.724)
+- **productivity** (점수: 44896.184)
+- **AI automation** (점수: 18540.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 52304.944)
-- **productivity** (점수: 45524.084)
-- **AI automation** (점수: 18935.164)
+- **SEO** (점수: 49886.724)
+- **productivity** (점수: 44896.184)
+- **AI automation** (점수: 18540.484)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 45482.56)
-- **productivity** (점수: 39586.16)
-- **AI automation** (점수: 16465.36)
+- **SEO** (점수: 43379.76)
+- **productivity** (점수: 39040.16)
+- **AI automation** (점수: 16122.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 45482.56)
-- **productivity** (점수: 39586.16)
-- **AI automation** (점수: 16465.36)
+- **SEO** (점수: 43379.76)
+- **productivity** (점수: 39040.16)
+- **AI automation** (점수: 16122.16)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 43208.432)
-- **productivity** (점수: 37606.852)
-- **AI automation** (점수: 15642.092)
+- **SEO** (점수: 41210.772)
+- **productivity** (점수: 37088.152)
+- **AI automation** (점수: 15316.052)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today)
-- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
-- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
-- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
-- [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
-- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
-- [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/)
-- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
-- [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
-- [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
+- [We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical](https://trustcompliance.xyz)
+- [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
+- [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
+- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+- [PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+- [What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+- [Palantir extends reach into British state as gets access to sensitive FCA data](https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data)
+- [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities)
+- [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
+- [Five Years of Running a Systems Reading Group at Microsoft](https://armaansood.com/posts/systems-reading-group/)
 
-*마지막 업데이트: 2026-03-22T05:21:15Z*
+*마지막 업데이트: 2026-03-22T21:16:15Z*
