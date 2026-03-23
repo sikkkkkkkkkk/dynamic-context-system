@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-23T05:42:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-23T21:25:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO** (점수: 48627.244)
-- **productivity** (점수: 44437.564)
-- **AI automation** (점수: 18241.024)
+- **SEO** (점수: 46642.804)
+- **productivity** (점수: 45789.964)
+- **AI automation** (점수: 17824.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO** (점수: 48627.244)
-- **productivity** (점수: 44437.564)
-- **AI automation** (점수: 18241.024)
+- **SEO** (점수: 46642.804)
+- **productivity** (점수: 45789.964)
+- **AI automation** (점수: 17824.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO** (점수: 48627.244)
-- **productivity** (점수: 44437.564)
-- **AI automation** (점수: 18241.024)
+- **SEO** (점수: 46642.804)
+- **productivity** (점수: 45789.964)
+- **AI automation** (점수: 17824.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO** (점수: 48627.244)
-- **productivity** (점수: 44437.564)
-- **AI automation** (점수: 18241.024)
+- **SEO** (점수: 46642.804)
+- **productivity** (점수: 45789.964)
+- **AI automation** (점수: 17824.264)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO** (점수: 42284.56)
-- **productivity** (점수: 38641.36)
-- **AI automation** (점수: 15861.76)
+- **SEO** (점수: 40558.96)
+- **productivity** (점수: 39817.36)
+- **AI automation** (점수: 15499.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO** (점수: 42284.56)
-- **productivity** (점수: 38641.36)
-- **AI automation** (점수: 15861.76)
+- **SEO** (점수: 40558.96)
+- **productivity** (점수: 39817.36)
+- **AI automation** (점수: 15499.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO** (점수: 40170.332)
-- **productivity** (점수: 36709.292)
-- **AI automation** (점수: 15068.672)
+- **SEO** (점수: 38531.012)
+- **productivity** (점수: 37826.492)
+- **AI automation** (점수: 14724.392)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Trillion Dollar Race to Automate Our Lives](https://www.wsj.com/tech/ai/claude-code-cursor-codex-vibe-coding-52750531)
-- [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- ["Collaboration" Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
-- [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
-- [Migrating the American Express Payment Network, Twice](https://americanexpress.io/migrating-the-payments-network-twice/)
-- [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
-- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
-- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-- [What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+- [The Minimalist Entrepreneur – Claude Code Skills](https://github.com/slavingia/skills)
+- [How I'm Productive with Claude Code](https://neilkakkar.com/productive-with-claude-code.html)
+- [Bets on US-Iran ceasefire show signs of insider knowledge, say experts](https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket)
+- [American Aviation Is Near Collapse](https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/)
+- [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack)
+- [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)
+- [AI Risks "Hypernormal" Science](https://www.asimov.press/p/ai-science)
+- [US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html)
+- [Is it a pint?](https://isitapint.com/)
+- [Show HN: Threadprocs – executables sharing one address space (0-copy pointers)](https://github.com/jer-irl/threadprocs)
 
-*마지막 업데이트: 2026-03-23T05:42:59Z*
+*마지막 업데이트: 2026-03-23T21:25:29Z*
