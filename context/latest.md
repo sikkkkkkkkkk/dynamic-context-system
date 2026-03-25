@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-25T05:25:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-25T21:27:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 45981.324)
-- **SEO** (점수: 40880.384)
-- **AI automation** (점수: 18355.564)
+- **productivity** (점수: 46462.484)
+- **SEO** (점수: 39893.224)
+- **AI automation** (점수: 18321.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 45981.324)
-- **SEO** (점수: 40880.384)
-- **AI automation** (점수: 18355.564)
+- **productivity** (점수: 46462.484)
+- **SEO** (점수: 39893.224)
+- **AI automation** (점수: 18321.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 45981.324)
-- **SEO** (점수: 40880.384)
-- **AI automation** (점수: 18355.564)
+- **productivity** (점수: 46462.484)
+- **SEO** (점수: 39893.224)
+- **AI automation** (점수: 18321.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 45981.324)
-- **SEO** (점수: 40880.384)
-- **AI automation** (점수: 18355.564)
+- **productivity** (점수: 46462.484)
+- **SEO** (점수: 39893.224)
+- **AI automation** (점수: 18321.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 39983.76)
-- **SEO** (점수: 35548.16)
-- **AI automation** (점수: 15961.36)
+- **productivity** (점수: 40402.16)
+- **SEO** (점수: 34689.76)
+- **AI automation** (점수: 15931.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 39983.76)
-- **SEO** (점수: 35548.16)
-- **AI automation** (점수: 15961.36)
+- **productivity** (점수: 40402.16)
+- **SEO** (점수: 34689.76)
+- **AI automation** (점수: 15931.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 37984.572)
-- **SEO** (점수: 33770.752)
-- **AI automation** (점수: 15163.292)
+- **productivity** (점수: 38382.052)
+- **SEO** (점수: 32955.272)
+- **AI automation** (점수: 15135.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)
-- [Regular army and reserve components enlistment program: Summary of change](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
-- [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
-- [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
-- [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)
-- [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/)
-- [Flighty Airports](https://flighty.com/airports)
-- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
-- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
-- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
+- [China is mass-producing hypersonic missiles for $99,000](https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing)
+- [The EU still wants to scan your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
+- [Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range](https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/)
+- [FreeCAD v1.1](https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/)
+- [Apple randomly closes bug reports unless you "verify" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
+- [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
+- [Ball Pit](https://codepen.io/mrdoob_/full/NPRwLZd)
+- [90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch)
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3)
+- [Meta and YouTube found negligent in landmark social media addiction case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
 
-*마지막 업데이트: 2026-03-25T05:25:44Z*
+*마지막 업데이트: 2026-03-25T21:27:03Z*
