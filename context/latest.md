@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-24T21:26:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-25T05:25:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 45712.684)
-- **SEO** (점수: 43420.964)
-- **AI automation** (점수: 18310.484)
+- **productivity** (점수: 45981.324)
+- **SEO** (점수: 40880.384)
+- **AI automation** (점수: 18355.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 45712.684)
-- **SEO** (점수: 43420.964)
-- **AI automation** (점수: 18310.484)
+- **productivity** (점수: 45981.324)
+- **SEO** (점수: 40880.384)
+- **AI automation** (점수: 18355.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 45712.684)
-- **SEO** (점수: 43420.964)
-- **AI automation** (점수: 18310.484)
+- **productivity** (점수: 45981.324)
+- **SEO** (점수: 40880.384)
+- **AI automation** (점수: 18355.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 45712.684)
-- **SEO** (점수: 43420.964)
-- **AI automation** (점수: 18310.484)
+- **productivity** (점수: 45981.324)
+- **SEO** (점수: 40880.384)
+- **AI automation** (점수: 18355.564)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 39750.16)
-- **SEO** (점수: 37757.36)
-- **AI automation** (점수: 15922.16)
+- **productivity** (점수: 39983.76)
+- **SEO** (점수: 35548.16)
+- **AI automation** (점수: 15961.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 39750.16)
-- **SEO** (점수: 37757.36)
-- **AI automation** (점수: 15922.16)
+- **productivity** (점수: 39983.76)
+- **SEO** (점수: 35548.16)
+- **AI automation** (점수: 15961.36)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 37762.652)
-- **SEO** (점수: 35869.492)
-- **AI automation** (점수: 15126.052)
+- **productivity** (점수: 37984.572)
+- **SEO** (점수: 33770.752)
+- **AI automation** (점수: 15163.292)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
-- [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
-- [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
-- [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
-- [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/)
-- [Lago (YC S21) Is Hiring](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link)
-- [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)
-- [Show HN: Gridland: make terminal apps that also run in the browser](https://www.gridland.io/)
-- [Show HN: Email.md – Markdown to responsive, email-safe HTML](https://www.emailmd.dev/)
-- [Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon](https://github.com/t8/hypura)
+- [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/)
+- [Regular army and reserve components enlistment program: Summary of change](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
+- [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
+- [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
+- [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)
+- [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/)
+- [Flighty Airports](https://flighty.com/airports)
+- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead)
+- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)
 
-*마지막 업데이트: 2026-03-24T21:26:56Z*
+*마지막 업데이트: 2026-03-25T05:25:44Z*
