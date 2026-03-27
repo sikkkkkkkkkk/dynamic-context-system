@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-26T21:21:17Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-27T05:45:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 46817.144)
-- **SEO** (점수: 37787.804)
-- **AI automation** (점수: 17963.184)
+- **productivity** (점수: 46324.484)
+- **SEO** (점수: 37346.204)
+- **AI automation** (점수: 17815.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 46817.144)
-- **SEO** (점수: 37787.804)
-- **AI automation** (점수: 17963.184)
+- **productivity** (점수: 46324.484)
+- **SEO** (점수: 37346.204)
+- **AI automation** (점수: 17815.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 46817.144)
-- **SEO** (점수: 37787.804)
-- **AI automation** (점수: 17963.184)
+- **productivity** (점수: 46324.484)
+- **SEO** (점수: 37346.204)
+- **AI automation** (점수: 17815.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 46817.144)
-- **SEO** (점수: 37787.804)
-- **AI automation** (점수: 17963.184)
+- **productivity** (점수: 46324.484)
+- **SEO** (점수: 37346.204)
+- **AI automation** (점수: 17815.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 40710.56)
-- **SEO** (점수: 32858.96)
-- **AI automation** (점수: 15620.16)
+- **productivity** (점수: 40282.16)
+- **SEO** (점수: 32474.96)
+- **AI automation** (점수: 15491.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 40710.56)
-- **SEO** (점수: 32858.96)
-- **AI automation** (점수: 15620.16)
+- **productivity** (점수: 40282.16)
+- **SEO** (점수: 32474.96)
+- **AI automation** (점수: 15491.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 38675.032)
-- **SEO** (점수: 31216.012)
-- **AI automation** (점수: 14839.152)
+- **productivity** (점수: 38268.052)
+- **SEO** (점수: 30851.212)
+- **AI automation** (점수: 14717.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup)
-- [The Little Book of C](https://little-book-of.github.io/c/books/en-US/book.html)
-- [New York City hospitals drop Palantir as controversial AI firm expands in UK](https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai)
-- [We haven't seen the worst of what gambling and prediction markets will do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
-- [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
-- [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
-- [Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3](https://github.com/russellromney/turbolite)
-- [John Bradley, author of xv, has passed away](https://voxday.net/2026/03/25/rip-john-bradley/)
-- [Taming LLMs: Using Executable Oracles to Prevent Bad Code](https://john.regehr.org/writing/zero_dof_programming.html)
-- [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/)
+- [Schedule Claude Code tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
+- [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)
+- [Agent-to-Agent Pair Programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
+- [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
+- [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
+- [Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf)
+- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
+- [We rewrote JSONata with AI in a day, saved $500k/year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)
+- [Anthropic Subprocessor Changes](https://trust.anthropic.com)
+- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/)
 
-*마지막 업데이트: 2026-03-26T21:21:17Z*
+*마지막 업데이트: 2026-03-27T05:45:02Z*
