@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-28T05:23:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-28T21:19:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 44828.104)
-- **SEO** (점수: 37070.204)
-- **AI automation** (점수: 17483.864)
+- **productivity** (점수: 43964.684)
+- **SEO** (점수: 37165.884)
+- **AI automation** (점수: 16635.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 44828.104)
-- **SEO** (점수: 37070.204)
-- **AI automation** (점수: 17483.864)
+- **productivity** (점수: 43964.684)
+- **SEO** (점수: 37165.884)
+- **AI automation** (점수: 16635.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 44828.104)
-- **SEO** (점수: 37070.204)
-- **AI automation** (점수: 17483.864)
+- **productivity** (점수: 43964.684)
+- **SEO** (점수: 37165.884)
+- **AI automation** (점수: 16635.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 44828.104)
-- **SEO** (점수: 37070.204)
-- **AI automation** (점수: 17483.864)
+- **productivity** (점수: 43964.684)
+- **SEO** (점수: 37165.884)
+- **AI automation** (점수: 16635.624)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 38980.96)
-- **SEO** (점수: 32234.96)
-- **AI automation** (점수: 15203.36)
+- **productivity** (점수: 38230.16)
+- **SEO** (점수: 32318.16)
+- **AI automation** (점수: 14465.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 38980.96)
-- **SEO** (점수: 32234.96)
-- **AI automation** (점수: 15203.36)
+- **productivity** (점수: 38230.16)
+- **SEO** (점수: 32318.16)
+- **AI automation** (점수: 14465.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 37031.912)
-- **SEO** (점수: 30623.212)
-- **AI automation** (점수: 14443.192)
+- **productivity** (점수: 36318.652)
+- **SEO** (점수: 30702.252)
+- **AI automation** (점수: 13742.472)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The future of text layout is not CSS](https://chenglou.me/pretext/editorial-engine/)
-- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
-- [Don't YOLO your file system](https://jai.scs.stanford.edu/)
-- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
-- [DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
-- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
-- [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/)
-- [ISBN Visualization](https://annas-archive.gd/isbn-visualization)
-- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/)
-- [Capability-Based Security for Redox: Namespace and CWD as Capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
+- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
+- [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
+- [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504)
+- [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1)
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
+- [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
+- [rpg.actor Game Jam](https://rpg.actor/jam)
+- [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
+- [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
 
-*마지막 업데이트: 2026-03-28T05:23:54Z*
+*마지막 업데이트: 2026-03-28T21:19:34Z*
