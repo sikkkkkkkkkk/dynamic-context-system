@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-28T21:19:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-29T05:46:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 43964.684)
-- **SEO** (점수: 37165.884)
-- **AI automation** (점수: 16635.624)
+- **productivity** (점수: 43320.684)
+- **SEO** (점수: 36969.464)
+- **AI automation** (점수: 16248.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 43964.684)
-- **SEO** (점수: 37165.884)
-- **AI automation** (점수: 16635.624)
+- **productivity** (점수: 43320.684)
+- **SEO** (점수: 36969.464)
+- **AI automation** (점수: 16248.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 43964.684)
-- **SEO** (점수: 37165.884)
-- **AI automation** (점수: 16635.624)
+- **productivity** (점수: 43320.684)
+- **SEO** (점수: 36969.464)
+- **AI automation** (점수: 16248.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 43964.684)
-- **SEO** (점수: 37165.884)
-- **AI automation** (점수: 16635.624)
+- **productivity** (점수: 43320.684)
+- **SEO** (점수: 36969.464)
+- **AI automation** (점수: 16248.304)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 38230.16)
-- **SEO** (점수: 32318.16)
-- **AI automation** (점수: 14465.76)
+- **productivity** (점수: 37670.16)
+- **SEO** (점수: 32147.36)
+- **AI automation** (점수: 14128.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 38230.16)
-- **SEO** (점수: 32318.16)
-- **AI automation** (점수: 14465.76)
+- **productivity** (점수: 37670.16)
+- **SEO** (점수: 32147.36)
+- **AI automation** (점수: 14128.96)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 36318.652)
-- **SEO** (점수: 30702.252)
-- **AI automation** (점수: 13742.472)
+- **productivity** (점수: 35786.652)
+- **SEO** (점수: 30539.992)
+- **AI automation** (점수: 13422.512)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
+- [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)
+- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
+- [Attie.ai](https://attie.ai/login)
+- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
+- [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
+- [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
 - [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
+- [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
 - [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
-- [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504)
-- [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1)
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
-- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
-- [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
-- [rpg.actor Game Jam](https://rpg.actor/jam)
-- [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34)
-- [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
 
-*마지막 업데이트: 2026-03-28T21:19:34Z*
+*마지막 업데이트: 2026-03-29T05:46:19Z*
