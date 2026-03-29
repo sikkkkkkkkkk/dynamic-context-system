@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-29T05:46:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-29T21:24:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 43320.684)
-- **SEO** (점수: 36969.464)
-- **AI automation** (점수: 16248.304)
+- **productivity** (점수: 42520.744)
+- **SEO** (점수: 36387.564)
+- **AI automation** (점수: 15686.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 43320.684)
-- **SEO** (점수: 36969.464)
-- **AI automation** (점수: 16248.304)
+- **productivity** (점수: 42520.744)
+- **SEO** (점수: 36387.564)
+- **AI automation** (점수: 15686.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 43320.684)
-- **SEO** (점수: 36969.464)
-- **AI automation** (점수: 16248.304)
+- **productivity** (점수: 42520.744)
+- **SEO** (점수: 36387.564)
+- **AI automation** (점수: 15686.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 43320.684)
-- **SEO** (점수: 36969.464)
-- **AI automation** (점수: 16248.304)
+- **productivity** (점수: 42520.744)
+- **SEO** (점수: 36387.564)
+- **AI automation** (점수: 15686.644)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 37670.16)
-- **SEO** (점수: 32147.36)
-- **AI automation** (점수: 14128.96)
+- **productivity** (점수: 36974.56)
+- **SEO** (점수: 31641.36)
+- **AI automation** (점수: 13640.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 37670.16)
-- **SEO** (점수: 32147.36)
-- **AI automation** (점수: 14128.96)
+- **productivity** (점수: 36974.56)
+- **SEO** (점수: 31641.36)
+- **AI automation** (점수: 13640.56)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 35786.652)
-- **SEO** (점수: 30539.992)
-- **AI automation** (점수: 13422.512)
+- **productivity** (점수: 35125.832)
+- **SEO** (점수: 30059.292)
+- **AI automation** (점수: 12958.532)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
-- [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)
-- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
-- [Attie.ai](https://attie.ai/login)
-- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
-- [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
-- [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
-- [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/)
-- [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
+- [What category theory teaches us about dataframes](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
+- [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+- [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+- [More on Version Control](https://bramcohen.com/p/more-on-version-control)
+- [My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix](https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/)
+- [Kyushu Railway Company Train Varieties](https://www.jrkyushu.co.jp/english/train/index.html)
+- [Show HN: I made a "programming language" looking for feedback](https://github.com/alonsovm44/glupe)
+- [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
+- [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
 
-*마지막 업데이트: 2026-03-29T05:46:19Z*
+*마지막 업데이트: 2026-03-29T21:24:12Z*
