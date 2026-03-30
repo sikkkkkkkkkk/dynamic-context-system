@@ -1,12 +1,12 @@
-<!-- Dynamic Context Block | Updated: 2026-03-30T06:02:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-30T21:32:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 42440.244)
-- **SEO** (점수: 36389.404)
-- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SNS 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -23,11 +23,11 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 42440.244)
-- **SEO** (점수: 36389.404)
-- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: SALES 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -44,11 +44,11 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 42440.244)
-- **SEO** (점수: 36389.404)
-- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: BLOG 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -65,11 +65,11 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 42440.244)
-- **SEO** (점수: 36389.404)
-- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
+- **productivity tips** (점수: 23.195)
+- **AI automation** (점수: 4.876)
+- **AEO** (점수: 4.876)
 
 **메타 설명**: VIDEO 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -86,11 +86,11 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 36904.56)
-- **SEO** (점수: 31642.96)
-- **AI automation** (점수: 13491.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
+- **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EBOOK 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -107,11 +107,11 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 36904.56)
-- **SEO** (점수: 31642.96)
-- **AI automation** (점수: 13491.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
+- **productivity tips** (점수: 20.17)
+- **AI automation** (점수: 4.24)
+- **AEO** (점수: 4.24)
 
 **메타 설명**: EDU 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -128,11 +128,11 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 35059.332)
-- **SEO** (점수: 30060.812)
-- **AI automation** (점수: 12817.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
+- **productivity tips** (점수: 19.162)
+- **AI automation** (점수: 4.028)
+- **AEO** (점수: 4.028)
 
 **메타 설명**: PUBLIC 모드 최신 트렌드 반영. 핵심 키워드와 실행 가능한 전략으로 즉시 활용 가능합니다.
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Curious Case of Retro Demo Scene Graphics](https://www.datagubbe.se/aipixels/)
-- [HD Audio Driver for Windows 98SE / Me](https://github.com/andrew-hoffman/wdmhda)
-- [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
-- [Copilot Edited an Ad into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
-- [New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
-- [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
-- [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
-- [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
-- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
-- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+- [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
+- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
+- [America Is Now a Rogue Superpower](https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/)
+- [Car Seats as Contraception](https://www.journals.uchicago.edu/doi/abs/10.1086/731812)
+- [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
+- [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+- [Vulnerability research is cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
+- [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
+- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
+- [Recover Apple Keychain](https://arkoinad.com/posts/apple_keychain_recovery.html)
 
-*마지막 업데이트: 2026-03-30T06:02:42Z*
+*마지막 업데이트: 2026-03-30T21:32:05Z*
