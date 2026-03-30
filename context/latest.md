@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-29T21:24:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-30T06:02:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **productivity** (점수: 42520.744)
-- **SEO** (점수: 36387.564)
-- **AI automation** (점수: 15686.644)
+- **productivity** (점수: 42440.244)
+- **SEO** (점수: 36389.404)
+- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **productivity** (점수: 42520.744)
-- **SEO** (점수: 36387.564)
-- **AI automation** (점수: 15686.644)
+- **productivity** (점수: 42440.244)
+- **SEO** (점수: 36389.404)
+- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **productivity** (점수: 42520.744)
-- **SEO** (점수: 36387.564)
-- **AI automation** (점수: 15686.644)
+- **productivity** (점수: 42440.244)
+- **SEO** (점수: 36389.404)
+- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **productivity** (점수: 42520.744)
-- **SEO** (점수: 36387.564)
-- **AI automation** (점수: 15686.644)
+- **productivity** (점수: 42440.244)
+- **SEO** (점수: 36389.404)
+- **AI automation** (점수: 15515.524)
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **productivity** (점수: 36974.56)
-- **SEO** (점수: 31641.36)
-- **AI automation** (점수: 13640.56)
+- **productivity** (점수: 36904.56)
+- **SEO** (점수: 31642.96)
+- **AI automation** (점수: 13491.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **productivity** (점수: 36974.56)
-- **SEO** (점수: 31641.36)
-- **AI automation** (점수: 13640.56)
+- **productivity** (점수: 36904.56)
+- **SEO** (점수: 31642.96)
+- **AI automation** (점수: 13491.76)
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **productivity** (점수: 35125.832)
-- **SEO** (점수: 30059.292)
-- **AI automation** (점수: 12958.532)
+- **productivity** (점수: 35059.332)
+- **SEO** (점수: 30060.812)
+- **AI automation** (점수: 12817.172)
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [What category theory teaches us about dataframes](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
-- [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
-- [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
+- [The Curious Case of Retro Demo Scene Graphics](https://www.datagubbe.se/aipixels/)
+- [HD Audio Driver for Windows 98SE / Me](https://github.com/andrew-hoffman/wdmhda)
+- [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
+- [Copilot Edited an Ad into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+- [New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
+- [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
+- [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
+- [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
+- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
-- [More on Version Control](https://bramcohen.com/p/more-on-version-control)
-- [My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix](https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/)
-- [Kyushu Railway Company Train Varieties](https://www.jrkyushu.co.jp/english/train/index.html)
-- [Show HN: I made a "programming language" looking for feedback](https://github.com/alonsovm44/glupe)
-- [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
-- [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
 
-*마지막 업데이트: 2026-03-29T21:24:12Z*
+*마지막 업데이트: 2026-03-30T06:02:42Z*
