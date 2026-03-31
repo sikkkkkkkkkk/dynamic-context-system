@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-30T21:32:05Z -->
+<!-- Dynamic Context Block | Updated: 2026-03-31T05:47:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -24,8 +24,8 @@
 
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -45,8 +45,8 @@
 
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -66,8 +66,8 @@
 
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -87,8 +87,8 @@
 
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -108,8 +108,8 @@
 
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -129,8 +129,8 @@
 
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [What we learned building 100 API integrations with OpenCode](https://nango.dev/blog/learned-building-200-api-integrations-with-opencode/)
-- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
-- [America Is Now a Rogue Superpower](https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/)
-- [Car Seats as Contraception](https://www.journals.uchicago.edu/doi/abs/10.1086/731812)
-- [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
-- [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
-- [Vulnerability research is cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
-- [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
-- [Recover Apple Keychain](https://arkoinad.com/posts/apple_keychain_recovery.html)
+- [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm)
+- [Sony halts memory card shipments due to NAND shortage](https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/)
+- [GitHub backs down, kills Copilot pull-request ads after backlash](https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/)
+- [Show HN: Will AI take my job](https://aijobsreport.org/quiz)
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
+- [Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
+- [Mr. Chatterbox is a Victorian-era ethically trained model](https://simonwillison.net/2026/Mar/30/mr-chatterbox/)
+- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
+- [Incident March 30th, 2026 – Accidental CDN Caching](https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching)
 
-*마지막 업데이트: 2026-03-30T21:32:05Z*
+*마지막 업데이트: 2026-03-31T05:47:35Z*
