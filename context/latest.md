@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-03-31T21:27:20Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-01T05:59:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -24,8 +24,8 @@
 
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -45,8 +45,8 @@
 
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -66,8 +66,8 @@
 
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 11.695)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -87,8 +87,8 @@
 
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -108,8 +108,8 @@
 
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 10.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -129,8 +129,8 @@
 
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 9.662)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
+- [Analyzing Geekbench 6 under Intel's BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
+- [We intercepted the White House app's network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
+- [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
+- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
+- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
 - [Ministack (Replacement for LocalStack)](https://ministack.org/)
-- [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
-- [OpenAI raises $122B](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
-- [Super Micro Computer Investors Look for Exits](https://catenaa.com/markets/equities/super-micro-computer-investors-look-for-exits/)
+- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
-- [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
-- [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
-- [Show HN: Postgres extension for BM25 relevance-ranked full-text search](https://github.com/timescale/pg_textsearch)
-- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
-- [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner)
 
-*마지막 업데이트: 2026-03-31T21:27:20Z*
+*마지막 업데이트: 2026-04-01T05:59:36Z*
