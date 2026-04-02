@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-01T21:32:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-02T05:44:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker)
-- [The Anti-Intellectualism of Silicon Valley Elites](https://www.elizabethspiers.com/the-anti-intellectualism-of-silicon-valley-elites/)
-- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
-- [Jax's true calling: Ray-Marching renderers on WebGL](https://benoit.paris/posts/jax-ray-marcher/)
-- [Scientists crack a 20-year nuclear mystery behind the creation of gold](https://www.sciencedaily.com/releases/2026/03/260313002633.htm)
-- [SpaceX confidentially files to go public at $1.75T, reports say](https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market)
-- [Apple at 50](https://www.apple.com/)
-- [Unsubscribe from the Church of Graphs](https://www.adorableandharmless.com/p/unsubscribe-from-the-church-of-graphs)
-- [The AI Marketing BS Index](https://bastian.rieck.me/blog/2026/bs/)
-- [Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM](https://flight-viz.com)
+- [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
+- [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
+- [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
+- [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
+- [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
+- [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
+- [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
+- [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
+- [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
+- [Weather.com/Retro](https://weather.com/retro/)
 
-*마지막 업데이트: 2026-04-01T21:32:07Z*
+*마지막 업데이트: 2026-04-02T05:44:40Z*
