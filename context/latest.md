@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-02T05:44:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-02T21:26:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/)
-- [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
-- [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
-- [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
-- [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
-- [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
-- [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
-- [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
-- [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
-- [Weather.com/Retro](https://weather.com/retro/)
+- [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
+- [Amazon to add 3.5% fuel and logistics surcharge as Iran war raises energy prices](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
+- [Australia to crack down on gambling ads after years of criticism](https://www.bbc.com/news/articles/c62492e925lo)
+- [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
+- [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+- [Hugo's New CSS Powers](https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/)
+- [Yggdrasil Network](https://yggdrasil-network.github.io/)
+- [Cursor 3](https://cursor.com/blog/cursor-3)
+- [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html)
+- [OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)
 
-*마지막 업데이트: 2026-04-02T05:44:40Z*
+*마지막 업데이트: 2026-04-02T21:26:18Z*
