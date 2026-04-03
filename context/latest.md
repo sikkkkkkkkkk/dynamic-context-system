@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-03T05:44:50Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-03T21:22:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
-- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
-- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
-- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
-- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
-- [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
-- [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
-- [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
-- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
-- [Cursor 3](https://cursor.com/blog/cursor-3)
+- [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
+- [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
+- [Automatic Textbook Formalization](https://github.com/facebookresearch/repoprover)
+- [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
+- [Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment](https://ismcpdead.com)
+- [PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free](https://injecguard.github.io/)
+- [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
+- [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
+- [Update on the eBay Scam](https://kevquirk.com/update-on-the-ebay-scam)
+- [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
 
-*마지막 업데이트: 2026-04-03T05:44:50Z*
+*마지막 업데이트: 2026-04-03T21:22:36Z*
