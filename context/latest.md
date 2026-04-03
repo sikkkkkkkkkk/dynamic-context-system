@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-02T21:26:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-03T05:44:50Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
+- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
+- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
+- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
+- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
+- [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
 - [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
-- [Amazon to add 3.5% fuel and logistics surcharge as Iran war raises energy prices](https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html)
-- [Australia to crack down on gambling ads after years of criticism](https://www.bbc.com/news/articles/c62492e925lo)
 - [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
-- [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
-- [Hugo's New CSS Powers](https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/)
-- [Yggdrasil Network](https://yggdrasil-network.github.io/)
+- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
 - [Cursor 3](https://cursor.com/blog/cursor-3)
-- [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html)
-- [OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)
 
-*마지막 업데이트: 2026-04-02T21:26:18Z*
+*마지막 업데이트: 2026-04-03T05:44:50Z*
