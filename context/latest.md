@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-04T05:23:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-04T21:20:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
-- [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
-- [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
-- [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
-- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
-- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
-- [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
-- [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
-- [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
-- [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
+- [Student Debt Burdened Them, So They Moved Abroad and Stopped Paying](https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html)
+- [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+- [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
+- [Sopwith – 1984 Game (2000)](http://www.sopwith.org/)
+- [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
+- [Plague Ships (2020)](https://www.afloat.com.au/feature/plague-ships/)
+- [IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf]](https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf)
+- [Why the most valuable things you know are things you cannot say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
+- [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)
 
-*마지막 업데이트: 2026-04-04T05:23:52Z*
+*마지막 업데이트: 2026-04-04T21:20:51Z*
