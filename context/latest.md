@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-03T21:22:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-04T05:23:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
+- [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
+- [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
+- [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
+- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
+- [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
+- [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 - [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
 - [Oracle Files H-1B Visa Petitions Amid Mass Layoffs](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)
-- [Automatic Textbook Formalization](https://github.com/facebookresearch/repoprover)
-- [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
-- [Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment](https://ismcpdead.com)
-- [PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free](https://injecguard.github.io/)
-- [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
-- [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
-- [Update on the eBay Scam](https://kevquirk.com/update-on-the-ebay-scam)
-- [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
 
-*마지막 업데이트: 2026-04-03T21:22:36Z*
+*마지막 업데이트: 2026-04-04T05:23:52Z*
