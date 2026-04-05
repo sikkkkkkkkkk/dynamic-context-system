@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-04T21:20:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-05T05:47:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Student Debt Burdened Them, So They Moved Abroad and Stopped Paying](https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html)
-- [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
-- [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
-- [Sopwith – 1984 Game (2000)](http://www.sopwith.org/)
-- [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
-- [Plague Ships (2020)](https://www.afloat.com.au/feature/plague-ships/)
-- [IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf]](https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf)
-- [Why the most valuable things you know are things you cannot say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)
-- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
-- [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)
+- [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/)
+- [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
+- [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
+- [Writing Lisp is AI resistant and I'm sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
+- [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
+- [AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
+- [Advice to young people, the lies I tell myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
+- [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
+- [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)
 
-*마지막 업데이트: 2026-04-04T21:20:51Z*
+*마지막 업데이트: 2026-04-05T05:47:52Z*
