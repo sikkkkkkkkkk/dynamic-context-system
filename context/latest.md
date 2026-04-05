@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-05T05:47:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-05T21:20:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/)
-- [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
-- [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
-- [Writing Lisp is AI resistant and I'm sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
-- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
-- [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
-- [AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
-- [Advice to young people, the lies I tell myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
-- [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
-- [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/)
+- [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
+- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+- [LibreOffice – Let's put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
+- [Music for Programming](https://musicforprogramming.net)
+- [Microsoft Hasn't Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
+- [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
+- [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
+- [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)
+- [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
+- [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
 
-*마지막 업데이트: 2026-04-05T05:47:52Z*
+*마지막 업데이트: 2026-04-05T21:20:59Z*
