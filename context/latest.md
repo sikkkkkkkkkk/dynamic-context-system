@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-05T21:20:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-06T06:03:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
-- [LibreOffice – Let's put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
-- [Music for Programming](https://musicforprogramming.net)
-- [Microsoft Hasn't Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
-- [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
-- [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
-- [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)
-- [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
-- [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
+- [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
+- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
+- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+- [The 1987 game "The Last Ninja" was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
+- [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
+- [We replaced Node.js with Bun for 5x throughput](https://trigger.dev/blog/firebun)
+- [Usenet Archives](https://usenetarchives.com)
+- [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
 
-*마지막 업데이트: 2026-04-05T21:20:59Z*
+*마지막 업데이트: 2026-04-06T06:03:05Z*
