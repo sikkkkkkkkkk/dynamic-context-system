@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-06T06:03:05Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-06T21:27:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
-- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
-- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
-- [The 1987 game "The Last Ninja" was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
-- [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
-- [We replaced Node.js with Bun for 5x throughput](https://trigger.dev/blog/firebun)
-- [Usenet Archives](https://usenetarchives.com)
-- [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
-- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
+- [HackerRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=47667011)
+- [Root Persistence via macOS Recovery Mode Safari](https://yaseenghanem.com/recovery-unrestricted-write-access/)
+- [A macOS bug that causes TCP networking to stop working after 49.7 days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
+- [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+- [Wikipedia's AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+- [Agent Reading Test](https://agentreadingtest.com)
+- [SOM: A minimal Smalltalk for teaching of and research on Virtual Machines](http://som-st.github.io/)
+- [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
+- [The cult of vibe coding is dogfooding run amok](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+- [Intelligent people are better judges of the intelligence of others](https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/)
 
-*마지막 업데이트: 2026-04-06T06:03:05Z*
+*마지막 업데이트: 2026-04-06T21:27:58Z*
