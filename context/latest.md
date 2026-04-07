@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-07T05:49:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-07T21:33:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Dear Heroku: Uhh What's Going On?](https://judoscale.com/blog/heroku-whats-going-on)
-- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
-- [After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
-- [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
-- [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-- [Peptides: where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin)
-- [HackerRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=47667011)
-- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
-- [Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting](https://github.com/4RH1T3CT0R7/ttf-doom)
-- [Agent Reading Test](https://agentreadingtest.com)
+- [Bitcoin and Quantum Computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+- [Anthropic's Project Glasswing sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/)
+- [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
+- [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+- [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
+- [Tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
+- [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
+- [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
+- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+- [Cambodia unveils a statue of famous landmine-sniffing rat Magawa](https://www.bbc.com/news/articles/c0rx7xzd10xo)
 
-*마지막 업데이트: 2026-04-07T05:49:59Z*
+*마지막 업데이트: 2026-04-07T21:33:37Z*
