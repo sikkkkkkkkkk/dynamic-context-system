@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-06T21:27:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-07T05:49:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Dear Heroku: Uhh What's Going On?](https://judoscale.com/blog/heroku-whats-going-on)
+- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
+- [After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
+- [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
+- [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
+- [Peptides: where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin)
 - [HackerRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=47667011)
-- [Root Persistence via macOS Recovery Mode Safari](https://yaseenghanem.com/recovery-unrestricted-write-access/)
-- [A macOS bug that causes TCP networking to stop working after 49.7 days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
-- [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
-- [Wikipedia's AI agent row likely just the beginning of the bot-ocalypse](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+- [Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting](https://github.com/4RH1T3CT0R7/ttf-doom)
 - [Agent Reading Test](https://agentreadingtest.com)
-- [SOM: A minimal Smalltalk for teaching of and research on Virtual Machines](http://som-st.github.io/)
-- [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
-- [The cult of vibe coding is dogfooding run amok](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
-- [Intelligent people are better judges of the intelligence of others](https://www.psypost.org/intelligent-people-are-better-judges-of-the-intelligence-of-others/)
 
-*마지막 업데이트: 2026-04-06T21:27:58Z*
+*마지막 업데이트: 2026-04-07T05:49:59Z*
