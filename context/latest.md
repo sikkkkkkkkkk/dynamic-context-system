@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-08T05:51:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-08T21:32:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
-- [LLM scraper bots are overloading acme.com's HTTPS server](http://acme.com/updates/archive/229.html)
-- [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
-- [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
-- [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
-- [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
-- [Show HN: An interactive map of Tolkien's Middle-earth](https://middle-earth-interactive-map.web.app/)
-- [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
-- [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
-- [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
+- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+- [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
+- [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
+- [I've been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
+- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
+- [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
+- [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
+- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
+- [Microsoft terminates VeraCrypt account, halting Windows updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
+- [Show HN: Go-Bt: Minimalist Behavior Trees for Go](https://github.com/rvitorper/go-bt)
 
-*마지막 업데이트: 2026-04-08T05:51:00Z*
+*마지막 업데이트: 2026-04-08T21:32:43Z*
