@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-08T21:32:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-09T05:52:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
+- [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+- [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
+- [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
 - [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
 - [I've been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
 - [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
-- [Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)
-- [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
-- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-- [Microsoft terminates VeraCrypt account, halting Windows updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
-- [Show HN: Go-Bt: Minimalist Behavior Trees for Go](https://github.com/rvitorper/go-bt)
 
-*마지막 업데이트: 2026-04-08T21:32:43Z*
+*마지막 업데이트: 2026-04-09T05:52:19Z*
