@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-09T05:52:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-09T21:37:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
-- [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
-- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
-- [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
-- [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
-- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
-- [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
-- [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
-- [I've been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
-- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net)
+- [Show HN: I built a weather site for the Eastern Caribbean](https://news.ycombinator.com/item?id=47709917)
+- [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
+- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
+- [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+- [Maine is about to become the first state to ban major new data centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
+- [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
+- [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
+- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
+- [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
 
-*마지막 업데이트: 2026-04-09T05:52:19Z*
+*마지막 업데이트: 2026-04-09T21:37:06Z*
