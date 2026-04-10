@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-09T21:37:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-10T06:03:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: I built a weather site for the Eastern Caribbean](https://news.ycombinator.com/item?id=47709917)
-- [Netflix Prices Went Up Again – I Bought a DVD Player Instead](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/)
-- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
-- [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID)
-- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
-- [Maine is about to become the first state to ban major new data centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
-- [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
-- [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
-- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
-- [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
+- [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
+- [The Raft Consensus Algorithm Explained Through "Mean Girls"](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
+- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
+- [Apple's New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
+- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
+- [Show HN: Rust based eBook library for Python, with MIT license](https://github.com/arc53/fast-ebook)
+- [Kagi Product Tips – Customize Your Search Results with URL Redirects](https://blog.kagi.com/tips/redirects)
+- [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
+- [Moving from WordPress to Jekyll (and static site generators in general)](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
 
-*마지막 업데이트: 2026-04-09T21:37:06Z*
+*마지막 업데이트: 2026-04-10T06:03:20Z*
