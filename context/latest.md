@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-10T06:03:20Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-10T21:26:13Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
-- [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
-- [The Raft Consensus Algorithm Explained Through "Mean Girls"](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
-- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
-- [Apple's New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
-- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor)
-- [Show HN: Rust based eBook library for Python, with MIT license](https://github.com/arc53/fast-ebook)
-- [Kagi Product Tips – Customize Your Search Results with URL Redirects](https://blog.kagi.com/tips/redirects)
-- [Microsoft is employing dark patterns to goad users into paying for storage?](https://lzon.ca/posts/other/microsoft-user-abuse/)
-- [Moving from WordPress to Jekyll (and static site generators in general)](https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/)
+- [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
+- [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
+- [DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)
+- [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
+- [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
+- [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
+- [I've Seen a Thousand OpenClaw Deploys. Here's the Truth](https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys)
+- [AI assistance when contributing to the Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+- [JSON Formatter Chrome Plugin Now Closed and Injecting Adware](https://github.com/callumlocke/json-formatter)
 
-*마지막 업데이트: 2026-04-10T06:03:20Z*
+*마지막 업데이트: 2026-04-10T21:26:13Z*
