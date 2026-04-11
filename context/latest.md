@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-11T05:35:47Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-11T21:22:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
-- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-- [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
-- [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
-- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
-- [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
-- [Nowhere is safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
-- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
-- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
-- [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
+- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
+- [Dark Castle](https://darkcastle.co.uk/)
+- [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
+- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+- [One neat trick to end extreme poverty](https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty)
+- [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+- [The APL programming language source code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
+- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+- [Phone Trips](http://www.wideweb.com/phonetrips/)
 
-*마지막 업데이트: 2026-04-11T05:35:47Z*
+*마지막 업데이트: 2026-04-11T21:22:03Z*
