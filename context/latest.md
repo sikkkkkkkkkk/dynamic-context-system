@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-10T21:26:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-11T05:35:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
-- [DOJ Top Antitrust Litigators Exit After Ticketmaster Accord](https://www.bloomberg.com/news/articles/2026-04-08/doj-top-antitrust-litigators-exit-after-ticketmaster-settlement)
-- [DOJ Wants to Scrap Watergate-Era Rule That Makes Presidential Records Public](https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/)
-- [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
+- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+- [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
+- [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
+- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+- [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension)
+- [Nowhere is safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
+- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
 - [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
-- [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
 - [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
-- [I've Seen a Thousand OpenClaw Deploys. Here's the Truth](https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys)
-- [AI assistance when contributing to the Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
-- [JSON Formatter Chrome Plugin Now Closed and Injecting Adware](https://github.com/callumlocke/json-formatter)
 
-*마지막 업데이트: 2026-04-10T21:26:13Z*
+*마지막 업데이트: 2026-04-11T05:35:47Z*
