@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-12T05:58:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-12T21:23:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
-- [US – Iran negotiations end with no deal reached](https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan)
-- [The Brainrot Industrial Complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
-- [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)
-- [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
-- [Building a Z-Machine in the worst possible language – Whitebeard's Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
-- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
-- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
-- [Software Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
-- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
+- [Hungary's Orban concedes landmark defeat to centre-right opposition](https://www.reuters.com/world/europe/hungarians-vote-landmark-election-closely-watched-by-eu-russia-us-2026-04-11/)
+- [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+- [European AI. A playbook to own it](https://europe.mistral.ai/)
+- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
+- [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
+- [Apple has removed most of the towns and villages in Lebanon from Apple maps?](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193)
+- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband)
+- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
 
-*마지막 업데이트: 2026-04-12T05:58:40Z*
+*마지막 업데이트: 2026-04-12T21:23:08Z*
