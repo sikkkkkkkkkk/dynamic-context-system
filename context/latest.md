@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-11T21:22:03Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-12T05:58:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
-- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
-- [Dark Castle](https://darkcastle.co.uk/)
-- [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
-- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
-- [One neat trick to end extreme poverty](https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty)
-- [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
-- [The APL programming language source code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
-- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
-- [Phone Trips](http://www.wideweb.com/phonetrips/)
+- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
+- [US – Iran negotiations end with no deal reached](https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan)
+- [The Brainrot Industrial Complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
+- [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)
+- [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
+- [Building a Z-Machine in the worst possible language – Whitebeard's Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
+- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
+- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+- [Software Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
+- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
 
-*마지막 업데이트: 2026-04-11T21:22:03Z*
+*마지막 업데이트: 2026-04-12T05:58:40Z*
