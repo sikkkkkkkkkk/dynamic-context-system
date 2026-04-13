@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-12T21:23:08Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-13T06:21:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hungary's Orban concedes landmark defeat to centre-right opposition](https://www.reuters.com/world/europe/hungarians-vote-landmark-election-closely-watched-by-eu-russia-us-2026-04-11/)
+- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
+- [Apple's accidental moat: How the "AI Loser" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+- [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
+- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
+- [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
 - [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
-- [European AI. A playbook to own it](https://europe.mistral.ai/)
 - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
-- [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
-- [Apple has removed most of the towns and villages in Lebanon from Apple maps?](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193)
-- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
-- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband)
-- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
+- [Zed, A sans for the needs of 21st century (2024)](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century)
 
-*마지막 업데이트: 2026-04-12T21:23:08Z*
+*마지막 업데이트: 2026-04-13T06:21:53Z*
