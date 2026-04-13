@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-13T06:21:53Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-13T21:37:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
-- [Apple's accidental moat: How the "AI Loser" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
-- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
-- [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
-- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
-- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
-- [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
-- [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
-- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
-- [Zed, A sans for the needs of 21st century (2024)](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century)
+- [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+- [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+- [Ascending into the Realm of Japanese Charts](https://www.chartography.net/p/ascending-into-the-realm-of-japanese)
+- [Just Enough Chimera Linux](https://www.dwarmstrong.org/chimera-install-zfs/)
+- [(AMD) Build AI Agents That Run Locally](https://amd-gaia.ai/docs)
+- [The looming college-enrollment death spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
+- [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
+- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
+- [Visualizing CPU Pipelining (2024)](https://timmastny.com/blog/visualizing-cpu-pipelining/)
+- [In Denmark, the spread of solar panels has become a divisive issue](https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections)
 
-*마지막 업데이트: 2026-04-13T06:21:53Z*
+*마지막 업데이트: 2026-04-13T21:37:51Z*
