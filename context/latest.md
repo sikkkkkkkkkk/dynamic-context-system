@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-13T21:37:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-14T06:04:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Stanford report highlights growing disconnect between AI insiders and everyone](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
-- [GitHub Stacked PRs](https://github.github.com/gh-stack/)
-- [Ascending into the Realm of Japanese Charts](https://www.chartography.net/p/ascending-into-the-realm-of-japanese)
-- [Just Enough Chimera Linux](https://www.dwarmstrong.org/chimera-install-zfs/)
-- [(AMD) Build AI Agents That Run Locally](https://amd-gaia.ai/docs)
-- [The looming college-enrollment death spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
-- [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
-- [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
-- [Visualizing CPU Pipelining (2024)](https://timmastny.com/blog/visualizing-cpu-pipelining/)
-- [In Denmark, the spread of solar panels has become a divisive issue](https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections)
+- [UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)
+- [TanStack Start Now Support React Server Components](https://tanstack.com/blog/react-server-components)
+- [Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+- [Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
+- [A new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
+- [Sometimes powerful people just do dumb shit](https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/)
+- [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- [SnapState - Persistent state for AI agent workflows](https://snapstate.dev)
+- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
 
-*마지막 업데이트: 2026-04-13T21:37:51Z*
+*마지막 업데이트: 2026-04-14T06:04:59Z*
