@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-14T21:40:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-15T06:04:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
+- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
+- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
+- [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
+- [Don't feel like exercising? Maybe it's the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o)
+- [Stop Flock](https://stopflock.com)
 - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
-- [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
-- [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
 - [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
 - [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
 - [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
-- [Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain)
-- [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
-- [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)
-- [Claude Code Routines](https://code.claude.com/docs/en/routines)
 
-*마지막 업데이트: 2026-04-14T21:40:36Z*
+*마지막 업데이트: 2026-04-15T06:04:43Z*
