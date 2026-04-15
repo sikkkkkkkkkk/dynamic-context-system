@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-15T06:04:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-15T21:40:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
-- [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
-- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
-- [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
-- [Don't feel like exercising? Maybe it's the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o)
-- [Stop Flock](https://stopflock.com)
-- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
-- [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
-- [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
-- [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
+- [Does Gas Town 'steal' usage from users' LLM credits to improve itself?](https://github.com/gastownhall/gastown/issues/3649)
+- [In the last 30 years, the number of public companies has been cut in half](https://twitter.com/ToddZywicki/status/2044167534681936085)
+- [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
+- [Why are Flock employees watching our children?](https://substack.com/home/post/p-193593234)
+- [Ask HN: Who is using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
+- [Live Nation illegally monopolized ticketing market, jury finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
+- [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
+- [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
+- [The Gemini app is now on Mac](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/)
+- [Adaptional (YC S25) is hiring AI engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
 
-*마지막 업데이트: 2026-04-15T06:04:43Z*
+*마지막 업데이트: 2026-04-15T21:40:52Z*
