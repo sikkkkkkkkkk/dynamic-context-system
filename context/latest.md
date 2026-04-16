@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-15T21:40:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-16T06:07:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Does Gas Town 'steal' usage from users' LLM credits to improve itself?](https://github.com/gastownhall/gastown/issues/3649)
-- [In the last 30 years, the number of public companies has been cut in half](https://twitter.com/ToddZywicki/status/2044167534681936085)
-- [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README)
-- [Why are Flock employees watching our children?](https://substack.com/home/post/p-193593234)
-- [Ask HN: Who is using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
-- [Live Nation illegally monopolized ticketing market, jury finds](https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds)
-- [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases)
-- [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)
-- [The Gemini app is now on Mac](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/)
-- [Adaptional (YC S25) is hiring AI engineers](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer)
+- [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
+- [Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)
+- [Airbnb discloses a billion-series Prometheus metrics pipeline](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
+- [A Look into NaviDial, Japan's Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
+- [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
+- [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
+- [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
+- [North American English Dialects](https://aschmann.net/AmEng/)
+- [Stop Using Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
+- [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
 
-*마지막 업데이트: 2026-04-15T21:40:52Z*
+*마지막 업데이트: 2026-04-16T06:07:52Z*
