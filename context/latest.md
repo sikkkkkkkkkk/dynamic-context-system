@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-16T06:07:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-16T21:33:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html)
-- [Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)
-- [Airbnb discloses a billion-series Prometheus metrics pipeline](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
-- [A Look into NaviDial, Japan's Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
-- [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
-- [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
-- [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
-- [North American English Dialects](https://aschmann.net/AmEng/)
-- [Stop Using Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
-- [Show HN: Hiraeth – AWS Emulator](https://github.com/SethPyle376/hiraeth)
+- [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+- [The Beginning of Scarcity in AI](https://tomtunguz.com/ai-compute-crisis-2026/)
+- [The "Passive Income" trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/)
+- [European civil servants are being forced off WhatsApp](https://www.politico.eu/article/european-civil-servants-new-messaging-services/)
+- [GPT‑Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind/)
+- [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
+- [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
+- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
+- [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
+- [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 
-*마지막 업데이트: 2026-04-16T06:07:52Z*
+*마지막 업데이트: 2026-04-16T21:33:15Z*
