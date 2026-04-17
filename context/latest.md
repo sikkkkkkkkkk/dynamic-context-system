@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-17T06:08:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-17T21:31:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day)
-- [Human Accelerated Region 1](https://en.wikipedia.org/wiki/Human_accelerated_region_1)
-- [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
-- [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer)
-- [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
-- [Show HN: SPICE simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
-- [Everything we like is a psyop?](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
-- [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
-- [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
-- [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+- [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
+- [Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD](https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/)
+- [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
+- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
+- [Random musings: 80s hardware, cyberdecks](https://strangelyentangled.com/blog/musings-80s-hardware/)
+- [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
+- [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
+- [I'm spending 3 months coding the old way](https://miguelconner.substack.com/p/im-coding-by-hand)
+- [Detecting DOSBox from Within the Box](https://datagirl.xyz/posts/dos_inside_the_box.html)
+- [NASA Force](https://nasaforce.gov/)
 
-*마지막 업데이트: 2026-04-17T06:08:09Z*
+*마지막 업데이트: 2026-04-17T21:31:44Z*
