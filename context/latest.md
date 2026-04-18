@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-18T05:44:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-18T21:23:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
-- [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
-- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
-- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
-- [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
-- ["cat readme.txt" is not safe if you use iTerm2](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
-- [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
-- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
-- [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
-- [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
+- [Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+- [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
+- [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+- [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
+- [Graphs that explain the state of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)
+- [UpCodes (YC S17) is hiring SDRs to help make construction more productive](https://up.codes/careers?utm_source=HN)
+- [PgQue: Zero-Bloat Postgres Queue](https://github.com/NikolayS/pgque)
+- [The USDA's gardening zones have shifted. (Interactive app and map) (2024)](https://apps.npr.org/plant-hardiness-garden-map/)
+- [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
+- [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard)
 
-*마지막 업데이트: 2026-04-18T05:44:36Z*
+*마지막 업데이트: 2026-04-18T21:23:26Z*
