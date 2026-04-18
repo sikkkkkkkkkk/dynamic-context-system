@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-17T21:31:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-18T05:44:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
+- [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
+- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
+- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
-- [Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD](https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/)
+- ["cat readme.txt" is not safe if you use iTerm2](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
 - [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
 - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
-- [Random musings: 80s hardware, cyberdecks](https://strangelyentangled.com/blog/musings-80s-hardware/)
 - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
 - [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/)
-- [I'm spending 3 months coding the old way](https://miguelconner.substack.com/p/im-coding-by-hand)
-- [Detecting DOSBox from Within the Box](https://datagirl.xyz/posts/dos_inside_the_box.html)
-- [NASA Force](https://nasaforce.gov/)
 
-*마지막 업데이트: 2026-04-17T21:31:44Z*
+*마지막 업데이트: 2026-04-18T05:44:36Z*
