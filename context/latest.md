@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-18T21:23:26Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-19T06:03:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+- [Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment](https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/)
+- [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
+- [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
+- [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/)
+- [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+- [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
 - [Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
 - [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
-- [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
-- [Graphs that explain the state of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026)
 - [UpCodes (YC S17) is hiring SDRs to help make construction more productive](https://up.codes/careers?utm_source=HN)
-- [PgQue: Zero-Bloat Postgres Queue](https://github.com/NikolayS/pgque)
-- [The USDA's gardening zones have shifted. (Interactive app and map) (2024)](https://apps.npr.org/plant-hardiness-garden-map/)
 - [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
-- [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard)
 
-*마지막 업데이트: 2026-04-18T21:23:26Z*
+*마지막 업데이트: 2026-04-19T06:03:29Z*
