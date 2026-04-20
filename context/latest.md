@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-20T06:22:20Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-20T21:36:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm)
-- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)
-- [Show HN: A lightweight way to make agents talk without paying for API usage](https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/)
-- [Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon](https://github.com/shivampkumar/trellis-mac)
-- [Sudo for Windows (2024)](https://github.com/microsoft/sudo)
-- [Swiss AI Initiative (2023)](https://www.swiss-ai.org)
-- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
-- [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
-- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
-- [Scientific datasets are riddled with copy-paste errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
+- [Tim Cook to become Apple Executive Chairman](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+- [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
+- [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+- [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
+- [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
+- [We got 207 tok/s with Qwen3.5-27B on an RTX 3090](https://github.com/Luce-Org/lucebox-hub)
+- [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
+- [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
+- [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
+- [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 
-*마지막 업데이트: 2026-04-20T06:22:20Z*
+*마지막 업데이트: 2026-04-20T21:36:25Z*
