@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-19T21:24:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-20T06:22:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Swiss authorities want to reduce dependency on Microsoft](https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532)
-- [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/)
-- [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/)
+- [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm)
+- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)
+- [Show HN: A lightweight way to make agents talk without paying for API usage](https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/)
+- [Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon](https://github.com/shivampkumar/trellis-mac)
+- [Sudo for Windows (2024)](https://github.com/microsoft/sudo)
+- [Swiss AI Initiative (2023)](https://www.swiss-ai.org)
+- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
+- [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
 - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
-- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
-- [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
-- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
-- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-- [Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)](https://teamchong.github.io/turboquant-wasm/draw.html)
-- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
+- [Scientific datasets are riddled with copy-paste errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
 
-*마지막 업데이트: 2026-04-19T21:24:14Z*
+*마지막 업데이트: 2026-04-20T06:22:20Z*
