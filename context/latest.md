@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-20T21:36:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-21T06:07:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Tim Cook to become Apple Executive Chairman](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
-- [Tim Cook Stepping Down](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/)
-- [AI Resistance Is Growing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
-- [F-35 is a masterpiece built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
+- [The Beauty of Bonsai Styles](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)
+- [A Roblox cheat and one AI tool brought down Vercel's platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+- [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)
+- [Prediction markets are breaking the news and becoming their own beat](https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/)
+- [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
+- [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
+- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+- [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 - [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
-- [We got 207 tok/s with Qwen3.5-27B on an RTX 3090](https://github.com/Luce-Org/lucebox-hub)
-- [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
-- [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
-- [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
-- [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 
-*마지막 업데이트: 2026-04-20T21:36:25Z*
+*마지막 업데이트: 2026-04-21T06:07:54Z*
