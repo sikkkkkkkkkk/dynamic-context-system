@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-21T06:07:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-21T21:35:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Beauty of Bonsai Styles](https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles)
-- [A Roblox cheat and one AI tool brought down Vercel's platform](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
-- [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)
-- [Prediction markets are breaking the news and becoming their own beat](https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/)
-- [How to make a fast dynamic language interpreter](https://zef-lang.dev/implementation)
-- [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
-- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
-- [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
-- [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
-- [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
+- [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
+- [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
+- [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
+- [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
+- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
+- [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
+- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
+- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
+- [Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)](https://github.com/Arc1011/KernelUNO)
+- [Trellis AI (YC W24) Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
 
-*마지막 업데이트: 2026-04-21T06:07:54Z*
+*마지막 업데이트: 2026-04-21T21:35:51Z*
