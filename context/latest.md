@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-21T21:35:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-22T06:04:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [California has more money than projected after admin miscalculated state budget](https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376)
-- [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
-- [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
+- [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
+- [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
+- [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
+- [Drunk post: Things I've learned as a senior engineer (2021)](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
+- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+- [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
+- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 - [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
 - [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
-- [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
-- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
-- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
-- [Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)](https://github.com/Arc1011/KernelUNO)
-- [Trellis AI (YC W24) Is hiring engineers to build self-improving agents](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time)
+- [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
-*마지막 업데이트: 2026-04-21T21:35:51Z*
+*마지막 업데이트: 2026-04-22T06:04:53Z*
