@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-22T06:04:53Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-22T21:40:41Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
-- [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
-- [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)
-- [Drunk post: Things I've learned as a senior engineer (2021)](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
-- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
-- [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
-- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
-- [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
-- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
-- [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+- [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
+- [Olive CSS: Lisp powered vanilla CSS utility-Class A la Tailwind](https://codeberg.org/jjba23/olive-css)
+- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+- [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
+- [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
+- [Website streamed live directly from a model](https://flipbook.page/)
+- [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/)
+- [Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)
+- [Parallel Agents in Zed](https://zed.dev/blog/parallel-agents)
+- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 
-*마지막 업데이트: 2026-04-22T06:04:53Z*
+*마지막 업데이트: 2026-04-22T21:40:41Z*
