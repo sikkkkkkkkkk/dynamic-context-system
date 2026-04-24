@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-24T06:15:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-24T21:37:24Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
-- [Ubuntu 26.04](https://lwn.net/Articles/1069399/)
-- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
-- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
-- [DeepSeek v4](https://api-docs.deepseek.com/)
-- [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
-- [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
-- [US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade)
-- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
-- [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
+- [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+- [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
+- [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
+- [Show HN: HNswered – watches for replies to your Hacker News posts and comments](https://github.com/adam-s/HNswered)
+- [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
+- [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+- [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
+- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
+- [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
 
-*마지막 업데이트: 2026-04-24T06:15:44Z*
+*마지막 업데이트: 2026-04-24T21:37:24Z*
