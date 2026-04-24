@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-23T21:36:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-24T06:15:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
+- [Ubuntu 26.04](https://lwn.net/Articles/1069399/)
+- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8)
+- [A quick look at Mythos run on Firefox: too much hype?](https://xark.es/b/mythos-firefox-150)
+- [DeepSeek v4](https://api-docs.deepseek.com/)
+- [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+- [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
+- [US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade)
+- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
 - [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
-- [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
-- [Meta to cut 10% of jobs](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
-- [Astronomers find the edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/)
-- [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
-- [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
-- [Palantir employees are starting to wonder if they're the bad guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
-- [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split)
-- [My phone replaced a brass plug](https://drobinin.com/posts/my-phone-replaced-a-brass-plug/)
-- [Incident with multple GitHub services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
 
-*마지막 업데이트: 2026-04-23T21:36:06Z*
+*마지막 업데이트: 2026-04-24T06:15:44Z*
