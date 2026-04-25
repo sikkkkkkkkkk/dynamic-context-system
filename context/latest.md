@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-25T05:52:20Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-25T21:26:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
-- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
-- [Show HN: VT Code – Rust TUI coding agent with multi-provider support](https://github.com/vinhnx/VTCode)
-- [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
-- [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
-- ["Plain text has been around for decades and it's here to stay." – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
-- [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
-- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
-- [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
-- [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
+- [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+- [Can you stop beans from making you gassy?](https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862)
+- [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
+- [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
+- [North American Millets Alliance(2023)](https://milletsalliance.org/)
+- [Mine, an IDE for Coalton and Common Lisp](https://coalton-lang.github.io/mine/)
+- [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
+- [Simulacrum of Knowledge Work](https://blog.happyfellow.dev/simulacrum-of-knowledge-work/)
+- [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
+- [GPT‑5.5 Bio Bug Bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
 
-*마지막 업데이트: 2026-04-25T05:52:20Z*
+*마지막 업데이트: 2026-04-25T21:26:30Z*
