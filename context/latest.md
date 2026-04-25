@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-24T21:37:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-25T05:52:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
-- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
-- [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
-- [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
-- [Show HN: HNswered – watches for replies to your Hacker News posts and comments](https://github.com/adam-s/HNswered)
-- [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
-- [SFO Quiet Airport (2025)](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
-- [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
-- [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
-- [CC-Canary: Detect early signs of regressions in Claude Code](https://github.com/delta-hq/cc-canary)
+- [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
+- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
+- [Show HN: VT Code – Rust TUI coding agent with multi-provider support](https://github.com/vinhnx/VTCode)
+- [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
+- [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
+- ["Plain text has been around for decades and it's here to stay." – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
+- [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md)
+- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins)
+- [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
+- [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
 
-*마지막 업데이트: 2026-04-24T21:37:24Z*
+*마지막 업데이트: 2026-04-25T05:52:20Z*
