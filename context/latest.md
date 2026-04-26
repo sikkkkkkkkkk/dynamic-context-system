@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-26T06:13:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-26T21:27:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/)
-- [My Homemade PBX (2002)](https://wandel.ca/homepage/pbx.html)
-- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
-- [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html)
-- [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
-- [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
-- [The Super Nintendo Cartridges (2024)](https://fabiensanglard.net/snes_carts/)
-- [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
-- [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
-- [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html)
+- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
+- [1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon](https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/)
+- [Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory)
+- [Sawe smashes two-hour mark to 'move goalposts for marathon running'](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
+- [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
+- [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+- [The 1944 Warsaw Uprising, in Color](https://www.barwypowstania.pl/)
+- [Show HN: Auge Vision from Your Terminal](https://auge.franzai.com/)
+- [Waymo says can't avoid bike lanes because riders want to be dropped off in them](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
+- [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
 
-*마지막 업데이트: 2026-04-26T06:13:42Z*
+*마지막 업데이트: 2026-04-26T21:27:35Z*
