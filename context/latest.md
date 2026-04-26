@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-25T21:26:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-26T06:13:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The AI Industry Is Discovering That the Public Hates It](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
-- [Can you stop beans from making you gassy?](https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862)
-- [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
-- [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
-- [North American Millets Alliance(2023)](https://milletsalliance.org/)
-- [Mine, an IDE for Coalton and Common Lisp](https://coalton-lang.github.io/mine/)
-- [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
-- [Simulacrum of Knowledge Work](https://blog.happyfellow.dev/simulacrum-of-knowledge-work/)
-- [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
-- [GPT‑5.5 Bio Bug Bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
+- [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/)
+- [My Homemade PBX (2002)](https://wandel.ca/homepage/pbx.html)
+- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
+- [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html)
+- [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
+- [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
+- [The Super Nintendo Cartridges (2024)](https://fabiensanglard.net/snes_carts/)
+- [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
+- [DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles](https://www.lmsys.org/blog/2026-04-25-deepseek-v4/)
+- [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html)
 
-*마지막 업데이트: 2026-04-25T21:26:30Z*
+*마지막 업데이트: 2026-04-26T06:13:42Z*
