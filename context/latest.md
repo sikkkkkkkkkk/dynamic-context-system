@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-26T21:27:35Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-27T06:34:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)
+- [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
+- [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
+- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)
+- [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
+- [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)
 - [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
-- [1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon](https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/)
-- [Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory)
-- [Sawe smashes two-hour mark to 'move goalposts for marathon running'](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
-- [Fast16: Cyberweapon that predates Stuxnet by five years](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
-- [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
-- [The 1944 Warsaw Uprising, in Color](https://www.barwypowstania.pl/)
-- [Show HN: Auge Vision from Your Terminal](https://auge.franzai.com/)
-- [Waymo says can't avoid bike lanes because riders want to be dropped off in them](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
-- [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
+- [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo)
+- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
+- [MoQ Boy](https://moq.dev/blog/moq-boy/)
 
-*마지막 업데이트: 2026-04-26T21:27:35Z*
+*마지막 업데이트: 2026-04-27T06:34:58Z*
