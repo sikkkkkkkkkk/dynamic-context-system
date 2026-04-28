@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-27T21:43:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-28T06:35:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
+- [Vibe Coding Will Break Your Company](https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/)
+- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
+- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
+- [High Performance Git](https://gitperf.com/)
+- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
+- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
 - [Is my blue your blue?](https://ismy.blue/)
-- [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
-- [U.S. companies back Sam Altman's World ID even as much of the world pushes back](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/)
-- [Our principles](https://openai.com/index/our-principles/)
-- [United Wizards of the Coast](https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa)
 - [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
 - [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
-- [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
-- [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
 
-*마지막 업데이트: 2026-04-27T21:43:58Z*
+*마지막 업데이트: 2026-04-28T06:35:56Z*
