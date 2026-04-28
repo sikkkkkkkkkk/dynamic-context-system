@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-28T06:35:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-28T21:48:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Vibe Coding Will Break Your Company](https://www.forbes.com/sites/jasonwingard/2026/04/23/vibe-coding-will-break-your-company/)
-- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
-- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift)
-- [High Performance Git](https://gitperf.com/)
-- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
-- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
-- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
-- [Is my blue your blue?](https://ismy.blue/)
-- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
-- [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+- [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
+- [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
+- [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
+- [CJIT: C, Just in Time](https://dyne.org/cjit/)
+- [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)
+- [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/)
+- [Claude.ai unavailable and elevated errors on the API](https://status.claude.com/incidents/9l93x2ht4s5w)
 
-*마지막 업데이트: 2026-04-28T06:35:56Z*
+*마지막 업데이트: 2026-04-28T21:48:59Z*
