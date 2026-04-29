@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-29T06:29:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-29T21:50:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
-- [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
-- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
-- [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
-- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
-- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
-- [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
-- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
-- [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [Alphabet Announces First Quarter 2026 Results](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx)
+- [Pentagon spending on drones jumps from $225M to $55B in one year](https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses)
+- [OpenTrafficMap](https://opentrafficmap.org/)
+- [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
+- [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
+- [Copy Fail – CVE-2026-31431](https://copy.fail/)
+- [Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)
+- [Laws of UX](https://lawsofux.com/)
+- [Virtualisation on Apple Silicon Macs is different](https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/)
+- [Maryland becomes first state to ban surveillance pricing in grocery stores](https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing)
 
-*마지막 업데이트: 2026-04-29T06:29:24Z*
+*마지막 업데이트: 2026-04-29T21:50:06Z*
