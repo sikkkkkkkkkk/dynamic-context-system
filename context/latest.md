@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-28T21:48:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-29T06:29:24Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
+- [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
+- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
+- [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
+- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
+- [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 - [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/)
-- [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/)
-- [Show HN: My friend and his AI homies wrote SGI Indy emulator in Rust](https://github.com/techomancer/iris)
 - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
-- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
-- [CJIT: C, Just in Time](https://dyne.org/cjit/)
-- [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)
-- [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/)
-- [Claude.ai unavailable and elevated errors on the API](https://status.claude.com/incidents/9l93x2ht4s5w)
 
-*마지막 업데이트: 2026-04-28T21:48:59Z*
+*마지막 업데이트: 2026-04-29T06:29:24Z*
