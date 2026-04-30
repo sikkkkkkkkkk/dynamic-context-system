@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-30T06:32:57Z -->
+<!-- Dynamic Context Block | Updated: 2026-04-30T21:44:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
-- [Lessons from Building an OTel Normalizer for GenAI](https://www.groundcover.com/blog/otel-normalizer-genai-part-1)
-- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
-- [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
-- [Functional programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
-- [The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
-- [A grounded conceptual model for ownership types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/)
-- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
-- [Joby kicks off NYC electric air taxi demos with historic JFK flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/)
+- [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
+- [Apple reports second quarter results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
+- [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
+- [The upsell game – Vercel upselling tactics revealed](https://theupsellgame.com/)
+- [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
+- [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
+- [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
+- [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
+- [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
+- [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/)
 
-*마지막 업데이트: 2026-04-30T06:32:57Z*
+*마지막 업데이트: 2026-04-30T21:44:40Z*
