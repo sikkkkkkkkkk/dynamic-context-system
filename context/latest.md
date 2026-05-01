@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-01T06:41:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-01T21:41:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
-- [OpenWarp](https://openwarp.zerx.dev)
-- [ClawIRC – IRC Chat for Agents](https://clawirc.com/)
-- [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
-- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
-- [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
-- [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
-- [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
-- [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
-- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
+- [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
+- [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny)
+- [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
+- [Ubuntu servers taken offline by "sustained, cross-border attack"](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
+- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
+- [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
+- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
+- [Show HN: AI CAD Harness](https://fusion.adam.new/install)
+- [Artemis II Fault Tolerance](https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/)
 
-*마지막 업데이트: 2026-05-01T06:41:18Z*
+*마지막 업데이트: 2026-05-01T21:41:27Z*
