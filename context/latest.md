@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-04-30T21:44:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-01T06:41:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
-- [Apple reports second quarter results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/)
-- [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
-- [The upsell game – Vercel upselling tactics revealed](https://theupsellgame.com/)
-- [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
-- [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
+- [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
+- [OpenWarp](https://openwarp.zerx.dev)
+- [ClawIRC – IRC Chat for Agents](https://clawirc.com/)
+- [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
+- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
+- [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
 - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
 - [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
 - [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html)
-- [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/)
+- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
 
-*마지막 업데이트: 2026-04-30T21:44:40Z*
+*마지막 업데이트: 2026-05-01T06:41:18Z*
