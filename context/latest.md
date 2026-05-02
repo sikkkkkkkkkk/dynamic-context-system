@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-02T06:14:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-02T21:29:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
-- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
-- [Ask.com has closed](https://www.ask.com/)
-- [K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)
-- [Create an MP4 video of a web page scrolling at a steady speed](https://github.com/upenn/web-scroll-video)
-- [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
-- [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/)
-- [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-- [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
+- [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
+- [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+- [Canonical Under Attack](https://status.canonical.com)
+- [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
+- [NetHack 5.0.0](https://nethack.org/v500/release.html)
+- [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)
+- [Do_not_track](https://donottrack.sh/)
+- [Dav2d](https://code.videolan.org/videolan/dav2d)
+- [Flue is a TypeScript framework for building the next generation of agents](https://flueframework.com/)
+- [Welcome to Hell Developer](https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/)
 
-*마지막 업데이트: 2026-05-02T06:14:44Z*
+*마지막 업데이트: 2026-05-02T21:29:28Z*
