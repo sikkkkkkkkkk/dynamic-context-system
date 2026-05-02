@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-01T21:41:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-02T06:14:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Credit cards are vulnerable to brute force attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+- [Ask.com has closed](https://www.ask.com/)
+- [K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)
+- [Create an MP4 video of a web page scrolling at a steady speed](https://github.com/upenn/web-scroll-video)
+- [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
+- [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/)
+- [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
 - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-- [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny)
 - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
-- [Ubuntu servers taken offline by "sustained, cross-border attack"](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
-- [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
-- [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
-- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
-- [Show HN: AI CAD Harness](https://fusion.adam.new/install)
-- [Artemis II Fault Tolerance](https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/)
 
-*마지막 업데이트: 2026-05-01T21:41:27Z*
+*마지막 업데이트: 2026-05-02T06:14:44Z*
