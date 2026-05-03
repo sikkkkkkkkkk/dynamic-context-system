@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-03T06:32:23Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-03T21:31:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Reality of Being a Man in Your 50s in South Korea](https://indignified.com/the-hidden-realities-of-midlife-masculinity-in-south-korea/)
-- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
-- [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
-- [Open source does not imply open community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
-- [Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels](https://www.newsonjapan.com/article/149075.php)
-- [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
-- [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
-- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
-- [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
-- [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
+- [Make Your Own Microforest](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
+- [Statue of a man blinded by a flag put up by Banksy in central London](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
+- [Why TUIs Are Back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
+- [Talking to Transformers](https://miraos.org/blog/2026/05/02/talking-to-transformers)
+- [Show HN: Ableton Live MCP](https://github.com/bschoepke/ableton-live-mcp)
+- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+- [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
+- [How far behind is each major Chromium browser?](https://chromium-drift.pages.dev/)
+- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
+- [Metal Gear Solid 2's source code has been leaked on 4chan](https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/)
 
-*마지막 업데이트: 2026-05-03T06:32:23Z*
+*마지막 업데이트: 2026-05-03T21:31:26Z*
