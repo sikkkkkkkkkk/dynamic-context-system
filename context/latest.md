@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-02T21:29:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-03T06:32:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
-- [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
-- [Canonical Under Attack](https://status.canonical.com)
-- [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
-- [NetHack 5.0.0](https://nethack.org/v500/release.html)
-- [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)
-- [Do_not_track](https://donottrack.sh/)
-- [Dav2d](https://code.videolan.org/videolan/dav2d)
-- [Flue is a TypeScript framework for building the next generation of agents](https://flueframework.com/)
-- [Welcome to Hell Developer](https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/)
+- [The Reality of Being a Man in Your 50s in South Korea](https://indignified.com/the-hidden-realities-of-midlife-masculinity-in-south-korea/)
+- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
+- [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
+- [Open source does not imply open community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
+- [Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels](https://www.newsonjapan.com/article/149075.php)
+- [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
+- [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
+- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+- [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
+- [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
 
-*마지막 업데이트: 2026-05-02T21:29:28Z*
+*마지막 업데이트: 2026-05-03T06:32:23Z*
