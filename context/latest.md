@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-03T21:31:26Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-04T06:46:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Make Your Own Microforest](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
-- [Statue of a man blinded by a flag put up by Banksy in central London](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
-- [Why TUIs Are Back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
-- [Talking to Transformers](https://miraos.org/blog/2026/05/02/talking-to-transformers)
-- [Show HN: Ableton Live MCP](https://github.com/bschoepke/ableton-live-mcp)
-- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
-- [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
-- [How far behind is each major Chromium browser?](https://chromium-drift.pages.dev/)
-- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
-- [Metal Gear Solid 2's source code has been leaked on 4chan](https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/)
+- [Stitch Together Lots of Little HTML Pages with Navigations for Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
+- [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
+- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
+- [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
+- [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
+- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
+- [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
+- [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
+- [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 
-*마지막 업데이트: 2026-05-03T21:31:26Z*
+*마지막 업데이트: 2026-05-04T06:46:10Z*
