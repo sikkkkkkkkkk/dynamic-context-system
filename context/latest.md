@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-04T06:46:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-04T21:51:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Stitch Together Lots of Little HTML Pages with Navigations for Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
-- [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
-- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-- [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
-- [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
-- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
-- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
-- [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
-- [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
-- [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
+- [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607)
+- [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
+- [Transformers Are Inherently Succinct](https://arxiv.org/abs/2510.19315)
+- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+- [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
+- [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
+- [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
+- [Heat pump sales rise across Europe](https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/)
+- [“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)](https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview)
+- [Let's talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
 
-*마지막 업데이트: 2026-05-04T06:46:10Z*
+*마지막 업데이트: 2026-05-04T21:51:28Z*
