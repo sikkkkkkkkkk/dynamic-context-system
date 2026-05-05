@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-04T21:51:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-05T06:23:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607)
-- [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
-- [Transformers Are Inherently Succinct](https://arxiv.org/abs/2510.19315)
-- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
-- [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
-- [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
-- [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
-- [Heat pump sales rise across Europe](https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/)
-- [“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)](https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview)
-- [Let's talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
+- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
+- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
+- [2-D Mathematical Curves](https://www.2dcurves.com/)
+- [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
+- [Hand Drawn QR Codes](https://sethmlarson.dev/hand-drawn-qr-codes)
+- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
+- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
+- [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+- [The Car That Watches You Back: The Advertising Infrastructure of Modern Cars](https://nobodyaskedforthis.lol/posts/connected-car/)
+- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
 
-*마지막 업데이트: 2026-05-04T21:51:28Z*
+*마지막 업데이트: 2026-05-05T06:23:58Z*
