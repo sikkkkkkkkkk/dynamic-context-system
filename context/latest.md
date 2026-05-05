@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-05T06:23:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-05T21:51:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
-- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
-- [2-D Mathematical Curves](https://www.2dcurves.com/)
-- [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
-- [Hand Drawn QR Codes](https://sethmlarson.dev/hand-drawn-qr-codes)
-- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
-- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
-- [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
-- [The Car That Watches You Back: The Advertising Infrastructure of Modern Cars](https://nobodyaskedforthis.lol/posts/connected-car/)
-- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
+- [Our AI started a cafe in Stockholm](https://andonlabs.com/blog/ai-cafe-stockholm)
+- [Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/)
+- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+- [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
+- [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
+- [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
+- [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)
+- [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
+- [IBM didn't want Microsoft to use the Tab key to move between dialog fields](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
+- [Proliferate (YC S25) Is Hiring- 200k for junior engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 
-*마지막 업데이트: 2026-05-05T06:23:58Z*
+*마지막 업데이트: 2026-05-05T21:51:37Z*
