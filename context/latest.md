@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-05T21:51:37Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-06T06:36:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Our AI started a cafe in Stockholm](https://andonlabs.com/blog/ai-cafe-stockholm)
-- [Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/)
+- [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
+- [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
+- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
+- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
+- [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+- [YouTube, your RSS feeds are broken](https://openrss.org/blog/youtube-your-feeds-are-broken)
+- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
 - [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
 - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
-- [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
-- [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
-- [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)
-- [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
-- [IBM didn't want Microsoft to use the Tab key to move between dialog fields](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
-- [Proliferate (YC S25) Is Hiring- 200k for junior engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 
-*마지막 업데이트: 2026-05-05T21:51:37Z*
+*마지막 업데이트: 2026-05-06T06:36:46Z*
