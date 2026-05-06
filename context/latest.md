@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-06T06:36:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-06T21:50:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
-- [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
-- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
-- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
-- [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
-- [YouTube, your RSS feeds are broken](https://openrss.org/blog/youtube-your-feeds-are-broken)
-- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
-- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
-- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
-- [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
+- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
+- [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
+- [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
+- [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
+- [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)
+- [Going Full Time on Open Source](https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/)
+- [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
+- [Life During Class Wartime](https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime)
+- [Show HN: Hallucinopedia](http://halupedia.com/)
+- [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
 
-*마지막 업데이트: 2026-05-06T06:36:46Z*
+*마지막 업데이트: 2026-05-06T21:50:40Z*
