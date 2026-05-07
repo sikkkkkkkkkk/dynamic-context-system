@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-07T06:44:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-07T21:44:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
-- [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
-- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
-- [Permacomputing Principles](https://permacomputing.net/principles/)
-- [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
-- [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
-- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
-- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
-- [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
-- [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
+- [Utah senator smacks ABC reporters phone out of hand amid Data Center controversy](https://www.abc4.com/news/digital-exclusives/reporter-jj-nursery-utah-senator-jerry-stevenson-box-elder-county-data-center/)
+- [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
+- [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
+- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+- [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
+- [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+- [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
+- [Principles for agent-native CLIs](https://twitter.com/trevin/status/2051316002730991795)
+- [Show HN: Full Python GUI apps in the browser – no JavaScript, no server](https://github.com/pthom/imgui_bundle)
+- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
 
-*마지막 업데이트: 2026-05-07T06:44:04Z*
+*마지막 업데이트: 2026-05-07T21:44:34Z*
