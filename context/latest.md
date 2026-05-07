@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-06T21:50:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-07T06:44:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
+- [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
+- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
+- [Permacomputing Principles](https://permacomputing.net/principles/)
+- [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
+- [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
+- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
 - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
-- [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
 - [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
-- [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
-- [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)
-- [Going Full Time on Open Source](https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/)
-- [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
-- [Life During Class Wartime](https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime)
-- [Show HN: Hallucinopedia](http://halupedia.com/)
-- [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
+- [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 
-*마지막 업데이트: 2026-05-06T21:50:40Z*
+*마지막 업데이트: 2026-05-07T06:44:04Z*
