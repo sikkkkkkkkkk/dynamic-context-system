@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-07T21:44:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-08T06:03:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Utah senator smacks ABC reporters phone out of hand amid Data Center controversy](https://www.abc4.com/news/digital-exclusives/reporter-jj-nursery-utah-senator-jerry-stevenson-box-elder-county-data-center/)
-- [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
-- [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
-- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
-- [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
-- [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
-- [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
-- [Principles for agent-native CLIs](https://twitter.com/trevin/status/2051316002730991795)
-- [Show HN: Full Python GUI apps in the browser – no JavaScript, no server](https://github.com/pthom/imgui_bundle)
-- [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
+- [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
+- [US will start revoking passports for parents who owe child support](https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6)
+- [Evaluating Geekbench 6](https://chipsandcheese.com/p/evaluating-geekbench-6)
+- [Mojo 1.0 Beta](https://mojolang.org/)
+- [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
+- [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
+- [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
+- [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+- [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
 
-*마지막 업데이트: 2026-05-07T21:44:34Z*
+*마지막 업데이트: 2026-05-08T06:03:31Z*
