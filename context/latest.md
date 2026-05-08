@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-08T06:03:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-08T21:47:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
-- [US will start revoking passports for parents who owe child support](https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6)
-- [Evaluating Geekbench 6](https://chipsandcheese.com/p/evaluating-geekbench-6)
-- [Mojo 1.0 Beta](https://mojolang.org/)
-- [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
-- [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
-- [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
-- [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
-- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
-- [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
+- [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
+- [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
+- [Discord Incident](https://discordstatus.com)
+- [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
+- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
+- [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
+- [Google Broke reCAPTCHA for De-Googled Android Users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
+- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+- [Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/)
+- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)
 
-*마지막 업데이트: 2026-05-08T06:03:31Z*
+*마지막 업데이트: 2026-05-08T21:47:32Z*
