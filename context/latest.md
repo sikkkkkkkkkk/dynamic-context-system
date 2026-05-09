@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-09T06:22:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-09T21:32:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
-- [Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml)
-- [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-- [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
-- [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
-- [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
-- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
-- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
-- [Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)
-- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+- [FreeBSD: Local Privilege Escalation via Execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+- [I Caught the Car](https://undecidability.net/senior/)
+- ["Dirty Frag" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
+- [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+- [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
+- [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
+- [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
+- [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples)
+- [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
+- [Distributing Mac software is increasing my cortisol levels](https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels)
 
-*마지막 업데이트: 2026-05-09T06:22:29Z*
+*마지막 업데이트: 2026-05-09T21:32:54Z*
