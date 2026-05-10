@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-10T06:38:33Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-10T21:37:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
-- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
-- [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
-- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
-- [France moves to break encrypted messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
-- [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
-- [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
-- [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
-- [Meta's embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
-- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
+- [SpaceX wants to launch a million satellites](https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772)
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
+- [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993)
+- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+- [Traces Of Humanity](https://tracesofhumanity.org/hello-world/)
+- [Spain has become one of Europe’s cheapest power markets](https://janrosenow.substack.com/p/spain-just-became-one-of-europes)
+- [YC's Biggest Scandals](https://ycombinator.fyi/)
+- [Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
+- [Shunting-Yard Animation](https://somethingorotherwhatever.com/shunting-yard-animation/)
 
-*마지막 업데이트: 2026-05-10T06:38:33Z*
+*마지막 업데이트: 2026-05-10T21:37:02Z*
