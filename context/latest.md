@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-09T21:32:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-10T06:38:33Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [FreeBSD: Local Privilege Escalation via Execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
-- [I Caught the Car](https://undecidability.net/senior/)
-- ["Dirty Frag" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
-- [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
-- [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
-- [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
-- [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
-- [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples)
-- [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
-- [Distributing Mac software is increasing my cortisol levels](https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels)
+- [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
+- [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
+- [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
+- [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
+- [France moves to break encrypted messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+- [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
+- [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+- [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
+- [Meta's embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+- [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
 
-*마지막 업데이트: 2026-05-09T21:32:54Z*
+*마지막 업데이트: 2026-05-10T06:38:33Z*
