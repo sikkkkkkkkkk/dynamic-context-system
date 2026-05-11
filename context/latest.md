@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-10T21:37:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-11T07:50:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [SpaceX wants to launch a million satellites](https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772)
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
-- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
-- [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993)
-- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-- [Traces Of Humanity](https://tracesofhumanity.org/hello-world/)
-- [Spain has become one of Europe’s cheapest power markets](https://janrosenow.substack.com/p/spain-just-became-one-of-europes)
-- [YC's Biggest Scandals](https://ycombinator.fyi/)
-- [Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
-- [Shunting-Yard Animation](https://somethingorotherwhatever.com/shunting-yard-animation/)
+- [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
+- [7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/)
+- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+- [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
+- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+- [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+- [How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)
+- [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
+- [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 
-*마지막 업데이트: 2026-05-10T21:37:02Z*
+*마지막 업데이트: 2026-05-11T07:50:10Z*
