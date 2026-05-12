@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-12T06:41:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-12T22:01:13Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
-- [Supercomputer networking to accelerate large scale AI training](https://openai.com/index/mrc-supercomputer-networking/)
-- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
-- [Productivity isn't about going faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
-- [Software Internals Book Club](https://eatonphil.com/bookclub.html)
-- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
-- [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
-- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
-- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-- [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+- [Meta employees protest against mouse tracking tech at US offices](https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/)
+- [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
+- [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
+- [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
+- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
+- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
+- [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
+- [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol)
+- [Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
+- [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
 
-*마지막 업데이트: 2026-05-12T06:41:51Z*
+*마지막 업데이트: 2026-05-12T22:01:13Z*
