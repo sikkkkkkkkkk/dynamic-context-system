@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-11T21:56:26Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-12T06:41:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383)
+- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
+- [Supercomputer networking to accelerate large scale AI training](https://openai.com/index/mrc-supercomputer-networking/)
+- [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
+- [Productivity isn't about going faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
+- [Software Internals Book Club](https://eatonphil.com/bookclub.html)
+- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+- [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
+- [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
+- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
 - [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
-- [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
-- [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/)
-- [Show HN: E2a – Open-source email gateway for AI agents](https://github.com/Mnexa-AI/e2a)
-- [Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity](https://github.com/ab-613/opengravity)
-- [Linux Terminal Memory Usage](https://gilesorr.com/blog/linux-terminal-memory-usage.html)
-- [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
-- [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/)
-- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
 
-*마지막 업데이트: 2026-05-11T21:56:26Z*
+*마지막 업데이트: 2026-05-12T06:41:51Z*
