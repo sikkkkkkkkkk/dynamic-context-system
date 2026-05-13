@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-13T06:52:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-13T22:03:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
-- [Zero-native – Build native desktop apps with web UI](https://zero-native.dev)
-- [Starship V3](https://www.spacex.com/updates#starship-v3)
-- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
-- [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
-- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
-- [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
-- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
-- [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
-- [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
+- [Meta won't let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
+- [In-person examinations at Princeton will be proctored starting July 1](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+- [Rars: a Rust RAR implementation, mostly written by LLMs](https://bitplane.net/log/2026/05/rars/)
+- [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
+- ["Not Medically Necessary": Helping America's Health Insurers Deny Coverage](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
+- [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
+- [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/)
+- [ReactOS](https://reactos.org/)
+- [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
+- [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
 
-*마지막 업데이트: 2026-05-13T06:52:14Z*
+*마지막 업데이트: 2026-05-13T22:03:09Z*
