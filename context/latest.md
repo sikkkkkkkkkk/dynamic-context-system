@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-12T22:01:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-13T06:52:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Meta employees protest against mouse tracking tech at US offices](https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/)
+- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
+- [Zero-native – Build native desktop apps with web UI](https://zero-native.dev)
+- [Starship V3](https://www.spacex.com/updates#starship-v3)
+- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+- [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
+- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
+- [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
+- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+- [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
 - [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
-- [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
-- [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
-- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
-- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
-- [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
-- [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol)
-- [Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
-- [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
 
-*마지막 업데이트: 2026-05-12T22:01:13Z*
+*마지막 업데이트: 2026-05-13T06:52:14Z*
