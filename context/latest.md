@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-14T06:49:57Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-14T21:58:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
-- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
-- [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
-- [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
-- [Show HN: Nibble](https://github.com/glouw/nibble)
-- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
-- [delta time](https://www.deltatime.life/)
-- [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
-- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
-- [The other half of AI safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
+- [Claude for Legal](https://github.com/anthropics/claude-for-legal)
+- [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)
+- [Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
+- [Minimal Structures](https://chefcinnamon.github.io/memo/posts/minimal-structures/)
+- [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing)
+- [New arXiv policy: 1-year ban for hallucinated references](https://twitter.com/tdietterich/status/2055000956144935055)
+- [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
+- [RISC-V Router](https://router.start9.com/)
+- [Work with Codex from Anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
+- [WinUI 3 Performance: A Leap Forward](https://github.com/microsoft/microsoft-ui-xaml/discussions/11096)
 
-*마지막 업데이트: 2026-05-14T06:49:57Z*
+*마지막 업데이트: 2026-05-14T21:58:54Z*
