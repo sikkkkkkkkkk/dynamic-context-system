@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-13T22:03:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-14T06:49:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Meta won't let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
-- [In-person examinations at Princeton will be proctored starting July 1](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
-- [Rars: a Rust RAR implementation, mostly written by LLMs](https://bitplane.net/log/2026/05/rars/)
-- [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
-- ["Not Medically Necessary": Helping America's Health Insurers Deny Coverage](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
-- [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
-- [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/)
-- [ReactOS](https://reactos.org/)
-- [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
-- [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+- [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
+- [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
+- [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
+- [Show HN: Nibble](https://github.com/glouw/nibble)
+- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
+- [delta time](https://www.deltatime.life/)
+- [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
+- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
+- [The other half of AI safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
 
-*마지막 업데이트: 2026-05-13T22:03:09Z*
+*마지막 업데이트: 2026-05-14T06:49:57Z*
