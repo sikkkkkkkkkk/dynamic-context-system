@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-15T07:29:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-15T21:46:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
-- [Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616)
-- [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)
-- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
-- [reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops](https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops)
-- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
-- [Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)
-- [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)
-- [LLM Policy for Rust Compiler](https://github.com/rust-lang/rust-forge/pull/1040)
-- [UK government replaces Palantir software with internally-built refugee system](https://www.bbc.com/news/articles/c2l2j1lxdk5o)
+- [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
+- [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+- [Palantir has hired more than 30 senior UK Government officials](https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/)
+- [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
+- [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
+- [Meta to receive $3.3B in tax breaks for its $10B Louisiana data center](https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/)
+- [Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California](https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html)
+- [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64)
+- [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
+- [Echoes (Live at Pompeii)](https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics)
 
-*마지막 업데이트: 2026-05-15T07:29:07Z*
+*마지막 업데이트: 2026-05-15T21:46:04Z*
