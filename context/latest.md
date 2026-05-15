@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-14T21:58:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-15T07:29:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Claude for Legal](https://github.com/anthropics/claude-for-legal)
-- [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)
-- [Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
-- [Minimal Structures](https://chefcinnamon.github.io/memo/posts/minimal-structures/)
-- [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing)
-- [New arXiv policy: 1-year ban for hallucinated references](https://twitter.com/tdietterich/status/2055000956144935055)
-- [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
-- [RISC-V Router](https://router.start9.com/)
-- [Work with Codex from Anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
-- [WinUI 3 Performance: A Leap Forward](https://github.com/microsoft/microsoft-ui-xaml/discussions/11096)
+- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
+- [Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616)
+- [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)
+- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php)
+- [reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops](https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops)
+- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
+- [Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)
+- [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)
+- [LLM Policy for Rust Compiler](https://github.com/rust-lang/rust-forge/pull/1040)
+- [UK government replaces Palantir software with internally-built refugee system](https://www.bbc.com/news/articles/c2l2j1lxdk5o)
 
-*마지막 업데이트: 2026-05-14T21:58:54Z*
+*마지막 업데이트: 2026-05-15T07:29:07Z*
