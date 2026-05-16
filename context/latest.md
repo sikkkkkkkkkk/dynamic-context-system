@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-15T21:46:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-16T06:27:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
-- [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-- [Palantir has hired more than 30 senior UK Government officials](https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/)
-- [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
+- ['No way to prevent this,' says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
+- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
+- [NYT and Vaping: How to Lie by Saying Only True Things (2022)](https://gwern.net/vaping)
+- [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
+- [Erlang/OTP 29.0](https://www.erlang.org/news/188)
+- [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
+- [Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution](https://github.com/chiennv2000/orthrus)
+- [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
 - [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
-- [Meta to receive $3.3B in tax breaks for its $10B Louisiana data center](https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/)
-- [Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California](https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html)
-- [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64)
-- [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
-- [Echoes (Live at Pompeii)](https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics)
 
-*마지막 업데이트: 2026-05-15T21:46:04Z*
+*마지막 업데이트: 2026-05-16T06:27:31Z*
