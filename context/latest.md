@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-16T06:27:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-16T21:37:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- ['No way to prevent this,' says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
-- [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
-- [NYT and Vaping: How to Lie by Saying Only True Things (2022)](https://gwern.net/vaping)
-- [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
-- [Erlang/OTP 29.0](https://www.erlang.org/news/188)
-- [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
-- [Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution](https://github.com/chiennv2000/orthrus)
-- [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-- [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
+- [Japan’s robot wolf sells out as record bear attacks drive demand](https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html)
+- [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
+- [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)
+- [Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol](https://tangled.org/rocksky.app/rocksky)
+- [HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/)
+- [PART Telescopes – Bringing radio astronomy within reach of rural schools](https://parttelescopes.web.app/)
+- [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
+- [Accelerate – Embedded language for high-performance array computations](https://github.com/AccelerateHS/accelerate)
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)
+- [Kyber (YC W23) Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community)
 
-*마지막 업데이트: 2026-05-16T06:27:31Z*
+*마지막 업데이트: 2026-05-16T21:37:59Z*
