@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-17T06:48:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-17T21:42:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Codiff, a local diff review tool](https://github.com/nkzw-tech/codiff/releases)
-- [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/)
-- [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827)
-- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
-- [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
-- [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
-- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
-- [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
-- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
-- [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
+- [VoIP brings back old-fashioned pay phones to rural Vermont](https://spectrum.ieee.org/payphone-voip)
+- [Scientists “bottle the sun” with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
+- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
+- [Don’t Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
+- [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
+- [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
+- [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+- [CUDA Books](https://github.com/alternbits/awesome-cuda-books)
+- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
 
-*마지막 업데이트: 2026-05-17T06:48:49Z*
+*마지막 업데이트: 2026-05-17T21:42:56Z*
