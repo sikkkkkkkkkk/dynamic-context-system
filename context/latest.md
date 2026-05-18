@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-18T08:10:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-18T21:57:01Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
-- [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
-- [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
-- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
-- [GenCAD](https://gencad.github.io/)
-- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
-- [VoIP brings back old-fashioned pay phones to rural Vermont (2025)](https://spectrum.ieee.org/payphone-voip)
-- [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-- [CUDA Books](https://github.com/alternbits/awesome-cuda-books)
+- [No More JetBrains Products for Me](https://matthewkosarek.xyz/posts/jetbrains/)
+- [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
+- [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
+- [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+- [Show HN: We missed Winamp, so we built an audio player for macOS](https://www.advanced-research.net/180db)
+- [loopmaster – Livecoding Music IDE](https://loopmaster.xyz/)
+- [Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)
+- [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2)
+- [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
+- [Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus)
 
-*마지막 업데이트: 2026-05-18T08:10:34Z*
+*마지막 업데이트: 2026-05-18T21:57:01Z*
