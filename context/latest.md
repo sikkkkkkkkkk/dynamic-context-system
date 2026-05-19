@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-19T07:52:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-19T22:04:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
-- [Mug Shots: A Small Town Noir (2014)](https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir)
-- [PyTorch Landscape](https://pytorch.landscape2.io)
-- [Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
-- [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
-- [LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap](https://www.llmcap.io/)
-- [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
-- [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
-- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
-- [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
+- [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
+- [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
+- [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
+- [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html)
+- [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
+- [Minnesota becomes first state to ban prediction markets](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets)
+- [Disney erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)
+- [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
+- [Gemini Omni](https://deepmind.google/models/gemini-omni/)
+- [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
 
-*마지막 업데이트: 2026-05-19T07:52:34Z*
+*마지막 업데이트: 2026-05-19T22:04:02Z*
