@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-18T21:57:01Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-19T07:52:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [No More JetBrains Products for Me](https://matthewkosarek.xyz/posts/jetbrains/)
-- [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
-- [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
-- [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
-- [Show HN: We missed Winamp, so we built an audio player for macOS](https://www.advanced-research.net/180db)
-- [loopmaster – Livecoding Music IDE](https://loopmaster.xyz/)
-- [Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)
-- [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2)
-- [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
-- [Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus)
+- [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
+- [Mug Shots: A Small Town Noir (2014)](https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir)
+- [PyTorch Landscape](https://pytorch.landscape2.io)
+- [Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
+- [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
+- [LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap](https://www.llmcap.io/)
+- [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
+- [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+- [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
 
-*마지막 업데이트: 2026-05-18T21:57:01Z*
+*마지막 업데이트: 2026-05-19T07:52:34Z*
