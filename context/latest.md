@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-19T22:04:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-20T07:51:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
-- [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
-- [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
-- [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html)
-- [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
-- [Minnesota becomes first state to ban prediction markets](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets)
-- [Disney erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)
-- [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
-- [Gemini Omni](https://deepmind.google/models/gemini-omni/)
-- [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+- [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
+- [Ex-Apple engineer says Apple deliberately slows older phones via updates](https://www.macobserver.com/news/ex-apple-software-engineer-claims-apple-deliberately-slows-down-old-iphone-models/)
+- [Testing MiniMax M2.7 via API on three real ML and coding workflows](https://andlukyane.com//blog/minimax-m27-workflows)
+- [GitHub Compromised](https://twitter.com/github/status/2056949168208552080)
+- [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan)
+- [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
+- [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
+- [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
+- [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
+- [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
 
-*마지막 업데이트: 2026-05-19T22:04:02Z*
+*마지막 업데이트: 2026-05-20T07:51:46Z*
