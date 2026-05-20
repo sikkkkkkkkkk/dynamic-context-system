@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-20T07:51:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-20T22:18:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
-- [Ex-Apple engineer says Apple deliberately slows older phones via updates](https://www.macobserver.com/news/ex-apple-software-engineer-claims-apple-deliberately-slows-down-old-iphone-models/)
-- [Testing MiniMax M2.7 via API on three real ML and coding workflows](https://andlukyane.com//blog/minimax-m27-workflows)
-- [GitHub Compromised](https://twitter.com/github/status/2056949168208552080)
-- [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan)
-- [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
-- [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
-- [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
-- [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
-- [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
+- [Starship's Twelfth Flight Test](https://www.spacex.com/launches/starship-flight-12)
+- [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
+- [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)
+- [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
+- [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
+- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+- [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
+- [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
+- [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)
+- [Qian Xuesen: The missile genius America lost and China gained (2025)](https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained)
 
-*마지막 업데이트: 2026-05-20T07:51:46Z*
+*마지막 업데이트: 2026-05-20T22:18:25Z*
