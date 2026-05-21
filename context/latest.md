@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-20T22:18:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-21T07:58:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Starship's Twelfth Flight Test](https://www.spacex.com/launches/starship-flight-12)
-- [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
-- [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)
+- [Vivaldi 8.0: our biggest design overhaul](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
+- [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)
+- [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
+- [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+- [The Letter S, by Donald Knuth (1980) [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)
+- [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
+- [DOS Zone](https://dos.zone/)
+- [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
+- [Anthropic is expanding to Colossus2. Will use GB200](https://twitter.com/nottombrown/status/2057194829986300375)
 - [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
-- [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
-- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
-- [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
-- [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
-- [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)
-- [Qian Xuesen: The missile genius America lost and China gained (2025)](https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained)
 
-*마지막 업데이트: 2026-05-20T22:18:25Z*
+*마지막 업데이트: 2026-05-21T07:58:49Z*
