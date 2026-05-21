@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-21T07:58:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-21T22:09:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Vivaldi 8.0: our biggest design overhaul](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
-- [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)
-- [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
-- [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
-- [The Letter S, by Donald Knuth (1980) [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)
-- [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
-- [DOS Zone](https://dos.zone/)
-- [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
-- [Anthropic is expanding to Colossus2. Will use GB200](https://twitter.com/nottombrown/status/2057194829986300375)
-- [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
+- [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
+- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
+- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
+- [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
+- [Where are all the UK red telephone kiosks?](https://www.thek6project.co.uk/)
+- [Seattle Shield, an intelligence-sharing network operated by the Seattle police](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/)
+- [Chewing gum restores dad's taste and smell years after Covid](https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/)
+- [ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers](https://news.ycombinator.com/item?id=48225852)
+- [News outlets are limiting the Internet Archive’s access to their journalism](https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/)
+- [Show HN: Agent.email – sign up via curl, claim with a human OTP](https://news.ycombinator.com/item?id=48225596)
 
-*마지막 업데이트: 2026-05-21T07:58:49Z*
+*마지막 업데이트: 2026-05-21T22:09:06Z*
