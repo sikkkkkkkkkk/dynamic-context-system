@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-22T07:50:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-22T21:55:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)
-- [Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT](https://pythongiant.github.io/KVBoost/)
-- [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
-- [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
-- [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
-- [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
-- [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
-- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
-- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
-- [Seattle Shield, an intelligence-sharing network operated by the Seattle police](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/)
+- [NTSB pulls docket after AI recreates dead pilots' voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/)
+- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
+- [Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs](https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes)
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+- [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
+- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
+- [Thinking in an array language (2022)](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
+- [TorQ: Kdb+ Production Framework](https://github.com/DataIntellectTech/TorQ)
+- [Bun support is now limited and deprecated](https://github.com/yt-dlp/yt-dlp/issues/16766)
+- [1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators)
 
-*마지막 업데이트: 2026-05-22T07:50:07Z*
+*마지막 업데이트: 2026-05-22T21:55:51Z*
