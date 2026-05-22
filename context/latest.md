@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-21T22:09:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-22T07:50:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)
+- [Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT](https://pythongiant.github.io/KVBoost/)
+- [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
+- [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
+- [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
+- [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 - [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
 - [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
 - [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
-- [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
-- [Where are all the UK red telephone kiosks?](https://www.thek6project.co.uk/)
 - [Seattle Shield, an intelligence-sharing network operated by the Seattle police](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/)
-- [Chewing gum restores dad's taste and smell years after Covid](https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/)
-- [ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers](https://news.ycombinator.com/item?id=48225852)
-- [News outlets are limiting the Internet Archive’s access to their journalism](https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/)
-- [Show HN: Agent.email – sign up via curl, claim with a human OTP](https://news.ycombinator.com/item?id=48225596)
 
-*마지막 업데이트: 2026-05-21T22:09:06Z*
+*마지막 업데이트: 2026-05-22T07:50:07Z*
