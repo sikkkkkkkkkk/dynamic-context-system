@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-22T21:55:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-23T06:39:22Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [NTSB pulls docket after AI recreates dead pilots' voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/)
+- [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
+- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
-- [Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs](https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes)
+- [Staged publishing and new install-time controls for npm](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
 - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-- [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
+- [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
 - [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
 - [Thinking in an array language (2022)](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
-- [TorQ: Kdb+ Production Framework](https://github.com/DataIntellectTech/TorQ)
-- [Bun support is now limited and deprecated](https://github.com/yt-dlp/yt-dlp/issues/16766)
-- [1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators)
+- [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)
 
-*마지막 업데이트: 2026-05-22T21:55:51Z*
+*마지막 업데이트: 2026-05-23T06:39:22Z*
