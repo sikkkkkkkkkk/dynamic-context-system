@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-23T06:39:22Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-23T21:42:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
-- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
-- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
-- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
-- [Staged publishing and new install-time controls for npm](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
-- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-- [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
-- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
-- [Thinking in an array language (2022)](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
-- [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)
+- [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
+- [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
+- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
+- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+- [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
+- [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+- [Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)
+- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
+- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
 
-*마지막 업데이트: 2026-05-23T06:39:22Z*
+*마지막 업데이트: 2026-05-23T21:42:48Z*
