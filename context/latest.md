@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-24T07:25:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-24T21:43:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Limerick](https://www.worldwidewords.org/surprise.html)
-- [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
-- ['Fuck you, Bambu': How one private message could change the face of 3D printing](https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github)
-- [Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
-- [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
-- [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
-- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
-- [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
-- [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
-- [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
+- [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
+- [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
+- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
+- [Claude is not your architect. Stop letting it pretend](https://www.hollandtech.net/claude-is-not-your-architect/)
+- [Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)
+- [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
+- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+- [Ruby for Good](https://ti.to/codeforgood/rubyforgood)
+- [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
 
-*마지막 업데이트: 2026-05-24T07:25:56Z*
+*마지막 업데이트: 2026-05-24T21:43:49Z*
