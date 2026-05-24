@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-23T21:42:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-24T07:25:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
-- [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
-- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
-- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
-- [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
-- [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
-- [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
-- [Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)
-- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
-- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
+- [Limerick](https://www.worldwidewords.org/surprise.html)
+- [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
+- ['Fuck you, Bambu': How one private message could change the face of 3D printing](https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github)
+- [Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+- [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
+- [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
+- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
+- [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
+- [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+- [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
 
-*마지막 업데이트: 2026-05-23T21:42:48Z*
+*마지막 업데이트: 2026-05-24T07:25:56Z*
