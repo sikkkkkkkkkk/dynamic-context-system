@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-25T08:25:32Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-25T21:59:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
-- [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
-- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
-- [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
-- [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
-- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
-- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
-- [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)
+- [Ferrari Luce, Maranello's first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
+- [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
+- [Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
+- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
+- [The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
+- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
+- [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
+- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
+- [RentFlow (YC S24) Is Hiring](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead)
+- [Toshifumi Suzuki, founder of Seven-Eleven Japan, has died](https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html)
 
-*마지막 업데이트: 2026-05-25T08:25:32Z*
+*마지막 업데이트: 2026-05-25T21:59:57Z*
