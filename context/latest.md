@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-24T21:43:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-25T08:25:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
-- [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
-- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
+- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
+- [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
+- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
 - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
-- [Claude is not your architect. Stop letting it pretend](https://www.hollandtech.net/claude-is-not-your-architect/)
-- [Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)
+- [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
 - [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
 - [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-- [Ruby for Good](https://ti.to/codeforgood/rubyforgood)
-- [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
+- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+- [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)
 
-*마지막 업데이트: 2026-05-24T21:43:49Z*
+*마지막 업데이트: 2026-05-25T08:25:32Z*
