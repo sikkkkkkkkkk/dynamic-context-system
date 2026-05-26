@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-26T07:55:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-26T22:14:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
-- [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
-- [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
-- [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
-- [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
-- [Does anybody like React?](https://jsx.lol)
-- [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
-- [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
-- [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
-- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+- [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
+- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+- [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
+- [Stack Overflow’s forum is dead but the company’s still kicking](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/)
+- [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
+- [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)
+- [Is "colorectal cancer" rising in "young people"?](https://dynomight.net/crc-rates/)
+- [What color is your function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
+- [A sleep-like consolidation mechanism for LLMs](https://arxiv.org/abs/2605.26099)
 
-*마지막 업데이트: 2026-05-26T07:55:54Z*
+*마지막 업데이트: 2026-05-26T22:14:07Z*
