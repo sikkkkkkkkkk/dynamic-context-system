@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-26T22:14:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-27T08:08:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
-- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
-- [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
-- [Stack Overflow’s forum is dead but the company’s still kicking](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/)
-- [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
-- [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)
-- [Is "colorectal cancer" rising in "young people"?](https://dynomight.net/crc-rates/)
-- [What color is your function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
-- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
-- [A sleep-like consolidation mechanism for LLMs](https://arxiv.org/abs/2605.26099)
+- [Show HN: Posthorn, self-hosted mail without the mail server](https://github.com/craigmccaskill/posthorn)
+- [Gear Commit: Dev gadget box personalized from GitHub activity](https://gearcommit.nanocorp.app/)
+- [TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation](https://tsduck.io/)
+- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
+- [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
+- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
+- [Sonny Rollins, jazz saxophonist, has died](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
+- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
+- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
+- [That Methyl Methacrylate Tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 
-*마지막 업데이트: 2026-05-26T22:14:07Z*
+*마지막 업데이트: 2026-05-27T08:08:05Z*
