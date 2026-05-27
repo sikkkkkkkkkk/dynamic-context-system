@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-27T08:08:05Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-27T22:24:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Posthorn, self-hosted mail without the mail server](https://github.com/craigmccaskill/posthorn)
-- [Gear Commit: Dev gadget box personalized from GitHub activity](https://gearcommit.nanocorp.app/)
-- [TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation](https://tsduck.io/)
-- [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
-- [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
-- [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
-- [Sonny Rollins, jazz saxophonist, has died](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
-- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
-- [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
-- [That Methyl Methacrylate Tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+- [iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity](https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [I used autoresearch to improve my AGENTS.md, measured against real tasks](https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md)
+- [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
+- [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
+- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
+- [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779)
+- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
+- [Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/)
+- [Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs)
 
-*마지막 업데이트: 2026-05-27T08:08:05Z*
+*마지막 업데이트: 2026-05-27T22:24:14Z*
