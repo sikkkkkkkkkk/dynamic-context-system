@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-28T08:06:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-28T22:24:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
-- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
-- [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
-- [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
-- [Can we have the day off?](https://mlsu.io/posts/day-off/)
-- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
-- [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
-- [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
-- [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
+- [I Made a Million Dollar Product from My Dorm Room (2025)](https://nick.winans.io/blog/nice-nano/)
+- [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
+- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
+- [Announcing Rust 1.96](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
+- [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/)
+- [Separate the Cord from the Device](https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html)
+- [Various LLM Smells](https://shvbsle.in/various-llm-smells/)
+- [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
+- [The Lone Lisp Heap](https://www.matheusmoreira.com/articles/lone-lisp-heap)
 
-*마지막 업데이트: 2026-05-28T08:06:06Z*
+*마지막 업데이트: 2026-05-28T22:24:40Z*
