@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-27T22:24:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-28T08:06:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity](https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity)
+- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+- [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
+- [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
+- [Can we have the day off?](https://mlsu.io/posts/day-off/)
+- [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
+- [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
+- [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
+- [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
 - [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-- [I used autoresearch to improve my AGENTS.md, measured against real tasks](https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md)
-- [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
-- [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
-- [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
-- [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779)
-- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
-- [Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/)
-- [Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs)
 
-*마지막 업데이트: 2026-05-27T22:24:14Z*
+*마지막 업데이트: 2026-05-28T08:06:06Z*
