@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-28T22:24:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-29T08:03:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
-- [I Made a Million Dollar Product from My Dorm Room (2025)](https://nick.winans.io/blog/nice-nano/)
-- [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
-- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
-- [Announcing Rust 1.96](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
-- [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/)
-- [Separate the Cord from the Device](https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html)
-- [Various LLM Smells](https://shvbsle.in/various-llm-smells/)
-- [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
-- [The Lone Lisp Heap](https://www.matheusmoreira.com/articles/lone-lisp-heap)
+- [Undisclosed addition in jqwik instructed AI coding agents to delete app output](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
+- [Zot now supports Claude Opus 4.8](https://www.zot.sh)
+- [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
+- [Cars collect a startling amount of data about you](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+- [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching)
+- [Claude Code – Everything You Can Configure That the Docs Don't Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
+- [Blue Origin's New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
+- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
+- [SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+- [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
 
-*마지막 업데이트: 2026-05-28T22:24:40Z*
+*마지막 업데이트: 2026-05-29T08:03:03Z*
