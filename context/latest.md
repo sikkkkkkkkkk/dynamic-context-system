@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-29T22:23:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-30T06:51:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
-- [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
-- [The California state assembly has passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
-- [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
-- [Microsoft 0-day feud escalates as researcher threatens another exploit dump](https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085)
-- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
-- [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
-- [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
-- [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
+- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
+- [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)
+- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)
+- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
+- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
+- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
+- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
+- [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/secluso/core)
+- [Free full BGP feed. IPv4 and IPv6 (2020)](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
+- [The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
 
-*마지막 업데이트: 2026-05-29T22:23:00Z*
+*마지막 업데이트: 2026-05-30T06:51:25Z*
