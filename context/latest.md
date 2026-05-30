@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-30T06:51:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-30T21:48:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
-- [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)
-- [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)
-- [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
-- [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
-- [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
-- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
-- [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/secluso/core)
-- [Free full BGP feed. IPv4 and IPv6 (2020)](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
-- [The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
+- [Kore: Binary File Format Optimized for Modern Data Systems (Open Source)](https://github.com/arunkatherashala/Kore)
+- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
+- [A disappearing Service Processor (2025)](https://oxide.computer/blog/cosmo-sp)
+- [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
+- [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
+- [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
+- [EY Canada published a cybersecurity report and most citations were hallucinated](https://gptzero.me/investigations/ey)
+- [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
 
-*마지막 업데이트: 2026-05-30T06:51:25Z*
+*마지막 업데이트: 2026-05-30T21:48:25Z*
