@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-30T21:48:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-31T07:49:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Kore: Binary File Format Optimized for Modern Data Systems (Open Source)](https://github.com/arunkatherashala/Kore)
-- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
-- [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
-- [A disappearing Service Processor (2025)](https://oxide.computer/blog/cosmo-sp)
-- [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
-- [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
-- [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
-- [EY Canada published a cybersecurity report and most citations were hallucinated](https://gptzero.me/investigations/ey)
-- [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
+- [The Website Specification](https://specification.website/)
+- [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
+- [The ~500kB NBSDGames 6 managed to be published ahead of GTA 6](https://github.com/abakh/nbsdgames/releases)
+- [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
+- [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)
+- [Show HN: Komi-learn – continuous memory and self-improvement for coding agents](https://github.com/kurikomi-labs/komi-learn)
+- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+- [Building a LangGraph pipeline for production data engineering](https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline)
+- [Please Do Not Vibe Fuck Up This Software](https://github.com/RsyncProject/rsync/issues/929)
+- [Mechanical Pencil: An illustrated celebration of the engineering around us](https://mechanical-pencil.com/)
 
-*마지막 업데이트: 2026-05-30T21:48:25Z*
+*마지막 업데이트: 2026-05-31T07:49:27Z*
