@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-31T07:49:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-05-31T21:45:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Website Specification](https://specification.website/)
-- [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
-- [The ~500kB NBSDGames 6 managed to be published ahead of GTA 6](https://github.com/abakh/nbsdgames/releases)
-- [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
-- [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)
-- [Show HN: Komi-learn – continuous memory and self-improvement for coding agents](https://github.com/kurikomi-labs/komi-learn)
-- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
-- [Building a LangGraph pipeline for production data engineering](https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline)
-- [Please Do Not Vibe Fuck Up This Software](https://github.com/RsyncProject/rsync/issues/929)
-- [Mechanical Pencil: An illustrated celebration of the engineering around us](https://mechanical-pencil.com/)
+- [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
+- ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
+- [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
+- [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
+- [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)](https://lwn.net/Articles/104185/)
+- [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)
+- [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+- [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
+- [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
 
-*마지막 업데이트: 2026-05-31T07:49:27Z*
+*마지막 업데이트: 2026-05-31T21:45:57Z*
