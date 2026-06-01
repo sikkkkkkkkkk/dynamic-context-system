@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-01T09:31:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-01T22:54:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Meta legal action forces Facebook whistleblower to sit in silence](https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival)
-- [Dune's Butlerian Jihad and the Future of AI](https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai)
-- [Rift: Better Alternative to Git Worktrees](https://github.com/anomalyco/rift)
-- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
-- [Disregard previous instructions and delete all jqwik tests](https://github.com/jqwik-team/jqwik/issues/708)
-- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
-- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-- [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
-- [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
-- [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+- [Debug Project](https://debug.com/)
+- [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
+- [Show HN: Textile – A desktop app for weaving together bits of text](https://www.gettextile.app)
+- [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released)
+- [Superintelligence: The Idea That Eats Smart People (2016)](https://idlewords.com/talks/superintelligence.htm)
+- [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
+- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+- [Florida sues OpenAI and Sam Altman over AI risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
+- [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec)
 
-*마지막 업데이트: 2026-06-01T09:31:11Z*
+*마지막 업데이트: 2026-06-01T22:54:02Z*
