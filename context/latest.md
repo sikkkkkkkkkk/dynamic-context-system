@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-05-31T21:45:57Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-01T09:31:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
-- ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
+- [Meta legal action forces Facebook whistleblower to sit in silence](https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival)
+- [Dune's Butlerian Jihad and the Future of AI](https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai)
+- [Rift: Better Alternative to Git Worktrees](https://github.com/anomalyco/rift)
+- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
+- [Disregard previous instructions and delete all jqwik tests](https://github.com/jqwik-team/jqwik/issues/708)
+- [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
+- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+- [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
 - [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
-- [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
-- [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)](https://lwn.net/Articles/104185/)
-- [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)
 - [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
-- [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
-- [Creatine raises brain energy levels and slows cognitive decline: study](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
-- [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
 
-*마지막 업데이트: 2026-05-31T21:45:57Z*
+*마지막 업데이트: 2026-06-01T09:31:11Z*
