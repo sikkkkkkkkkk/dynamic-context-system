@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-01T22:54:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-02T08:41:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Debug Project](https://debug.com/)
-- [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
-- [Show HN: Textile – A desktop app for weaving together bits of text](https://www.gettextile.app)
-- [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released)
-- [Superintelligence: The Idea That Eats Smart People (2016)](https://idlewords.com/talks/superintelligence.htm)
-- [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
-- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
-- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
-- [Florida sues OpenAI and Sam Altman over AI risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
-- [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec)
+- [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
+- [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+- [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
+- [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
+- [Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks](https://www.bbc.com/news/articles/cy5222wn410o)
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
+- [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
+- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
+- [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 
-*마지막 업데이트: 2026-06-01T22:54:02Z*
+*마지막 업데이트: 2026-06-02T08:41:28Z*
