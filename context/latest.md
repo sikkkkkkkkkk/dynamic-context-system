@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-03T08:59:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-03T22:56:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Life and work is not meant to be spent in isolation](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
-- [AI Engineers aren't safe from being replaced by AI](https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html)
-- [Microsoft Doubles Down on Controversial Quantum Computing Claims](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans)
-- [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
-- [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
-- [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
-- [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os)
-- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
-- [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296)
-- [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+- [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
+- [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
+- [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
+- [Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)](https://github.com/tastyeffectco/sandboxes)
+- [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)
+- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
+- [Rootshell: A new E2EE email service hosted in Iceland](https://rootshell.is)
+- [Embryos shape their limbs: a key discovery of "genetic brakes"](https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes)
+- [Launch HN: Hyper (YC P26) – Company brain to power agentic development](https://news.ycombinator.com/item?id=48387095)
+- [Gooey: A GPU-accelerated UI framework for Zig](https://github.com/duanebester/gooey)
 
-*마지막 업데이트: 2026-06-03T08:59:07Z*
+*마지막 업데이트: 2026-06-03T22:56:40Z*
