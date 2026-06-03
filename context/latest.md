@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-02T22:53:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-03T08:59:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Gleam v1.17.0 Released](https://gleam.run/news/single-file-gleam-beam-programs-with-escript/)
-- [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
-- [RSS is back. AI agents are reading it](https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/)
-- [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
-- [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
-- [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
-- [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
-- [HP re-releases classic computer science calculator: The HP-16C](https://hpcalcs.com/product/hp-16c-collectors-edition/)
-- [Launch HN: Rudus (YC P26) – AI for concrete contractors](https://news.ycombinator.com/item?id=48374528)
-- [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+- [Life and work is not meant to be spent in isolation](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
+- [AI Engineers aren't safe from being replaced by AI](https://dmanco.dev/2025/08/17/fear-not-even-ai-engineers-will-be-replaced-by-ai.html)
+- [Microsoft Doubles Down on Controversial Quantum Computing Claims](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans)
+- [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
+- [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+- [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
+- [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os)
+- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+- [Pluto.jl 1.0 release – reactive notebook for Julia](https://discourse.julialang.org/t/pluto-1-0-release/137296)
+- [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
 
-*마지막 업데이트: 2026-06-02T22:53:51Z*
+*마지막 업데이트: 2026-06-03T08:59:07Z*
