@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-03T22:56:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-04T08:23:41Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
+- [U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
+- [Dumbphone 2](https://dumb.co/)
+- [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)
+- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+- ["They're made out of weights"](https://maxleiter.com/blog/weights)
+- [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
+- [A Mathematician's Lament (2002) [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 - [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
-- [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
-- [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
-- [Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)](https://github.com/tastyeffectco/sandboxes)
-- [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)
-- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
-- [Rootshell: A new E2EE email service hosted in Iceland](https://rootshell.is)
-- [Embryos shape their limbs: a key discovery of "genetic brakes"](https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes)
-- [Launch HN: Hyper (YC P26) – Company brain to power agentic development](https://news.ycombinator.com/item?id=48387095)
-- [Gooey: A GPU-accelerated UI framework for Zig](https://github.com/duanebester/gooey)
+- [A Man Who Reads Books for a Living](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
 
-*마지막 업데이트: 2026-06-03T22:56:40Z*
+*마지막 업데이트: 2026-06-04T08:23:41Z*
