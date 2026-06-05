@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-04T22:14:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-05T08:11:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [NSA using Anthropic's Mythos for cyber attacks](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815)
-- [Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)](https://github.com/tejaswigowda/ffmpeg-webCLI)
-- [Iran Shock Jolts Asia and Europe to Speed Up Energy Transition](https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/)
-- [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-- [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
-- [Ask HN: High school student – is learning programming still worthwhile?](https://news.ycombinator.com/item?id=48403614)
-- [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/)
-- [Ask HN: Time loop and partial blackhole?](https://news.ycombinator.com/item?id=48402378)
-- [The desperation of NYTimes](https://rozumem.xyz/posts/16)
-- [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)
+- [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/)
+- [The IsUpMap lets you check the status of over 100 major sites at once](https://isupmap.com/)
+- [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
+- [Magenta RealTime 2: Open and Local Live Music Models](https://magenta.withgoogle.com/magenta-realtime-2)
+- [Linear Cosine Palettes(2025)](https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/)
+- [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
+- [The Causes of Long Covid](https://www.science.org/content/blog-post/causes-long-covid)
+- [Delacroix's Entry of the Crusaders into Constantinople Restored](https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory)
+- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+- [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
 
-*마지막 업데이트: 2026-06-04T22:14:52Z*
+*마지막 업데이트: 2026-06-05T08:11:42Z*
