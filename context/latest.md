@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-06T07:20:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-06T21:54:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
-- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
-- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
-- [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
-- [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
-- [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
-- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
-- [Nordstjernen 1.0](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0)
-- [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
-- [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
+- [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
+- [New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)
+- [Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
+- [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671)
+- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+- [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
+- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
+- [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
+- [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
 
-*마지막 업데이트: 2026-06-06T07:20:07Z*
+*마지막 업데이트: 2026-06-06T21:54:09Z*
