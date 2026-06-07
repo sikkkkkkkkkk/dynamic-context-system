@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-07T07:58:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-07T21:56:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
-- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
-- [The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/)
-- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
-- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
-- [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)
-- [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
-- [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy)
-- [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
-- [An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World](https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight)
+- [Flock license plate reader wrongly linked a San Diego man to a violent crime](https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/)
+- [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
+- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+- [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514)
+- [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
+- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
+- [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt)
+- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/)
+- [The complete IPv4 address space, mapped](https://worldip.io/)
+- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer)
 
-*마지막 업데이트: 2026-06-07T07:58:04Z*
+*마지막 업데이트: 2026-06-07T21:56:37Z*
