@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-06T21:54:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-07T07:58:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
-- [New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)
-- [Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
-- [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671)
-- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
-- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
-- [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
-- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
-- [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
-- [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
+- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
+- [The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/)
+- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
+- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
+- [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)
+- [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
+- [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy)
+- [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
+- [An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World](https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight)
 
-*마지막 업데이트: 2026-06-06T21:54:09Z*
+*마지막 업데이트: 2026-06-07T07:58:04Z*
