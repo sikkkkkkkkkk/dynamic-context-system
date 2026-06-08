@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-07T21:56:37Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-08T08:58:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Flock license plate reader wrongly linked a San Diego man to a violent crime](https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/)
-- [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
-- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
-- [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514)
-- [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
-- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
-- [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt)
-- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/)
-- [The complete IPv4 address space, mapped](https://worldip.io/)
-- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer)
+- [The Cypherpunk Library](https://www.cypherpunkbooks.com)
+- [GitHub Is Down](https://www.githubstatus.com/incidents/m7n7sm0sr1pz)
+- [Do agents.md files help coding agents?](https://twitter.com/rasbt/status/2063649136323252397)
+- [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
+- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+- [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
+- [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/)
+- [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
+- [DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)
 
-*마지막 업데이트: 2026-06-07T21:56:37Z*
+*마지막 업데이트: 2026-06-08T08:58:56Z*
