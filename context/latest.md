@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-08T08:58:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-08T22:17:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Cypherpunk Library](https://www.cypherpunkbooks.com)
-- [GitHub Is Down](https://www.githubstatus.com/incidents/m7n7sm0sr1pz)
-- [Do agents.md files help coding agents?](https://twitter.com/rasbt/status/2063649136323252397)
-- [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
-- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
-- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
-- [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
-- [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/)
-- [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
-- [DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)
+- [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- [FrontierCode](https://cognition.ai/blog/frontier-code)
+- [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
+- [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
+- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+- [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
+- [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative)
+- [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
+- [Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)
+- [Siri AI](https://www.apple.com/apple-intelligence/)
 
-*마지막 업데이트: 2026-06-08T08:58:56Z*
+*마지막 업데이트: 2026-06-08T22:17:56Z*
