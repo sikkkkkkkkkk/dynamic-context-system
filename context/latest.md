@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-08T22:17:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-09T07:56:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
+- [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
+- [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
+- [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
+- [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
+- [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
 - [FrontierCode](https://cognition.ai/blog/frontier-code)
 - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
-- [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
-- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-- [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
-- [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative)
-- [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
-- [Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)
-- [Siri AI](https://www.apple.com/apple-intelligence/)
 
-*마지막 업데이트: 2026-06-08T22:17:56Z*
+*마지막 업데이트: 2026-06-09T07:56:10Z*
