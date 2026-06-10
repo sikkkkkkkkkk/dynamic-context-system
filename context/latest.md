@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-10T08:12:26Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-10T22:45:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/)
-- [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)
-- [The Evolution of 'More Like This'](https://manticoresearch.com/blog/the-evolution-of-more-like-this/)
-- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
-- [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
-- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
-- [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
-- [Surprise, Pay $1000](https://forestwalk.ai/blog/surprise-blacksmith-costs/)
-- [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
-- [Exif Smuggling (2025)](https://github.com/signalblur/exifsmugglingpoc)
+- [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
+- [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
+- [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
+- [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
+- [πFS](https://github.com/philipl/pifs)
+- [Anthropic's model naming, extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
+- [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
+- [GeoLibre 1.0](https://geolibre.app/)
+- [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
+- [Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use](https://github.com/anthropics/claude-code/issues/29045)
 
-*마지막 업데이트: 2026-06-10T08:12:26Z*
+*마지막 업데이트: 2026-06-10T22:45:34Z*
