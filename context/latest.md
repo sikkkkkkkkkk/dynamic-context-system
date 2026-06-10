@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-09T22:16:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-10T08:12:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/)
+- [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)
+- [The Evolution of 'More Like This'](https://manticoresearch.com/blog/the-evolution-of-more-like-this/)
+- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+- [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+- [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
+- [Surprise, Pay $1000](https://forestwalk.ai/blog/surprise-blacksmith-costs/)
 - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
-- [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
-- [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
-- [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
-- [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
-- [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
-- [Ask HN: Are you still using a Vision Pro?](https://news.ycombinator.com/item?id=48465702)
-- [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
-- [Where is the AI jobs crisis?](https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis)
-- [The LD_DEBUG environment variable (2012)](https://bnikolic.co.uk/blog/linux-ld-debug.html)
+- [Exif Smuggling (2025)](https://github.com/signalblur/exifsmugglingpoc)
 
-*마지막 업데이트: 2026-06-09T22:16:44Z*
+*마지막 업데이트: 2026-06-10T08:12:26Z*
