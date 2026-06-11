@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-10T22:45:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-11T08:50:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items)
+- [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
+- [Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki)
+- [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
+- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+- [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
 - [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-- [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
-- [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
-- [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
+- [Raspberry Pi 5 – 16GB RAM](https://www.adafruit.com/product/6125?src=raspberrypi)
 - [πFS](https://github.com/philipl/pifs)
-- [Anthropic's model naming, extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
-- [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
 - [GeoLibre 1.0](https://geolibre.app/)
-- [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
-- [Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use](https://github.com/anthropics/claude-code/issues/29045)
 
-*마지막 업데이트: 2026-06-10T22:45:34Z*
+*마지막 업데이트: 2026-06-11T08:50:09Z*
