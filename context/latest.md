@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-11T08:50:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-11T22:45:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items)
-- [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
-- [Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki)
-- [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-- [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
-- [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-- [Raspberry Pi 5 – 16GB RAM](https://www.adafruit.com/product/6125?src=raspberrypi)
-- [πFS](https://github.com/philipl/pifs)
-- [GeoLibre 1.0](https://geolibre.app/)
+- [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
+- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
+- [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://www.mayrhofer.eu.org/post/leaving-google/)
+- [Show HN: Boo – screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
+- [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
+- [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+- [Ivanti Sentry pre-auth RCE (CVE-2026-10520) – CVSS 10.0, public PoC, CISA KEV](https://hellorecon.com/blog/cve-2026-10520)
+- [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+- [Apple didn't revolutionize power supplies; new transistors did (2012)](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
+- [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
 
-*마지막 업데이트: 2026-06-11T08:50:09Z*
+*마지막 업데이트: 2026-06-11T22:45:37Z*
