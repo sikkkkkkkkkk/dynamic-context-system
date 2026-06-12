@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-12T08:37:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-12T22:16:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/)
-- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
-- [Device Clock Generation (2025)](https://zipcpu.com/blog/2025/12/17/devclk.html)
-- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
-- [Removing 'um' from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
-- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
-- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
-- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-- [Finding Optimal Tokenizers](https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/)
+- [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
+- [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
+- [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
+- [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
+- [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
+- [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
+- [Most Beautiful Will Ever Made (1936)](https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43)
+- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
+- ["Don't You Just Upload It to ChatGPT?"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
+- [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
 
-*마지막 업데이트: 2026-06-12T08:37:31Z*
+*마지막 업데이트: 2026-06-12T22:16:42Z*
