@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-11T22:45:37Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-12T08:37:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
+- [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/)
+- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+- [Device Clock Generation (2025)](https://zipcpu.com/blog/2025/12/17/devclk.html)
+- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
+- [Removing 'um' from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+- [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
 - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-- [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://www.mayrhofer.eu.org/post/leaving-google/)
-- [Show HN: Boo – screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
-- [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
-- [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](https://www.kennethpayne.uk/p/shall-we-play-a-game)
-- [Ivanti Sentry pre-auth RCE (CVE-2026-10520) – CVSS 10.0, public PoC, CISA KEV](https://hellorecon.com/blog/cve-2026-10520)
-- [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
-- [Apple didn't revolutionize power supplies; new transistors did (2012)](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
-- [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
+- [Finding Optimal Tokenizers](https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/)
 
-*마지막 업데이트: 2026-06-11T22:45:37Z*
+*마지막 업데이트: 2026-06-12T08:37:31Z*
