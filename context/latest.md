@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-12T22:16:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-13T07:52:17Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
-- [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
-- [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
-- [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
-- [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
-- [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
-- [Most Beautiful Will Ever Made (1936)](https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43)
-- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
-- ["Don't You Just Upload It to ChatGPT?"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
-- [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
+- [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+- [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
+- [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)
+- [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
+- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+- [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
+- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [Show HN: Putt.day a daily mini golf game](https://putt.day/)
+- [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 
-*마지막 업데이트: 2026-06-12T22:16:42Z*
+*마지막 업데이트: 2026-06-13T07:52:17Z*
