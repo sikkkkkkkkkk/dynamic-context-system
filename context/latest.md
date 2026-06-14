@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-14T08:18:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-14T22:00:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
-- [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)
-- [Tribblix: The retro Illumos distribution](http://tribblix.org/)
-- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
-- [Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
-- [Software Architecture Guide (2019)](https://martinfowler.com/architecture/)
-- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
-- [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
-- [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/)
-- [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
+- [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
+- [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
+- [Vibe Coder vs. Software Engineer](https://yusufaytas.com/vibe-coder-vs-software-engineer)
+- [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+- [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
+- [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+- [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779)
+- [Linux 7.1](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u)
+- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
 
-*마지막 업데이트: 2026-06-14T08:18:36Z*
+*마지막 업데이트: 2026-06-14T22:00:43Z*
