@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-15T10:28:41Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-15T22:53:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Anthropic flies staff to D.C. to clean up White House fight](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable)
-- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
-- [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion)
-- [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
-- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
-- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
-- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
-- [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-- [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)
+- [Swedish parliament abolishes permanent residence visas for migrants](https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/)
+- [Why I Email Complete Strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
+- [Techno-libertarians are flocking to the Caribbean](https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean)
+- [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
+- [Commander Keen Games (free book)](https://forgottenbytes.net/)
+- [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
+- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
+- [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
+- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+- [Show HN: Vet turned founder, AI lawn diagnosis](https://grassdx.com/)
 
-*마지막 업데이트: 2026-06-15T10:28:41Z*
+*마지막 업데이트: 2026-06-15T22:53:27Z*
