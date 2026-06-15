@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-14T22:00:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-15T10:28:41Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
-- [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
-- [Vibe Coder vs. Software Engineer](https://yusufaytas.com/vibe-coder-vs-software-engineer)
-- [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
-- [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
-- [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-- [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779)
-- [Linux 7.1](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u)
-- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
+- [Anthropic flies staff to D.C. to clean up White House fight](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable)
+- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
+- [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion)
+- [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
+- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
+- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
+- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+- [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)
 
-*마지막 업데이트: 2026-06-14T22:00:43Z*
+*마지막 업데이트: 2026-06-15T10:28:41Z*
