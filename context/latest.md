@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-15T22:53:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-16T09:30:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Swedish parliament abolishes permanent residence visas for migrants](https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/)
-- [Why I Email Complete Strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
-- [Techno-libertarians are flocking to the Caribbean](https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean)
-- [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
-- [Commander Keen Games (free book)](https://forgottenbytes.net/)
-- [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
-- [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
-- [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
-- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
-- [Show HN: Vet turned founder, AI lawn diagnosis](https://grassdx.com/)
+- [New way of making espresso with ultrasound](https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso)
+- [Understanding the rationale behind a rule when trying to circumvent it](https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415)
+- [John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
+- [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+- [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
+- [Humanity isn't ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion)
+- [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
+- [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+- [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
+- [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
 
-*마지막 업데이트: 2026-06-15T22:53:27Z*
+*마지막 업데이트: 2026-06-16T09:30:52Z*
