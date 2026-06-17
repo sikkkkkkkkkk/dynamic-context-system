@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-17T09:06:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-17T22:28:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hacker News but for Independent Blogs](https://bubbles.town/)
-- [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)
-- [Why do commercial spaces sit vacant?](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant)
-- [From Chesterton's fence to Chesterton's gap](https://stephantul.github.io/blog/unfence/)
-- [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
-- [Semiclassical Gravity Efficiently Solves NP-Complete Problems](https://arxiv.org/abs/2606.14806)
-- [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)
-- [Wolfram Language and Mathematica version 15](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
-- [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
-- [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+- [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
+- [Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/)
+- [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)
+- [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
+- [A robot is sprinting towards you. Do you want it running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
+- [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
+- [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
+- [Using AI to improve a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
+- [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
+- [Trellis AI (YC W24) hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
 
-*마지막 업데이트: 2026-06-17T09:06:00Z*
+*마지막 업데이트: 2026-06-17T22:28:04Z*
