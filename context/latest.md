@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-16T22:46:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-17T09:06:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/)
-- [GrapheneOS has been ported to Android 17 and official releases are coming soon](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
-- [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs)
-- [Frood, an Alpine Initramfs NAS (2024)](https://words.filippo.io/frood/)
-- [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/)
-- [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
-- [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
-- [10Gb/s Ethernet: switching to a Broadcom SFP+ module](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus)
-- [Has AI already killed self-help nonfiction books?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
-- ['Ghost jobs' could soon be illegal in New York](https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york)
+- [Hacker News but for Independent Blogs](https://bubbles.town/)
+- [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)
+- [Why do commercial spaces sit vacant?](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant)
+- [From Chesterton's fence to Chesterton's gap](https://stephantul.github.io/blog/unfence/)
+- [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
+- [Semiclassical Gravity Efficiently Solves NP-Complete Problems](https://arxiv.org/abs/2606.14806)
+- [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)
+- [Wolfram Language and Mathematica version 15](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
+- [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
+- [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
 
-*마지막 업데이트: 2026-06-16T22:46:10Z*
+*마지막 업데이트: 2026-06-17T09:06:00Z*
