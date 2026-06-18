@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-18T08:50:26Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-18T22:49:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
-- [War Books: The Marine Corps Commandant's 2026 Reading List](https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/)
-- [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
-- [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
-- [DeepSeek Introduces Vision](https://chat.deepseek.com/)
-- [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
-- [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
-- [Nim Conf 2026 (Online, Sat June 20)](https://conf.nim-lang.org/)
-- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
-- [AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
+- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+- [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
+- [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+- [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
+- [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
+- [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
+- [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
+- [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
+- [A website that lists websites to submit your website to](https://www.submission.directory/)
+- [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
 
-*마지막 업데이트: 2026-06-18T08:50:26Z*
+*마지막 업데이트: 2026-06-18T22:49:43Z*
