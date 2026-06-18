@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-17T22:28:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-18T08:50:26Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
-- [Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/)
-- [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)
-- [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
-- [A robot is sprinting towards you. Do you want it running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
-- [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
-- [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
-- [Using AI to improve a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
-- [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
-- [Trellis AI (YC W24) hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
+- [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
+- [War Books: The Marine Corps Commandant's 2026 Reading List](https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/)
+- [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
+- [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
+- [DeepSeek Introduces Vision](https://chat.deepseek.com/)
+- [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
+- [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
+- [Nim Conf 2026 (Online, Sat June 20)](https://conf.nim-lang.org/)
+- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
+- [AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
 
-*마지막 업데이트: 2026-06-17T22:28:04Z*
+*마지막 업데이트: 2026-06-18T08:50:26Z*
