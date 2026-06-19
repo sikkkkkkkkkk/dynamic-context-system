@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-19T09:08:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-19T21:56:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-- [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
-- [Fable Converted Pylint to Rust](https://pypi.org/project/prylint/)
-- [Many Let's Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
-- [Ice water drowning survival of young patient (2025)](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
-- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
-- [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
-- [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
-- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-- [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+- [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
+- [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
+- [Companies rein in AI usage as costs strain budgets](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+- [Big Banana Car](https://bigbananacar.com/)
+- [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
+- [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+- [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
+- [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
+- [Amateur may have cracked Linear A](https://aiclambake.com/clamtakes/linear-a/)
 
-*마지막 업데이트: 2026-06-19T09:08:02Z*
+*마지막 업데이트: 2026-06-19T21:56:29Z*
