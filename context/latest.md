@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-18T22:49:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-19T09:08:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+- [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+- [Fable Converted Pylint to Rust](https://pypi.org/project/prylint/)
+- [Many Let's Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
+- [Ice water drowning survival of young patient (2025)](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+- [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
+- [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
 - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-- [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
 - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
-- [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
-- [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
-- [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
-- [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
-- [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
-- [A website that lists websites to submit your website to](https://www.submission.directory/)
-- [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
 
-*마지막 업데이트: 2026-06-18T22:49:43Z*
+*마지막 업데이트: 2026-06-19T09:08:02Z*
