@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-19T21:56:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-20T07:54:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
-- [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
-- [Companies rein in AI usage as costs strain budgets](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+- [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html)
+- [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
+- [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
+- [Hey, n00b, we didn't hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+- [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
+- [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+- [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
 - [Big Banana Car](https://bigbananacar.com/)
 - [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
-- [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-- [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
-- [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
-- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
-- [Amateur may have cracked Linear A](https://aiclambake.com/clamtakes/linear-a/)
 
-*마지막 업데이트: 2026-06-19T21:56:29Z*
+*마지막 업데이트: 2026-06-20T07:54:16Z*
