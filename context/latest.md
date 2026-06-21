@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-20T21:57:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-21T08:37:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
-- [Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
-- [Seeing the world in radio waves with the QuadRF](https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/)
-- [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
-- [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
-- [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
-- [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
-- [Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions](https://github.com/confh/Tiny)
-- [Show HN: Make PDFs look scanned (CLI or in the browser via WASM)](https://github.com/overflowy/make-look-scanned)
-- [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
+- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+- [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+- [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah)
+- [Public Service Announcement: Don't Say You Use AI for Writing](https://www.satisfice.com/blog/archives/488148)
+- [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
+- [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
+- [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
+- [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
 
-*마지막 업데이트: 2026-06-20T21:57:52Z*
+*마지막 업데이트: 2026-06-21T08:37:46Z*
