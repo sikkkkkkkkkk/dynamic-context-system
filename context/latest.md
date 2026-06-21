@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-21T08:37:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-21T22:06:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
-- [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
-- [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah)
-- [Public Service Announcement: Don't Say You Use AI for Writing](https://www.satisfice.com/blog/archives/488148)
-- [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
-- [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
-- [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
-- [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
-- [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
-- [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
+- [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)
+- [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
+- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [PowerFox Browser](https://powerfox.jazzzny.me/)
+- [Everything Is Logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
+- [Stop wasting tokens and re explaining your project between sessions](https://github.com/raiyanyahya/recall)
+- [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
+- [Show HN: DebugBrief – turn debugging sessions into reports, no AI](https://github.com/harihkk/Debug-Brief)
+- [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
+- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 
-*마지막 업데이트: 2026-06-21T08:37:46Z*
+*마지막 업데이트: 2026-06-21T22:06:48Z*
