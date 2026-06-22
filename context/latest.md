@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-22T09:51:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-22T22:29:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
-- [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
-- [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
-- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
-- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
-- [Sakana Fugu](https://sakana.ai/fugu/)
-- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
-- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
-- [Japanese verb conjugation the simple hard way](https://underreacted.leaflet.pub/3mmevu6woys27)
-- [Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
+- [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
+- [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+- [Tacky men with ridiculous glasses want you to wear them too](https://manualdousuario.net/en/smart-glasses-ugly-tacky/)
+- [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
+- [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
+- [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
+- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
+- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
+- [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
+- [Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed](https://ipvm.com/reports/police-chiefs-track)
 
-*마지막 업데이트: 2026-06-22T09:51:18Z*
+*마지막 업데이트: 2026-06-22T22:29:28Z*
