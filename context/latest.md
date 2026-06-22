@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-21T22:06:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-22T09:51:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)
-- [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
-- [PowerFox Browser](https://powerfox.jazzzny.me/)
-- [Everything Is Logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
-- [Stop wasting tokens and re explaining your project between sessions](https://github.com/raiyanyahya/recall)
-- [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
-- [Show HN: DebugBrief – turn debugging sessions into reports, no AI](https://github.com/harihkk/Debug-Brief)
-- [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
-- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
+- [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
+- [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
+- [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
+- [Sakana Fugu](https://sakana.ai/fugu/)
+- [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
+- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
+- [Japanese verb conjugation the simple hard way](https://underreacted.leaflet.pub/3mmevu6woys27)
+- [Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
 
-*마지막 업데이트: 2026-06-21T22:06:48Z*
+*마지막 업데이트: 2026-06-22T09:51:18Z*
