@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-22T22:29:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-23T07:54:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
-- [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-- [Tacky men with ridiculous glasses want you to wear them too](https://manualdousuario.net/en/smart-glasses-ugly-tacky/)
-- [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
-- [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
-- [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
-- [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
-- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
-- [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
-- [Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed](https://ipvm.com/reports/police-chiefs-track)
+- [Ask HN: Anthropic banned me from using Claude Code and I don't know what to do](https://news.ycombinator.com/item?id=48641160)
+- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+- [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
+- [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
+- [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
+- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+- [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
+- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
+- [OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)
+- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
 
-*마지막 업데이트: 2026-06-22T22:29:28Z*
+*마지막 업데이트: 2026-06-23T07:54:12Z*
