@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-23T07:54:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-23T22:06:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: Anthropic banned me from using Claude Code and I don't know what to do](https://news.ycombinator.com/item?id=48641160)
-- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
-- [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
-- [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
-- [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
-- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
-- [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
-- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
-- [OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)
-- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
+- [WaPo Loves Data Centers More Than Disclosing Bezos's Financial Interest in Them](https://washingtonian.com/2026/06/23/the-washington-post-loves-data-centers-a-lot-more-than-disclosing-jeff-bezos-financial-interest-in-promoting-them/)
+- [German Rail Service Suspended Due to Radio Interference](https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297)
+- [All train services in Germany halted after train radio communications disruption](https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html)
+- [Don't verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
+- [AI Hiring Tools Can Yield Racial Bias and Systemic Rejection](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
+- [Jerry's Map](http://www.jerrysmap.com/the-map)
+- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
+- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
+- [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
+- [San Diego photologs from the 1970s](https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/)
 
-*마지막 업데이트: 2026-06-23T07:54:12Z*
+*마지막 업데이트: 2026-06-23T22:06:44Z*
