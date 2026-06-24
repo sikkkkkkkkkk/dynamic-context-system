@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-24T07:49:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-24T22:05:38Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)
-- [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
-- ["Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf)
-- [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)
-- [The war on terror primed America for autocracy](https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy)
-- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
-- [DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers](https://github.com/End2End-Diffusion/diffusion-bench)
-- [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)
-- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-- [Jerry's Map](http://www.jerrysmap.com/the-map)
+- [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
+- [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
+- [Big AI labs are hiring philosophers](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
+- [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
+- [Exploiting vulnerabilities in Johnson and Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
+- [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
+- [There are a few things that I look back on as my mistakes in the early days](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
+- [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
 
-*마지막 업데이트: 2026-06-24T07:49:21Z*
+*마지막 업데이트: 2026-06-24T22:05:38Z*
