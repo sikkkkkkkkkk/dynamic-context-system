@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-25T07:50:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-25T22:14:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
-- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
-- [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
-- [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
-- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
-- [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
-- [Exploring the internal representations of Pangram 3.3.2](https://www.pangram.com/pangram-space)
-- [Ending respiratory infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
-- [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855)
-- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+- [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
+- [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/)
+- [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
+- [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
+- [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
+- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
+- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
+- [How physicists track and trap the elusive neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
 
-*마지막 업데이트: 2026-06-25T07:50:34Z*
+*마지막 업데이트: 2026-06-25T22:14:11Z*
