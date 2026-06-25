@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-24T22:05:38Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-25T07:50:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
-- [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
-- [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
-- [Big AI labs are hiring philosophers](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
-- [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
-- [Exploiting vulnerabilities in Johnson and Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
-- [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
-- [There are a few things that I look back on as my mistakes in the early days](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
-- [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
+- [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+- [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
+- [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
+- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
+- [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
+- [Exploring the internal representations of Pangram 3.3.2](https://www.pangram.com/pangram-space)
+- [Ending respiratory infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
+- [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855)
+- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
 
-*마지막 업데이트: 2026-06-24T22:05:38Z*
+*마지막 업데이트: 2026-06-25T07:50:34Z*
