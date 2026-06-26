@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-25T22:14:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-26T07:58:22Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
+- [US Govt to individually approve who gets GPT 5.6](https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/)
+- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
+- [Why are we so obsessed with lawns?](https://www.gardensillustrated.com/features/the-history-of-lawns)
+- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
+- [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
+- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)](https://gchandbook.org/)
+- [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
 - [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
-- [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
-- [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/)
-- [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
-- [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
-- [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
-- [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
-- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
-- [How physicists track and trap the elusive neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
 
-*마지막 업데이트: 2026-06-25T22:14:11Z*
+*마지막 업데이트: 2026-06-26T07:58:22Z*
