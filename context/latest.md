@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-27T07:21:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-27T21:51:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
-- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
-- [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
-- [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
-- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
-- [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
-- [Om](https://daringfireball.net/2026/06/om)
-- [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
-- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
+- ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
+- [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
+- [A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting](https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting)
+- [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
+- [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
+- [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
+- [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)
+- [Zuckerberg's war on whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
+- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
+- [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
 
-*마지막 업데이트: 2026-06-27T07:21:52Z*
+*마지막 업데이트: 2026-06-27T21:51:47Z*
