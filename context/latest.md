@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-26T22:00:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-27T07:21:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The National Parks Were Reportedly Told to Stay Silent on Deaths](https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook)
-- [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
-- [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
-- [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
-- [PlayStation Is Deleting 551 Movies from Customers' Accounts](https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013)
-- [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)
-- [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
-- [Slisp: Simple Lisp compiler (Linux/amd64)](https://github.com/skx/slisp)
-- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
-- [Pre-Modern Armies for Worldbuilders, Part III: Paying for It](https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/)
+- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
+- [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
+- [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
+- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
+- [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
+- [Om](https://daringfireball.net/2026/06/om)
+- [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+- [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
 
-*마지막 업데이트: 2026-06-26T22:00:12Z*
+*마지막 업데이트: 2026-06-27T07:21:52Z*
