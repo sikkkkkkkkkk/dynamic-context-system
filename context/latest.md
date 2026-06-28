@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-27T21:51:47Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-28T07:54:17Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
-- [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
-- [A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting](https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting)
-- [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
-- [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
-- [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
-- [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)
-- [Zuckerberg's war on whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
-- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
-- [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
+- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
+- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+- [Feds Killed Polestar and Spared Volvo](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
+- [The best response to AI slop and online noise is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
+- [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
+- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
+- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
+- [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
 
-*마지막 업데이트: 2026-06-27T21:51:47Z*
+*마지막 업데이트: 2026-06-28T07:54:17Z*
