@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-28T07:54:17Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-28T21:52:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
-- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
-- [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
-- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-- [Feds Killed Polestar and Spared Volvo](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
-- [The best response to AI slop and online noise is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
-- [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
-- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
-- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
-- [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
+- [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
+- [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
+- [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+- [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
+- [Do LLMs pass the mirror test?](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test)
+- [Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children)
+- [British Origami: the 1955 exhibition by Akira Yoshizawa](https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/)
+- [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
+- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
+- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 
-*마지막 업데이트: 2026-06-28T07:54:17Z*
+*마지막 업데이트: 2026-06-28T21:52:03Z*
