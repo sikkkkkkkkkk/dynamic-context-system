@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-29T09:02:53Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-29T22:02:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)
-- [Replacing Systemd with OpenRC in Debian](https://danielcordova.me/blog/debian-openrc/)
-- [Lore – Give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
-- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
-- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
-- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
-- [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
-- [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-- [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
-- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
+- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+- [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
+- [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
+- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
+- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+- [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
+- [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
+- [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
+- [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
+- [Working With AI: A concrete example](https://htmx.org/essays/working-with-ai/)
 
-*마지막 업데이트: 2026-06-29T09:02:53Z*
+*마지막 업데이트: 2026-06-29T22:02:29Z*
