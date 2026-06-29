@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-28T21:52:03Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-29T09:02:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
-- [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
+- [US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)
+- [Replacing Systemd with OpenRC in Debian](https://danielcordova.me/blog/debian-openrc/)
+- [Lore – Give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
+- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
+- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+- [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
 - [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-- [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
-- [Do LLMs pass the mirror test?](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test)
-- [Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children)
-- [British Origami: the 1955 exhibition by Akira Yoshizawa](https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/)
 - [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
 - [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 
-*마지막 업데이트: 2026-06-28T21:52:03Z*
+*마지막 업데이트: 2026-06-29T09:02:53Z*
