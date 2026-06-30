@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-30T07:57:50Z -->
+<!-- Dynamic Context Block | Updated: 2026-06-30T22:06:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
-- [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
-- [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
-- [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)
-- [Memory Safe Context Switching](https://fil-c.org/context_switches)
-- [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
-- [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
-- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
-- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
-- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+- [Meta's brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+- [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
+- [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+- [Morbid: Debunking Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
+- [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
+- [Amazon seller reveals glimpse of shadow bribery market](https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers)
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+- [I built a mmWave material classification radar (2025)](https://gauthier-lechevalier.com/radar)
+- [Claude Science](https://claude.com/product/claude-science)
+- [Show HN: My 13-year-old built an ant colony tracker](https://formicarium.es)
 
-*마지막 업데이트: 2026-06-30T07:57:50Z*
+*마지막 업데이트: 2026-06-30T22:06:47Z*
