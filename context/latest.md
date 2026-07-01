@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-06-30T22:06:47Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-01T08:17:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Meta's brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
-- [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
-- [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
-- [Morbid: Debunking Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
-- [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
-- [Amazon seller reveals glimpse of shadow bribery market](https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers)
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
-- [I built a mmWave material classification radar (2025)](https://gauthier-lechevalier.com/radar)
-- [Claude Science](https://claude.com/product/claude-science)
-- [Show HN: My 13-year-old built an ant colony tracker](https://formicarium.es)
+- [Meta is adding rate limits and soft paywall to smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)
+- [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
+- [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
+- [Single header Parser Combinators for C](https://github.com/steve-chavez/CParseC)
+- [ArXiv's Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
+- [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
+- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
+- [Google copybara: moving code between repositories](https://github.com/google/copybara)
+- [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
+- [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
 
-*마지막 업데이트: 2026-06-30T22:06:47Z*
+*마지막 업데이트: 2026-07-01T08:17:40Z*
