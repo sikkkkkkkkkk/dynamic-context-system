@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-01T22:11:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-02T07:37:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Fable open sourced NanoClaw's agent factory. It cost $800](https://twitter.com/Gavriel_Cohen/status/2072432348805669139)
-- [Japan has 41% of the 100-year companies – secrets of 1,447-year survival](https://www.j-times.org/en/media/articles/japan-shinise-1400-years-2026/)
-- [I Left Harry's All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
-- [Qualcomm Linux 2.0](https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available)
-- [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
-- [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
-- [One KW wind turbine without civil engineering](https://www.windtowatt.com/index-en.html)
-- [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)
-- [Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1)
-- [Most rewrites serve the engineer, not the business](https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html)
+- [The gauge broke: devs felt 20% faster with AI, measured 19% slower](https://intrepidkarthi.com/writing/the-gauge-broke/)
+- [CursorBench 3.1](https://cursor.com/evals)
+- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+- [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
+- [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
+- [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+- [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+- [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
+- [The Underhanded C Contest](https://underhanded-c.org/)
+- [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 
-*마지막 업데이트: 2026-07-01T22:11:21Z*
+*마지막 업데이트: 2026-07-02T07:37:29Z*
