@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-02T07:37:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-02T21:56:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The gauge broke: devs felt 20% faster with AI, measured 19% slower](https://intrepidkarthi.com/writing/the-gauge-broke/)
-- [CursorBench 3.1](https://cursor.com/evals)
-- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
-- [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
-- [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
-- [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
-- [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
-- [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
-- [The Underhanded C Contest](https://underhanded-c.org/)
-- [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+- [US State of Virginia Bans Sale of Geolocation Data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+- [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
+- [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
+- [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
+- [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
+- [A New Catalog of Stellar Rotation Periods for over a Million Stars](https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/)
+- [The Short Leash AI Coding Method for Beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+- [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
+- [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
+- [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
 
-*마지막 업데이트: 2026-07-02T07:37:29Z*
+*마지막 업데이트: 2026-07-02T21:56:55Z*
