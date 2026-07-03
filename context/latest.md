@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-03T07:29:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-03T21:54:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515)
-- [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://stefan.schueller.net/posts/the-free-market-lie/)
-- [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
-- [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
-- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
-- [Right to Local Intelligence](https://righttointelligence.org/)
-- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
-- [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
-- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+- [Show HN: Updated my landing page with Fable (retro pixel style)](https://www.tryguildly.com/)
+- [AI First: How the Federal Government Is Prioritizing AI over People and Planet](https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first)
+- [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
+- [Show HN: ContextCodeCache in Rust](https://github.com/colwill/ccc)
+- [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
+- [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html)
+- [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
+- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
+- [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
+- [Kagi Changelog (July 2): Heads, tails, and an AI toggle](https://kagi.com/changelog#10959)
 
-*마지막 업데이트: 2026-07-03T07:29:51Z*
+*마지막 업데이트: 2026-07-03T21:54:35Z*
