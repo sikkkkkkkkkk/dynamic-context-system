@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-02T21:56:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-03T07:29:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [US State of Virginia Bans Sale of Geolocation Data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-- [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
-- [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
-- [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
-- [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
-- [A New Catalog of Stellar Rotation Periods for over a Million Stars](https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/)
-- [The Short Leash AI Coding Method for Beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
-- [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
-- [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
-- [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
+- [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515)
+- [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://stefan.schueller.net/posts/the-free-market-lie/)
+- [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
+- [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
+- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+- [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
+- [Right to Local Intelligence](https://righttointelligence.org/)
+- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+- [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
+- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 
-*마지막 업데이트: 2026-07-02T21:56:55Z*
+*마지막 업데이트: 2026-07-03T07:29:51Z*
