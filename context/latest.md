@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-03T21:54:35Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-04T06:52:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Updated my landing page with Fable (retro pixel style)](https://www.tryguildly.com/)
-- [AI First: How the Federal Government Is Prioritizing AI over People and Planet](https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first)
-- [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
-- [Show HN: ContextCodeCache in Rust](https://github.com/colwill/ccc)
-- [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
-- [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html)
-- [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
-- [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
-- [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
-- [Kagi Changelog (July 2): Heads, tails, and an AI toggle](https://kagi.com/changelog#10959)
+- [Bloomberg Terminal Is Ugly and Clunky–Everyone Still Uses It](https://oztalking.com/en/issues/bloomberg-terminal-lock-in)
+- [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
+- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
+- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
+- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
+- [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
+- [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
+- [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+- [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
 
-*마지막 업데이트: 2026-07-03T21:54:35Z*
+*마지막 업데이트: 2026-07-04T06:52:53Z*
