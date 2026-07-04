@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-04T06:52:53Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-04T21:45:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bloomberg Terminal Is Ugly and Clunky–Everyone Still Uses It](https://oztalking.com/en/issues/bloomberg-terminal-lock-in)
-- [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
-- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
-- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
-- [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
-- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
-- [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
-- [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
-- [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
-- [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+- [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
+- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+- [Wicklow hotel cancels 'secretive' Peter Thiel group conference](https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/)
+- [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
+- [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+- [Game Boy Advance Dev: Logging to the Console](https://www.mattgreer.dev/blog/gba-dev-logging/)
+- [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
+- [Plein Air](https://art.joonas.wtf/)
+- [Finland's last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
+- [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
 
-*마지막 업데이트: 2026-07-04T06:52:53Z*
+*마지막 업데이트: 2026-07-04T21:45:18Z*
