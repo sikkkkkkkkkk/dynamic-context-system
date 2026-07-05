@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-04T21:45:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-05T07:33:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
-- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
-- [Wicklow hotel cancels 'secretive' Peter Thiel group conference](https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/)
-- [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
-- [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
-- [Game Boy Advance Dev: Logging to the Console](https://www.mattgreer.dev/blog/gba-dev-logging/)
-- [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
-- [Plein Air](https://art.joonas.wtf/)
-- [Finland's last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
-- [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
+- [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
+- [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/)
+- [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
+- [Beeg float library, a Rust port of Fabrice Bellard's libbf](https://github.com/lifthrasiir/libbeef)
+- [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
+- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+- [Binary Coverage the Wrong Way](https://redvice.org/2026/coverage-the-wrong-way/)
+- [Moby Dick Workout](https://www.hogbaysoftware.com/posts/moby-dick-workout/)
+- [My ASN Journey series (2024)](https://www.animmouse.com/p/my-asn-journey/)
+- [Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
 
-*마지막 업데이트: 2026-07-04T21:45:18Z*
+*마지막 업데이트: 2026-07-05T07:33:04Z*
