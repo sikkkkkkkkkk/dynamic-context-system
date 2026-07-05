@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-05T07:33:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-05T21:48:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
-- [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/)
-- [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
-- [Beeg float library, a Rust port of Fabrice Bellard's libbf](https://github.com/lifthrasiir/libbeef)
-- [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
-- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
-- [Binary Coverage the Wrong Way](https://redvice.org/2026/coverage-the-wrong-way/)
-- [Moby Dick Workout](https://www.hogbaysoftware.com/posts/moby-dick-workout/)
-- [My ASN Journey series (2024)](https://www.animmouse.com/p/my-asn-journey/)
-- [Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
+- [Completing a Computer Science Degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
+- [Reparaible and open source paper printer](https://www.opentools.studio/)
+- [Dungeon Proof Crawler: learn how to write proofs with RPG](https://dhilst.github.io/algae/game/index.html)
+- [Y Combinator.singles](https://www.ycombinator.singles/)
+- [Pint in England](https://dispatch-media.com/the-best-pint-in-england/)
+- [Dependencies should be fetched directly from VCS](https://www.arp242.net/deps-vcs.html)
+- [Show HN: Osint tool that finds exposed files on domains](https://search.cerast-intelligence.com/)
+- [Trouble Transitioning (2025)](https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning)
+- [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
+- [The full stack of terminals explained](https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/)
 
-*마지막 업데이트: 2026-07-05T07:33:04Z*
+*마지막 업데이트: 2026-07-05T21:48:27Z*
