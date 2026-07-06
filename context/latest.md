@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-06T08:26:47Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-06T22:04:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
-- [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
-- [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
-- [The Sneakerweb](https://sneakerweb.org/)
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-- [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
-- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-- [Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)
-- [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
-- [Composite Video on the NES: Why's it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
+- [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
+- [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
+- [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
+- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+- [Linux on the Atari Jaguar](https://cakehonolulu.github.io/linux-for-jaguar/)
+- [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
+- [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape)
+- [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
 
-*마지막 업데이트: 2026-07-06T08:26:47Z*
+*마지막 업데이트: 2026-07-06T22:04:49Z*
