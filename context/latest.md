@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-05T21:48:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-06T08:26:47Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Completing a Computer Science Degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
-- [Reparaible and open source paper printer](https://www.opentools.studio/)
-- [Dungeon Proof Crawler: learn how to write proofs with RPG](https://dhilst.github.io/algae/game/index.html)
-- [Y Combinator.singles](https://www.ycombinator.singles/)
-- [Pint in England](https://dispatch-media.com/the-best-pint-in-england/)
-- [Dependencies should be fetched directly from VCS](https://www.arp242.net/deps-vcs.html)
-- [Show HN: Osint tool that finds exposed files on domains](https://search.cerast-intelligence.com/)
-- [Trouble Transitioning (2025)](https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning)
-- [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
-- [The full stack of terminals explained](https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/)
+- [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
+- [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
+- [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
+- [The Sneakerweb](https://sneakerweb.org/)
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
+- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+- [Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)
+- [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
+- [Composite Video on the NES: Why's it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
 
-*마지막 업데이트: 2026-07-05T21:48:27Z*
+*마지막 업데이트: 2026-07-06T08:26:47Z*
