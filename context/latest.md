@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-06T22:04:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-07T07:48:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
-- [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
-- [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
-- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
-- [Linux on the Atari Jaguar](https://cakehonolulu.github.io/linux-for-jaguar/)
-- [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
-- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
-- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
-- [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape)
-- [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
+- [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+- [Show HN: InstantVideos.org – short documentaries in ~30 seconds](https://instantvideos.org/)
+- [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
+- [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
+- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+- [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
+- [Poly/ML – A Standard ML Implementation](https://github.com/polyml/polyml)
+- [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
 
-*마지막 업데이트: 2026-07-06T22:04:49Z*
+*마지막 업데이트: 2026-07-07T07:48:07Z*
