@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-07T07:48:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-07T22:03:24Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
-- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
-- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-- [Show HN: InstantVideos.org – short documentaries in ~30 seconds](https://instantvideos.org/)
-- [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
-- [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
-- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
-- [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
-- [Poly/ML – A Standard ML Implementation](https://github.com/polyml/polyml)
-- [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
+- [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
+- [Men's average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
+- [Show HN: Davit, a Apple Containers UI](https://davit.app)
+- [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
+- [Astro 7.0](https://astro.build/blog/astro-7/)
+- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
+- [Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli)
+- [Notes on Software Quality](https://anthonyhobday.com/blog/20260410)
+- [l: A new runtime for k and q](https://lv1.sh/)
+- [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
 
-*마지막 업데이트: 2026-07-07T07:48:07Z*
+*마지막 업데이트: 2026-07-07T22:03:24Z*
