@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-07T22:03:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-08T06:34:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
-- [Men's average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
-- [Show HN: Davit, a Apple Containers UI](https://davit.app)
-- [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
-- [Astro 7.0](https://astro.build/blog/astro-7/)
-- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
-- [Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli)
-- [Notes on Software Quality](https://anthonyhobday.com/blog/20260410)
-- [l: A new runtime for k and q](https://lv1.sh/)
-- [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
+- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+- [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
+- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
+- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+- [LineageOS Statistics](https://stats.lineageos.org)
+- [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
+- [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
+- [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 
-*마지막 업데이트: 2026-07-07T22:03:24Z*
+*마지막 업데이트: 2026-07-08T06:34:03Z*
