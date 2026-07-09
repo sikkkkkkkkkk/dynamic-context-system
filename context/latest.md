@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-09T07:44:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-09T22:11:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
-- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
-- [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
-- [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
-- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
-- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
-- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
-- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
-- [Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
+- [Show HN: Rubiks Cube Solver](https://speedcube.com.br/)
+- [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
+- [Show HN: RandoFont – A browser for Google Fonts](https://randofont.alesh.com)
+- [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
+- [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
+- [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
+- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+- [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+- [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
 
-*마지막 업데이트: 2026-07-09T07:44:59Z*
+*마지막 업데이트: 2026-07-09T22:11:51Z*
