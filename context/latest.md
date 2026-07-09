@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-08T21:56:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-09T07:44:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
-- [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
-- [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
-- [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
-- [Multigres Supports Listen/Notify Across Pooled Connections](https://multigres.com/blog/listen-notify)
-- [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
-- [FAANG Simulator](https://www.abeyk.com/escape-the-rat-race/)
-- [Show HN: Hnwork.app – UI for Who is hiring posts](https://hnwork.app/)
-- [Cloudflare Drop](https://www.cloudflare.com/drop/)
-- [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
+- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
+- [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+- [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
+- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
+- [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
+- [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
+- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+- [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
+- [Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
 
-*마지막 업데이트: 2026-07-08T21:56:59Z*
+*마지막 업데이트: 2026-07-09T07:44:59Z*
