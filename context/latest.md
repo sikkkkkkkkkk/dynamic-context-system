@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-10T07:42:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-10T21:49:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-- [Study: "Mommy, do you love your phone more than me?"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
-- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
-- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
-- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
-- [GPT-5.6](https://openai.com/index/gpt-5-6/)
-- [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
-- [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
-- [Hy3](https://hy.tencent.com/research/hy3)
-- [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
+- [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
+- [GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models)
+- [Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker](https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html)
+- [Don't discontinue Gemini 2.5 Flash](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246)
+- [An Update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
+- [Materials innovation has a scale-up problem, not discovery](https://www.atomscale.ai/updates/our-thesis-atom-to-scale)
+- [How the terrorist group Boko Haram uses frontier AI](https://casp.ac/reports/ai-enabled-terrorism)
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
+- [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
+- [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
 
-*마지막 업데이트: 2026-07-10T07:42:52Z*
+*마지막 업데이트: 2026-07-10T21:49:29Z*
