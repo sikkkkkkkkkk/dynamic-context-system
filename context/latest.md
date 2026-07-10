@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-09T22:11:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-10T07:42:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Rubiks Cube Solver](https://speedcube.com.br/)
-- [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
-- [Show HN: RandoFont – A browser for Google Fonts](https://randofont.alesh.com)
-- [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
-- [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
-- [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
+- [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
+- [Study: "Mommy, do you love your phone more than me?"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
+- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
+- [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 - [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
-- [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
+- [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
+- [Hy3](https://hy.tencent.com/research/hy3)
+- [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
 
-*마지막 업데이트: 2026-07-09T22:11:51Z*
+*마지막 업데이트: 2026-07-10T07:42:52Z*
