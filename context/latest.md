@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-11T21:37:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-12T06:42:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)
-- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
-- [The Chinese Voice Actor Forced to Prove He's Human](https://www.sixthtone.com/news/1018753)
-- [How to hide from killer drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
-- [ZeroFS vs. Amazon S3 Files](https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/)
-- [AI 2040 and the cult of intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
-- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
-- [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
-- [BLISS](https://en.wikipedia.org/wiki/BLISS)
-- [Leaded gas was a known poison the day it was invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
+- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
+- [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+- [Why are US consumers so angry? It's not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
+- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+- [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
+- [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
+- [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
+- [A pure scheme web programming tool](https://goeteia.dev)
+- [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
+- [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
 
-*마지막 업데이트: 2026-07-11T21:37:43Z*
+*마지막 업데이트: 2026-07-12T06:42:25Z*
