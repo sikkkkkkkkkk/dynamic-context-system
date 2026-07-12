@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-12T06:42:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-12T21:37:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
-- [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
-- [Why are US consumers so angry? It's not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
-- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
-- [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
-- [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
-- [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
-- [A pure scheme web programming tool](https://goeteia.dev)
-- [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
-- [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
+- [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
+- [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
+- [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/)
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+- [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+- [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
+- [Neocities: Create your own free website](https://neocities.org/)
+- [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
+- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
 
-*마지막 업데이트: 2026-07-12T06:42:25Z*
+*마지막 업데이트: 2026-07-12T21:37:37Z*
