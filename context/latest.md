@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-12T21:37:37Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-13T07:28:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
-- [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
-- [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/)
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
-- [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
-- [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
-- [Neocities: Create your own free website](https://neocities.org/)
-- [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
-- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
+- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+- [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
+- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
+- [Count Binface](https://countbinface.com)
+- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
+- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+- [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+- [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
+- [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
 
-*마지막 업데이트: 2026-07-12T21:37:37Z*
+*마지막 업데이트: 2026-07-13T07:28:52Z*
