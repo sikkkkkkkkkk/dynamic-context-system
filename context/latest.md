@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-13T07:28:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-13T21:42:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
-- [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
-- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
-- [Count Binface](https://countbinface.com)
-- [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
-- [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
-- [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
-- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
-- [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
-- [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
+- [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
+- [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
+- [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
+- [Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box](https://github.com/yeet-src/sigwire)
+- [The security checks in every Lionshead PR](https://lionshead.digital/notes/the-security-checks-in-every-lionshead-pr)
+- [Samsung will delete your health data if you don't let them use it to train AI](https://neow.in/cWsyMTV3)
+- [Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py)
+- [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)
+- [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
+- [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me)
 
-*마지막 업데이트: 2026-07-13T07:28:52Z*
+*마지막 업데이트: 2026-07-13T21:42:36Z*
