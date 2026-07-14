@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-14T06:18:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-14T21:44:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
-- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
-- [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
-- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-- [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)
-- [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
-- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
-- [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
-- [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
-- [The Economics of Recursive Self-Improvement [pdf]](https://elasticity.institute/rsi-paper.pdf)
+- [StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
+- [Show HN: A Free RSS reader with a configurable recommendation engine](https://sprinklz.io/feed/home)
+- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
+- [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
+- [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
+- [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
+- [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
+- [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
 
-*마지막 업데이트: 2026-07-14T06:18:13Z*
+*마지막 업데이트: 2026-07-14T21:44:32Z*
