@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-13T21:42:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-14T06:18:13Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
-- [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
-- [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
-- [Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box](https://github.com/yeet-src/sigwire)
-- [The security checks in every Lionshead PR](https://lionshead.digital/notes/the-security-checks-in-every-lionshead-pr)
-- [Samsung will delete your health data if you don't let them use it to train AI](https://neow.in/cWsyMTV3)
-- [Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py)
-- [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)
-- [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
-- [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me)
+- [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
+- [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)
+- [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
+- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
+- [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
+- [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
+- [The Economics of Recursive Self-Improvement [pdf]](https://elasticity.institute/rsi-paper.pdf)
 
-*마지막 업데이트: 2026-07-13T21:42:36Z*
+*마지막 업데이트: 2026-07-14T06:18:13Z*
