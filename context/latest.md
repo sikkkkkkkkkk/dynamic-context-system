@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-15T06:21:33Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-15T21:44:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
-- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
-- [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
-- [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
-- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
-- [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
-- [Probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
-- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
-- [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
-- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+- [The End of Creativity](https://hugodaniel.com/posts/the-end-of-creativity/)
+- [Must actively fund open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+- [Show HN: Firefox in WebAssembly](https://developer.puter.com/labs/firefox-wasm/)
+- [Grok Build is open source](https://x.ai/open-source)
+- [Grok Build](https://github.com/xai-org/grok-build)
+- [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
+- [Voxatron](https://www.lexaloffle.com/voxatron.php)
+- [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
+- [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
 
-*마지막 업데이트: 2026-07-15T06:21:33Z*
+*마지막 업데이트: 2026-07-15T21:44:43Z*
