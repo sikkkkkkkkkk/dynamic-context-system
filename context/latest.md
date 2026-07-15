@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-14T21:44:32Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-15T06:21:33Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
-- [Show HN: A Free RSS reader with a configurable recommendation engine](https://sprinklz.io/feed/home)
-- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
-- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
-- [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
-- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-- [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
-- [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
-- [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
-- [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
+- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
+- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
+- [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
+- [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
+- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
+- [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
+- [Probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
+- [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
+- [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
+- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
 
-*마지막 업데이트: 2026-07-14T21:44:32Z*
+*마지막 업데이트: 2026-07-15T06:21:33Z*
