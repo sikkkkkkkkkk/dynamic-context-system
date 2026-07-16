@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-16T06:25:03Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-16T21:53:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [DJB Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
-- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
-- [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
-- [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
-- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
-- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1)
-- [1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored](https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html)
-- [Open Source, Free Tier Capable Whispr Using Cloudflare AI](https://github.com/PrestigePvP/Voicebox)
-- [Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859)
-- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
+- [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
+- [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
+- [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
+- [Show HN: Libretto PR agents – Automatically fix failing playwright scripts](https://libretto.sh/debug-agents)
+- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+- [The privacy problems hidden in your period tracker](https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details)
+- [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
+- [AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes](https://nicholas-afk.github.io/AttoChess/)
+- [CD sales growth outpaced vinyl in the first half of 2026](https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/)
+- [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 
-*마지막 업데이트: 2026-07-16T06:25:03Z*
+*마지막 업데이트: 2026-07-16T21:53:34Z*
