@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-15T21:44:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-16T06:25:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The End of Creativity](https://hugodaniel.com/posts/the-end-of-creativity/)
-- [Must actively fund open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
-- [Show HN: Firefox in WebAssembly](https://developer.puter.com/labs/firefox-wasm/)
-- [Grok Build is open source](https://x.ai/open-source)
-- [Grok Build](https://github.com/xai-org/grok-build)
-- [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
-- [Voxatron](https://www.lexaloffle.com/voxatron.php)
-- [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
+- [DJB Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+- [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
+- [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
+- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
+- [Making 768 servers look like 1](https://planetscale.com/blog/making-768-servers-look-like-1)
+- [1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored](https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html)
+- [Open Source, Free Tier Capable Whispr Using Cloudflare AI](https://github.com/PrestigePvP/Voicebox)
+- [Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859)
+- [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
 
-*마지막 업데이트: 2026-07-15T21:44:43Z*
+*마지막 업데이트: 2026-07-16T06:25:03Z*
