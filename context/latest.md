@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-17T06:22:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-17T21:39:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
-- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-- [UIUC AI Teaching Assistant](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc)
-- [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
-- [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
-- [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
-- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
-- [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
-- ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
-- [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+- [ICE Flight Monitor Interactive Dashboard](https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard)
+- [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
+- [Lego building instructions through time](https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time)
+- [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
+- [Homomorphically encrypted CIFAR-10 inference in 200ms](https://sofar.belfortlabs.cloud/)
+- [Workspaces – Explore the workspaces of modern creators](https://workspaces.xyz/)
+- [Frame – Linux X server in Assembly](https://isene.org/2026/07/Frame.html)
+- [The state of open source AI](https://stateofopensource.ai/)
 
-*마지막 업데이트: 2026-07-17T06:22:46Z*
+*마지막 업데이트: 2026-07-17T21:39:49Z*
