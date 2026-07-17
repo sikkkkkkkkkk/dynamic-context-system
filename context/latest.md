@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-16T21:53:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-17T06:22:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
-- [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
-- [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
-- [Show HN: Libretto PR agents – Automatically fix failing playwright scripts](https://libretto.sh/debug-agents)
-- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
-- [The privacy problems hidden in your period tracker](https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details)
-- [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
-- [AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes](https://nicholas-afk.github.io/AttoChess/)
-- [CD sales growth outpaced vinyl in the first half of 2026](https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/)
-- [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
+- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
+- [UIUC AI Teaching Assistant](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc)
+- [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
+- [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
+- [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
+- [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
+- [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
+- ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
+- [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 
-*마지막 업데이트: 2026-07-16T21:53:34Z*
+*마지막 업데이트: 2026-07-17T06:22:46Z*
