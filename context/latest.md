@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-17T21:39:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-18T06:10:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
-- [ICE Flight Monitor Interactive Dashboard](https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard)
-- [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
-- [Lego building instructions through time](https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time)
-- [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
-- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
-- [Homomorphically encrypted CIFAR-10 inference in 200ms](https://sofar.belfortlabs.cloud/)
-- [Workspaces – Explore the workspaces of modern creators](https://workspaces.xyz/)
-- [Frame – Linux X server in Assembly](https://isene.org/2026/07/Frame.html)
-- [The state of open source AI](https://stateofopensource.ai/)
+- [Mac gaming is finally getting the overpowered upgrade it deserves](https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html)
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+- [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+- [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+- [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
+- [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+- [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
+- [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 
-*마지막 업데이트: 2026-07-17T21:39:49Z*
+*마지막 업데이트: 2026-07-18T06:10:29Z*
