@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-18T06:10:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-18T21:38:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mac gaming is finally getting the overpowered upgrade it deserves](https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html)
-- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
-- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
-- [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
-- [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
-- [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
-- [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
-- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
-- [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
-- [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+- [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434)
+- [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
+- [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
+- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
+- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
+- [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
+- [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/)
+- [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
+- [The Fermi Paradox, Percolation, and Inbreeding](https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/)
+- [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
 
-*마지막 업데이트: 2026-07-18T06:10:29Z*
+*마지막 업데이트: 2026-07-18T21:38:23Z*
