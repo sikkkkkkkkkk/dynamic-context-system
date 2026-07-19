@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-19T06:36:37Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-19T21:39:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
-- [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
-- [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
-- [Deepsec](https://github.com/vercel-labs/deepsec)
-- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
-- [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
-- [Codex Resets](https://codex-resets.com/)
-- [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-- [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
+- [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
+- [Heavy TV watching associated with smaller brain structures, study finds](https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/)
+- [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
+- [Orion Browser by Kagi](https://orionbrowser.com/)
+- [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
+- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
+- [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired)
+- [Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+- [C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)](https://retrogamecoders.com/c64-basic-dungeon-part8/)
+- [Natural experiments prove phytoplankton carbon removal works](https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding)
 
-*마지막 업데이트: 2026-07-19T06:36:37Z*
+*마지막 업데이트: 2026-07-19T21:39:32Z*
