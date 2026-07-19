@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-18T21:38:23Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-19T06:36:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434)
-- [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
-- [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
-- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
-- [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
-- [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
-- [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/)
-- [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
-- [The Fermi Paradox, Percolation, and Inbreeding](https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/)
-- [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
+- [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
+- [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
+- [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
+- [Deepsec](https://github.com/vercel-labs/deepsec)
+- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+- [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
+- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
+- [Codex Resets](https://codex-resets.com/)
+- [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+- [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
 
-*마지막 업데이트: 2026-07-18T21:38:23Z*
+*마지막 업데이트: 2026-07-19T06:36:37Z*
