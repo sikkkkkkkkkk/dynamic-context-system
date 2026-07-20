@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-20T06:54:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-20T21:53:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/)
-- [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
-- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
-- [Power companies are using eminent domain to seize land for data centers](https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/)
-- [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)
-- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
-- [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios)
-- [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer)
-- [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
-- [Orion Browser by Kagi](https://orionbrowser.com/)
+- [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
+- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
+- [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
+- [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
+- [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
+- [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)
+- [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
+- [Kimi Work](https://www.kimi.com/products/kimi-work)
+- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+- [How we measured AI writing across arXiv, and where the measurement breaks](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 
-*마지막 업데이트: 2026-07-20T06:54:21Z*
+*마지막 업데이트: 2026-07-20T21:53:51Z*
