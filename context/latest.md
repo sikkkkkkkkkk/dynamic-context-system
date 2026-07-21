@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-21T06:35:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-21T21:52:17Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/)
-- [Zoom is now Chrome only](https://zoom.us/test)
-- [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
-- [Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
-- [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
-- [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
-- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
-- [A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm](https://github.com/Qbix/webserver/blob/main/README.md)
-- [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
-- [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
+- ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
+- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
+- [Unified power-user environment and knowledge-representation in Common Lisp](https://project-mage.org/)
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
+- [Advertise in ChatGPT](https://ads.openai.com/)
+- [The Price of Happiness (2024)](https://happiness-science.org/price-of-happiness/)
+- [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater)
+- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
+- [AI Agent – TRMNL](https://help.trmnl.com/en/articles/14130438-ai-agent)
 
-*마지막 업데이트: 2026-07-21T06:35:14Z*
+*마지막 업데이트: 2026-07-21T21:52:17Z*
