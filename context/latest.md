@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-21T21:52:17Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-22T06:35:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
-- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
-- [Unified power-user environment and knowledge-representation in Common Lisp](https://project-mage.org/)
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
-- ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
-- [Advertise in ChatGPT](https://ads.openai.com/)
-- [The Price of Happiness (2024)](https://happiness-science.org/price-of-happiness/)
-- [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater)
-- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-- [AI Agent – TRMNL](https://help.trmnl.com/en/articles/14130438-ai-agent)
+- [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
+- [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
+- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
+- [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
+- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
+- [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+- [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
+- [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+- [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
 
-*마지막 업데이트: 2026-07-21T21:52:17Z*
+*마지막 업데이트: 2026-07-22T06:35:54Z*
