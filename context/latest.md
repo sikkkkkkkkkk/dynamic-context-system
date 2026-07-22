@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-22T06:35:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-22T21:54:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
-- [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
-- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
-- [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
-- [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
-- [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
-- [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
-- [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
-- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
-- [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
+- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
+- [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
+- [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
+- [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
+- [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
+- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
+- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
+- [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
 
-*마지막 업데이트: 2026-07-22T06:35:54Z*
+*마지막 업데이트: 2026-07-22T21:54:31Z*
