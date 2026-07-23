@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-22T21:54:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-23T06:35:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)
+- [Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
+- [Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs](https://arxiv.org/abs/2607.20386)
+- [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
+- [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
+- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
+- [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
+- [All 253 Patterns from Christopher Alexander's a Pattern Language Summarized](https://claytondorge.com/patterns-list)
 - [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
-- [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
-- [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
 - [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
-- [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
-- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
-- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
-- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
-- [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
 
-*마지막 업데이트: 2026-07-22T21:54:31Z*
+*마지막 업데이트: 2026-07-23T06:35:18Z*
