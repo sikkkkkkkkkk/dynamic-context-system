@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-23T21:54:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-24T06:32:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Namecheap Gave My Account to an Unverified Third Party Just Because They Asked](https://news.ycombinator.com/item?id=49028037)
+- [For most US drivers, EVs offer emissions benefits and cost savings](https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512)
+- [Show HN: A factory simulator game built on Spreadsheets](https://www.logisheets.com/?craft=factory-simulator)
+- [The Visual 6502](http://visual6502.org/JSSim/index.html)
+- [98.css](https://jdan.github.io/98.css/#status-bar)
 - [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
+- [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
 - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
-- [Selfie for sign-in: a new, easy way to access your Google Account](https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/)
 - [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
 - [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
-- [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
-- [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos)
-- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
-- [The arguments against open source AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
+- [Why Sony can't bring back its classic Walkman models](https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman)
 
-*마지막 업데이트: 2026-07-23T21:54:12Z*
+*마지막 업데이트: 2026-07-24T06:32:48Z*
