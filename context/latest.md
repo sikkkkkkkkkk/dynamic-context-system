@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-24T06:32:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-24T21:53:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [For most US drivers, EVs offer emissions benefits and cost savings](https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512)
-- [Show HN: A factory simulator game built on Spreadsheets](https://www.logisheets.com/?craft=factory-simulator)
-- [The Visual 6502](http://visual6502.org/JSSim/index.html)
-- [98.css](https://jdan.github.io/98.css/#status-bar)
-- [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
-- [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
-- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
-- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
-- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
-- [Why Sony can't bring back its classic Walkman models](https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman)
+- [Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)](https://github.com/apresta/max-studio-tools)
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+- [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
+- [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
+- [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/)
+- [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+- [Unitree As2-W](https://www.unitree.com/As2-W/)
+- [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
 
-*마지막 업데이트: 2026-07-24T06:32:48Z*
+*마지막 업데이트: 2026-07-24T21:53:18Z*
