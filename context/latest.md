@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-25T06:24:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-25T21:42:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
-- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
-- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
-- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
-- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
-- [Unitree As2-W](https://www.unitree.com/As2-W/)
-- [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
+- [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
+- [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
+- [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
+- [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
+- [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)
+- [Rauno's Field Notes #2](https://rauno.me/notes/2)
+- [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
+- [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
+- [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
+- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 
-*마지막 업데이트: 2026-07-25T06:24:13Z*
+*마지막 업데이트: 2026-07-25T21:42:16Z*
