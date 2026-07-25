@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-24T21:53:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-25T06:24:13Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)](https://github.com/apresta/max-studio-tools)
+- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
+- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
-- [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
-- [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/)
-- [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+- [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 - [Unitree As2-W](https://www.unitree.com/As2-W/)
 - [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
 
-*마지막 업데이트: 2026-07-24T21:53:18Z*
+*마지막 업데이트: 2026-07-25T06:24:13Z*
