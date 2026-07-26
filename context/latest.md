@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-25T21:42:16Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-26T06:42:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
-- [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
-- [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
-- [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
-- [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)
-- [Rauno's Field Notes #2](https://rauno.me/notes/2)
-- [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
-- [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
-- [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
-- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+- [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
+- [Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
+- [JetZero](https://www.jetzero.aero)
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
+- [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/)
+- [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
+- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
+- [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
+- [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
-*마지막 업데이트: 2026-07-25T21:42:16Z*
+*마지막 업데이트: 2026-07-26T06:42:11Z*
