@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-26T06:42:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-26T21:46:22Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
-- [Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
-- [JetZero](https://www.jetzero.aero)
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
-- [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/)
-- [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
-- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
-- [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
-- [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
+- [Multiway Turing Machines (2021 pre-ai)](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)
+- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
+- [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+- [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
+- [What does GitHub's security team even do?](https://orchidfiles.com/github-security-team/)
+- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
+- [It's not empowering to hand off the details](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/)
+- [How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster](https://astgrep.com/blog/tree-sitter-rust-rewrite)
 
-*마지막 업데이트: 2026-07-26T06:42:11Z*
+*마지막 업데이트: 2026-07-26T21:46:22Z*
