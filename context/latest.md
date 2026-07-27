@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-27T07:39:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-27T21:55:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
-- [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
-- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
-- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
-- [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
-- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
-- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
-- [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
-- [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+- [Forth](https://xkcd.com/3277/)
+- [Platform engineering 2.0 mitigates AI security and compliance risks](https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks)
+- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
+- [The Author of Clean Code No Longer Reviews AI-Generated Code](https://news.ycombinator.com/item?id=49074693)
+- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
+- [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
+- [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
+- [Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/)
+- [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/)
 
-*마지막 업데이트: 2026-07-27T07:39:19Z*
+*마지막 업데이트: 2026-07-27T21:55:20Z*
