@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-26T21:46:22Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-27T07:39:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Multiway Turing Machines (2021 pre-ai)](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)
+- [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
+- [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
+- [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+- [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
+- [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
 - [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
 - [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
-- [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
-- [What does GitHub's security team even do?](https://orchidfiles.com/github-security-team/)
-- [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
-- [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
-- [It's not empowering to hand off the details](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/)
-- [How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster](https://astgrep.com/blog/tree-sitter-rust-rewrite)
 
-*마지막 업데이트: 2026-07-26T21:46:22Z*
+*마지막 업데이트: 2026-07-27T07:39:19Z*
