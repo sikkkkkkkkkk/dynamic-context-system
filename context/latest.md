@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-28T06:32:57Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-28T21:53:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
-- [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
-- [PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
-- [Show HN: A 6M-token movable window on a single 46GB GPU](https://arxiv.org/abs/2607.23806)
-- [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
-- [The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)
-- [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
-- [An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan](https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man)
-- [EYG: A Programming Language for Humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
-- [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
+- [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
+- [Recursion is lying to you](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
+- [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
+- [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
+- [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
+- [The iPhone Upgrade Program is being replaced by Apple Upgrade](https://www.apple.com/shop/iphone/iphone-upgrade-program)
+- [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
+- [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
+- [WOFF 1.0: a milestone on W3C's journey of fonts on the web](https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/)
 
-*마지막 업데이트: 2026-07-28T06:32:57Z*
+*마지막 업데이트: 2026-07-28T21:53:44Z*
