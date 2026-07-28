@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-27T21:55:20Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-28T06:32:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Forth](https://xkcd.com/3277/)
-- [Platform engineering 2.0 mitigates AI security and compliance risks](https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks)
-- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
-- [The Author of Clean Code No Longer Reviews AI-Generated Code](https://news.ycombinator.com/item?id=49074693)
-- [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
-- [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
-- [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
-- [Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/)
-- [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/)
+- [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
+- [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
+- [PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
+- [Show HN: A 6M-token movable window on a single 46GB GPU](https://arxiv.org/abs/2607.23806)
+- [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
+- [The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)
+- [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
+- [An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan](https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man)
+- [EYG: A Programming Language for Humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
+- [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
 
-*마지막 업데이트: 2026-07-27T21:55:20Z*
+*마지막 업데이트: 2026-07-28T06:32:57Z*
