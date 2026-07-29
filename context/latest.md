@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-29T06:37:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-29T21:44:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
-- [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
-- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
-- [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
-- [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
-- [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
-- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
-- [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
-- [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
-- [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/)
+- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+- [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+- [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
+- [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
+- [Claude: Elevated errors across all models](https://status.claude.com/incidents/q2kg8n613kr3)
+- [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
+- [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
+- [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
+- [The growing threat of Docusign phishing attacks (2024)](https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks)
 
-*마지막 업데이트: 2026-07-29T06:37:58Z*
+*마지막 업데이트: 2026-07-29T21:44:56Z*
