@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-28T21:53:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-29T06:37:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
-- [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
-- [Recursion is lying to you](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
-- [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
-- [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
-- [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
-- [The iPhone Upgrade Program is being replaced by Apple Upgrade](https://www.apple.com/shop/iphone/iphone-upgrade-program)
-- [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
-- [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
-- [WOFF 1.0: a milestone on W3C's journey of fonts on the web](https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/)
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+- [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
+- [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
+- [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
+- [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
+- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
+- [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
+- [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
+- [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/)
 
-*마지막 업데이트: 2026-07-28T21:53:44Z*
+*마지막 업데이트: 2026-07-29T06:37:58Z*
