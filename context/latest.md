@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-29T21:44:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-30T06:33:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [1,741 "informed" consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
+- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
+- [Logic for Programmers](https://logicforprogrammers.com/)
+- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
+- [The Productivity Mirage](https://frantic.im/mirage/)
+- [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
+- [LLM Honeypot](https://llm2human.pages.dev/)
 - [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-- [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
-- [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
-- [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
-- [Claude: Elevated errors across all models](https://status.claude.com/incidents/q2kg8n613kr3)
-- [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
-- [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
-- [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
-- [The growing threat of Docusign phishing attacks (2024)](https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks)
+- [The Cold Email](https://zachholman.com/posts/cold-email)
 
-*마지막 업데이트: 2026-07-29T21:44:56Z*
+*마지막 업데이트: 2026-07-30T06:33:28Z*
