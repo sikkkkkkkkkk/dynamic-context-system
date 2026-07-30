@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-30T06:33:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-30T21:57:01Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [1,741 "informed" consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
-- [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
-- [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
-- [Logic for Programmers](https://logicforprogrammers.com/)
-- [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
-- [The Productivity Mirage](https://frantic.im/mirage/)
-- [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
-- [LLM Honeypot](https://llm2human.pages.dev/)
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-- [The Cold Email](https://zachholman.com/posts/cold-email)
+- [Man seeks millions after being shot by police in game-related swatting incident](https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/)
+- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
+- [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+- [Making Postgres queues scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
+- [So you want to use plants to reduce CO₂](https://dynomight.net/plants/)
+- [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
+- [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
+- [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
+- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
+- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 
-*마지막 업데이트: 2026-07-30T06:33:28Z*
+*마지막 업데이트: 2026-07-30T21:57:01Z*
