@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-30T21:57:01Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-31T06:50:07Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Man seeks millions after being shot by police in game-related swatting incident](https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/)
-- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
-- [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
-- [Making Postgres queues scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
-- [So you want to use plants to reduce CO₂](https://dynomight.net/plants/)
-- [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
-- [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
-- [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
-- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+- [Human Honeypot](https://human2llm.pages.dev/)
+- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
+- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
+- [The session you cannot take with you](https://earendil.com/posts/session-portability/)
+- [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
+- [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
+- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
+- [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
 
-*마지막 업데이트: 2026-07-30T21:57:01Z*
+*마지막 업데이트: 2026-07-31T06:50:07Z*
