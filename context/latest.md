@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-31T06:50:07Z -->
+<!-- Dynamic Context Block | Updated: 2026-07-31T21:55:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Human Honeypot](https://human2llm.pages.dev/)
-- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
-- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
-- [The session you cannot take with you](https://earendil.com/posts/session-portability/)
-- [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
-- [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
-- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
-- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-- [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
+- [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
+- [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+- [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
+- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+- [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
+- [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)
+- [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
+- [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
+- [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
+- [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
 
-*마지막 업데이트: 2026-07-31T06:50:07Z*
+*마지막 업데이트: 2026-07-31T21:55:10Z*
