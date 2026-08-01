@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-01T06:35:39Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-01T21:42:41Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
-- [What Liberal Arts Education Is for (2024)](https://innig.net/teaching/liberal-arts-manifesto)
-- [BMW Spider-Man in-car advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
-- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
-- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
-- [A Week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
-- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
-- [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
-- [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
-- [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+- [Diátaxis](https://diataxis.fr/)
+- [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
+- [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
+- [Google has abandoned Google News?](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
+- [Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]](https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf)
+- [CISA Alert: Water Sector PLC Targeting](https://censys.com/blog/cisa-alert-water-tower-plc-targeting/)
+- [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+- [Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets](https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets)
+- [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
+- [NetBSD 11.0](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 
-*마지막 업데이트: 2026-08-01T06:35:39Z*
+*마지막 업데이트: 2026-08-01T21:42:41Z*
