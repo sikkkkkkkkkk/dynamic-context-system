@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-07-31T21:55:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-01T06:35:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
+- [What Liberal Arts Education Is for (2024)](https://innig.net/teaching/liberal-arts-manifesto)
+- [BMW Spider-Man in-car advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
+- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
+- [A Week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+- [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
 - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
-- [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
-- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
-- [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
-- [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)
-- [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
-- [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
-- [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
-- [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
 
-*마지막 업데이트: 2026-07-31T21:55:10Z*
+*마지막 업데이트: 2026-08-01T06:35:39Z*
