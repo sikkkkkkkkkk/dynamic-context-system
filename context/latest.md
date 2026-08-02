@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-01T21:42:41Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-02T06:38:57Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Diátaxis](https://diataxis.fr/)
-- [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
-- [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
-- [Google has abandoned Google News?](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
-- [Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]](https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf)
-- [CISA Alert: Water Sector PLC Targeting](https://censys.com/blog/cisa-alert-water-tower-plc-targeting/)
-- [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
-- [Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets](https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets)
-- [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
-- [NetBSD 11.0](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
+- [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
+- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+- [Linux desktop market share has hit over 10% in North America](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
+- [Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific)
+- [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
+- [When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
+- [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+- [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
+- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+- [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
 
-*마지막 업데이트: 2026-08-01T21:42:41Z*
+*마지막 업데이트: 2026-08-02T06:38:57Z*
