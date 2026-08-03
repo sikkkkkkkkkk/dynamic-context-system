@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-03T07:35:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-03T21:56:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
-- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
-- [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
-- [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
-- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
-- [Show HN: ssh ssh.place](https://ssh.place)
-- [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+- [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
+- [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
+- [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+- [KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
+- [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+- [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
+- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
+- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
+- [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/)
 
-*마지막 업데이트: 2026-08-03T07:35:11Z*
+*마지막 업데이트: 2026-08-03T21:56:31Z*
