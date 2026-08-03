@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-02T21:42:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-03T07:35:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust](https://github.com/0xchasercat/draco/)
-- [AI Mania: From Tulips to Tokens](https://seanhelvey.com/tools-and-their-tools/)
-- [EU Age Verification Project Mandates Hardware-Bound Attestation](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
-- [Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)
-- [Sharing an X11 Server Across Hosts with FamilyWild](https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/)
-- [Let the Machines In](https://blog.semenzin.com/let-the-machines-in/)
-- [Adding Go's Defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
-- [Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](https://github.com/paoloanzn/microcodex)
-- [TinyNES Review – A Super Niche NES Console](https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/)
-- [My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."](https://frogs.vaguespac.es/)
+- [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
+- [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
+- [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
+- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+- [Show HN: ssh ssh.place](https://ssh.place)
+- [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
 
-*마지막 업데이트: 2026-08-02T21:42:42Z*
+*마지막 업데이트: 2026-08-03T07:35:11Z*
