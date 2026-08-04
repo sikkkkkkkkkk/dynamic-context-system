@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-04T06:33:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-04T22:02:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/)
-- [The Myth, the Mythos, and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
-- [Why did we wait so long for the bicycle? (2019)](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
-- [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
-- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
-- [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-- [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
-- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
+- [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
+- [Thanks FedEx, This Is Why We Keep Getting Phished (2024)](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
+- [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
+- [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
+- [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
+- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
+- [Web Security is Too Hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
+- [Blackmail Fail (2013)](https://gwern.net/blackmail)
+- [Why some people mow a lawn better than others](https://pudding.cool/2026/06/mow/)
+- [Hop.earth – OpenStreetMap based car racing game](https://hop.earth/?server=lkhr7&route=fQ5nuu9R)
 
-*마지막 업데이트: 2026-08-04T06:33:34Z*
+*마지막 업데이트: 2026-08-04T22:02:31Z*
