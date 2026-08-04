@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-03T21:56:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-04T06:33:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/)
+- [The Myth, the Mythos, and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
+- [Why did we wait so long for the bicycle? (2019)](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+- [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+- [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
 - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-- [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
-- [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
-- [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
-- [KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
-- [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
-- [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
 - [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
 - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-- [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/)
+- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
 
-*마지막 업데이트: 2026-08-03T21:56:31Z*
+*마지막 업데이트: 2026-08-04T06:33:34Z*
