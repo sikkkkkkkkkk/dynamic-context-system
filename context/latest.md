@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-04T22:02:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-05T06:34:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
-- [Thanks FedEx, This Is Why We Keep Getting Phished (2024)](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
-- [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
-- [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
-- [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
-- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
-- [Web Security is Too Hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
-- [Blackmail Fail (2013)](https://gwern.net/blackmail)
-- [Why some people mow a lawn better than others](https://pudding.cool/2026/06/mow/)
-- [Hop.earth – OpenStreetMap based car racing game](https://hop.earth/?server=lkhr7&route=fQ5nuu9R)
+- [The sale of Electronic Arts has been finalized](https://www.bbc.com/news/articles/cjejyl34345o)
+- [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
+- [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla)
+- [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221)
+- [Bugtraq is back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
+- [Flowise is shutting down](https://flowiseai.com/sunset)
+- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
+- [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
+- [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
+- [Show HN: SIMD Viterbi Decoder in Rust](https://github.com/brian-armstrong/fec)
 
-*마지막 업데이트: 2026-08-04T22:02:31Z*
+*마지막 업데이트: 2026-08-05T06:34:16Z*
