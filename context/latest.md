@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-05T06:34:16Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-05T22:03:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The sale of Electronic Arts has been finalized](https://www.bbc.com/news/articles/cjejyl34345o)
-- [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
-- [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla)
-- [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221)
-- [Bugtraq is back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
-- [Flowise is shutting down](https://flowiseai.com/sunset)
-- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
-- [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
-- [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
-- [Show HN: SIMD Viterbi Decoder in Rust](https://github.com/brian-armstrong/fec)
+- [The Title Cards in Blade Runner Are Fucking Amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+- [Nvidia's Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
+- [Nikita Bier Steps Down as Head of Product at X](https://twitter.com/nikitabier/status/2085105586966827343/)
+- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
+- [OpenAI says my prepaid credits were consumed, refuses to show any record](https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233)
+- [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
+- [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+- [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+- [Sula: A Gemini protocol server written in Scryer Prolog](https://sagredo.dev/projects/sula/)
+- [Zed DeltaDB](https://zed.dev/deltadb)
 
-*마지막 업데이트: 2026-08-05T06:34:16Z*
+*마지막 업데이트: 2026-08-05T22:03:54Z*
