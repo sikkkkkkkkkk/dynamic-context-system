@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-05T22:03:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-06T06:37:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Title Cards in Blade Runner Are Fucking Amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
-- [Nvidia's Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
-- [Nikita Bier Steps Down as Head of Product at X](https://twitter.com/nikitabier/status/2085105586966827343/)
+- [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+- [Ship Safe, an open source security scanner for coding agents](https://github.com/asamassekou10/ship-safe)
+- [Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)
+- [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
+- [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+- [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
+- [I'll be stepping back from leading product for X](https://twitter.com/nikitabier/status/2085105586966827343/)
 - [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
-- [OpenAI says my prepaid credits were consumed, refuses to show any record](https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233)
 - [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
-- [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 - [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
-- [Sula: A Gemini protocol server written in Scryer Prolog](https://sagredo.dev/projects/sula/)
-- [Zed DeltaDB](https://zed.dev/deltadb)
 
-*마지막 업데이트: 2026-08-05T22:03:54Z*
+*마지막 업데이트: 2026-08-06T06:37:16Z*
