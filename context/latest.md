@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-07T21:26:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-08T05:04:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Chasa](https://chasa.io/)
-- [Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
-- [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
-- [Psychological Warfare in Reverse Engineering](https://github.com/xoreaxeaxeax/repsych)
+- [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+- [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+- [Show HN: Modern C++ Build Tools for Module Feature](https://github.com/mcpp-community/mcpp)
+- [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
+- [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
+- [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)
 - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-- [Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
-- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
-- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
-*마지막 업데이트: 2026-08-07T21:26:27Z*
+*마지막 업데이트: 2026-08-08T05:04:05Z*
