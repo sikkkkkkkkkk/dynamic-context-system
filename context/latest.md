@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-08T05:04:05Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-08T21:17:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
-- [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
-- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-- [Show HN: Modern C++ Build Tools for Module Feature](https://github.com/mcpp-community/mcpp)
-- [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
-- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-- [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
-- [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)
-- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+- [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
+- [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+- [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
+- [Amazon Is Creating the Biggest Pollution Source in the Country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
+- [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
+- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+- [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/)
+- [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging)
+- ["Code was never the hard part" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
+- [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
 
-*마지막 업데이트: 2026-08-08T05:04:05Z*
+*마지막 업데이트: 2026-08-08T21:17:54Z*
