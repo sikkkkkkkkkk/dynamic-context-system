@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-09T05:11:17Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-09T21:19:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- ["The original URL for this prediction will no longer be available in 11 years." (2011)](https://longbets.org/601/)
-- [Illinois Just Told Every Operating System to Start Reporting Your Kid's Age](https://itsfoss.com/news/illinois-age-verification-bill/)
-- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
-- [ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
-- [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
-- [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers)
-- [TheoremDB · A public workspace for machine mathematics](https://theoremdb.org/)
-- [Melatonin impairs morning cognition in healthy young adults](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
-- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
-- [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+- [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
+- [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
+- [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+- [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+- [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
+- [Plug-In Solar Panels Starting to Sprout in U.S. Backyards](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html)
+- [Saying No](https://rozumem.xyz/posts/19)
+- [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
+- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
 
-*마지막 업데이트: 2026-08-09T05:11:17Z*
+*마지막 업데이트: 2026-08-09T21:19:51Z*
