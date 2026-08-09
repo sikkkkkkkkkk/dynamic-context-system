@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-08T21:17:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-09T05:11:17Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
-- [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
-- [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
-- [Amazon Is Creating the Biggest Pollution Source in the Country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
-- [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
-- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
-- [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/)
-- [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging)
-- ["Code was never the hard part" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
-- [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
+- ["The original URL for this prediction will no longer be available in 11 years." (2011)](https://longbets.org/601/)
+- [Illinois Just Told Every Operating System to Start Reporting Your Kid's Age](https://itsfoss.com/news/illinois-age-verification-bill/)
+- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+- [ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
+- [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
+- [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers)
+- [TheoremDB · A public workspace for machine mathematics](https://theoremdb.org/)
+- [Melatonin impairs morning cognition in healthy young adults](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
+- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+- [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
-*마지막 업데이트: 2026-08-08T21:17:54Z*
+*마지막 업데이트: 2026-08-09T05:11:17Z*
