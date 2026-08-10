@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-09T21:19:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-10T05:38:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
-- [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
-- [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
-- [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
-- [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
-- [Plug-In Solar Panels Starting to Sprout in U.S. Backyards](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html)
-- [Saying No](https://rozumem.xyz/posts/19)
-- [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
+- [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)
+- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
+- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
+- [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
+- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
+- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
+- [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
+- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
 
-*마지막 업데이트: 2026-08-09T21:19:51Z*
+*마지막 업데이트: 2026-08-10T05:38:10Z*
