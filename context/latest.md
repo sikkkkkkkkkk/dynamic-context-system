@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-10T05:38:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-10T21:29:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)
-- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
-- [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
-- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
-- [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
-- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
-- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
-- [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
-- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
+- [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
+- [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
+- [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
+- [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
+- [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
+- [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+- [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
+- [Back to the Future of Handwriting Recognition (2016)](https://jackschaedler.github.io/handwriting-recognition/)
+- [The Tragedy of the Cognitive Commons](https://arxiv.org/abs/2607.29380)
+- [Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11](https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR)
 
-*마지막 업데이트: 2026-08-10T05:38:10Z*
+*마지막 업데이트: 2026-08-10T21:29:56Z*
