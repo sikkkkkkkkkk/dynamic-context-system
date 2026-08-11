@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-11T05:14:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-11T21:33:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
-- [Updated GPG Key for Signing Firefox and Thunderbird Releases](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
-- [Why My Father Is Wrong: A Defense of Guitar Hero](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
-- [Hyperspace](https://hypercritical.co/hyperspace/)
-- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
-- [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
-- [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
+- [AI Is Solving CTF Challenges in Minutes](https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes)
+- [Wisconsin Tracks Man Across State Line with Flock Cameras to Arrest Him for Weed](https://gizmodo.com/wisconsin-cops-tracked-a-man-with-flock-cameras-to-arrest-him-for-weed-2000795424)
+- [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+- [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction)
+- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
+- [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
+- [OpenSSH 10.5/10.5p1](https://www.openssh.org/releasenotes.html#10.5)
+- [CSS properties you should know for better text designs](https://master.dev/blog/typographic-css-tricks/)
+- [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 
-*마지막 업데이트: 2026-08-11T05:14:27Z*
+*마지막 업데이트: 2026-08-11T21:33:18Z*
