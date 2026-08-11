@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-10T21:29:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-11T05:14:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
-- [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
-- [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
-- [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
-- [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
-- [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-- [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
-- [Back to the Future of Handwriting Recognition (2016)](https://jackschaedler.github.io/handwriting-recognition/)
-- [The Tragedy of the Cognitive Commons](https://arxiv.org/abs/2607.29380)
-- [Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11](https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR)
+- [Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
+- [Updated GPG Key for Signing Firefox and Thunderbird Releases](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
+- [Why My Father Is Wrong: A Defense of Guitar Hero](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
+- [Hyperspace](https://hypercritical.co/hyperspace/)
+- [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
+- [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
+- [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
 
-*마지막 업데이트: 2026-08-10T21:29:56Z*
+*마지막 업데이트: 2026-08-11T05:14:27Z*
