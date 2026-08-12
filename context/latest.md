@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-11T21:33:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-12T05:41:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AI Is Solving CTF Challenges in Minutes](https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes)
-- [Wisconsin Tracks Man Across State Line with Flock Cameras to Arrest Him for Weed](https://gizmodo.com/wisconsin-cops-tracked-a-man-with-flock-cameras-to-arrest-him-for-weed-2000795424)
-- [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
-- [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction)
+- [Dropbox, loved by the masses, a shareholder dead end](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
+- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+- [Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+- [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+- [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+- [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
+- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 - [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
-- [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
-- [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
-- [OpenSSH 10.5/10.5p1](https://www.openssh.org/releasenotes.html#10.5)
-- [CSS properties you should know for better text designs](https://master.dev/blog/typographic-css-tricks/)
-- [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 
-*마지막 업데이트: 2026-08-11T21:33:18Z*
+*마지막 업데이트: 2026-08-12T05:41:29Z*
