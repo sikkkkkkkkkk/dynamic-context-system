@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-12T05:41:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-12T21:32:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Dropbox, loved by the masses, a shareholder dead end](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
-- [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
-- [Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
-- [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
-- [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
-- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
-- [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
-- [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
-- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- [Building Security Agents That Cannot Escape Their Trust Boundary](https://cynative.com/blog/agent-trust-boundaries/)
+- [Delta](https://zed.dev/blog/introducing-delta)
+- [People who grew up with high economic connectedness earn more](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
+- [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
+- [Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
+- [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
+- [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
+- [Lovable raises $400M Series C](https://lovable.dev/blog/series-c)
+- [Pixel Watch 5](https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/)
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 
-*마지막 업데이트: 2026-08-12T05:41:29Z*
+*마지막 업데이트: 2026-08-12T21:32:42Z*
