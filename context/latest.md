@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-12T21:32:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-13T05:44:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Building Security Agents That Cannot Escape Their Trust Boundary](https://cynative.com/blog/agent-trust-boundaries/)
+- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
+- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
+- [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
+- [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+- [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 - [Delta](https://zed.dev/blog/introducing-delta)
-- [People who grew up with high economic connectedness earn more](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 - [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
-- [Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
 - [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
-- [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
-- [Lovable raises $400M Series C](https://lovable.dev/blog/series-c)
-- [Pixel Watch 5](https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/)
-- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 
-*마지막 업데이트: 2026-08-12T21:32:42Z*
+*마지막 업데이트: 2026-08-13T05:44:06Z*
