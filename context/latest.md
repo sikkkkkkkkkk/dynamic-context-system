@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-13T05:44:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-13T21:32:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
-- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
-- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
-- [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
-- [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
-- [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
-- [Delta](https://zed.dev/blog/introducing-delta)
-- [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
-- [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
+- [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
+- [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+- [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+- [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- [How Compaction Works in Pi](https://earendil.com/posts/compaction-in-pi/)
+- [Solid 2.0 RC: The Big <Reveal>](https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal)
+- [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
+- [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 
-*마지막 업데이트: 2026-08-13T05:44:06Z*
+*마지막 업데이트: 2026-08-13T21:32:54Z*
