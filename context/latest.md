@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-13T21:32:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-14T05:41:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
+- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+- [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
+- [NP-overrated](https://gruhn.me/blog/2026-08-13/)
 - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 - [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
 - [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
+- [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
 - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
-- [How Compaction Works in Pi](https://earendil.com/posts/compaction-in-pi/)
-- [Solid 2.0 RC: The Big <Reveal>](https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal)
-- [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
-- [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 
-*마지막 업데이트: 2026-08-13T21:32:54Z*
+*마지막 업데이트: 2026-08-14T05:41:23Z*
