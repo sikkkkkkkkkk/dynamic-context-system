@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-14T05:41:23Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-14T21:13:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
-- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
-- [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
-- [NP-overrated](https://gruhn.me/blog/2026-08-13/)
-- [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
-- [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
-- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
-- [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
-- [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
-- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
+- [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
+- [CEO who fired 900 people on Zoom just before Christmas wants his job back](https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo)
+- [Anthropic Risk August 2026 [pdf]](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
+- [Show HN: AletheionAGI – Grounding enforcement for AI agents](https://www.aletheionagi.com)
+- [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
+- [Open WireGuard Endpoints](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
+- [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
+- [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
+- [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)
 
-*마지막 업데이트: 2026-08-14T05:41:23Z*
+*마지막 업데이트: 2026-08-14T21:13:53Z*
