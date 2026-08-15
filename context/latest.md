@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-15T04:37:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-15T21:10:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AI Driven Testing](https://app.deltix.ai)
-- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
-- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
-- [NSA and IETF, Part 9](https://blog.cr.yp.to/20260814-update.html)
-- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
-- [eigendrum](https://eigendrum.com/#p=circle)
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-- [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
-- [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
-- [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
+- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
+- [Meta will train its AI on Newsmax, a far-right media outlet](https://popular.info/p/meta-will-train-its-ai-on-far-right)
+- [Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)
+- [AI in drug discovery — what it is, where we stand and the path forward](https://www.nature.com/articles/s41573-026-01496-2)
+- [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
+- [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
+- [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+- [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
+- [BriskDB](https://github.com/schapman1974/briskdb)
+- [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)
 
-*마지막 업데이트: 2026-08-15T04:37:56Z*
+*마지막 업데이트: 2026-08-15T21:10:02Z*
