@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-14T21:13:53Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-15T04:37:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
+- [AI Driven Testing](https://app.deltix.ai)
+- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
+- [NSA and IETF, Part 9](https://blog.cr.yp.to/20260814-update.html)
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
+- [eigendrum](https://eigendrum.com/#p=circle)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
-- [CEO who fired 900 people on Zoom just before Christmas wants his job back](https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo)
-- [Anthropic Risk August 2026 [pdf]](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
-- [Show HN: AletheionAGI – Grounding enforcement for AI agents](https://www.aletheionagi.com)
-- [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
-- [Open WireGuard Endpoints](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
+- [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 - [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
-- [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
-- [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)
 
-*마지막 업데이트: 2026-08-14T21:13:53Z*
+*마지막 업데이트: 2026-08-15T04:37:56Z*
