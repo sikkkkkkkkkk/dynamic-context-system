@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-15T21:10:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-16T04:41:38Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
-- [Meta will train its AI on Newsmax, a far-right media outlet](https://popular.info/p/meta-will-train-its-ai-on-far-right)
-- [Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)
-- [AI in drug discovery — what it is, where we stand and the path forward](https://www.nature.com/articles/s41573-026-01496-2)
-- [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
-- [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
-- [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
-- [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
-- [BriskDB](https://github.com/schapman1974/briskdb)
-- [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)
+- [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
+- [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
+- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
+- [Guiding Ships with Moire Patterns](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
+- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
+- [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
+- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+- [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](https://arxiv.org/abs/2608.13122)
+- [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
 
-*마지막 업데이트: 2026-08-15T21:10:02Z*
+*마지막 업데이트: 2026-08-16T04:41:38Z*
