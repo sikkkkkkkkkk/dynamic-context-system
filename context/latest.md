@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-16T04:41:38Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-16T21:09:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
-- [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
-- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
-- [Guiding Ships with Moire Patterns](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
-- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
-- [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
-- [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
-- [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](https://arxiv.org/abs/2608.13122)
-- [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
+- [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
+- [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+- [ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days](https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/)
+- [The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank](https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/)
+- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+- [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
+- [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
+- [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
+- [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 
-*마지막 업데이트: 2026-08-16T04:41:38Z*
+*마지막 업데이트: 2026-08-16T21:09:05Z*
