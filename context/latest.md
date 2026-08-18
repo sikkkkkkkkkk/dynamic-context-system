@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-17T21:14:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-18T04:41:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Origin of Consciousness (2008)](https://blog.plover.com/brain/Jaynes.html)
-- [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
-- [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
-- [India has paved the way for charging merchants a fee on UPI transactions](https://www.bbc.com/news/articles/c8xnwqe00v1o)
-- [Los Puesteros, solitary men who look after ranches and livestock in Patagonia](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
-- [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
-- [We Are Forking dotenvy into dotenv-ng](https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/)
-- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
-- [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
-- [An update on leaving Gmail for Fastmail](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/)
+- [What's Better Than Binary? – Advent of Computing Episode 187](https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary)
+- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
+- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+- [scScript for Linux](https://scapplications.com/)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+- [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
+- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+- [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
-*마지막 업데이트: 2026-08-17T21:14:28Z*
+*마지막 업데이트: 2026-08-18T04:41:30Z*
