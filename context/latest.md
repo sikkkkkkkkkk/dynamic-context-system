@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-18T21:12:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-19T04:43:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
-- [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
-- [llms.txt: a proposed standard no major AI platform has confirmed it uses](https://geojacker.com/llms-txt)
-- [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
-- [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
-- [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
-- [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
-- [Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)
-- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
-- [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
+- [OpenLogi](https://openlogi.org/en)
+- [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)
+- [That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/)
+- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
 
-*마지막 업데이트: 2026-08-18T21:12:02Z*
+*마지막 업데이트: 2026-08-19T04:43:04Z*
