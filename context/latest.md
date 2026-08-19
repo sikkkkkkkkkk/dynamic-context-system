@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-19T04:43:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-19T21:14:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
-- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
-- [OpenLogi](https://openlogi.org/en)
-- [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)
-- [That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/)
-- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
-- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
-- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
-- [Cerebras CS-4](https://www.cerebras.ai/cs4)
+- [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
+- [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
+- [XWayland 26.1-rc1 Released Two Years After the Last Release](https://lists.x.org/archives/xorg/2026-August/062280.html)
+- [Digital Immortality](https://dogdogfish.com/blog/2026/08/19/digital-immortality/)
+- [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
+- [Router by Ramp](https://router.com)
+- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+- [Rules of Good Social Skills (2025)](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
+- [Go 1.27](https://go.dev/blog/go1.27)
 
-*마지막 업데이트: 2026-08-19T04:43:04Z*
+*마지막 업데이트: 2026-08-19T21:14:36Z*
