@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-19T21:14:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-20T04:43:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
+- [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
+- [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
+- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
 - [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
-- [XWayland 26.1-rc1 Released Two Years After the Last Release](https://lists.x.org/archives/xorg/2026-August/062280.html)
-- [Digital Immortality](https://dogdogfish.com/blog/2026/08/19/digital-immortality/)
-- [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
-- [Router by Ramp](https://router.com)
+- [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
 - [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 - [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-- [Rules of Good Social Skills (2025)](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
 - [Go 1.27](https://go.dev/blog/go1.27)
 
-*마지막 업데이트: 2026-08-19T21:14:36Z*
+*마지막 업데이트: 2026-08-20T04:43:05Z*
