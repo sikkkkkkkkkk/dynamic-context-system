@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-20T04:43:05Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-20T21:16:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
-- [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
-- [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
-- [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
-- [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
-- [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
-- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
-- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-- [Go 1.27](https://go.dev/blog/go1.27)
+- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+- [Stop eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
+- [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
+- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+- [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
+- [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
+- [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
+- [Watching TikTok and Instagram deactivates the cognitive control network: Study](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
+- [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
+- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 
-*마지막 업데이트: 2026-08-20T04:43:05Z*
+*마지막 업데이트: 2026-08-20T21:16:43Z*
