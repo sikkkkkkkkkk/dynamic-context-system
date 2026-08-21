@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-21T04:45:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-21T21:12:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
-- [Artificial Intelligence Policy](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
-- [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-- [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
-- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-- [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
-- [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
-- [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
+- [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+- [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
+- [Church of the TigerBeetle: A Look at Tech Evangelism](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
+- [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
+- [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
+- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+- [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
+- [Building an (almost) fully self-hosted, sandboxed, agentic software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+- [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
 
-*마지막 업데이트: 2026-08-21T04:45:40Z*
+*마지막 업데이트: 2026-08-21T21:12:21Z*
