@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-20T21:16:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-21T04:45:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
+- [Artificial Intelligence Policy](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
+- [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+- [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
 - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-- [Stop eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
-- [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
-- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-- [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
+- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 - [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
-- [Watching TikTok and Instagram deactivates the cognitive control network: Study](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
 - [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
-- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 
-*마지막 업데이트: 2026-08-20T21:16:43Z*
+*마지막 업데이트: 2026-08-21T04:45:40Z*
