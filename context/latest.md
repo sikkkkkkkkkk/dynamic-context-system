@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-21T21:12:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-22T04:39:37Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
+- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
+- [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
+- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
+- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
 - [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-- [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
-- [Church of the TigerBeetle: A Look at Tech Evangelism](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
-- [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
-- [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+- [Tumble Forth – from assembly to OS with C compiler (2023)](https://tumbleforth.hardcoded.net/)
 - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
-- [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
-- [Building an (almost) fully self-hosted, sandboxed, agentic software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
-- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
-- [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
 
-*마지막 업데이트: 2026-08-21T21:12:21Z*
+*마지막 업데이트: 2026-08-22T04:39:37Z*
