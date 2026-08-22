@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-22T04:39:37Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-22T21:10:20Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
-- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
-- [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
-- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
-- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-- [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
-- [Tumble Forth – from assembly to OS with C compiler (2023)](https://tumbleforth.hardcoded.net/)
-- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+- [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
+- [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
+- [English ↔ Claudish Translator](https://programasweights.com/claudish)
+- [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
+- [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+- [Scrap](https://twitter.com/moxie/status/2091218652133732491)
+- [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
+- [Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729)
 
-*마지막 업데이트: 2026-08-22T04:39:37Z*
+*마지막 업데이트: 2026-08-22T21:10:20Z*
