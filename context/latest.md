@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-23T04:43:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-23T21:10:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
-- [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
-- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
-- [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
-- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
-- [Thinking in Python](https://thinkinginpython.com/)
-- [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+- [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
+- [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
+- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
+- [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
+- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
+- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+- [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
+- [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
+- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 
-*마지막 업데이트: 2026-08-23T04:43:58Z*
+*마지막 업데이트: 2026-08-23T21:10:32Z*
