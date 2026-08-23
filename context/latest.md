@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-22T21:10:20Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-23T04:43:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
-- [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
-- [English ↔ Claudish Translator](https://programasweights.com/claudish)
-- [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
+- [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
+- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+- [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/)
 - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
-- [Scrap](https://twitter.com/moxie/status/2091218652133732491)
-- [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
-- [Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729)
+- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
+- [Thinking in Python](https://thinkinginpython.com/)
+- [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
 
-*마지막 업데이트: 2026-08-22T21:10:20Z*
+*마지막 업데이트: 2026-08-23T04:43:58Z*
