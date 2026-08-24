@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-23T21:10:32Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-24T04:52:41Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -160,4 +160,4 @@
 - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 - [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 
-*마지막 업데이트: 2026-08-23T21:10:32Z*
+*마지막 업데이트: 2026-08-24T04:52:41Z*
