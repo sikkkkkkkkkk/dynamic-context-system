@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-24T21:17:17Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-25T04:46:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
+- [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
+- [Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?](https://news.ycombinator.com/item?id=49428842)
+- [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
+- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
+- [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- [Moon (2024)](https://ciechanow.ski/moon/)
+- [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
 - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
-- [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
-- [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
-- [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
-- [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
-- [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
-- [Octopus intelligence may be related to never-before-seen mutation](https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/)
-- [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4)
-- [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
 
-*마지막 업데이트: 2026-08-24T21:17:17Z*
+*마지막 업데이트: 2026-08-25T04:46:04Z*
