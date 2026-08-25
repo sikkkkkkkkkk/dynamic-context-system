@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-25T04:46:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-25T21:15:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
-- [Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?](https://news.ycombinator.com/item?id=49428842)
-- [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
-- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
-- [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
-- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-- [Moon (2024)](https://ciechanow.ski/moon/)
-- [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
-- [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
+- [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+- [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
+- [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
+- [Clara (YC P26) is hiring a growth engineer to bring AI doctors to market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
+- [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
+- [Show HN: Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
+- [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
+- [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
+- [A new ceiling for Λ: the de Bruijn–Newman constant](https://www.judegomila.com/posts/riemann-lambda-0.1787854)
 
-*마지막 업데이트: 2026-08-25T04:46:04Z*
+*마지막 업데이트: 2026-08-25T21:15:56Z*
