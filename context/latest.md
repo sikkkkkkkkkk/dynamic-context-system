@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-25T21:15:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-26T04:47:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+- [Ask HN: What is one simple thing LLMs are insanely bad at?](https://news.ycombinator.com/item?id=49443820)
+- [Agentic Context Management: Memory and Cost as Architecture Problems](https://arxiv.org/abs/2607.21503)
+- [The brain may be about to have its Ozempic moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+- [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+- [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
+- [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+- [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+- [A brief history of federal lift ticket regulation](https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket)
 - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-- [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
-- [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
-- [Clara (YC P26) is hiring a growth engineer to bring AI doctors to market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
-- [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
-- [Show HN: Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)
-- [Nitter project received cease and desist](https://github.com/zedeus/nitter/issues/1442)
-- [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
-- [A new ceiling for Λ: the de Bruijn–Newman constant](https://www.judegomila.com/posts/riemann-lambda-0.1787854)
 
-*마지막 업데이트: 2026-08-25T21:15:56Z*
+*마지막 업데이트: 2026-08-26T04:47:30Z*
