@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-27T00:19:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-27T15:06:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mechanical Turk shutting down September 30](https://www.mturk.com/)
-- [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
-- [Progress Linux 7.2 – Asahi Linux](https://asahilinux.org/2026/08/progress-report-7-2/)
-- [mold: A Parallel Linker](https://arxiv.org/abs/2608.23228)
-- [IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
-- [Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)
-- [GitHub Outage Tracker: Is GitHub Cooked?](https://isgithubcooked.com/)
-- [Actinide is first startup to produce high-assay low-enriched uranium (HALEU)](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu)
-- [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
-- [The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada](https://thetariffcost.com/)
+- [French CII's Mitra-15 in SIMH. Work in Progress](https://github.com/JPLeRouzic/Mitra-15-for-SIMH)
+- [Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)
+- [507 Mechanical Movements](https://507movements.com/)
+- [Six Months of Writing Code Exclusively with Agents](https://blog.exe.dev/engineering-with-ai)
+- [Harness Engineering](https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/)
+- [Trade (and Tariffs)](https://xkcd.com/3290/)
+- [Did Meta's Big Settlement Actually Help It?](https://www.nytimes.com/2026/08/27/business/dealbook/meta-settlement-teens.html)
+- [CoMaps integration with the wider FLOSS ecosystem – CoMaps](https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/)
+- [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
+- [Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)](https://github.com/issacnitin/RealDiff)
 
-*마지막 업데이트: 2026-08-27T00:19:28Z*
+*마지막 업데이트: 2026-08-27T15:06:15Z*
