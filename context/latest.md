@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-27T15:06:15Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-28T05:00:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [French CII's Mitra-15 in SIMH. Work in Progress](https://github.com/JPLeRouzic/Mitra-15-for-SIMH)
-- [Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)
-- [507 Mechanical Movements](https://507movements.com/)
-- [Six Months of Writing Code Exclusively with Agents](https://blog.exe.dev/engineering-with-ai)
-- [Harness Engineering](https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/)
-- [Trade (and Tariffs)](https://xkcd.com/3290/)
-- [Did Meta's Big Settlement Actually Help It?](https://www.nytimes.com/2026/08/27/business/dealbook/meta-settlement-teens.html)
-- [CoMaps integration with the wider FLOSS ecosystem – CoMaps](https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/)
-- [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
-- [Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)](https://github.com/issacnitin/RealDiff)
+- [Please stop flooding our projects with AI slop to furnish your CV](https://neilalexander.dev/2026/06/30/flooding-contributions)
+- [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
+- [Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)
+- [USDA recalls 30k pounds of Argentine beef sold in Texas and Florida](https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida)
+- [Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html)
+- [Stripe said to abandon $50B pursuit of PayPal](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
+- [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)
+- [Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)
+- [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
 
-*마지막 업데이트: 2026-08-27T15:06:15Z*
+*마지막 업데이트: 2026-08-28T05:00:10Z*
