@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-28T05:00:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-28T16:30:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Please stop flooding our projects with AI slop to furnish your CV](https://neilalexander.dev/2026/06/30/flooding-contributions)
-- [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
-- [Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)
-- [USDA recalls 30k pounds of Argentine beef sold in Texas and Florida](https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida)
-- [Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html)
-- [Stripe said to abandon $50B pursuit of PayPal](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
-- [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)
-- [Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)
-- [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
+- [Nvidia Insists It Can Keep Printing Money to Fund the AI Boom](https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e)
+- [How Dactyl Works](https://dactyl.dev/blog/how-dactyl-works/)
+- [Run Qwen3.8 27B locally: real numbers from my Mac Studio](https://terminalbytes.com/run-qwen-3-8-27b-locally/)
+- [Lake formed after ice-rock avalanche remains at a high level and is overflowing](https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns)
+- [GLM-5.3 is now open-weight](https://twitter.com/Zai_org/status/2093354097122455713)
+- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+- [Don't use musl if you care about performance](https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/)
+- [Africa's Wild Dogs Are the Most Hated Carnivores on the Continent](https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/)
+- [Autistici/Inventati's main .org domain goes dark after US terrorism designation](https://mastodon.bida.im/@cavallette/117172989300228024)
 
-*마지막 업데이트: 2026-08-28T05:00:10Z*
+*마지막 업데이트: 2026-08-28T16:30:08Z*
