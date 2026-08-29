@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-29T10:58:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-29T22:53:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Autistici/inventati: Manifesto – who we are and what do we want (2002)](https://www.inventati.org/who/manifesto)
-- [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
-- [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
-- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
-- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
-- [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
-- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
+- [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
+- [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+- [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
+- [A safe MySQL upgrade that wasn't so safe](https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/)
+- [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958)
+- [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)
+- [vLLM v0.28.0](https://github.com/vllm-project/vllm/releases/tag/v0.28.0)
+- [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
+- [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
-*마지막 업데이트: 2026-08-29T10:58:12Z*
+*마지막 업데이트: 2026-08-29T22:53:19Z*
