@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-29T02:55:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-29T10:58:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Autistici/inventati: Manifesto – who we are and what do we want (2002)](https://www.inventati.org/who/manifesto)
+- [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
 - [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
 - [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
 - [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
 - [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
-- [PPWR lands another blow to an precarious tabletop industry](https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/)
 - [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
 - [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
 - [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
-- [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
 
-*마지막 업데이트: 2026-08-29T02:55:56Z*
+*마지막 업데이트: 2026-08-29T10:58:12Z*
