@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-28T16:30:08Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-29T02:55:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
-- [Nvidia Insists It Can Keep Printing Money to Fund the AI Boom](https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e)
-- [How Dactyl Works](https://dactyl.dev/blog/how-dactyl-works/)
-- [Run Qwen3.8 27B locally: real numbers from my Mac Studio](https://terminalbytes.com/run-qwen-3-8-27b-locally/)
-- [Lake formed after ice-rock avalanche remains at a high level and is overflowing](https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns)
-- [GLM-5.3 is now open-weight](https://twitter.com/Zai_org/status/2093354097122455713)
-- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-- [Don't use musl if you care about performance](https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/)
-- [Africa's Wild Dogs Are the Most Hated Carnivores on the Continent](https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/)
-- [Autistici/Inventati's main .org domain goes dark after US terrorism designation](https://mastodon.bida.im/@cavallette/117172989300228024)
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
+- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
+- [PPWR lands another blow to an precarious tabletop industry](https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/)
+- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
+- [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
+- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
+- [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
 
-*마지막 업데이트: 2026-08-28T16:30:08Z*
+*마지막 업데이트: 2026-08-29T02:55:56Z*
