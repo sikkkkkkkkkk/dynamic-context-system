@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-30T09:52:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-08-30T22:58:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
-- [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
-- [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389)
-- [Iceland rejects reopening talks on EU entry](https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f)
-- [Xcena and Samsung's Near Memory Compute CXL Device](https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs)
-- [California lawmakers unanimously pass Linux exemption from age-verification law](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
-- [Algorithmic rent-pricing litigation expands under new state and local laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
-- [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
-- [Benjamin Franklin's Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
-- [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server)
+- [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html)
+- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
+- [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb)
+- [Artie (YC S23) Is Hiring Technical AES](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
+- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
+- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
+- [Startup Anti-Patterns](https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/)
+- [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement)
+- [Zig: Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27)
 
-*마지막 업데이트: 2026-08-30T09:52:18Z*
+*마지막 업데이트: 2026-08-30T22:58:42Z*
