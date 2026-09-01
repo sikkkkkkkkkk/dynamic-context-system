@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-01T09:19:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-01T22:52:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
-- [Vermell – Minimal, dependency-free C++ web framework using epoll](https://github.com/vermellcc/vermell)
-- [Restroom Archive](https://restroomarchive.com)
-- [GPU World](https://www.gpuworld.org/)
-- [Fastpotify](https://fastpotify.rocks/)
-- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
-- [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
-- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
-- [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
-- [Tmp.0ut Volume 5](https://tmpout.sh/5/)
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+- [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
+- [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/)
+- [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
+- [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
+- [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
+- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
+- [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 
-*마지막 업데이트: 2026-09-01T09:19:14Z*
+*마지막 업데이트: 2026-09-01T22:52:56Z*
