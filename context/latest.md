@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-08-31T10:44:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-01T00:09:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The ISBN was invented in 1970. Your books don't care](https://www.shelvd.org/blog/isbn-invented-1970)
-- [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
-- [Study: Blue light impairs the eye's ability to distinguish fine detail most](https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/)
-- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
-- [Meta Security Researcher's AI Agent Accidentally Deleted Her Emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
-- [A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
-- [uv: Deduplicate all files in the wheel cache](https://github.com/astral-sh/uv/pull/21327)
-- [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
-- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- [Transfer files over an Ethernet patch cable](https://maurycyz.com/misc/etherfiles/)
+- [Run macOS Software on Linux](https://www.darlinghq.org/)
+- [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
+- [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
+- [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+- [Autonomous (YC F25) is hiring engineers](https://news.ycombinator.com/item?id=49514781)
+- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+- [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
+- [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
 
-*마지막 업데이트: 2026-08-31T10:44:27Z*
+*마지막 업데이트: 2026-09-01T00:09:52Z*
