@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-01T00:09:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-01T09:19:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Run macOS Software on Linux](https://www.darlinghq.org/)
-- [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
-- [How we configured OpenTelemetry logs in Rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
-- [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
-- [Autonomous (YC F25) is hiring engineers](https://news.ycombinator.com/item?id=49514781)
-- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
-- [The safest job from AI may be writing](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html)
-- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
-- [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
-- [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
+- [Vermell – Minimal, dependency-free C++ web framework using epoll](https://github.com/vermellcc/vermell)
+- [Restroom Archive](https://restroomarchive.com)
+- [GPU World](https://www.gpuworld.org/)
+- [Fastpotify](https://fastpotify.rocks/)
+- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
+- [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
+- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
+- [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
+- [Tmp.0ut Volume 5](https://tmpout.sh/5/)
 
-*마지막 업데이트: 2026-09-01T00:09:52Z*
+*마지막 업데이트: 2026-09-01T09:19:14Z*
