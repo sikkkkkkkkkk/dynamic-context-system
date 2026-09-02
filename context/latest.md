@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-02T08:40:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-02T22:53:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
-- [WebFPGA](https://webfpga.io/)
-- [True Rate of Unemployment](https://www.lisep.org/tru)
-- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
-- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
-- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
-- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
-- [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/)
-- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
-- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
+- [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
+- [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
+- [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
+- [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+- [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+- [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+- [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+- [Qantas Airbus A380 engine failure in 2010 (2023)](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+- [Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
 
-*마지막 업데이트: 2026-09-02T08:40:58Z*
+*마지막 업데이트: 2026-09-02T22:53:18Z*
