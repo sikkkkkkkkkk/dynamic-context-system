@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-01T22:52:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-02T08:40:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
+- [WebFPGA](https://webfpga.io/)
+- [True Rate of Unemployment](https://www.lisep.org/tru)
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
 - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
-- [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
 - [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/)
-- [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
-- [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
 - [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)
-- [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)
 - [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
-- [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 
-*마지막 업데이트: 2026-09-01T22:52:56Z*
+*마지막 업데이트: 2026-09-02T08:40:58Z*
