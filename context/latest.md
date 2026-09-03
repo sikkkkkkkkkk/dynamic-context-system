@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-02T22:53:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-03T08:49:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/)
-- [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
+- [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
+- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+- [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
+- [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
 - [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
-- [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 - [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
-- [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
 - [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
 - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 - [Qantas Airbus A380 engine failure in 2010 (2023)](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
-- [Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
+- [Async Rust vs RTOS showdown (2022)](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
 
-*마지막 업데이트: 2026-09-02T22:53:18Z*
+*마지막 업데이트: 2026-09-03T08:49:43Z*
