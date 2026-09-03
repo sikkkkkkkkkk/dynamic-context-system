@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-03T08:49:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-03T22:52:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
-- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
-- [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
-- [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
-- [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
-- [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
-- [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
-- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
-- [Qantas Airbus A380 engine failure in 2010 (2023)](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
-- [Async Rust vs RTOS showdown (2022)](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
+- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+- [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+- [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
+- [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+- [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent)
+- [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california)
+- [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/)
+- [Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?](https://news.ycombinator.com/item?id=49551096)
 
-*마지막 업데이트: 2026-09-03T08:49:43Z*
+*마지막 업데이트: 2026-09-03T22:52:30Z*
