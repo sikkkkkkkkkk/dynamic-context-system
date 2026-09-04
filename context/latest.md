@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-03T22:52:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-04T08:45:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
+- [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
+- [A mysterious kidney disease has arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+- [Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu)
+- [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
 - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-- [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
 - [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
-- [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent)
-- [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california)
-- [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/)
-- [Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?](https://news.ycombinator.com/item?id=49551096)
 
-*마지막 업데이트: 2026-09-03T22:52:30Z*
+*마지막 업데이트: 2026-09-04T08:45:09Z*
