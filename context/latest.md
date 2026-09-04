@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-04T08:45:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-04T22:36:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
-- [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
-- [A mysterious kidney disease has arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
-- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
-- [Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu)
-- [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
-- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
-- [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-- [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [Icons as a Service](https://nravic.com/blog/images/)
+- [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+- [Updates on HEIR, the Homomorphic Encryption Compiler Project](https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/)
+- [Some more thoughts on random_page_cost](https://vondra.me/posts/some-more-thoughts-on-random-page-cost/)
+- [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/)
+- [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
+- [An open DNS recursive service for free security and high privacy](https://quad9.net/)
+- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+- [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/)
 
-*마지막 업데이트: 2026-09-04T08:45:09Z*
+*마지막 업데이트: 2026-09-04T22:36:31Z*
