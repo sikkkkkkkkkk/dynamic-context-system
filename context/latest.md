@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-05T08:15:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-05T22:26:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Git hosting that never leaves Europe](https://pushin.eu)
-- [Why are European countries moving their gold out of North America?](https://www.bbc.com/news/articles/cvgyn8q8gqxo)
-- [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
-- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
-- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
-- [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
-- [Connecting every app to every other app](https://blog.val.town/connectors)
-- [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
-- [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
-- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [South African diamond mines are closing due to weak sales and lab-grown stones](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
+- [Lazygit](https://lazygit.dev/)
+- [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+- [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
+- [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
+- [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
+- [The Real Luxuries In Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
+- [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
+- [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+- [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
 
-*마지막 업데이트: 2026-09-05T08:15:43Z*
+*마지막 업데이트: 2026-09-05T22:26:10Z*
