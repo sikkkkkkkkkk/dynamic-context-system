@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-04T22:36:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-05T08:15:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Git hosting that never leaves Europe](https://pushin.eu)
+- [Why are European countries moving their gold out of North America?](https://www.bbc.com/news/articles/cvgyn8q8gqxo)
+- [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
+- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+- [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+- [Connecting every app to every other app](https://blog.val.town/connectors)
+- [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
+- [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
 - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-- [Icons as a Service](https://nravic.com/blog/images/)
-- [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
-- [Updates on HEIR, the Homomorphic Encryption Compiler Project](https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/)
-- [Some more thoughts on random_page_cost](https://vondra.me/posts/some-more-thoughts-on-random-page-cost/)
-- [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/)
-- [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
-- [An open DNS recursive service for free security and high privacy](https://quad9.net/)
-- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
-- [Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/)
 
-*마지막 업데이트: 2026-09-04T22:36:31Z*
+*마지막 업데이트: 2026-09-05T08:15:43Z*
