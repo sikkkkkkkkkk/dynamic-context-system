@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-05T22:26:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-06T08:34:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [South African diamond mines are closing due to weak sales and lab-grown stones](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
-- [Lazygit](https://lazygit.dev/)
+- [Site Is Closed on Sundays](https://v7.robweychert.com/)
+- [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
+- [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
+- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+- [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 - [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
 - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
-- [Isar Aerospace launch into orbit [video]](https://www.youtube.com/watch?v=Ss1DUqLjecc)
 - [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
-- [The Real Luxuries In Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
-- [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
-- [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
-- [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
 
-*마지막 업데이트: 2026-09-05T22:26:10Z*
+*마지막 업데이트: 2026-09-06T08:34:59Z*
