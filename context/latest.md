@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-06T08:34:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-06T22:31:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Site Is Closed on Sundays](https://v7.robweychert.com/)
-- [AMD Based FreeBSD Desktop Reloaded](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
-- [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
-- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
-- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
-- [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
-- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-- [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
-- [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
-- [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
+- [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
+- [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
+- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+- [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
+- [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
+- [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/)
+- [The car industry A/B tested selling a car with and without CarPlay](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/)
+- [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+- [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+- [An Alien Mind](https://openai.com/index/an-alien-mind/)
 
-*마지막 업데이트: 2026-09-06T08:34:59Z*
+*마지막 업데이트: 2026-09-06T22:31:00Z*
