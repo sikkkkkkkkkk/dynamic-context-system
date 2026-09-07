@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-07T09:12:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-07T23:07:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Programming is Art](https://orchidfiles.com/programming-is-art/)
-- [It's time for Mark Zuckerberg to resign from Meta](https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta)
-- [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
-- [Switzerland's Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)
-- [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)
-- [TiVo to charge money for skipping commercials in your own recordings](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
+- [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
+- [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
+- [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+- [Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
+- [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
+- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+- [bzip3](https://github.com/iczelia/bzip3)
+- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+- [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
 - [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
-- [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
-- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
 
-*마지막 업데이트: 2026-09-07T09:12:51Z*
+*마지막 업데이트: 2026-09-07T23:07:28Z*
