@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-06T22:31:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-07T09:12:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Windows 11's "special" developer edition looks like another marketing misfire](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
-- [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
-- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-- [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
-- [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
-- [Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads](https://getvodforge.com/)
-- [The car industry A/B tested selling a car with and without CarPlay](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/)
-- [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
-- [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
-- [An Alien Mind](https://openai.com/index/an-alien-mind/)
+- [Programming is Art](https://orchidfiles.com/programming-is-art/)
+- [It's time for Mark Zuckerberg to resign from Meta](https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta)
+- [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
+- [Switzerland's Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)
+- [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)
+- [TiVo to charge money for skipping commercials in your own recordings](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Has anybody seen my keys? A key-hierarchy strategy for rack-level security](https://rfd.shared.oxide.computer/rfd/0301)
+- [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
 
-*마지막 업데이트: 2026-09-06T22:31:00Z*
+*마지막 업데이트: 2026-09-07T09:12:51Z*
