@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-08T08:47:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-08T23:02:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
-- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-- [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
-- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
-- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
-- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
-- [The VMs Powering Mobile Agents (Instinct, Claude Code)](https://rohanadwankar.github.io/posts/platforms.html)
-- [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
-- [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
-- [GamersNexus and LG: Or why rooting your TV is a bad idea](https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n)
+- [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+- [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+- [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
+- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+- [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+- [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
+- [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116)
+- [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
+- [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
 
-*마지막 업데이트: 2026-09-08T08:47:31Z*
+*마지막 업데이트: 2026-09-08T23:02:10Z*
