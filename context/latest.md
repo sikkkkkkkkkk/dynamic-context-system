@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-07T23:07:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-08T08:47:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
-- [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
-- [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-- [Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
-- [Replaceable but Employed: Automation and the Meaning of Work](https://www.nber.org/papers/w35559)
-- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
-- [bzip3](https://github.com/iczelia/bzip3)
-- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
-- [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
-- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+- [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+- [The VMs Powering Mobile Agents (Instinct, Claude Code)](https://rohanadwankar.github.io/posts/platforms.html)
+- [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
+- [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/)
+- [GamersNexus and LG: Or why rooting your TV is a bad idea](https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n)
 
-*마지막 업데이트: 2026-09-07T23:07:28Z*
+*마지막 업데이트: 2026-09-08T08:47:31Z*
