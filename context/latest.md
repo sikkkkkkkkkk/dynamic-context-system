@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-08T23:02:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-09T08:52:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-- [How to Build a Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-- [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
-- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-- [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
-- [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
-- [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116)
-- [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
-- [Function Arguments Are Not Function Colors](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+- [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
+- [On Really Trying (2009)](https://gwern.net/on-really-trying)
+- [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+- [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
+- [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
+- [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
+- [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
+- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 
-*마지막 업데이트: 2026-09-08T23:02:10Z*
+*마지막 업데이트: 2026-09-09T08:52:52Z*
