@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-09T08:52:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-09T22:49:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
-- [On Really Trying (2009)](https://gwern.net/on-really-trying)
-- [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
-- [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
-- [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
-- [A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
-- [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
-- [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
-- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+- [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)
+- [Matt Mullenweg put on 'leave of absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
+- [iPhone Duo](https://www.apple.com/iphone-duo/)
+- [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
+- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
+- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+- [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+- [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
+- [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
+- [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153)
 
-*마지막 업데이트: 2026-09-09T08:52:52Z*
+*마지막 업데이트: 2026-09-09T22:49:10Z*
