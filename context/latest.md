@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-10T08:51:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-10T22:50:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
-- [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
-- [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
-- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-- [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
-- [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
-- [iPhone Duo](https://www.apple.com/iphone-duo/)
-- [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
-- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
-- [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+- [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+- [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+- [Bodily Oddities](https://vester.si/bodily-oddities/)
+- [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
+- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+- [Creativity is the New Moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
+- [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544)
+- [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+- [Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)
 
-*마지막 업데이트: 2026-09-10T08:51:51Z*
+*마지막 업데이트: 2026-09-10T22:50:05Z*
