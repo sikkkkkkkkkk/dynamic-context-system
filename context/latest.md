@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-09T22:49:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-10T08:51:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [South Park creators rename show 'South America'](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)
-- [Matt Mullenweg put on 'leave of absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
+- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+- [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
+- [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+- [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+- [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
 - [iPhone Duo](https://www.apple.com/iphone-duo/)
-- [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
 - [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
 - [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 - [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
-- [Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
-- [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
-- [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153)
 
-*마지막 업데이트: 2026-09-09T22:49:10Z*
+*마지막 업데이트: 2026-09-10T08:51:51Z*
