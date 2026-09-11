@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-11T08:49:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-11T22:51:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
-- [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
-- [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
-- [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
-- [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
-- [What Comes After Git](https://ersc.io/blog/what-comes-after-git)
-- [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
-- [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
-- [Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)
+- [Project Blinkenlights](https://blinkenlights.de/en/)
+- [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
+- [GPT-6 built this earth exploration site in 5 prompts](https://earth.ethanplus.ai/)
+- [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
+- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+- [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+- [The EPA is planning to scrap public review rules for data center pollution](https://capitalbnews.org/data-centers-permit-rules-epa/)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
 
-*마지막 업데이트: 2026-09-11T08:49:29Z*
+*마지막 업데이트: 2026-09-11T22:51:19Z*
