@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-12T08:33:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-12T22:41:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
-- [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
-- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
-- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
-- [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
-- [Project Blinkenlights](https://blinkenlights.de/en/)
-- [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
-- [Another way to leak traffic on Android has been discovered](https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered)
-- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+- [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
+- [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
+- [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
+- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+- [I made a build visualizer to understand Bun's compile times](https://lalitm.com/post/buildprof/)
 
-*마지막 업데이트: 2026-09-12T08:33:11Z*
+*마지막 업데이트: 2026-09-12T22:41:27Z*
