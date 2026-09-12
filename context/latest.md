@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-11T22:51:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-12T08:33:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+- [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
+- [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+- [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
 - [Project Blinkenlights](https://blinkenlights.de/en/)
 - [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
-- [GPT-6 built this earth exploration site in 5 prompts](https://earth.ethanplus.ai/)
-- [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
+- [Another way to leak traffic on Android has been discovered](https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered)
 - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-- [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
-- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
-- [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
-- [The EPA is planning to scrap public review rules for data center pollution](https://capitalbnews.org/data-centers-permit-rules-epa/)
-- [A misalignment of AI in mathematics](https://mathandai.org/)
 
-*마지막 업데이트: 2026-09-11T22:51:19Z*
+*마지막 업데이트: 2026-09-12T08:33:11Z*
