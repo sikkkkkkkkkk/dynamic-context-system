@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-13T09:22:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-13T22:42:05Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Dramatic insider warnings over AI fall flat with some in Silicon Valley](https://www.bbc.co.uk/news/articles/cq635037g18o)
-- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
-- [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
-- [A succession crisis that tore England apart (2023)](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
-- [Aligned to whom?](https://hyperbo.la/w/aligned-to-whom/)
-- [After Math](https://terrytao.wordpress.com/2026/09/12/after-math/)
-- [The Interim Computer Museum](https://icm.museum/)
-- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
-- [AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)
+- [Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?](https://news.ycombinator.com/item?id=49688761)
+- [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+- [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
+- [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
+- [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
+- [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
+- [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
+- [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/)
+- [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
 
-*마지막 업데이트: 2026-09-13T09:22:52Z*
+*마지막 업데이트: 2026-09-13T22:42:05Z*
