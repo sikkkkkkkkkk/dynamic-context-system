@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-14T09:44:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-14T23:33:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)
-- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
-- [Show HN: 1080p is 920px tall – 1k real browser viewports](https://screensize.net/reports/viewport-stats)
-- [Of Gods and Languages: On "When God Spoke Greek" (2013)](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
-- [Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
-- [OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse)
-- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
-- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
-- [AI Robots – When will they be in our homes](https://spectrum.ieee.org/ai-robots)
-- [Open-source AI and open models reading list](https://www.interconnects.ai/p/open-source-ai-reading-list)
+- [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
+- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
+- [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
+- [GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
+- [Backprop Alternative: Augmented Lagrangian Predictive Coding](https://pub.sakana.ai/pc-alm/)
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%](https://blog.cloudflare.com/automatic-key-exchange-for-origins/)
+- [Cua (YC P25) Is Hiring a Founding Technical GTM Lead](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead)
+- [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
+- [How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)
 
-*마지막 업데이트: 2026-09-14T09:44:52Z*
+*마지막 업데이트: 2026-09-14T23:33:00Z*
