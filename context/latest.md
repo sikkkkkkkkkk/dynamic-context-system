@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-13T22:42:05Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-14T09:44:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?](https://news.ycombinator.com/item?id=49688761)
-- [Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-- [Flawed Routers Flood University of Wisconsin Internet Time Server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
-- [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
-- [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
-- [AI recursive self-improvement might not come so quickly after all (August 2026)](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
-- [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
-- [Global Shortage Has Led to Motor Oil Rationing at Costco](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/)
-- [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
-- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)
+- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
+- [Show HN: 1080p is 920px tall – 1k real browser viewports](https://screensize.net/reports/viewport-stats)
+- [Of Gods and Languages: On "When God Spoke Greek" (2013)](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
+- [Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
+- [OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse)
+- [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
+- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+- [AI Robots – When will they be in our homes](https://spectrum.ieee.org/ai-robots)
+- [Open-source AI and open models reading list](https://www.interconnects.ai/p/open-source-ai-reading-list)
 
-*마지막 업데이트: 2026-09-13T22:42:05Z*
+*마지막 업데이트: 2026-09-14T09:44:52Z*
