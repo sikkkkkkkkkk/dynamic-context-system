@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-15T09:19:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-15T23:15:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
-- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
-- [Linux from Scratch](https://www.linuxfromscratch.org/)
-- [US confirms for first time it has deployed space weapons](https://www.bbc.com/news/articles/ck790xg41ygro)
-- [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
-- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
-- [Backprop Alternative: Augmented Lagrangian Predictive Coding](https://pub.sakana.ai/pc-alm/)
-- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
-- [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
-- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+- [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+- [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
+- [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- [Learning to solve hard problems in RL for LLMs by never giving up](https://mnoukhov.github.io/posts/ngu/)
+- [Chopping up books when they're physically too big](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html)
+- [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
+- [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
+- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
 
-*마지막 업데이트: 2026-09-15T09:19:48Z*
+*마지막 업데이트: 2026-09-15T23:15:48Z*
