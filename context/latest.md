@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-16T09:12:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-16T23:20:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [MartyPC – A Cycle-Accurate IBM PC/XT Emulator](https://github.com/dbalsom/martypc)
-- [A software thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)
-- [Datamimic – don't let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic)
-- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-- [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
-- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
-- [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
-- [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
-- [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
-- [Jean-Pierre Serre turns 100](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+- [Why Does the Universe Expand?](https://cosmicave.org/2026/09/15/why-does-the-universe-expand/)
+- [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
+- [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+- [Reverse-engineered Jev-like model](https://github.com/vinnylarouge/jevlike)
+- [Vectorized and performance-portable Quicksort (2022)](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+- [Training Text-to-Image Models 3.6× Faster](https://www.linum.ai/field-notes/jit-ddt)
 
-*마지막 업데이트: 2026-09-16T09:12:51Z*
+*마지막 업데이트: 2026-09-16T23:20:46Z*
