@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-17T09:21:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-17T23:12:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I didn't sign the Fields medallists' letter](https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/)
-- [AI Safety Is Mostly a Sex Cult](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
-- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
-- [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
-- [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://github.com/browser-use/jev-ultrafast)
-- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
-- [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
-- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
-- [US interest rates raised for first time in three years](https://www.bbc.com/news/articles/cw4gmlyvj422o)
-- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
+- [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
+- [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+- [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+- [The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/)
+- [Show HN: Snapdrop: Instantly share files between devices. No setup, no signup](https://snapdrop.me)
+- [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)
+- [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
+- [Astra for Law](https://openai.com/index/astra-for-law/)
+- [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 
-*마지막 업데이트: 2026-09-17T09:21:09Z*
+*마지막 업데이트: 2026-09-17T23:12:12Z*
