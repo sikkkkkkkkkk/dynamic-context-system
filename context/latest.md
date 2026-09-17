@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-16T23:20:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-17T09:21:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
-- [Why Does the Universe Expand?](https://cosmicave.org/2026/09/15/why-does-the-universe-expand/)
-- [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
-- [Accurate Models of AMD Matrix Cores](https://arxiv.org/abs/2609.14845)
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-- [Reverse-engineered Jev-like model](https://github.com/vinnylarouge/jevlike)
-- [Vectorized and performance-portable Quicksort (2022)](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
-- [Training Text-to-Image Models 3.6× Faster](https://www.linum.ai/field-notes/jit-ddt)
+- [I didn't sign the Fields medallists' letter](https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/)
+- [AI Safety Is Mostly a Sex Cult](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+- [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
+- [Jev Ultrafast: A browser agent with a dynamic, indexed action space](https://github.com/browser-use/jev-ultrafast)
+- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
+- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
+- [US interest rates raised for first time in three years](https://www.bbc.com/news/articles/cw4gmlyvj422o)
+- [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
 
-*마지막 업데이트: 2026-09-16T23:20:46Z*
+*마지막 업데이트: 2026-09-17T09:21:09Z*
