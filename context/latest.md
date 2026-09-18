@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-17T23:12:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-18T08:56:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+- [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
+- [A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai)
+- [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
+- [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)
+- [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
+- [Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
 - [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-- [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 - [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
-- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
-- [The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/)
-- [Show HN: Snapdrop: Instantly share files between devices. No setup, no signup](https://snapdrop.me)
-- [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)
-- [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
-- [Astra for Law](https://openai.com/index/astra-for-law/)
-- [Everybody's Lost Their Minds](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 
-*마지막 업데이트: 2026-09-17T23:12:12Z*
+*마지막 업데이트: 2026-09-18T08:56:14Z*
