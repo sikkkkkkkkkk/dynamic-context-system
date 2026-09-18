@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-18T08:56:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-18T22:53:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
-- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
-- [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
-- [A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai)
-- [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
-- [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)
-- [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
-- [Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
-- [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-- [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
+- [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
+- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
+- [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
+- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+- [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
+- [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)
+- [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
+- [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes)
+- [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
+- [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
 
-*마지막 업데이트: 2026-09-18T08:56:14Z*
+*마지막 업데이트: 2026-09-18T22:53:44Z*
