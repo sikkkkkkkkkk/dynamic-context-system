@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-18T22:53:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-19T08:43:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [US troop deaths during Iran war exceed Pentagon count by at least four](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
-- [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
-- [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
-- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
-- [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
-- [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)
-- [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
-- [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes)
-- [Border agents can search cellphones without a warrant or reasonable suspicion](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
-- [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- [Stepfun Step 5 Preview (LLM): On AA Pareto frontier](https://artificialanalysis.ai/models/step-5)
+- [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
+- [San Francisco Onion Futures Company](https://onionfutures.com/)
+- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
+- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
+- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
 
-*마지막 업데이트: 2026-09-18T22:53:44Z*
+*마지막 업데이트: 2026-09-19T08:43:04Z*
