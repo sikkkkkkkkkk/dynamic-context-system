@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-19T08:43:04Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-19T22:32:58Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
-- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-- [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
-- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
-- [Stepfun Step 5 Preview (LLM): On AA Pareto frontier](https://artificialanalysis.ai/models/step-5)
-- [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
-- [San Francisco Onion Futures Company](https://onionfutures.com/)
-- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
-- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
-- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
+- [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
+- [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
+- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
+- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+- [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
+- [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
+- [Microsoft director: AI scraping 'the largest theft of labor in human history'](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
+- [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
+- [I think you should almost never use AI to write](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
+- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)
 
-*마지막 업데이트: 2026-09-19T08:43:04Z*
+*마지막 업데이트: 2026-09-19T22:32:58Z*
