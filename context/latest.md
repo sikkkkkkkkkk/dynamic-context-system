@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-21T09:49:15Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-21T23:43:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
-- [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
-- [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/)
-- [Heretic removes restrictions from language models](https://heretic-project.org/)
-- [AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
-- [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
-- [Why Backprop Goes Backward (2018)](https://gregorygundersen.com/blog/2018/04/15/backprop/)
-- [Amiga Unix, Again](https://amigaux.org/)
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+- [Do not fear AI. Fear AI companies](https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html)
+- [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+- [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy)
+- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
+- [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
+- [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
+- [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
 
-*마지막 업데이트: 2026-09-21T09:49:15Z*
+*마지막 업데이트: 2026-09-21T23:43:00Z*
