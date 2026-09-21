@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-20T22:46:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-21T09:49:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
-- [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
-- [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
-- [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
-- [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
-- [The Hierarchy of Money](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
-- [Software Sandboxing: The Basics (2025)](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
-- [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
-- [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)
-- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
+- [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+- [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/)
+- [Heretic removes restrictions from language models](https://heretic-project.org/)
+- [AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
+- [Deterministic Core, Non-Deterministic Shell](https://outdata.net/blog/260803)
+- [Why Backprop Goes Backward (2018)](https://gregorygundersen.com/blog/2018/04/15/backprop/)
+- [Amiga Unix, Again](https://amigaux.org/)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
 
-*마지막 업데이트: 2026-09-20T22:46:14Z*
+*마지막 업데이트: 2026-09-21T09:49:15Z*
