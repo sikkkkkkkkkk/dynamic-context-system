@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-21T23:43:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-22T09:12:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Tell HN: Claude Code just accepted and signed a contract for me. Without asking](https://news.ycombinator.com/item?id=49798257)
+- [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/)
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- [Used ThinkPad Buyer's Guide (2019)](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
+- [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)
+- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
+- [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)
+- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
 - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-- [Do not fear AI. Fear AI companies](https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html)
-- [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
 - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-- [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy)
-- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
-- [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
-- [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
-- [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
 
-*마지막 업데이트: 2026-09-21T23:43:00Z*
+*마지막 업데이트: 2026-09-22T09:12:55Z*
