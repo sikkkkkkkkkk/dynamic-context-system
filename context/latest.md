@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-22T09:12:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-22T23:21:36Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Tell HN: Claude Code just accepted and signed a contract for me. Without asking](https://news.ycombinator.com/item?id=49798257)
-- [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/)
-- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
-- [Used ThinkPad Buyer's Guide (2019)](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
-- [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)
-- [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
-- [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)
-- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
-- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-- [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
+- [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
+- [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
+- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
+- [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
+- [Unreal Agent](https://unreallabs.ai/blog/unreal-agent/)
+- [An update on how we confirm your age group on Discord](https://discord.com/blog/safer-for-teens-same-discord-for-adults)
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 
-*마지막 업데이트: 2026-09-22T09:12:55Z*
+*마지막 업데이트: 2026-09-22T23:21:36Z*
