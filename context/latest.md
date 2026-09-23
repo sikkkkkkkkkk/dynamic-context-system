@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-23T09:13:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-23T23:16:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
-- [How often do you think about the 1893 World's Fair?](https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/)
-- [Grammarly will send unhinged messages to all your users if you try to cancel](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
-- [Data-only attacks are easier than you think (2024)](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
-- [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
-- [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
-- [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
-- [Obscura: VPN that can't log your activity](https://obscura.com/#faq-technical)
-- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
-- [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
+- [We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog](https://blog.cloudflare.com/vary-support/)
+- [OpenAI breaches Medicare, Albanese reveals](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
+- [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)
+- [Once Claude can measure something, it can make it faster](https://claude.dev/blog/how-we-made-claude-ai-faster/)
+- [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com)
+- [LensVLM: Compressing long context as images, expanding only relevant pages](https://huggingface.co/apple/LensVLM-9B)
+- [Swap, ZRAM, Zswap and Hibernate on NixOS](https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/)
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
 
-*마지막 업데이트: 2026-09-23T09:13:21Z*
+*마지막 업데이트: 2026-09-23T23:16:44Z*
