@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-22T23:21:36Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-23T09:13:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- [How often do you think about the 1893 World's Fair?](https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/)
+- [Grammarly will send unhinged messages to all your users if you try to cancel](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
+- [Data-only attacks are easier than you think (2024)](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
+- [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
 - [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 - [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
-- [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
-- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+- [Obscura: VPN that can't log your activity](https://obscura.com/#faq-technical)
 - [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
 - [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
-- [Unreal Agent](https://unreallabs.ai/blog/unreal-agent/)
-- [An update on how we confirm your age group on Discord](https://discord.com/blog/safer-for-teens-same-discord-for-adults)
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 
-*마지막 업데이트: 2026-09-22T23:21:36Z*
+*마지막 업데이트: 2026-09-23T09:13:21Z*
