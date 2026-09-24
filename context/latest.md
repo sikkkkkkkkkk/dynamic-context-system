@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-23T23:16:44Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-24T09:11:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
-- [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
-- [We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog](https://blog.cloudflare.com/vary-support/)
-- [OpenAI breaches Medicare, Albanese reveals](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
-- [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)
-- [Once Claude can measure something, it can make it faster](https://claude.dev/blog/how-we-made-claude-ai-faster/)
-- [Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes](https://www.forensicdbg.com)
-- [LensVLM: Compressing long context as images, expanding only relevant pages](https://huggingface.co/apple/LensVLM-9B)
-- [Swap, ZRAM, Zswap and Hibernate on NixOS](https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/)
-- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
+- [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
+- [Contrastive Language Models](https://contrastive-lm.notion.site/)
+- [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+- [OpenAI agent hacked Australian government website, PM says](https://www.bbc.com/news/live/cvgl73pxgndwt)
+- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
+- [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)
+- [Meta VR Glasses](https://www.meta.com/vr-glasses/)
+- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
 
-*마지막 업데이트: 2026-09-23T23:16:44Z*
+*마지막 업데이트: 2026-09-24T09:11:28Z*
