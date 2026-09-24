@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-24T09:11:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-24T23:37:22Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
-- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
-- [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
-- [Contrastive Language Models](https://contrastive-lm.notion.site/)
-- [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
-- [OpenAI agent hacked Australian government website, PM says](https://www.bbc.com/news/live/cvgl73pxgndwt)
-- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
-- [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)
-- [Meta VR Glasses](https://www.meta.com/vr-glasses/)
-- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+- [GitLab Outage](https://status.gitlab.com/)
+- [Back and shoulder surgery is often worse than useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
+- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
+- [International observers to investigate Swedish election fraud](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
+- [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
+- [Opus 5.5 is good at explainer videos](https://launchvideo.io)
+- [Sourcehut account takeover via build logs (XSS in ansi2html)](https://blog.arusekk.pl/posts/srht-account-takeover/)
+- [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
+- [Stable (YC W20) Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
 
-*마지막 업데이트: 2026-09-24T09:11:28Z*
+*마지막 업데이트: 2026-09-24T23:37:22Z*
