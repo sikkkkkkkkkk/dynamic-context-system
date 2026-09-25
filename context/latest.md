@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-25T09:31:15Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-25T23:40:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs)
-- [Special Projects (2016)](https://openai.com/index/special-projects/)
-- [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
-- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
-- [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
-- [Jev Based Code Review](https://github.com/egma-ai/jev-code-reviewer)
-- [What About Rails?](https://jardo.dev/what-about-rails)
-- [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-- [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
-- [Opus 5.5 is good at explainer videos](https://launchvideo.io)
+- [Issues with Codex – Identified – Full Outage](https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39)
+- [Tell HN: Codex Is Down](https://news.ycombinator.com/item?id=49851032)
+- [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
+- [How we learned to stop worrying and love campus surveillance](https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/)
+- [Ask HN: Who's still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)
+- [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- [Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)
 
-*마지막 업데이트: 2026-09-25T09:31:15Z*
+*마지막 업데이트: 2026-09-25T23:40:09Z*
