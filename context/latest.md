@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-24T23:37:22Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-25T09:31:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GitLab Outage](https://status.gitlab.com/)
-- [Back and shoulder surgery is often worse than useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
-- [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
-- [International observers to investigate Swedish election fraud](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
+- [The last day of the dinosaurs, as an interactive painting](https://www.echohive.ai/experiments/dinosaurs)
+- [Special Projects (2016)](https://openai.com/index/special-projects/)
+- [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+- [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+- [Jev Based Code Review](https://github.com/egma-ai/jev-code-reviewer)
+- [What About Rails?](https://jardo.dev/what-about-rails)
 - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 - [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
 - [Opus 5.5 is good at explainer videos](https://launchvideo.io)
-- [Sourcehut account takeover via build logs (XSS in ansi2html)](https://blog.arusekk.pl/posts/srht-account-takeover/)
-- [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
-- [Stable (YC W20) Is Hiring Product Engineers](https://www.usestable.com/careers/product-engineer)
 
-*마지막 업데이트: 2026-09-24T23:37:22Z*
+*마지막 업데이트: 2026-09-25T09:31:15Z*
