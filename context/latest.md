@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-27T09:56:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-27T23:27:38Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
-- [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
-- [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/)
-- [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
-- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-- [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
-- [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash)
-- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+- [Ask HN: Why do we let the AI companies dominate regulation discussion?](https://news.ycombinator.com/item?id=49871747)
+- [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
+- [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+- [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
+- [Show HN: Cartopolis, interactive globe-sized 3D world](https://code.garage44.eu/jeroen/cartopolis)
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- [Self-Hosting on the Dark Web](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
+- [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
+- [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
+- [What I did at Recurse Center](https://thill.me/2026/09/11/what-i-did-at-rc.html)
 
-*마지막 업데이트: 2026-09-27T09:56:09Z*
+*마지막 업데이트: 2026-09-27T23:27:38Z*
