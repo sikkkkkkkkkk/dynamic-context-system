@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-27T23:27:38Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-28T10:46:03Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Ask HN: Why do we let the AI companies dominate regulation discussion?](https://news.ycombinator.com/item?id=49871747)
-- [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
+- [Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK](https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk)
+- [SpaceX's Starship launching to orbit for first time ever today](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live)
+- [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
+- [Made by Mechanical Means](https://felixrieseberg.com/made-by-mechanical-means/)
+- [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
+- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+- [Packing Binary Is Fun](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually)
 - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
-- [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
-- [Show HN: Cartopolis, interactive globe-sized 3D world](https://code.garage44.eu/jeroen/cartopolis)
 - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-- [Self-Hosting on the Dark Web](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
-- [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
-- [Imp is a full port of DSPy to the BEAM](https://github.com/deepfates/imp)
-- [What I did at Recurse Center](https://thill.me/2026/09/11/what-i-did-at-rc.html)
 
-*마지막 업데이트: 2026-09-27T23:27:38Z*
+*마지막 업데이트: 2026-09-28T10:46:03Z*
