@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-29T00:42:41Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-29T10:34:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Anthropic's IPO prospectus shows AI vision, surging costs](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
+- [New Cyber-OSINT model released](https://twitter.com/0x0SojalSec/status/2104736980768866439)
+- [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+- [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
+- [Firebase SDK is CRASHING ALLLL iOS Apps, since today morning](https://twitter.com/GergelyOrosz/status/2104825886922911981)
+- [Uncensored and Offensive Security AI Models Benchmark](https://github.com/JoasASantos/Offensive-Security-AI-Models)
+- [Tank Body Problem](http://www.jimsitu.com)
+- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
+- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
 - [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
-- [Deutsche Bahn "joke" is no longer funny](https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/)
 - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-- [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
-- [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/)
-- [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
-- [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
-- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
-- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
 
-*마지막 업데이트: 2026-09-29T00:42:41Z*
+*마지막 업데이트: 2026-09-29T10:34:02Z*
