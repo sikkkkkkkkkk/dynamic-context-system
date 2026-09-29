@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-29T10:34:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-29T23:59:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [New Cyber-OSINT model released](https://twitter.com/0x0SojalSec/status/2104736980768866439)
-- [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
-- [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
-- [Firebase SDK is CRASHING ALLLL iOS Apps, since today morning](https://twitter.com/GergelyOrosz/status/2104825886922911981)
-- [Uncensored and Offensive Security AI Models Benchmark](https://github.com/JoasASantos/Offensive-Security-AI-Models)
-- [Tank Body Problem](http://www.jimsitu.com)
-- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
-- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
-- [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
-- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [UnoDOS](https://github.com/hmofet/unodos)
+- [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
+- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
+- [We’re forgetting what darkness feels like](https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation)
+- [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
+- [Show HN: A working 3D model of an Enigma machine](https://enigma.design)
+- [Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)
 
-*마지막 업데이트: 2026-09-29T10:34:02Z*
+*마지막 업데이트: 2026-09-29T23:59:10Z*
