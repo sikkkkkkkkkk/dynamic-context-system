@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-28T10:46:03Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-29T00:42:41Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK](https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk)
-- [SpaceX's Starship launching to orbit for first time ever today](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live)
-- [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
-- [Made by Mechanical Means](https://felixrieseberg.com/made-by-mechanical-means/)
-- [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
-- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
-- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
-- [Packing Binary Is Fun](https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually)
-- [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- [Anthropic's IPO prospectus shows AI vision, surging costs](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
+- [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
+- [Deutsche Bahn "joke" is no longer funny](https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/)
+- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
+- [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/)
+- [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+- [First Steps of the PLC Organization – Independent Public Ledger of Credentials](https://blog.plcred.org/3mwlphq42d227)
+- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
+- [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
 
-*마지막 업데이트: 2026-09-28T10:46:03Z*
+*마지막 업데이트: 2026-09-29T00:42:41Z*
