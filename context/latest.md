@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-29T23:59:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-09-30T10:23:40Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website)
+- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- [Why Is Sam Altman a Free Man?](https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/)
+- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
+- [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
+- [Floppy Emu Hardware Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
+- [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river)
 - [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-- [UnoDOS](https://github.com/hmofet/unodos)
-- [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)
 - [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
 - [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
-- [We’re forgetting what darkness feels like](https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation)
 - [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
-- [Show HN: A working 3D model of an Enigma machine](https://enigma.design)
-- [Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)
 
-*마지막 업데이트: 2026-09-29T23:59:10Z*
+*마지막 업데이트: 2026-09-30T10:23:40Z*
