@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-09-30T10:23:40Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-01T00:13:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
-- [Why Is Sam Altman a Free Man?](https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/)
-- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
-- [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
-- [Floppy Emu Hardware Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
-- [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river)
-- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-- [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)
-- [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
+- [EDG C++ Compiler is open source](https://github.com/edgcpp/compiler)
+- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
+- [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
+- [pldb: programming languages papers](https://pldb.kirancodes.me/)
+- [Functional Ultrasound Imaging (fUSI) from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/)
+- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
+- [EDG C++ front-end goes public](https://edgcpp.org/#transition)
 
-*마지막 업데이트: 2026-09-30T10:23:40Z*
+*마지막 업데이트: 2026-10-01T00:13:39Z*
