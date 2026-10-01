@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-01T00:13:39Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-01T10:50:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [EDG C++ Compiler is open source](https://github.com/edgcpp/compiler)
+- [Truemetrics (YC S23) Is Hiring a GTM Founder's Associate](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate)
 - [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
-- [Automating Wi-Fi setup testing on the ESP32](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
-- [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1)
-- [pldb: programming languages papers](https://pldb.kirancodes.me/)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
 - [Functional Ultrasound Imaging (fUSI) from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
 - [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-- [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/)
 - [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
 - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
+- [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
+- [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
 
-*마지막 업데이트: 2026-10-01T00:13:39Z*
+*마지막 업데이트: 2026-10-01T10:50:55Z*
