@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-02T00:16:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-02T10:24:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
+- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
+- [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
+- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+- [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
 - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-- [DoGBench: The first user-facing docs generation benchmark. No model scores >50%](https://dogbench.ai/)
-- [Apple's smart home camera reportedly won't record video](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
-- [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
-- [Aweb – Communication for AI Agents](https://aweb.ai)
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
 - [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
-- [The death of web development education](https://molily.de/web-dev-education/)
 - [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
 - [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)
-- [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html)
 
-*마지막 업데이트: 2026-10-02T00:16:59Z*
+*마지막 업데이트: 2026-10-02T10:24:54Z*
