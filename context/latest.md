@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-01T10:50:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-02T00:16:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Truemetrics (YC S23) Is Hiring a GTM Founder's Associate](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate)
-- [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
-- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
-- [Functional Ultrasound Imaging (fUSI) from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from)
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
-- [EDG C++ front-end goes public](https://edgcpp.org/#transition)
-- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
-- [Before pixels: Modular industrial dashboards](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
-- [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- [DoGBench: The first user-facing docs generation benchmark. No model scores >50%](https://dogbench.ai/)
+- [Apple's smart home camera reportedly won't record video](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
+- [2026 International Utility Locate Rodeo](https://locaterodeo.net/)
+- [Aweb – Communication for AI Agents](https://aweb.ai)
+- [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
+- [The death of web development education](https://molily.de/web-dev-education/)
+- [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
+- [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)
+- [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html)
 
-*마지막 업데이트: 2026-10-01T10:50:55Z*
+*마지막 업데이트: 2026-10-02T00:16:59Z*
