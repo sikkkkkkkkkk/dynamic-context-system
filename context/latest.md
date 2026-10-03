@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-03T09:46:59Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-03T23:25:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Why should I have to pay more for buses if I don't use a smartphone?](https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone)
-- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
-- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
-- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
-- [Barcodes are about to go extinct](https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct)
-- [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
-- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
-- [Muse Gadgets](https://gadgets.muse.ai)
-- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+- [Big Balls Now Exposed to Serious Criminal Charges in at Least Six States](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
+- [Writing code by hand is over, forever](https://eliocapella.com/blog/writing-code-by-hand-is-over/)
+- [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+- [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+- [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+- [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
+- [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+- [RSS Feed Best Practices (2022)](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
+- [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
 
-*마지막 업데이트: 2026-10-03T09:46:59Z*
+*마지막 업데이트: 2026-10-03T23:25:08Z*
