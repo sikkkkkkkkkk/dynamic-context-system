@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-03T00:02:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-03T09:46:59Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://allenai.org/blog/astabrief)
-- [Every SaaS business will become a harness around a model](https://blog.sshh.io/p/the-harness-is-the-company)
-- [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
+- [Why should I have to pay more for buses if I don't use a smartphone?](https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone)
+- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
+- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- [Barcodes are about to go extinct](https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct)
 - [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
 - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
 - [Muse Gadgets](https://gadgets.muse.ai)
 - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
-- [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/)
-- [STS-51-F Abort-to-Orbit (1985)](https://en.wikipedia.org/wiki/STS-51-F)
-- [One month coding with GLM 5.3 Flash](https://wagtail.org/blog/one-month-on-glm-53-flash/)
 
-*마지막 업데이트: 2026-10-03T00:02:49Z*
+*마지막 업데이트: 2026-10-03T09:46:59Z*
