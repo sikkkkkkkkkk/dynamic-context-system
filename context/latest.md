@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-03T23:25:08Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-04T10:30:28Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Big Balls Now Exposed to Serious Criminal Charges in at Least Six States](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
-- [Writing code by hand is over, forever](https://eliocapella.com/blog/writing-code-by-hand-is-over/)
-- [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
-- [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
-- [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
-- [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
-- [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
-- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
-- [RSS Feed Best Practices (2022)](https://kevincox.ca/2022/05/06/rss-feed-best-practices/)
-- [How to hack time, with C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html)
+- [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
+- [In Ukraine, distributed renewables foil Russia's assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
+- ["Torturing" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/)
+- [OpenBSD Developers Reject Uutils Coreutils](https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns)
+- [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
+- [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+- [Religious scholars met with Anthropic](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
+- [We're working on a new RuneScape MMO](https://play.runescape.com/4)
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
 
-*마지막 업데이트: 2026-10-03T23:25:08Z*
+*마지막 업데이트: 2026-10-04T10:30:28Z*
