@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-05T11:20:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-06T01:39:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Press Release: Nobel Prize in Physiology or Medicine 2026](https://www.nobelprize.org/prizes/medicine/2026/press-release/)
-- [Apple and a Hacker's Future](https://stratechery.com/2026/apple-and-a-hackers-future/)
-- [Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
-- [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
-- [Replacement of petroleum based products with plant-based materials (2025)](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
-- [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
-- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-- [In the wake of Tippett Studios’ closure, a digital archive appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
-- [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
-- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
+- [AI Tutoring with Khanmigo in a Two-Year School Experiment](https://edworkingpapers.com/ai26-1551)
+- [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+- [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
+- [Worth Building](https://armstr.ng/writing/worth-building)
+- [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+- [ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
+- [Global Solar Atlas: summary of solar power potential globally](https://globalsolaratlas.info/)
+- [Learning Jazz Pianist Style with Cross-Attention Conditioning](https://almostimplemented.github.io/jazz-pianist-style/)
+- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
+- [Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]](https://nivdayan.github.io/dostoevsky.pdf)
 
-*마지막 업데이트: 2026-10-05T11:20:21Z*
+*마지막 업데이트: 2026-10-06T01:39:54Z*
