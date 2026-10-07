@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-07T00:12:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-07T10:58:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -25,7 +25,7 @@
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -46,7 +46,7 @@
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -67,7 +67,7 @@
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -88,7 +88,7 @@
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 16.97)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -109,7 +109,7 @@
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 16.97)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -130,7 +130,7 @@
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 19.162)
+- **productivity tips** (점수: 16.122)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](https://github.com/openai/math/tree/main/preprints)
-- [State of Devs 2026 survey results: developers are exhausted](https://2026.stateofdevs.com/en-US/)
-- [Integer multiplication below n log n](https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026)
-- [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-- [The Query Transformation Pipeline](https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline)
-- [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
-- [How Fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
-- [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
-- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
-- [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6)
+- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
+- [Sharded, encrypted storage between friends over Yggdrasil](https://github.com/peterretief/yggstore)
+- [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
+- [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
+- [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)
+- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
+- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+- [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
 
-*마지막 업데이트: 2026-10-07T00:12:51Z*
+*마지막 업데이트: 2026-10-07T10:58:10Z*
