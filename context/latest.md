@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-07T10:58:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-08T00:31:13Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 19.516)
+- **productivity tips** (점수: 18.596)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -25,7 +25,7 @@
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 19.516)
+- **productivity tips** (점수: 18.596)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -46,7 +46,7 @@
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 19.516)
+- **productivity tips** (점수: 18.596)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -67,7 +67,7 @@
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 19.516)
+- **productivity tips** (점수: 18.596)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -88,7 +88,7 @@
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 16.97)
+- **productivity tips** (점수: 16.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -109,7 +109,7 @@
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 16.97)
+- **productivity tips** (점수: 16.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -130,7 +130,7 @@
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 16.122)
+- **productivity tips** (점수: 15.362)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
-- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
-- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
-- [Sharded, encrypted storage between friends over Yggdrasil](https://github.com/peterretief/yggstore)
-- [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
-- [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
-- [Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)
-- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
-- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
-- [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
+- [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+- [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
+- [In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html)
+- [Docker Agent](https://github.com/docker/docker-agent)
+- [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/)
+- [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
 
-*마지막 업데이트: 2026-10-07T10:58:10Z*
+*마지막 업데이트: 2026-10-08T00:31:13Z*
