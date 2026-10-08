@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-08T00:31:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-08T11:15:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.596)
+- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -24,8 +24,8 @@
 
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.596)
+- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -45,8 +45,8 @@
 
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.596)
+- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -66,8 +66,8 @@
 
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
-- **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.596)
+- **productivity tips** (점수: 23.195)
+- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -87,8 +87,8 @@
 
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 16.17)
+- **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 17.37)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -108,8 +108,8 @@
 
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
-- **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 16.17)
+- **productivity tips** (점수: 20.17)
+- **SEO guide** (점수: 17.37)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -129,8 +129,8 @@
 
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
-- **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 15.362)
+- **productivity tips** (점수: 19.162)
+- **SEO guide** (점수: 16.502)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)
+- [Dat-ecosystem: high level applications built on top of P2P protocols](https://dat-ecosystem.org/)
+- [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+- [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
 - [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 - ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
-- [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+- [The Mathocalypse](https://scottaaronson.blog/?p=10169)
 - [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
 - [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
-- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
-- [In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html)
-- [Docker Agent](https://github.com/docker/docker-agent)
-- [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/)
-- [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
 
-*마지막 업데이트: 2026-10-08T00:31:13Z*
+*마지막 업데이트: 2026-10-08T11:15:06Z*
