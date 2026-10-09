@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-08T11:15:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-09T00:45:45Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -24,8 +24,8 @@
 
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -45,8 +45,8 @@
 
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -66,8 +66,8 @@
 
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **SEO guide** (점수: 19.976)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -87,8 +87,8 @@
 
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 17.37)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -108,8 +108,8 @@
 
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **SEO guide** (점수: 17.37)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -129,8 +129,8 @@
 
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
+- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **SEO guide** (점수: 16.502)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Open-Source Rust Alternatives to Adobe Apps](https://getartcraft.com/)
-- [Dat-ecosystem: high level applications built on top of P2P protocols](https://dat-ecosystem.org/)
-- [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
-- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
-- [Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)
-- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-- ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
-- [The Mathocalypse](https://scottaaronson.blog/?p=10169)
-- [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
-- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)
+- [Show HN: SVG Spark – 10 client-side SVG design and dev tools](https://svg-spark.vercel.app/)
+- [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
+- [Spinal: A near-instant, predictive surface for any codebase](https://spinal.sh/)
+- [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
+- [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
+- [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+- [Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked](https://pocketty.app/)
+- [Theranos.world](https://www.theranos.world/)
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 
-*마지막 업데이트: 2026-10-08T11:15:06Z*
+*마지막 업데이트: 2026-10-09T00:45:45Z*
