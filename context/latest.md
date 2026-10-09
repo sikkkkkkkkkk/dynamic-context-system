@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-09T00:45:45Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-09T11:14:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)
-- [Show HN: SVG Spark – 10 client-side SVG design and dev tools](https://svg-spark.vercel.app/)
+- [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+- [OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
+- [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
+- [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
+- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+- [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+- [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
 - [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
-- [Spinal: A near-instant, predictive surface for any codebase](https://spinal.sh/)
+- [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
 - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
-- [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
-- [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
-- [Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked](https://pocketty.app/)
-- [Theranos.world](https://www.theranos.world/)
-- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 
-*마지막 업데이트: 2026-10-09T00:45:45Z*
+*마지막 업데이트: 2026-10-09T11:14:12Z*
