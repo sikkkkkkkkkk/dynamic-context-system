@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-10T10:31:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-10T23:56:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
-- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
-- [Food processing influences metabolism and brain activity](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
-- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-- [REA Reverse – Engineer Anything](https://rea.tools/)
-- [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
-- [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
-- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
-- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
-- [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+- [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
+- [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
+- [MrBeast 'spends millions reverse engineering the algorithms on each platform'](https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas)
+- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
+- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+- [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
+- [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 
-*마지막 업데이트: 2026-10-10T10:31:13Z*
+*마지막 업데이트: 2026-10-10T23:56:15Z*
