@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-09T11:14:12Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-10T00:22:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
-- [OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
-- [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
-- [MXC - a sandboxed code execution system](https://github.com/microsoft/mxc)
-- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
-- [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
-- [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
-- [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
-- [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
-- [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
+- [Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
+- [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
+- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+- [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+- [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
+- [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
+- [Ideas aren't getting harder to find (2022)](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)
+- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+- [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+- [Show HN: The rarest tech books and docs you've probably never read](https://readrare.com/)
 
-*마지막 업데이트: 2026-10-09T11:14:12Z*
+*마지막 업데이트: 2026-10-10T00:22:11Z*
