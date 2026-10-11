@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-10T23:56:15Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-11T10:43:29Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [IRCv3](https://ircv3.net/)
+- [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+- [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+- [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
+- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+- [European Alternatives](https://buy-european.net/en/alternatives)
+- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
 - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
-- [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
-- [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
-- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
-- [MrBeast 'spends millions reverse engineering the algorithms on each platform'](https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas)
-- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
-- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
-- [Unikernels were hard. key word: were](https://ghuntley.com/unikernels/)
-- [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
 
-*마지막 업데이트: 2026-10-10T23:56:15Z*
+*마지막 업데이트: 2026-10-11T10:43:29Z*
