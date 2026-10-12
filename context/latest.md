@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-12T00:03:25Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-12T11:49:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
-- [Google Data Centers around the world](https://datacenters.google/locations/)
-- [JulianFlux: Electrodynamic vector retrieval and causal routing for AI](https://github.com/julianjohnson-web/julianflux-research)
-- [Fingerprints Are the New Cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-- [Google is illegaly cutting forest to build data centers](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
-- [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
-- [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
-- [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
-- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
+- [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
+- [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
+- [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
+- [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
+- [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
+- [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
+- [Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)
+- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
+- [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
 
-*마지막 업데이트: 2026-10-12T00:03:25Z*
+*마지막 업데이트: 2026-10-12T11:49:16Z*
