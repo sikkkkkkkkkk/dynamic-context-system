@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-11T10:43:29Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-12T00:03:25Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [IRCv3](https://ircv3.net/)
-- [I wish you the best in the Offline](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
-- [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
-- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
-- [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
-- [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
-- [European Alternatives](https://buy-european.net/en/alternatives)
-- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-- [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
+- [Google Data Centers around the world](https://datacenters.google/locations/)
+- [JulianFlux: Electrodynamic vector retrieval and causal routing for AI](https://github.com/julianjohnson-web/julianflux-research)
+- [Fingerprints Are the New Cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+- [Google is illegaly cutting forest to build data centers](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
+- [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
+- [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+- [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
+- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
 
-*마지막 업데이트: 2026-10-11T10:43:29Z*
+*마지막 업데이트: 2026-10-12T00:03:25Z*
