@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-12T11:49:16Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-13T02:17:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
-- [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
-- [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
-- [Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)
-- [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
-- [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
-- [Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'](https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html)
-- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
-- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
-- [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
+- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+- [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
+- [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
+- [RJ Mitte has died](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+- [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
+- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+- [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
+- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+- [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+- [Show HN: Brickbrag – A multiplayer brick-building world in the browser](https://brickbrag.com/)
 
-*마지막 업데이트: 2026-10-12T11:49:16Z*
+*마지막 업데이트: 2026-10-13T02:17:46Z*
