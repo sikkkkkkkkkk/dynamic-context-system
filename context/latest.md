@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-14T00:00:08Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-14T09:24:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)](https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html)
-- [Top 10 AI Tools That Will Transform Your Content Creation in 2025](https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html)
-- [LimeWire AI Studio Review 2023: Details, Pricing & Features](https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html)
-- [Top 10 AI Tools in 2023 That Will Make Your Life Easier](https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html)
-- [Top 10 AI Content Generator & Writer Tools in 2022](https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html)
-- [Beginner Guide to CJ Affiliate (Commission Junction) in 2022](https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html)
-- [TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)](https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html)
-- [Most Frequently Asked Questions About Affiliate Marketing](https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html)
-- [What is Blockchain: Everything You Need to Know (2022)](https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html)
-- [ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?](https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html)
+- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+- [Felix Rieseberg Homepage](https://felixrieseberg.com/)
+- [Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord](https://strafe.chat/)
+- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
+- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
+- [AlphaNIST](https://alpha-nist.github.io/)
+- [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 
-*마지막 업데이트: 2026-10-14T00:00:08Z*
+*마지막 업데이트: 2026-10-14T09:24:30Z*
