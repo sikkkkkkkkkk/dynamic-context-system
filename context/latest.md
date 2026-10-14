@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-13T11:37:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-14T00:00:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
-- [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
-- [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
-- [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
-- [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
-- [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
-- [Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
-- [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
-- [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
-- [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)
+- [How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)](https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html)
+- [Top 10 AI Tools That Will Transform Your Content Creation in 2025](https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html)
+- [LimeWire AI Studio Review 2023: Details, Pricing & Features](https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html)
+- [Top 10 AI Tools in 2023 That Will Make Your Life Easier](https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html)
+- [Top 10 AI Content Generator & Writer Tools in 2022](https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html)
+- [Beginner Guide to CJ Affiliate (Commission Junction) in 2022](https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html)
+- [TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)](https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html)
+- [Most Frequently Asked Questions About Affiliate Marketing](https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html)
+- [What is Blockchain: Everything You Need to Know (2022)](https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html)
+- [ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?](https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html)
 
-*마지막 업데이트: 2026-10-13T11:37:19Z*
+*마지막 업데이트: 2026-10-14T00:00:08Z*
