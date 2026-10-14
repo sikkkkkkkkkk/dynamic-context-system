@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-14T09:24:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-14T23:31:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 18.136)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -25,7 +25,7 @@
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 18.136)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -46,7 +46,7 @@
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 18.136)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -67,7 +67,7 @@
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 18.136)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -88,7 +88,7 @@
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 15.77)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -109,7 +109,7 @@
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 15.77)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -130,7 +130,7 @@
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 19.162)
+- **productivity tips** (점수: 14.982)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
-- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
-- [Felix Rieseberg Homepage](https://felixrieseberg.com/)
-- [Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord](https://strafe.chat/)
-- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
-- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
-- [AlphaNIST](https://alpha-nist.github.io/)
-- [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
-- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
-- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+- [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
+- [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
+- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
+- [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
+- [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 
-*마지막 업데이트: 2026-10-14T09:24:30Z*
+*마지막 업데이트: 2026-10-14T23:31:06Z*
