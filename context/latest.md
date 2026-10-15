@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-14T23:31:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-15T09:02:45Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.136)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -25,7 +25,7 @@
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.136)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -46,7 +46,7 @@
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.136)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -67,7 +67,7 @@
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 18.136)
+- **productivity tips** (점수: 23.195)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -88,7 +88,7 @@
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 15.77)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -109,7 +109,7 @@
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 15.77)
+- **productivity tips** (점수: 20.17)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -130,7 +130,7 @@
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 14.982)
+- **productivity tips** (점수: 19.162)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
+- [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
+- [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
+- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- [Show HN: Ito – Build Terminal UIs in Lua](https://uji.sh/ito/)
 - [Tiny Little Office](https://tinylittleoffice.com/)
 - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
 - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
-- [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
-- [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 - [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
-- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-- [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
-- [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
-- [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 
-*마지막 업데이트: 2026-10-14T23:31:06Z*
+*마지막 업데이트: 2026-10-15T09:02:45Z*
