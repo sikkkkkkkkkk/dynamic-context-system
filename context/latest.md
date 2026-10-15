@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-15T09:02:45Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-15T23:22:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
-- [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
-- [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
-- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
-- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
-- [Show HN: Ito – Build Terminal UIs in Lua](https://uji.sh/ito/)
-- [Tiny Little Office](https://tinylittleoffice.com/)
-- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
-- [Fancy Curl Sites](https://nytpu.com/gemlog/2026-03-18)
+- [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+- [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+- [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
+- [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)
+- [Neural networks are clean](https://already-clean.goodfire.com/)
+- [Steam Client is now faster than Epic's new vibe coded launcher](https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/)
+- [Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
 
-*마지막 업데이트: 2026-10-15T09:02:45Z*
+*마지막 업데이트: 2026-10-15T23:22:39Z*
