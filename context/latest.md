@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-15T23:22:39Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-16T08:55:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
-- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
-- [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
-- [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
-- [Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)
-- [Neural networks are clean](https://already-clean.goodfire.com/)
-- [Steam Client is now faster than Epic's new vibe coded launcher](https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/)
-- [Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering](https://proa.so/)
+- [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)
+- [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
+- [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
+- [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)
+- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
+- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
+- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
+- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
 
-*마지막 업데이트: 2026-10-15T23:22:39Z*
+*마지막 업데이트: 2026-10-16T08:55:11Z*
