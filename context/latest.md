@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-16T08:55:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-16T23:05:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 17.675)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -25,7 +25,7 @@
 ### [SALES] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 17.675)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -46,7 +46,7 @@
 ### [BLOG] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 17.675)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -67,7 +67,7 @@
 ### [VIDEO] 최신 트렌드 키워드
 - **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
-- **productivity tips** (점수: 23.195)
+- **productivity tips** (점수: 17.675)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -88,7 +88,7 @@
 ### [EBOOK] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 15.37)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -109,7 +109,7 @@
 ### [EDU] 최신 트렌드 키워드
 - **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
-- **productivity tips** (점수: 20.17)
+- **productivity tips** (점수: 15.37)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -130,7 +130,7 @@
 ### [PUBLIC] 최신 트렌드 키워드
 - **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
-- **productivity tips** (점수: 19.162)
+- **productivity tips** (점수: 14.601)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)
-- [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
-- [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
-- [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)
-- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
-- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
-- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
-- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
-- [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
+- [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
+- [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
+- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
+- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+- [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
+- [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
+- [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d)
+- [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
 
-*마지막 업데이트: 2026-10-16T08:55:11Z*
+*마지막 업데이트: 2026-10-16T23:05:09Z*
