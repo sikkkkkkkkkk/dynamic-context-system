@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-17T08:27:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-17T22:45:00Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 22.736)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 22.736)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 22.736)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **AI tutorial** (점수: 23.195)
 - **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
+- **AI tutorial** (점수: 22.736)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 19.77)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **AI tutorial** (점수: 20.17)
 - **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
+- **AI tutorial** (점수: 19.77)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **AI tutorial** (점수: 19.162)
 - **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
+- **AI tutorial** (점수: 18.782)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Why Math Dumped OpenAI](https://raymyers.org/post/math-dumped-openai/)
-- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
-- [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
-- [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
-- [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
-- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
-- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
-- [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
+- [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+- [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
+- [Pattern matching beats narrative reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
+- [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
+- [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
+- [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
+- [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
+- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
+- [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
+- [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 
-*마지막 업데이트: 2026-10-17T08:27:27Z*
+*마지막 업데이트: 2026-10-17T22:45:00Z*
