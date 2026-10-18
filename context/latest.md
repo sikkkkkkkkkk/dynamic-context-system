@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-17T22:45:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-18T08:45:42Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.736)
+- **AI tutorial** (점수: 22.276)
+- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.736)
+- **AI tutorial** (점수: 22.276)
+- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.736)
+- **AI tutorial** (점수: 22.276)
+- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
-- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.736)
+- **AI tutorial** (점수: 22.276)
+- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI tutorial** (점수: 19.77)
+- **AI tutorial** (점수: 19.37)
+- **SEO guide** (점수: 16.97)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
-- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI tutorial** (점수: 19.77)
+- **AI tutorial** (점수: 19.37)
+- **SEO guide** (점수: 16.97)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
-- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **AI tutorial** (점수: 18.782)
+- **AI tutorial** (점수: 18.402)
+- **SEO guide** (점수: 16.122)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
-- [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
-- [Pattern matching beats narrative reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
-- [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
+- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+- [A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
+- [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
+- [A Mole Infiltrated the Highest Ranks of American Militias (2025)](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+- [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
+- [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
+- [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+- [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
 - [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
-- [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
-- [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
 - [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
-- [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
-- [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 
-*마지막 업데이트: 2026-10-17T22:45:00Z*
+*마지막 업데이트: 2026-10-18T08:45:42Z*
