@@ -1,10 +1,10 @@
-<!-- Dynamic Context Block | Updated: 2026-10-18T08:45:42Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-18T22:39:09Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.276)
-- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -23,9 +23,9 @@
 ---
 
 ### [SALES] 최신 트렌드 키워드
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.276)
-- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -44,9 +44,9 @@
 ---
 
 ### [BLOG] 최신 트렌드 키워드
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.276)
-- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -65,9 +65,9 @@
 ---
 
 ### [VIDEO] 최신 트렌드 키워드
+- **AI tutorial** (점수: 23.195)
+- **SEO guide** (점수: 23.195)
 - **productivity tips** (점수: 23.195)
-- **AI tutorial** (점수: 22.276)
-- **SEO guide** (점수: 19.516)
 - **AI automation** (점수: 4.876)
 - **AEO** (점수: 4.876)
 
@@ -86,9 +86,9 @@
 ---
 
 ### [EBOOK] 최신 트렌드 키워드
+- **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI tutorial** (점수: 19.37)
-- **SEO guide** (점수: 16.97)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -107,9 +107,9 @@
 ---
 
 ### [EDU] 최신 트렌드 키워드
+- **AI tutorial** (점수: 20.17)
+- **SEO guide** (점수: 20.17)
 - **productivity tips** (점수: 20.17)
-- **AI tutorial** (점수: 19.37)
-- **SEO guide** (점수: 16.97)
 - **AI automation** (점수: 4.24)
 - **AEO** (점수: 4.24)
 
@@ -128,9 +128,9 @@
 ---
 
 ### [PUBLIC] 최신 트렌드 키워드
+- **AI tutorial** (점수: 19.162)
+- **SEO guide** (점수: 19.162)
 - **productivity tips** (점수: 19.162)
-- **AI tutorial** (점수: 18.402)
-- **SEO guide** (점수: 16.122)
 - **AI automation** (점수: 4.028)
 - **AEO** (점수: 4.028)
 
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-- [A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
-- [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
-- [A Mole Infiltrated the Highest Ranks of American Militias (2025)](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
-- [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
-- [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
-- [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
-- [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
-- [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
-- [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
+- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
+- [Florida's HOAs and condo associations are making the housing crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
+- [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
+- [Mitos editor is a fork of Helix](https://mitos.computer/)
+- [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
+- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
+- [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+- [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
 
-*마지막 업데이트: 2026-10-18T08:45:42Z*
+*마지막 업데이트: 2026-10-18T22:39:09Z*
