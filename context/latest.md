@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-18T22:39:09Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-19T09:46:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-- [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
-- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
-- [Florida's HOAs and condo associations are making the housing crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
-- [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
-- [Mitos editor is a fork of Helix](https://mitos.computer/)
-- [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
-- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-- [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
-- [Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)
+- [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
+- [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
+- [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
+- [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
+- [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
+- [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+- [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
+- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
+- [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 
-*마지막 업데이트: 2026-10-18T22:39:09Z*
+*마지막 업데이트: 2026-10-19T09:46:11Z*
