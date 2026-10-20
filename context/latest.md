@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-19T09:46:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-20T00:00:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
-- [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
-- [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
-- [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
-- [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
-- [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-- [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
-- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
-- [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
+- [GridFTP: A Brief History of Fast File Transfer (2024)](https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer)
+- [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
+- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+- [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
+- [One Hash Bloom Filters](https://calabro.io/ohbf)
+- [The End of Rationing](https://sanketsaurav.com/writing/end-of-rationing)
+- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
+- [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+- [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
+- [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 
-*마지막 업데이트: 2026-10-19T09:46:11Z*
+*마지막 업데이트: 2026-10-20T00:00:54Z*
