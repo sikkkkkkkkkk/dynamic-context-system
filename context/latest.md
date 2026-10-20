@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-20T00:00:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-20T09:19:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GridFTP: A Brief History of Fast File Transfer (2024)](https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer)
-- [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
+- [Everything is going wrong for Muhammad bin Salman](https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman)
+- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+- [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
+- [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
+- [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+- [How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
+- [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
 - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
-- [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
-- [One Hash Bloom Filters](https://calabro.io/ohbf)
-- [The End of Rationing](https://sanketsaurav.com/writing/end-of-rationing)
-- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
-- [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
-- [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
-- [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 
-*마지막 업데이트: 2026-10-20T00:00:54Z*
+*마지막 업데이트: 2026-10-20T09:19:06Z*
