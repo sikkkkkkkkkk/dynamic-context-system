@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-21T09:15:39Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-21T23:46:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
-- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
-- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
-- [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
-- [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
-- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
-- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
-- [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
-- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+- [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
+- [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
+- [Claude Duet](https://claude.com/resources/articles/claude-duet)
+- [Claude Duet](https://claude.com/product/claude-duet)
+- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+- [Canary Tokens](https://canarytokens.org/)
+- [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
+- [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
 
-*마지막 업데이트: 2026-10-21T09:15:39Z*
+*마지막 업데이트: 2026-10-21T23:46:23Z*
