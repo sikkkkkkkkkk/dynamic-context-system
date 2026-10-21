@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-20T23:30:41Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-21T09:15:39Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
+- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
+- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
+- [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
+- [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
+- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+- [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
 - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
-- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-- [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
-- [SimCity, but with Permits](https://permit.petercai.com/)
-- [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
-- [What shall I teach my son?](https://stevekrouse.com/ends)
-- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
-- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-- [Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery](https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery)
-- [IKEA – 3D Guide](https://sael.net/flatpack/)
 
-*마지막 업데이트: 2026-10-20T23:30:41Z*
+*마지막 업데이트: 2026-10-21T09:15:39Z*
