@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-21T23:46:23Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-22T09:18:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-- [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
-- [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
-- [Claude Duet](https://claude.com/resources/articles/claude-duet)
+- [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
+- [OpenAI CLI](https://github.com/openai/openai-cli)
+- [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
+- [Claude Now Works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 - [Claude Duet](https://claude.com/product/claude-duet)
-- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
-- [Canary Tokens](https://canarytokens.org/)
-- [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html)
-- [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
+- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
 
-*마지막 업데이트: 2026-10-21T23:46:23Z*
+*마지막 업데이트: 2026-10-22T09:18:30Z*
