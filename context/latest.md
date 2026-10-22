@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-22T09:18:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-22T23:44:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
-- [OpenAI CLI](https://github.com/openai/openai-cli)
-- [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
-- [Claude Now Works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)
-- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
-- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-- [Claude Duet](https://claude.com/product/claude-duet)
-- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+- [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
+- [Railpass](https://train.samismith.com/)
+- [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
+- [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+- [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+- [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
+- [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients)
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
+- [A farewell to Arc browser](https://arc.net/)
+- [Mini brain organoids ‘reading’ Braille key step towards biohybrid computing](https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence)
 
-*마지막 업데이트: 2026-10-22T09:18:30Z*
+*마지막 업데이트: 2026-10-22T23:44:34Z*
