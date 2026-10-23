@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-22T23:44:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-23T09:14:15Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
-- [Railpass](https://train.samismith.com/)
-- [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
-- [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
-- [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
-- [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
-- [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients)
-- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
-- [A farewell to Arc browser](https://arc.net/)
-- [Mini brain organoids ‘reading’ Braille key step towards biohybrid computing](https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence)
+- [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
+- [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468)
+- [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
+- [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- [We have traits at home](https://www.axelmagn.com/blog/202610-zig-traits/)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+- [Rule 30: one black cell](https://www.wolframcollatzmahler.com/rule30/index.html)
 
-*마지막 업데이트: 2026-10-22T23:44:34Z*
+*마지막 업데이트: 2026-10-23T09:14:15Z*
