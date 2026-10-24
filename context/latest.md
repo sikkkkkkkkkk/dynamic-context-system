@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-24T08:47:18Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-24T22:46:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
-- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
-- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-- [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
-- [Apple Security Research Device](https://security.apple.com/research-device/)
-- [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
-- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-- [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
-- [One Man's Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
-- [CVE Tracker](https://cve.0xosprey.com/)
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
+- [No signs of AI payoff outside the tech sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
+- [SpeedCrunch 1.1](https://www.speedcrunch.org/)
+- [The Goose Programming Language](https://aardappel.github.io/goose/)
+- [Dream-1](https://dreamlabs.ai/research/dream-1/)
+- [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/)
+- [Why is AI generated language so hard to understand?](https://arxiv.org/abs/2610.29162)
 
-*마지막 업데이트: 2026-10-24T08:47:18Z*
+*마지막 업데이트: 2026-10-24T22:46:30Z*
