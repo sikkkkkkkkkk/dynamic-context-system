@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-23T23:37:28Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-24T08:47:18Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [German court calls Google aerial imagery 'spying'](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
+- [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
+- [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
+- [Apple Security Research Device](https://security.apple.com/research-device/)
+- [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+- [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
+- [One Man's Pan Am 747 Replica [video]](https://www.youtube.com/watch?v=vAFwHGGfPz4)
 - [CVE Tracker](https://cve.0xosprey.com/)
-- [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
-- [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
-- [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
-- [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
-- [We are all living inside of an obscure sci-fi film from 1970](https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/)
-- [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 
-*마지막 업데이트: 2026-10-23T23:37:28Z*
+*마지막 업데이트: 2026-10-24T08:47:18Z*
