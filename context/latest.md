@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-24T22:46:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-25T09:03:24Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
+- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
 - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+- [The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations)
 - [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
-- [No signs of AI payoff outside the tech sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
-- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
 - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 - [The Goose Programming Language](https://aardappel.github.io/goose/)
-- [Dream-1](https://dreamlabs.ai/research/dream-1/)
-- [Bbtree: Fastest Ordered Map](https://bbtree.xiangpeng.systems/post/)
-- [Why is AI generated language so hard to understand?](https://arxiv.org/abs/2610.29162)
 
-*마지막 업데이트: 2026-10-24T22:46:30Z*
+*마지막 업데이트: 2026-10-25T09:03:24Z*
