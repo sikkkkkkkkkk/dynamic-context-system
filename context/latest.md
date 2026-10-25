@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-25T09:03:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-25T22:53:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
-- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
-- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
-- [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
-- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
-- [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
-- [The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations)
-- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
-- [SpeedCrunch 1.1](https://www.speedcrunch.org/)
-- [The Goose Programming Language](https://aardappel.github.io/goose/)
+- [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+- [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
+- [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+- [Focused Company Operating Principles](https://focused.io/operating-principles)
+- [Crosscut – Drawing Dynamic Models](https://www.inkandswitch.com/crosscut/)
+- [Eunice is almost here](https://armincat.com/articles/eunice-is-almost-here)
+- [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
+- [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
+- [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)
+- [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
 
-*마지막 업데이트: 2026-10-25T09:03:24Z*
+*마지막 업데이트: 2026-10-25T22:53:19Z*
