@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-25T22:53:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-26T09:58:30Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
-- [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
-- [What goes into making an animated film?](https://www.disneyanimation.com/process/)
-- [Focused Company Operating Principles](https://focused.io/operating-principles)
-- [Crosscut – Drawing Dynamic Models](https://www.inkandswitch.com/crosscut/)
-- [Eunice is almost here](https://armincat.com/articles/eunice-is-almost-here)
-- [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
-- [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
-- [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)
-- [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)
+- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+- [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
+- [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
+- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+- [Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)
+- [IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
+- [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)
+- [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
 
-*마지막 업데이트: 2026-10-25T22:53:19Z*
+*마지막 업데이트: 2026-10-26T09:58:30Z*
