@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-26T09:58:30Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-27T00:07:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
-- [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
-- [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
-- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
-- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
-- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
-- [Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)
-- [IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
-- [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)
-- [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+- [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
+- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+- [CorridorKey 2.0](https://corridorkey.com/)
+- [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)
+- [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
+- [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
+- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+- [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
 
-*마지막 업데이트: 2026-10-26T09:58:30Z*
+*마지막 업데이트: 2026-10-27T00:07:14Z*
