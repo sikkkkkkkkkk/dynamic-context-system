@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-27T00:07:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-27T09:42:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
+- [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+- [Writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
+- [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
+- [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- [CorridorKey 2.0](https://corridorkey.com/)
-- [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908)
-- [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
-- [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
+- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 - [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 - [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
 
-*마지막 업데이트: 2026-10-27T00:07:14Z*
+*마지막 업데이트: 2026-10-27T09:42:53Z*
