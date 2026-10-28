@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-27T09:42:53Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-28T00:06:48Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
-- [Writing about pratt parsing so I remember it](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
-- [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
-- [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
-- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
-- [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
-- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+- [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
+- [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)
+- [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
+- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
+- [Hex Raises $100M](https://hex.tech/blog/hex-new-era/)
+- [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 
-*마지막 업데이트: 2026-10-27T09:42:53Z*
+*마지막 업데이트: 2026-10-28T00:06:48Z*
