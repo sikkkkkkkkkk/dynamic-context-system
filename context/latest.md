@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-28T00:06:48Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-28T10:28:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
-- [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)
-- [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
+- [Spain train crash: 'At least 10 dead' in high-speed collision](https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l)
+- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
+- [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
+- [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
 - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 - [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
-- [Hex Raises $100M](https://hex.tech/blog/hex-new-era/)
+- [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
 - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
 - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
 - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
-- [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
 
-*마지막 업데이트: 2026-10-28T00:06:48Z*
+*마지막 업데이트: 2026-10-28T10:28:16Z*
