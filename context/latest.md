@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-28T10:28:16Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-29T00:29:24Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Spain train crash: 'At least 10 dead' in high-speed collision](https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l)
-- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
-- [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
-- [Hunger beats tenure: Advice for junior engineers](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/)
-- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
-- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
-- [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
-- [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
-- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
-- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
+- [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+- [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
+- [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
+- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
+- [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/)
+- [Scaling Hierarchical Networks](https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1)
+- [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
+- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 
-*마지막 업데이트: 2026-10-28T10:28:16Z*
+*마지막 업데이트: 2026-10-29T00:29:24Z*
