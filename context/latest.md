@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-29T00:29:24Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-29T10:48:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Spain train crash: What we know after two trains crashed with dozens feared dead](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
+- [Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
+- [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
+- [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
+- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 - [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 - [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
 - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
 - [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
-- [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
-- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
-- [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/)
-- [Scaling Hierarchical Networks](https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1)
-- [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
-- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 
-*마지막 업데이트: 2026-10-29T00:29:24Z*
+*마지막 업데이트: 2026-10-29T10:48:35Z*
