@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-30T00:28:33Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-30T10:47:01Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
+- ['Elite North Korean hackers' blamed for $6.3B Binance hack](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
+- [Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
+- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
+- [Herdr has released native app](https://github.com/herdrdev/herdr-app)
 - [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
 - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
-- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
-- [Proton goes all in on using AI](https://convo.casa/@b/117525936178835007)
-- [El Niño Is Flooding California's Coasts with the Highest Tides to Come](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574)
+- [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
 - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
-- [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/)
-- [ElementaryUI – Swift, in the Browser](https://elementary.codes)
-- [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 
-*마지막 업데이트: 2026-10-30T00:28:33Z*
+*마지막 업데이트: 2026-10-30T10:47:01Z*
