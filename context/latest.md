@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-29T10:48:35Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-30T00:28:33Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Spain train crash: What we know after two trains crashed with dozens feared dead](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
-- [Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
-- [Zero click, silent, remote Android DoS](https://smsofdeath.com/)
-- [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)
-- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
-- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
-- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
-- [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
-- [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
+- [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
+- [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
+- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
+- [Proton goes all in on using AI](https://convo.casa/@b/117525936178835007)
+- [El Niño Is Flooding California's Coasts with the Highest Tides to Come](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574)
+- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+- [Sylphide OS: a general-purpose OS for microcontroller-based computers](https://projects.freehackers.org/sylphide-os/)
+- [ElementaryUI – Swift, in the Browser](https://elementary.codes)
+- [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
 
-*마지막 업데이트: 2026-10-29T10:48:35Z*
+*마지막 업데이트: 2026-10-30T00:28:33Z*
