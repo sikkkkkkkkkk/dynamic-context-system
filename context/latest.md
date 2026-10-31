@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-30T10:47:01Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-31T00:12:34Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
-- ['Elite North Korean hackers' blamed for $6.3B Binance hack](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
-- [Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe](https://www.workatastartup.com/jobs/98722)
-- [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
-- [Herdr has released native app](https://github.com/herdrdev/herdr-app)
-- [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
-- [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
-- [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
-- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
+- [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)
+- [Anthropic to receive high 'junk' rating from credit agencies following IPO](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
+- [France is getting download tax for content providers (€0.055/GB)](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/)
+- [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
+- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+- [AO3 Down for Maintenance](https://www.otwstatus.org)
+- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
+- [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
+- [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
 
-*마지막 업데이트: 2026-10-30T10:47:01Z*
+*마지막 업데이트: 2026-10-31T00:12:34Z*
