@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-31T10:16:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-31T23:49:44Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
-- [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
-- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
-- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
-- [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
-- [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
-- [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
-- [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
-- [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+- [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [Distributed Proofreaders](https://www.pgdp.net/c/)
+- [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
+- [Surviving "The Graduate"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)
+- [Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)](https://epoyraz.github.io/nes-contra-us/)
+- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 
-*마지막 업데이트: 2026-10-31T10:16:49Z*
+*마지막 업데이트: 2026-10-31T23:49:44Z*
