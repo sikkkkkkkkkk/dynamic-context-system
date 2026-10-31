@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-10-31T00:12:34Z -->
+<!-- Dynamic Context Block | Updated: 2026-10-31T10:16:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
+- [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
+- [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
 - [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
-- [Fair Use Benefits Everyone](https://openai.com/index/fair-use-benefits-everyone/)
-- [Anthropic to receive high 'junk' rating from credit agencies following IPO](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
-- [France is getting download tax for content providers (€0.055/GB)](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/)
-- [Linode Security Incident](https://status.linode.com/incidents/nt58zhx3pmgm)
-- [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
-- [AO3 Down for Maintenance](https://www.otwstatus.org)
+- [Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
 - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 - [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
 - [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
+- [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 
-*마지막 업데이트: 2026-10-31T00:12:34Z*
+*마지막 업데이트: 2026-10-31T10:16:49Z*
