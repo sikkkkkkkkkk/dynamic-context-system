@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-01T11:10:32Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-01T23:59:56Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/)
-- [A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income)
-- [OpenIDEA: The IDE you know, rebuilt in Rust](https://github.com/l0ng-ai/openidea)
-- [Pac-Man's Siren Call](https://unsung.aresluna.org/pac-mans-siren-call/)
-- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
-- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
-- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://arxiv.org/abs/2409.02292)
-- [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
-- [Altoids Project](https://uvdn7.github.io/altoids-project/)
-- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+- [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
+- [AI delivers 'zero financial payoff' to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+- [John Leeson (the voice of K9) has died](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html)
+- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
+- [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+- [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
+- [Frontier Airlines Likely Breached](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+- [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
+- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
+- [Landline phones will switch off across Britland in 100 days, no extensions](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673)
 
-*마지막 업데이트: 2026-11-01T11:10:32Z*
+*마지막 업데이트: 2026-11-01T23:59:56Z*
