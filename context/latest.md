@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-01T23:59:56Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-02T12:11:50Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
-- [AI delivers 'zero financial payoff' to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-- [John Leeson (the voice of K9) has died](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html)
-- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
-- [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
-- [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
-- [Frontier Airlines Likely Breached](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
-- [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
-- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-- [Landline phones will switch off across Britland in 100 days, no extensions](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673)
+- [Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack](https://www.bbc.com/news/articles/cq1kd1nee80eo)
+- [The future in old computer magazines (1984–2004)](https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in)
+- [Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)
+- [China's First Frontier AI Export Controls: Mofcom Announcement No. 48](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
+- [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/)
+- [From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus](https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/)
+- [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)
+- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+- [Bones may release proteins that slow aging and extend life span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)
+- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
 
-*마지막 업데이트: 2026-11-01T23:59:56Z*
+*마지막 업데이트: 2026-11-02T12:11:50Z*
