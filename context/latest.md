@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-02T12:11:50Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-03T02:42:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack](https://www.bbc.com/news/articles/cq1kd1nee80eo)
-- [The future in old computer magazines (1984–2004)](https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in)
-- [Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)
-- [China's First Frontier AI Export Controls: Mofcom Announcement No. 48](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
-- [Show HN: HackerHack – HackerBooks but for Posts Posted on HN](https://news.ycombinator.com/)
-- [From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus](https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/)
-- [Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)
-- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-- [Bones may release proteins that slow aging and extend life span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)
-- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
+- [Show HN: Hacker Times, a New York Times-Inspired Version Hacker News](https://hackertimes.ca/)
+- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+- [Ask HN: Does anyone have a contact with Cleveland-area Ham club?](https://news.ycombinator.com/item?id=50346164)
+- [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
+- [GUI64 – GUI for the Commodore 64 running on top of the built-in ROM](https://www.c64-wiki.com/wiki/GUI64)
+- [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)
+- [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
+- [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+- [V100 SXM2 pinout and NVLink reference](https://github.com/pigeon-labs-stack/v100-sxm2-reference)
+- [SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)
 
-*마지막 업데이트: 2026-11-02T12:11:50Z*
+*마지막 업데이트: 2026-11-03T02:42:02Z*
