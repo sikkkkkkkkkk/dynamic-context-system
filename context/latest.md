@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-03T02:42:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-03T11:47:12Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Show HN: Hacker Times, a New York Times-Inspired Version Hacker News](https://hackertimes.ca/)
+- [Revolut moves to self-hosted GLM](https://twitter.com/guilleflorvs/status/2117379073785696395)
+- [uBlock Origin filter to block autoplay videos in TechCrunch](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
+- [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
+- [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
 - [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-- [Ask HN: Does anyone have a contact with Cleveland-area Ham club?](https://news.ycombinator.com/item?id=50346164)
-- [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
-- [GUI64 – GUI for the Commodore 64 running on top of the built-in ROM](https://www.c64-wiki.com/wiki/GUI64)
-- [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)
-- [Anthropic's growth just flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
-- [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
-- [V100 SXM2 pinout and NVLink reference](https://github.com/pigeon-labs-stack/v100-sxm2-reference)
+- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
 - [SLAC researchers find proof of altermagnetism, a new magnetic phase](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase)
+- [Egoless Mathematics in the AI Era](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/)
 
-*마지막 업데이트: 2026-11-03T02:42:02Z*
+*마지막 업데이트: 2026-11-03T11:47:12Z*
