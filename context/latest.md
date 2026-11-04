@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-04T00:57:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-04T11:58:23Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
-- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
-- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
-- [US tech giants' hidden AI debt swells 90% to $3.2T in 6 months](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
-- [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
-- [Pratt parsing is a black box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
-- [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one)
-- [macOS 27 does not support CoreStorage volumes](https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/)
-- [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
-- [How I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
+- [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)
+- [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
+- [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
+- [Milkman – The Better Alternative to Postman](https://milkman.dev/)
+- [Kitty 0.50](https://sw.kovidgoyal.net/kitty/changelog/)
+- [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
+- [The lost malloc()](https://napcakes.nekoweb.org/posts/malloc/)
+- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 
-*마지막 업데이트: 2026-11-04T00:57:19Z*
+*마지막 업데이트: 2026-11-04T11:58:23Z*
