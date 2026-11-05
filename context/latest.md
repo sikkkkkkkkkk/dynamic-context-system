@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-05T01:08:08Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-05T12:05:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [SpaceX – Starfall](https://www.spacex.com/starfall)
-- [You'll need nerves of steel to work with AI agents](https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/)
-- [Introducing Images 2.6](https://openai.com/index/introducing-images-2-6/)
-- [Local privilege escalation vulnerabilities in Linux](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)
+- [OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135)
+- [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+- [Being a kid making games in the early 2000s](https://jaytholen.net/teengamedev/)
+- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 - [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
-- [Death Comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
 - [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
-- [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)
-- [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
-- [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
 
-*마지막 업데이트: 2026-11-05T01:08:08Z*
+*마지막 업데이트: 2026-11-05T12:05:10Z*
