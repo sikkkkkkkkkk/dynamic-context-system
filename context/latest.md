@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-04T11:58:23Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-05T01:08:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
-- [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)
-- [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
-- [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
-- [Milkman – The Better Alternative to Postman](https://milkman.dev/)
-- [Kitty 0.50](https://sw.kovidgoyal.net/kitty/changelog/)
-- [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
-- [The lost malloc()](https://napcakes.nekoweb.org/posts/malloc/)
-- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
-- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+- [SpaceX – Starfall](https://www.spacex.com/starfall)
+- [You'll need nerves of steel to work with AI agents](https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/)
+- [Introducing Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- [Local privilege escalation vulnerabilities in Linux](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
+- [Death Comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)
+- [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
+- [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
 
-*마지막 업데이트: 2026-11-04T11:58:23Z*
+*마지막 업데이트: 2026-11-05T01:08:08Z*
