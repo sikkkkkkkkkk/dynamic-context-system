@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-06T01:13:46Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-06T11:57:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
-- [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
-- [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
-- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
-- [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
-- [Search for everyone](https://kagi.com/changelog#11820)
-- [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/)
-- [Introducing Pangram Image 1.0](https://www.pangram.com/blog/introducing-pangram-image-1-0)
-- [Hungary: Communist-era files released, up to 60k former agents revealed](https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed)
+- [Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)](https://jhr.pensoft.net/articles.php?id=9096)
+- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+- [Chomsky and the Two Cultures of Statistical Learning](https://www.norvig.com/chomsky.html)
+- [App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)
+- [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
+- [Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)
+- [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
+- [Hardcoded credentials and other issues in Tata Motors App](https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537)
+- [Britain to make salary disclosure in job ads mandatory](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/)
+- [I struggle to believe that AI R&D is ingenious](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
 
-*마지막 업데이트: 2026-11-06T01:13:46Z*
+*마지막 업데이트: 2026-11-06T11:57:51Z*
