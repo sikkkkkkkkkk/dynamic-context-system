@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-05T12:05:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-06T01:13:46Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)
-- [OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135)
-- [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
-- [Being a kid making games in the early 2000s](https://jaytholen.net/teengamedev/)
-- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
-- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
-- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
-- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
-- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
+- [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
+- [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
+- [Search for everyone](https://kagi.com/changelog#11820)
+- [Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/)
+- [Introducing Pangram Image 1.0](https://www.pangram.com/blog/introducing-pangram-image-1-0)
+- [Hungary: Communist-era files released, up to 60k former agents revealed](https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed)
 
-*마지막 업데이트: 2026-11-05T12:05:10Z*
+*마지막 업데이트: 2026-11-06T01:13:46Z*
