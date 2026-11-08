@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-07T10:57:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-08T00:03:04Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Upload Your RAM](https://uploadyourram.org)
-- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
-- [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/)
-- [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)
-- [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
-- [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
-- [I toured Unitree's factory. I'm more bullish on the West](https://josef.cn/blog/unitree)
-- [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
-- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+- [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
+- [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
+- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
+- [MeccanicOS](https://meccanicos.com/)
+- [Shadow of the Sun (2021)](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+- [GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)](https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)
 
-*마지막 업데이트: 2026-11-07T10:57:52Z*
+*마지막 업데이트: 2026-11-08T00:03:04Z*
