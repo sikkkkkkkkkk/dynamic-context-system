@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-09T00:13:45Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-09T12:42:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
-- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
-- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-- [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
-- [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
-- [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
-- [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
-- [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
-- [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
-- [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+- [Nvidia's China Problem [pdf]](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf)
+- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
+- [Try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
+- [Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering](https://zenodo.org/records/23682548)
+- [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
+- [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
+- [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
+- [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
+- [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
+- [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
 
-*마지막 업데이트: 2026-11-09T00:13:45Z*
+*마지막 업데이트: 2026-11-09T12:42:52Z*
