@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-08T11:11:00Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-09T00:13:45Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GitHub Down Again?](https://github.com/torvalds/linux)
-- [I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone](https://github.com/kobaltgit/StatCraft)
-- [Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format)
-- [WaveDudeNext 2D Wave Simulator](https://github.com/graealex/WaveDudeNext)
-- [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
-- [ISponsorBlockTV: SponsorBlock client for all YouTube TV clients](https://github.com/dmunozv04/isponsorblocktv)
-- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
-- [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
-- [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
-- [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
+- [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
+- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+- [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
+- [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
+- [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
+- [Starship Flight 15 on 11/13 plans to catch both booster and ship](https://www.spacex.com/launches/starship-flight-15)
+- [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)
+- [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+- [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 
-*마지막 업데이트: 2026-11-08T11:11:00Z*
+*마지막 업데이트: 2026-11-09T00:13:45Z*
