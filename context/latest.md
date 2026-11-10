@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-10T03:01:16Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-10T12:25:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
-- [Horible public key tricks](https://maurycyz.com/projects/badcert/)
-- [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
-- [Exact – a new cross platform UI framework](https://github.com/expo/exact)
-- [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
-- [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
-- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
-- [Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)](https://parkgraph.com/parking-app-fees)
-- [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
-- [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
+- [Merz: Google Cloud is sovereign enough for intelligence agencies](https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html)
+- [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
+- ['C:\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
+- [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
+- [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
+- [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
+- [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
+- [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
+- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
 
-*마지막 업데이트: 2026-11-10T03:01:16Z*
+*마지막 업데이트: 2026-11-10T12:25:02Z*
