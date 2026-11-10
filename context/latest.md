@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-09T12:42:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-10T03:01:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Nvidia's China Problem [pdf]](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf)
-- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
-- [Try Gleam](https://nchagnet.eu/blog/you-should-try-gleam)
-- [Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering](https://zenodo.org/records/23682548)
-- [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
-- [ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)
-- [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
-- [Is Opus 5.5 nerfed? Thinking patterns changed on November 3](https://twitter.com/shanemelaugh/status/2119192075505893695)
-- [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)
-- [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+- [Horible public key tricks](https://maurycyz.com/projects/badcert/)
+- [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+- [Exact – a new cross platform UI framework](https://github.com/expo/exact)
+- [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
+- [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)](https://parkgraph.com/parking-app-fees)
+- [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
+- [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
 
-*마지막 업데이트: 2026-11-09T12:42:52Z*
+*마지막 업데이트: 2026-11-10T03:01:16Z*
