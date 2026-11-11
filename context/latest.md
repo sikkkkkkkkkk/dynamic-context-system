@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-11T00:56:14Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-11T11:46:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
-- [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+- [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
+- [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
+- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
+- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
+- [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
 - [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
-- [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
 - [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
-- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
-- [Sherman Anti-Trust Act (1890)](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
-- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
-- [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
-- [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
+- [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
 
-*마지막 업데이트: 2026-11-11T00:56:14Z*
+*마지막 업데이트: 2026-11-11T11:46:19Z*
