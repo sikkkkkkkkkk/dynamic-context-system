@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-10T12:25:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-11T00:56:14Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Merz: Google Cloud is sovereign enough for intelligence agencies](https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html)
-- [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
-- ['C:\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
-- [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
-- [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
-- [Fossil CO2 emissions decrease by 0.4% in 2026](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/)
-- [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
-- [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse)
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
+- [The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)](https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md)
+- [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+- [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
+- [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
+- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
+- [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
+- [Sherman Anti-Trust Act (1890)](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
+- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+- [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
+- [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 
-*마지막 업데이트: 2026-11-10T12:25:02Z*
+*마지막 업데이트: 2026-11-11T00:56:14Z*
