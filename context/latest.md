@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-11T11:46:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-12T02:02:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
-- [Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)
-- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-- [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
-- [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
-- [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
-- [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
-- [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
+- [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
+- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
+- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+- [Jensen Huang said to have had relationship with executive who reports to him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+- [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
+- [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
+- [IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
+- [The Utah Teapot](https://graphics.cs.utah.edu/teapot/)
 
-*마지막 업데이트: 2026-11-11T11:46:19Z*
+*마지막 업데이트: 2026-11-12T02:02:21Z*
