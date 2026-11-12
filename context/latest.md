@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-12T02:02:21Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-12T12:27:11Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Anthropic IPO](https://ipo.anthropic.com/us/)
+- [Code Smells of Desperation (2023)](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
+- [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
+- [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
+- [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
+- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
-- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
 - [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
 - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
-- [Jensen Huang said to have had relationship with executive who reports to him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-- [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
-- [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
-- [IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality](https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
-- [The Utah Teapot](https://graphics.cs.utah.edu/teapot/)
 
-*마지막 업데이트: 2026-11-12T02:02:21Z*
+*마지막 업데이트: 2026-11-12T12:27:11Z*
