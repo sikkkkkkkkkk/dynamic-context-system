@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-13T01:33:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-13T12:01:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
-- [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
-- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
-- [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
-- [Announcement: Conductor Is Back](https://twitter.com/charlieholtz/status/2120973052024598620)
-- [Distributed Ray Tracer](https://ray.hatchet.run)
-- [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
-- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
-- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-- [Turning a 22-year-old Postgres type-confusion primitive into RCE](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
+- [Europe's electric car sales jump 49% as global EV sales grow](https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/)
+- [Claude Is Down](https://status.claude.com/history)
+- [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+- [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
+- [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
+- [TSMC Hacked](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm)
+- [Global Microsoft Outage](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
+- [Microsoft Outlook/365 still down after 12 hours](https://twitter.com/MSFT365Status/status/2121079061774491735)
+- [IceWM](https://ice-wm.org/)
+- [Switcher (2004)](https://folklore.org/Switcher.html)
 
-*마지막 업데이트: 2026-11-13T01:33:02Z*
+*마지막 업데이트: 2026-11-13T12:01:10Z*
