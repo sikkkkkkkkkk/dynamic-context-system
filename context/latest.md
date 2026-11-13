@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-12T12:27:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-13T01:33:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Anthropic IPO](https://ipo.anthropic.com/us/)
-- [Code Smells of Desperation (2023)](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
-- [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
-- [I'm Working on a FOSS Linux Pinbal Simulation Engine](https://www.getlazarus.org/forums/topic/17/)
-- [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
-- [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
-- [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
-- [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
-- [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
-- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+- [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+- [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
+- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
+- [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
+- [Announcement: Conductor Is Back](https://twitter.com/charlieholtz/status/2120973052024598620)
+- [Distributed Ray Tracer](https://ray.hatchet.run)
+- [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
+- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- [Turning a 22-year-old Postgres type-confusion primitive into RCE](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
 
-*마지막 업데이트: 2026-11-12T12:27:11Z*
+*마지막 업데이트: 2026-11-13T01:33:02Z*
