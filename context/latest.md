@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-14T01:06:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-14T11:19:53Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)
+- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+- [Security Agencies Worldwide Found to Use Ad-Based Surveillance System](https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/)
+- [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
 - [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
-- [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
-- [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)
+- [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
+- [What happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
 - [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)
-- [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
-- [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
-- [Lying to Zed to get its remote server running on FreeBSD](https://hayzam.com/blog/03-lying-to-zeds-remote-editor/)
-- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
-- [FAA issues nationwide ground stop due to "extraordinary circumstances"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
-- [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
 
-*마지막 업데이트: 2026-11-14T01:06:11Z*
+*마지막 업데이트: 2026-11-14T11:19:53Z*
