@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-16T00:29:54Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-16T12:35:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
-- [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
-- [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
-- [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
-- [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
-- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
-- [Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence](https://news.ycombinator.com/item?id=50510042)
-- [Handwriting, as a Font](https://ductus.sorenblank.com)
+- [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
+- [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
+- [Doing Show HN generates a ton of automated email pitches](https://petervandijck.com/post/pbrgs-ev0bc)
+- [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server)
+- [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
+- [How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)
+- [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
+- [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
 
-*마지막 업데이트: 2026-11-16T00:29:54Z*
+*마지막 업데이트: 2026-11-16T12:35:08Z*
