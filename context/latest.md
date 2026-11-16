@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-15T11:51:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-16T00:29:54Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
-- [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists)
-- [Disk encryption on NetBSD – achieving secrecy](https://netbsd.org/~nia/disk-encrypt/)
-- [Kiri – The Modern Container Runtime](https://runkiri.com/)
-- [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
-- [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
-- [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
-- [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
-- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
-- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
+- [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
+- [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
+- [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
+- [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
+- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/)
+- [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
+- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
+- [Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence](https://news.ycombinator.com/item?id=50510042)
+- [Handwriting, as a Font](https://ductus.sorenblank.com)
 
-*마지막 업데이트: 2026-11-15T11:51:43Z*
+*마지막 업데이트: 2026-11-16T00:29:54Z*
