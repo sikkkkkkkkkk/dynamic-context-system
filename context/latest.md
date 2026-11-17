@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-16T12:35:08Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-17T03:16:21Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
-- [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
-- [Doing Show HN generates a ton of automated email pitches](https://petervandijck.com/post/pbrgs-ev0bc)
-- [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server)
-- [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF)
-- [How Should Armies Fight?](https://worksinprogress.co/issue/the-future-of-war/)
-- [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
-- [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
-- [Debian Becomes Unresponsive after 6.1.0-55 Kernel Update](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
+- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
+- [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
+- [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
+- [Claude Mythos slashed software work to onboard AMD GPUs to around three days](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat)
+- [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
+- [Pentagon fails ninth straight audit despite progress in organizing finances](https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/)
+- [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
+- [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+- [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
 
-*마지막 업데이트: 2026-11-16T12:35:08Z*
+*마지막 업데이트: 2026-11-17T03:16:21Z*
