@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-18T02:38:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-18T12:53:52Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+- [I had AI read my entire field, Theoretical Astrophysics](https://science.caseyhandmer.com/physics/)
+- [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
+- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
+- [Talos Linux](https://www.siderolabs.com/talos-linux)
+- [Australia's full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
+- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
+- [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
+- [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
+- [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
 - [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
-- [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
-- [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
-- [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
-- [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
-- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
-- [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
-- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-- [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
 
-*마지막 업데이트: 2026-11-18T02:38:43Z*
+*마지막 업데이트: 2026-11-18T12:53:52Z*
