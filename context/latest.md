@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-17T13:00:11Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-18T02:38:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-- [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
-- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
-- [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
-- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-- [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
-- [BugMeNot has closed](https://www.bugmenot.com/)
-- [OpenCode Browse](https://opencode.ai/product/browse)
-- [Comcast's "fiber-powered Wi-Fi" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
+- [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+- [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
+- [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
+- [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
+- [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
+- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+- [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+- [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
 
-*마지막 업데이트: 2026-11-17T13:00:11Z*
+*마지막 업데이트: 2026-11-18T02:38:43Z*
