@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-18T12:53:52Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-19T02:05:13Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [I had AI read my entire field, Theoretical Astrophysics](https://science.caseyhandmer.com/physics/)
-- [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
-- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
-- [Talos Linux](https://www.siderolabs.com/talos-linux)
-- [Australia's full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
-- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
-- [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
-- [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
-- [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
-- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+- [Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/)
+- [Fable: Written, painted and directed by Claude Fable 5.2](https://claudia.gallery/fable/)
+- [We need smart people who give a shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
+- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
+- [Software companies are trying to kill home computing?](https://lateblt.livejournal.com/526188.html)
+- [Palo Alto Networks to Acquire Applied Compute for $4.5B](https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open)
+- [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
+- [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)
+- [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 
-*마지막 업데이트: 2026-11-18T12:53:52Z*
+*마지막 업데이트: 2026-11-19T02:05:13Z*
