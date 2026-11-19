@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-19T02:05:13Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-19T12:44:55Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/)
-- [Fable: Written, painted and directed by Claude Fable 5.2](https://claudia.gallery/fable/)
-- [We need smart people who give a shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
+- [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
+- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
+- [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
+- [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
+- [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
+- [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
+- [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
+- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
 - [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
-- [Software companies are trying to kill home computing?](https://lateblt.livejournal.com/526188.html)
-- [Palo Alto Networks to Acquire Applied Compute for $4.5B](https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open)
 - [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
-- [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)
-- [GTA6-like as a 942Kb UEFI bootable image](https://github.com/eklavya-raj/gta6-uefi)
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
 
-*마지막 업데이트: 2026-11-19T02:05:13Z*
+*마지막 업데이트: 2026-11-19T12:44:55Z*
