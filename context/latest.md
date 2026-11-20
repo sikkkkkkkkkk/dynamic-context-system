@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-19T12:44:55Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-20T01:55:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [The AI Superintelligence Debate Has Serious Flaws](https://spectrum.ieee.org/ai-superintelligence-debate)
-- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
-- [DeepMind Employees Are Unionising](https://www.gdmunion.co.uk)
-- [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
-- [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
-- [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/)
-- [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
-- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
-- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
-- [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
+- [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
+- [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
+- [RegExr: Temporarily Offline](https://regexr.com/)
+- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+- [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
+- [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
+- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
+- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
 
-*마지막 업데이트: 2026-11-19T12:44:55Z*
+*마지막 업데이트: 2026-11-20T01:55:49Z*
