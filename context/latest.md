@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-20T01:55:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-20T12:41:22Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
-- [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
-- [RegExr: Temporarily Offline](https://regexr.com/)
-- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
-- [Rebuilding my local voice assistant pipeline](https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline)
-- [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
-- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
-- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
-- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
-- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [Why do tech leaders sound so illogical and off-putting?](https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/)
+- [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
+- [What people are building, discovered through new domains](https://startups.novumsignals.com/)
+- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+- [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
+- ["I can tell you wrote this yourself"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
+- [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
+- [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
+- [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
 
-*마지막 업데이트: 2026-11-20T01:55:49Z*
+*마지막 업데이트: 2026-11-20T12:41:22Z*
