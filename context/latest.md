@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-20T12:41:22Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-21T01:51:16Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Why do tech leaders sound so illogical and off-putting?](https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/)
-- [The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
-- [What people are building, discovered through new domains](https://startups.novumsignals.com/)
-- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
-- [Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)](https://ecohustler.com/article/one-corporation-to-pollute-them-all/)
-- ["I can tell you wrote this yourself"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
-- [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
-- [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
-- [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
+- [Re: Riemann](https://borretti.me/article/re-riemann)
+- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
+- [AI may have solved the most important problem in mathematics](https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics)
+- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+- [Merkle Tree Certificates](https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/)
+- [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
+- [US SEC's Nvidia probe is examining potential accounting issues – sources](https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627)
+- [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+- [And yet, it moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
 
-*마지막 업데이트: 2026-11-20T12:41:22Z*
+*마지막 업데이트: 2026-11-21T01:51:16Z*
