@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-22T00:44:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-22T12:24:49Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
+- [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
+- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+- [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
+- [Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow](https://github.com/EL4CTEO/fast-anything)
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+- [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)
+- [Sandwich Simulator](https://stulle.app/)
 - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
-- [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
-- [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
-- [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
-- [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)
-- [Upload2Shell (CVE-2026-125396)](https://pwn.ai/upload2shell)
-- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-- [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
-- [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
 
-*마지막 업데이트: 2026-11-22T00:44:49Z*
+*마지막 업데이트: 2026-11-22T12:24:49Z*
