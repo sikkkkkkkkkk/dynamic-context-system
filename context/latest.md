@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-23T01:12:51Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-23T14:18:06Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- ['It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC](https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html)
-- [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
-- [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
-- [What should AAA game devs do](https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/)
-- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
-- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
-- [Localcode, open source agentic coding on your Mac with one command](https://github.com/mjwsolo/localcode)
-- [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
-- [Agent swarm trying to solve P vs. NP](https://pequalnp.com/)
-- [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
+- [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- [Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](https://github.com/ruairidhflint/news-blocklist)
+- [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
+- [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
+- [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
+- [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
+- [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
+- [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
 
-*마지막 업데이트: 2026-11-23T01:12:51Z*
+*마지막 업데이트: 2026-11-23T14:18:06Z*
