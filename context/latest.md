@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-22T12:24:49Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-23T01:12:51Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts](https://arxiv.org/abs/2606.14068)
-- [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
-- [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
-- [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)
-- [Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow](https://github.com/EL4CTEO/fast-anything)
-- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
-- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
-- [The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)
-- [Sandwich Simulator](https://stulle.app/)
-- [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
+- ['It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC](https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html)
+- [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
+- [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
+- [What should AAA game devs do](https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/)
+- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+- [Localcode, open source agentic coding on your Mac with one command](https://github.com/mjwsolo/localcode)
+- [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+- [Agent swarm trying to solve P vs. NP](https://pequalnp.com/)
+- [The struggle for freedom: How BSD escaped AT&T licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
 
-*마지막 업데이트: 2026-11-22T12:24:49Z*
+*마지막 업데이트: 2026-11-23T01:12:51Z*
