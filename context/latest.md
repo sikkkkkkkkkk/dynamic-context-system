@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-24T05:02:35Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-24T14:42:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
+- [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
+- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
+- [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
+- [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
+- [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
+- [Just a Few Bugs](https://www.justafewbugs.xyz/)
+- [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
+- [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
+- [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
 - [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
-- [Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
-- [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
-- [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
-- [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
-- [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
-- [New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)
-- [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)
-- [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
-- [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
 
-*마지막 업데이트: 2026-11-24T05:02:35Z*
+*마지막 업데이트: 2026-11-24T14:42:27Z*
