@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-23T14:18:06Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-24T05:02:35Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
-- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
-- [Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](https://github.com/ruairidhflint/news-blocklist)
-- [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
-- [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
-- [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
-- [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
-- [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
-- [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
+- [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
+- [Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
+- [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
+- [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+- [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
+- [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
+- [New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)
+- [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)
+- [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
+- [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
 
-*마지막 업데이트: 2026-11-23T14:18:06Z*
+*마지막 업데이트: 2026-11-24T05:02:35Z*
