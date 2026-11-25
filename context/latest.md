@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-24T14:42:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-25T03:51:02Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
-- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
-- [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
-- [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
-- [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
-- [Just a Few Bugs](https://www.justafewbugs.xyz/)
-- [Quad9 pulled their DNS service from France](https://quad9.net/news/blog/quad9-service-deactivation-in-france/)
-- [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
-- [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
-- [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
+- [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
+- [A 1:1 replica of the London DLR](https://jabza.github.io/labs/dlr-rider/)
+- [How PyTorch's autograd works, rebuilt in 60 lines of Python](https://farid-alexander.github.io/autograd-from-scratch/)
+- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+- [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)
+- [Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world)
+- [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
+- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
+- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
 
-*마지막 업데이트: 2026-11-24T14:42:27Z*
+*마지막 업데이트: 2026-11-25T03:51:02Z*
