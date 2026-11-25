@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-25T03:51:02Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-25T14:05:19Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
-- [A 1:1 replica of the London DLR](https://jabza.github.io/labs/dlr-rider/)
-- [How PyTorch's autograd works, rebuilt in 60 lines of Python](https://farid-alexander.github.io/autograd-from-scratch/)
-- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
-- [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/)
-- [Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world)
-- [Heart attack and stroke risk detectable decades in advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
-- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
-- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
+- [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
+- [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
+- [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
+- [Smart People Who Give a Shit Use Tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
+- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+- [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
+- [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+- [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
+- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+- [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
 
-*마지막 업데이트: 2026-11-25T03:51:02Z*
+*마지막 업데이트: 2026-11-25T14:05:19Z*
