@@ -4,31 +4,59 @@ on:
     - cron: "0 21 * * *"   # 매일 06:00 KST (UTC 21:00)
     - cron: "0 4 * * *"    # 매일 13:00 KST (UTC 04:00)
   workflow_dispatch:       # 수동 실행 가능
+  push:
+    paths:
+      - "fetch_and_build_context.py"
+      - "tests/**"
+      - "requirements*.txt"
+  pull_request:
+    paths:
+      - "fetch_and_build_context.py"
+      - "tests/**"
+      - "requirements*.txt"
+
+concurrency:
+  group: update-context
+  cancel-in-progress: false
 
 jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements-dev.txt
+      - run: python -m pytest -q
+
   update-context:
+    needs: test
+    # 코드 변경(push/PR) 때는 테스트만, 스케줄·수동 실행 때만 컨텍스트 갱신
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          
+          cache: pip
+
       - name: Install dependencies
-        run: |
-          pip install requests feedparser pytrends
-          
+        run: pip install -r requirements.txt
+
       - name: Run context update script
         run: python fetch_and_build_context.py
         env:
           X_BEARER: ${{ secrets.X_BEARER }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          
+
       - name: Commit and push changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

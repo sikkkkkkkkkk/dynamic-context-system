@@ -69,4 +69,9 @@ logs/
 tmp/
 temp/
 *.tmp
-*.tempAPI_KEYS.md
+*.temp
+API_KEYS.md
+
+
+# Claude Code: 공유 설정과 스킬은 커밋, 개인 설정은 제외
+.claude/settings.local.json
