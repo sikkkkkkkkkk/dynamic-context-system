@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-26T03:16:27Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-26T13:42:43Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
-- [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
-- [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
-- [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
-- [Deploying a payphone on a tiny Pacific Island](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
-- [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
-- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
-- [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
-- [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
+- [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
+- [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
+- [Intel One Mono font](https://github.com/intel/intel-one-mono)
+- [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
+- [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
+- [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
+- [Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
+- [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
+- [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
+- [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
 
-*마지막 업데이트: 2026-11-26T03:16:27Z*
+*마지막 업데이트: 2026-11-26T13:42:43Z*
