@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-25T14:05:19Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-26T03:16:27Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
-- [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
-- [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
-- [Smart People Who Give a Shit Use Tools](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools)
-- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
-- [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
-- [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
-- [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
-- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-- [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
+- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
+- [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
+- [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
+- [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
+- [Deploying a payphone on a tiny Pacific Island](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
+- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
+- [Defang Security Incident](https://defang.io/blog/post/security-incident-november-2026/)
+- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+- [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
+- [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
 
-*마지막 업데이트: 2026-11-25T14:05:19Z*
+*마지막 업데이트: 2026-11-26T03:16:27Z*
