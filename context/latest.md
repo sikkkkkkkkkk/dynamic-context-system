@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-26T13:42:43Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-27T03:20:31Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
-- [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
-- [Intel One Mono font](https://github.com/intel/intel-one-mono)
-- [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
-- [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
-- [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
-- [Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
-- [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
-- [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
-- [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
+- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
+- [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
+- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+- [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
+- [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
+- [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)
+- [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
+- [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
 
-*마지막 업데이트: 2026-11-26T13:42:43Z*
+*마지막 업데이트: 2026-11-27T03:20:31Z*
