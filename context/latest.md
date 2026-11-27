@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-27T03:20:31Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-27T13:40:08Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
-- [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
-- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
-- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
-- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-- [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
-- [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
-- [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/)
-- [Largest 2D Chart library in the world using BUI: BlenderUI](https://bui.preetham.top/charts/)
-- [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
+- [Counseling for mental health decreases likelihood of protesting by 34%–39%](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
+- [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
+- [New York and California Age Gating Rules Go into Effect in the New Year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
+- [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
+- [Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
+- [Pizza history: AI agent's cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer)
+- [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
+- [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914)
+- [The group chat where your AI talks behind your back](https://construct22.com/)
+- [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
 
-*마지막 업데이트: 2026-11-27T03:20:31Z*
+*마지막 업데이트: 2026-11-27T13:40:08Z*
