@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-27T13:40:08Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-28T02:59:10Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Counseling for mental health decreases likelihood of protesting by 34%–39%](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
-- [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
-- [New York and California Age Gating Rules Go into Effect in the New Year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
-- [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
-- [Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
-- [Pizza history: AI agent's cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer)
-- [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
-- [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914)
-- [The group chat where your AI talks behind your back](https://construct22.com/)
-- [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/)
+- [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
+- [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
+- [Alaska seized his plane over some beers. He is asking the Supreme Court for help](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
+- [Passkey blues](https://ssg.dev/passkey-blues/)
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+- [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
+- [Source Control from Hell](https://frantic.im/git/)
+- [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
+- [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
+- [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)
 
-*마지막 업데이트: 2026-11-27T13:40:08Z*
+*마지막 업데이트: 2026-11-28T02:59:10Z*
