@@ -1,4 +1,4 @@
-<!-- Dynamic Context Block | Updated: 2026-11-28T02:59:10Z -->
+<!-- Dynamic Context Block | Updated: 2026-11-28T12:50:32Z -->
 <!-- Version: 1.0 -->
 
 ### [SNS] 최신 트렌드 키워드
@@ -149,15 +149,15 @@
 ---
 
 ### 📰 최신 참고 소스
-- [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
-- [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
-- [Alaska seized his plane over some beers. He is asking the Supreme Court for help](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
-- [Passkey blues](https://ssg.dev/passkey-blues/)
+- [GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)
+- [Farewell](https://github.com/p-e-w/heretic/issues/601)
+- [Diablo II](https://www.filfre.net/2026/11/diablo-ii/)
+- [Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)
+- [FastLanes: Next-gen File Format [pdf]](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
+- [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
 - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
 - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
-- [Source Control from Hell](https://frantic.im/git/)
 - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
-- [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
-- [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero)
 
-*마지막 업데이트: 2026-11-28T02:59:10Z*
+*마지막 업데이트: 2026-11-28T12:50:32Z*
